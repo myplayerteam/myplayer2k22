@@ -2,4 +2,6 @@
 
 ## Free version & Paid version
 ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/version2.0.0.png)
+## Dashboard
+![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/dashboard1.png)
 
