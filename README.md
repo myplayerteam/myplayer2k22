@@ -5,5 +5,5 @@
 ## Dashboard
 ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/dashboard1.png)
 ## Mobile app
-<img src="https://github.com/myplayerteam/myplayer2k22/blob/main/login.png" width="100%" height="250">
+<img src="https://github.com/myplayerteam/myplayer2k22/blob/main/login.png" height="250">
 
