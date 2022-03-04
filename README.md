@@ -4,5 +4,5 @@
 ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/version2.0.0.png)
 ## Dashboard
 ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/dashboard1.png)
-![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/login.png) ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/filelist1.png) ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/flielist2.png)
+![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/login.png | hight=300) ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/filelist1.png | hight=300) ![alt text](https://github.com/myplayerteam/myplayer2k22/blob/main/flielist2.png | hight=300)
 
