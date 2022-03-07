@@ -1,5 +1,8 @@
 # myplayer2k22
 
+## Download
+<a href="https://bit.ly/348YOFL">Windows10</a>
+
 ## Free version & Paid version
 <a href="#"><img href="#" src="https://github.com/myplayerteam/myplayer2k22/blob/main/version2.0.0.png" width="600"></a>
 
