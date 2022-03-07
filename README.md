@@ -4,7 +4,7 @@
 <a href="https://bit.ly/348YOFL">Windows10</a>
 
 ## Download Mobile Remote Application
-<a href="https://bit.ly/35wSj0d">Android apk 1.0.1(pre released)
+<a href="https://bit.ly/35wSj0d">Android apk 1.0.1(pre released for test)
 ## Docummentation
 <a href="https://bit.ly/3pHZOIr">help.pdf</a>
 
