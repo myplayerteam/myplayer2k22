@@ -1,6 +1,6 @@
 # myplayer2k22
 
-## Download myplayer2k22 PC Application
+## Download myplayer2k22 v2.0.1 PC Application
 <a href="https://bit.ly/348YOFL">Windows10</a>
 
 ## Download Mobile Remote Application
