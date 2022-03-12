@@ -3,8 +3,8 @@
 ## Download myplayer2k22 v2.0.1 PC Application
 <a href="https://bit.ly/348YOFL">Windows10</a>
 
-## Download Mobile Remote Application
-<a href="https://bit.ly/3MI0s2C">Android apk 2.0.0(pre released for test)
+## Download Mobile Remote Application from google playstore
+<a href="https://play.google.com/store/apps/details?id=com.myplayer2k22.myplayer2k22remote">Android apk 2.0.1</a>
 ## Docummentation
 <a href="https://bit.ly/3pHZOIr">help.pdf</a>
 
