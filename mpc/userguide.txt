@@ -1,0 +1,44 @@
+title,url,path_type
+
+[YouTube] myplayer 2k22 Pro version ဝယ်ယူခြင်း,https://www.youtube.com/watch?v=QnDMJo1r3h4,unknown
+
+[YouTube] android app (mobile/tablet) ဖြင့် ချိတ်ဆက်ခြင်း,https://www.youtube.com/watch?v=npQPrFjOrD8,unknown
+
+[YouTube] သီချင်း ၊ ရုပ်ရှင်ဇာတ်ကားများအား Library Manager ဖြင့် database ထဲ scan လုပ် ထည့်သွင်းခြင်း,https://www.youtube.com/watch?v=QmKPf4HWZIM,unknown
+
+"[YouTube] files, folder များကို mouse ဖိဆွဲ၍ အလွယ်တကူဖွင့်ခြင်း",https://www.youtube.com/watch?v=8g89EDCkNCo,unknown
+
+[YouTube] Local Control Center မှ YouTube Video များကို ဖွင့်ခြင်း,https://www.youtube.com/watch?v=Rce4_OxpFtA,unknown
+
+[YouTube] အဆိုတော်သံ ဖျောက်မရတဲ့ သီချင်းတွေကို အသံဖျောက်ပြီး myplayer2k22 Pro Karaoke နဲ့ပြန်ပေါင်းစပ်ခြင်း,https://www.youtube.com/watch?v=Xi4bLr4qdx8,unknown
+
+[YouTube] Emoji & Text Message ကို အသုံးပြုခြင်း,https://www.youtube.com/watch?v=Nm1EXCq6A8k,unknown
+
+"[YouTube] myIPTV, Playlist Collections, YT Resoution Options တို့ကို အသုံးပြုခြင်း",https://www.youtube.com/watch?v=FPgUNZ2Ho2U,unknown
+
+[YouTube] Playlist တို့မှ နေ၍ Playlist Collection ထဲသို့ ထည့်သွင်းခြင်း,https://www.youtube.com/watch?v=VLG2cKkCKZo,unknown
+
+"[YouTube] Mini player, Advertising အသုံးပြနည်း",https://www.youtube.com/watch?v=op2WE-KmzII,unknown
+
+[YouTube] myplayer2k22 Pro v2.1.9 တွင် Background ပုံ ပြောင်းလဲခြင်း,https://www.youtube.com/watch?v=7rI2iZL_R0g,unknown
+
+[YouTube] myplayer 2k22 🎤 (karaoke) ကာရာအိုကေ  software,https://www.youtube.com/watch?v=sNTNsTWYJAA,unknown
+
+[YouTube] 🎤🎼ယူကျုက သီချင်းနဲ့ ကာရာအိုကေဆိုမယ်,https://www.youtube.com/watch?v=kHv-zEDMXnw,unknown
+
+[YouTube] Using mpc file for myplayer free user,https://www.youtube.com/watch?v=xd4q2c-V1jo,unknown
+
+[YouTube] Download myplayer All In One Free Karaoke & Media Player Software,https://www.youtube.com/watch?v=i-ES_SmeMro,unknown
+
+[YouTube] ကိုယ့်သူငယ်ချင်းရဲ့ သီဆိုမှုကိုဘယ်လို ဩဘာပေးချင်လဲ 😜 နဲ့ ပျော်ရွှင်ဖွယ် ပါတီ တစ်ခုကို ဖန်တီခြင်း,https://www.youtube.com/watch?v=Tsh5PKkbZ4o,unknown
+
+[YouTube] အဆိုတော်သံဖျောက်မရတဲ့သီချင်းတွေကို အသံဖျောက်ပြီးကာရာအိုကေသီချင်းပြုလုပ်ပုံလေးပါ,https://www.youtube.com/watch?v=Ie5FSboP31Y,unknown
+
+"[YouTube] Karaoke File Maker Tool, Karaoke File Downloader အသုံးပြုပုံ",https://www.youtube.com/watch?v=z2CUIxt4UJA,unknown
+
+[YouTube] myplayer2k22 Pro v.2.2.1 and fixed version v.2.2.1.1,https://www.youtube.com/watch?v=HClall47GV0,unknown
+
+[YouTube] Network Drive အသုံးပြုပုံ,https://www.youtube.com/watch?v=Srh8KcBXp9E,unknown
+
+[YouTube] myplayer ကာရာအိုကေ software ထဲသို့သီချင်းထည့်သွင်းပုံ,https://www.youtube.com/watch?v=djHiiH5RA2Q,unknown
+
