@@ -1,1 +1,1 @@
-User Guide Videl,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/mpc/userguide.txt
+User Guide Video,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/mpc/userguide.txt
