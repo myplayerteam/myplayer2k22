@@ -1,1 +1,1 @@
-1. myOline Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/mytvshow
+1. myOline Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/myonlinechannels.txt
