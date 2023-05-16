@@ -1,1 +1,1 @@
-1. BananaTV Channels,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=m3u_plus&type=ts
+1. BananaTV Channels,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=ts&type=m3u_plus
