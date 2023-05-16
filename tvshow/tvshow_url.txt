@@ -1,1 +1,1 @@
-1. myOline Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/myonlinechannels.txt
+1. BananaTV Channels,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=m3u_plus&type=ts
