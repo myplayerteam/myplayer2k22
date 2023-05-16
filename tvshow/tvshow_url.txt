@@ -1,3 +1,3 @@
 (myplayer)BananaTV,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=ts&type=m3u_plus
 (myplayer)Bein Sport,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/bein.txt
-(myplayer)MaxCon3000,http://234f.pls45tv.site:8080/get.php?username=tvsstv&password=tv.ss&type=m3u_plus
+(myplayer)MaxCon30000,http://234f.pls45tv.site:8080/get.php?username=tvsstv&password=tv.ss&type=m3u_plus
