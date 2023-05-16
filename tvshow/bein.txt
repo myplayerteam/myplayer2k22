@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0jWd88.png",MTV & IPTV FREE 
+https://j.top4top.io/m_2647uxf3x0.mp4
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN PREMIUM 1 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153626.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN PREMIUM 2 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153627.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN PREMIUM 3 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153628.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 1 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153629.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 2 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153630.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 3 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153631.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 4 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153632.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 5 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153633.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 6 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153634.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsportglobal.png",|.QAT.|_beIN SPORT 7 red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153635.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinnews.png",|.QAT.|_beIN SPORT NEWS red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153636.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",|.QAT.|_beIN SPORT red
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/153637.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/239538680.png",BeIN | BeIN Sports Premium 1 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18106.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/417580210.png",BeIN | BeIN Sports Premium 2 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18107.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/787676639.png",BeIN | BeIN Sports Premium 3 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18108.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/910175373.png",BeIN | BeIN Sports 1 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18109.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/345594564.png",BeIN | BeIN Sports 2 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18110.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/521574305.png",BeIN | BeIN Sports 3 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18111.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/506009719.png",BeIN | BeIN Sports 4 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18112.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/442433734.png",BeIN | BeIN Sports 5 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18113.ts
+#EXTINF:-1 tvg-logo="https://www8.0zz0.com/2021/11/09/13/594718794.png",BeIN | BeIN Sports 7 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18115.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1166.png",BeIN | BeIN Sports English 1 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18116.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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",BeIN | BeIN Sports English 2 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18117.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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",BeIN | BeIN Sports English 3 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18118.ts
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",BeIN | BeIN Sports French 1 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18119.ts
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSlEcwQ6EyHJ7egyzkZy3fI4MBTR0lZZn4kcGIT2Q=s900-c-k-c0x00ffffff-no-rj",BeIN | BeIN Sports French 2 FULL ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18120.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/239538680.png",BeIN Sport Premium 1 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18121.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/417580210.png",BeIN Sport Premium 2 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18122.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/417580210.png",BeIN Sport Premium 3 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18123.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/910175373.png",BeIN Sport 1 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18124.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/345594564.png",BeIN Sport 2 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18125.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/521574305.png",BeIN Sport 3 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18126.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/506009719.png",BeIN Sport 4 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18127.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/442433734.png",BeIN Sport 5 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18128.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/380119680.png",BeIN Sport 6 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18129.ts
+#EXTINF:-1 tvg-logo="https://www8.0zz0.com/2021/11/09/13/594718794.png",BeIN Sport 7 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18130.ts
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png",Bein Xtra 1 HD
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/145602.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/239538680.png",BeIN Sport Premium 1
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18134.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/417580210.png",BeIN Sport Premium 2
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18135.ts
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/11/09/13/787676639.png",BeIN Sport Premium 3
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18136.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/910175373.png",BeIN Sport 1
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18137.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/345594564.png",BeIN Sport 2
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18138.ts
+#EXTINF:-1 tvg-logo="https://www10.0zz0.com/2021/11/09/13/521574305.png",BeIN Sport 3
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18139.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/506009719.png",BeIN Sport 4
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18140.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/442433734.png",BeIN Sport 5
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18141.ts
+#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2021/11/09/13/380119680.png",BeIN Sport 6
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18142.ts
+#EXTINF:-1 tvg-logo="https://www8.0zz0.com/2021/11/09/13/594718794.png",BeIN Sport 7
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18143.ts
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",BeIN | BeIN Sports French 1 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18670.ts
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png",BeIN | BeIN Sports French 2 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18671.ts
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png",BeIN | BeIN Sport French 3 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18672.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",BeIN | BeIN Sports English 1 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18673.ts
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",BeIN | BeIN Sports English 2 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18674.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png",BeIN | BeIN Sports English 3 ᴴᴰ
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/18675.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_PREMIUM_01_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132834.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_PREMIUM_02_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132835.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_PREMIUM_03_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132836.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_01_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132837.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_02_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132838.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_03_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132839.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_04_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132840.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_05_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132841.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_06_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132842.ts
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png",AR_BeIN_Sport_07_HD+
+http://master-pro.live:8080/live/hollywood-iptv/ZviFOGVlMW/132843.ts
