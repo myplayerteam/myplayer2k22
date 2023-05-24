@@ -1,2 +1,2 @@
 (myplayer)BananaTV,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=ts&type=m3u_plus
-(myplayer)MaxCon1000,http://234f.pls45tv.site:8080/get.php?username=tvsstv&password=tv.ss&type=m3u_plus
+(myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con9000.txt
