@@ -980,3 +980,63 @@ http://starshare.live:8080/movie/saqib865/96572459/156267.mkv
 http://starshare.live:8080/movie/saqib865/96572459/156268.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tin & Tina (2023)(Hindi, English)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" group-title="(MULTI LANGUAGE) ",Tin & Tina (2023)(Hindi, English)
 http://starshare.live:8080/movie/saqib865/96572459/156350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="AAMIR KHAN COLLECTION",3 Idiots (2009)
+http://starshare.live:8080/movie/saqib865/96572459/33052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Akele Hum Akele Tum (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpCbEiAstlOOIhjbQhQrTHF4ZEg.jpg" group-title="AAMIR KHAN COLLECTION",Akele Hum Akele Tum (1995)
+http://starshare.live:8080/movie/saqib865/96572459/33053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1tE1GspvcyeYSfKxmnh8DObnzG.jpg" group-title="AAMIR KHAN COLLECTION",Andaz Apna Apna (1994)
+http://starshare.live:8080/movie/saqib865/96572459/33054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baazi (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovZzl24CtM4UevTLHMyJO9svRXB.jpg" group-title="AAMIR KHAN COLLECTION",Baazi (1995)
+http://starshare.live:8080/movie/saqib865/96572459/33055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dangal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg" group-title="AAMIR KHAN COLLECTION",Dangal (2016)
+http://starshare.live:8080/movie/saqib865/96572459/33056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baT20krHmPWE5erxJgqPXIF1zvG.jpg" group-title="AAMIR KHAN COLLECTION",Dhoom 3 (2013)
+http://starshare.live:8080/movie/saqib865/96572459/33057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Chahta Hai (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5yjk7hbv8AK0DR0oJUrSGHMn9A.jpg" group-title="AAMIR KHAN COLLECTION",Dil Chahta Hai (2001)
+http://starshare.live:8080/movie/saqib865/96572459/33058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Dhadakne Do (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApyXce8aQ5xaNXUd8XKd9JaPVwa.jpg" group-title="AAMIR KHAN COLLECTION",Dil Dhadakne Do (2015)
+http://starshare.live:8080/movie/saqib865/96572459/33059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Hai Ke Manta Nahin (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylyfnkNCVjW41GEFyuHUWEhHoMn.jpg" group-title="AAMIR KHAN COLLECTION",Dil Hai Ke Manta Nahin (1991)
+http://starshare.live:8080/movie/saqib865/96572459/33060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fanaa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YCF3drTYLc7eoLFBbbexsT3iQj.jpg" group-title="AAMIR KHAN COLLECTION",Fanaa (2006)
+http://starshare.live:8080/movie/saqib865/96572459/33061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghajini (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ib1Ddr8AuMa9sfVADjznzkih0x.jpg" group-title="AAMIR KHAN COLLECTION",Ghajini (2008)
+http://starshare.live:8080/movie/saqib865/96572459/33062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghulam (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Nq1gKCp7JhwkCzmb5x9XGkmLu.jpg" group-title="AAMIR KHAN COLLECTION",Ghulam (1998)
+http://starshare.live:8080/movie/saqib865/96572459/33063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hum Hain Rahi Pyar Ke (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocEQInlignEoa8ztW7CSVSnsty3.jpg" group-title="AAMIR KHAN COLLECTION",Hum Hain Rahi Pyar Ke (1993)
+http://starshare.live:8080/movie/saqib865/96572459/33064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ishq (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg" group-title="AAMIR KHAN COLLECTION",Ishq (1997)
+http://starshare.live:8080/movie/saqib865/96572459/33065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jo Jeeta Wohi Sikandar (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztuMAX4CMnfLosDv7PLmaJZurjI.jpg" group-title="AAMIR KHAN COLLECTION",Jo Jeeta Wohi Sikandar (1992)
+http://starshare.live:8080/movie/saqib865/96572459/33066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kal Ho Naa Ho (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="AAMIR KHAN COLLECTION",Kal Ho Naa Ho (2003)
+http://starshare.live:8080/movie/saqib865/96572459/33067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Koi Jaane Na (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5a58rPtVzy8Ygt4w0vPn6Mrxfx.jpg" group-title="AAMIR KHAN COLLECTION",Koi Jaane Na (2021)
+http://starshare.live:8080/movie/saqib865/96572459/33068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lagaan: Once Upon a Time in India (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg" group-title="AAMIR KHAN COLLECTION",Lagaan: Once Upon a Time in India (2001)
+http://starshare.live:8080/movie/saqib865/96572459/33069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mann (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg" group-title="AAMIR KHAN COLLECTION",Mann (1999)
+http://starshare.live:8080/movie/saqib865/96572459/33070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qayamat Se Qayamat Tak (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWF3RMf7SKfZx5CObQusnemnhmU.jpg" group-title="AAMIR KHAN COLLECTION",Qayamat Se Qayamat Tak (1988)
+http://starshare.live:8080/movie/saqib865/96572459/33071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raja Hindustani (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4Uy3dHYmnYgvZ0U2xK5alazBFR.jpg" group-title="AAMIR KHAN COLLECTION",Raja Hindustani (1996)
+http://starshare.live:8080/movie/saqib865/96572459/33072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rang De Basanti (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1bF8CHzEu621bPSIg6XiUNAabh.jpg" group-title="AAMIR KHAN COLLECTION",Rang De Basanti (2006)
+http://starshare.live:8080/movie/saqib865/96572459/33073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarfarosh (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pu7ykvptVV3hEPuf2soqoCwyJMl.jpg" group-title="AAMIR KHAN COLLECTION",Sarfarosh (1999)
+http://starshare.live:8080/movie/saqib865/96572459/33074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secret Superstar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkTeziNtc0uwE899uI1hlMOEdZL.jpg" group-title="AAMIR KHAN COLLECTION",Secret Superstar (2017)
+http://starshare.live:8080/movie/saqib865/96572459/33075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Like Stars on Earth (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwXhw9bERqKrJfJK6WGakPIh3FS.jpg" group-title="AAMIR KHAN COLLECTION",Like Stars on Earth (2007)
+http://starshare.live:8080/movie/saqib865/96572459/33076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Talaash (2012)" tvg-logo="http://starshare.live:8080/images/f7516a1aa0ca40d09a0086e582ca6fd8.jpg" group-title="AAMIR KHAN COLLECTION",Talaash (2012)
+http://starshare.live:8080/movie/saqib865/96572459/33077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thugs of Hindostan (2018)" tvg-logo="http://starshare.live:8080/images/fbb583f245dc35b215bed3be301d591d.jpg" group-title="AAMIR KHAN COLLECTION",Thugs of Hindostan (2018)
+http://starshare.live:8080/movie/saqib865/96572459/33078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daulat Ki Jung (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hyO0QG9K0TczBTnn8M4p752wtB.jpg" group-title="AAMIR KHAN COLLECTION",Daulat Ki Jung (1992)
+http://starshare.live:8080/movie/saqib865/96572459/33267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mangal Pandey - The Rising (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwEckVbFP20UYVhLAs2c4JZ3TE.jpg" group-title="AAMIR KHAN COLLECTION",Mangal Pandey - The Rising (2005)
+http://starshare.live:8080/movie/saqib865/96572459/33268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PK (2014)" tvg-logo="http://starshare.live:8080/images/d52d6cd1dcea943cad2c58d4c4e1b6fa.jpg" group-title="AAMIR KHAN COLLECTION",PK (2014)
+http://starshare.live:8080/movie/saqib865/96572459/69403.mp4
