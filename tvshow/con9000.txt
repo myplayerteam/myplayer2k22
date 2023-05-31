@@ -1800,3 +1800,33 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1065
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Bro Snow Lake", UK: Yesterday +1
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296270
+
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD ³" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE FHD ³
+http://newstvc.tech:8080/123456/654321/628994
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD ³" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE HD ³
+http://newstvc.tech:8080/123456/654321/628996
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD ³" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE SD ³
+http://newstvc.tech:8080/123456/654321/628997
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD ³" tvg-logo="https://i.ibb.co/cxMQv2R/UFC-FIGHTPASS.png" group-title="✅ UFC FIGHT / COMBATE",UFC Fight Pass FHD ³
+http://newstvc.tech:8080/123456/654321/629761
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD ³" tvg-logo="https://i.ibb.co/cxMQv2R/UFC-FIGHTPASS.png" group-title="✅ UFC FIGHT / COMBATE",UFC Fight Pass HD ³
+http://newstvc.tech:8080/123456/654321/629762
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass SD ³" tvg-logo="https://i.ibb.co/cxMQv2R/UFC-FIGHTPASS.png" group-title="✅ UFC FIGHT / COMBATE",UFC Fight Pass SD ³
+http://newstvc.tech:8080/123456/654321/629763
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD (H265) ³" tvg-logo="https://i.imgur.com/XbsLeWW.png" group-title="✅ NOTICIAS JORNALISMO",BAND NEWS FHD (H265) ³
+http://newstvc.tech:8080/123456/654321/628920
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K ³" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="✅ UFC FIGHT / COMBATE",Combate 4K ³
+http://newstvc.tech:8080/123456/654321/628993
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD (H265) ³" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE FHD (H265) ³
+http://newstvc.tech:8080/123456/654321/628995
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="https://i.ibb.co/p3WyKxg/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE FHD²
+http://newstvc.tech:8080/123456/654321/2299054
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="https://i.ibb.co/p3WyKxg/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE HD²
+http://newstvc.tech:8080/123456/654321/2299225
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="https://i.ibb.co/p3WyKxg/combate.png" group-title="✅ UFC FIGHT / COMBATE",COMBATE SD²
+http://newstvc.tech:8080/123456/654321/2299226
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 01" tvg-logo="https://i.ibb.co/H2L1q5r/ufc-fightpass.png" group-title="✅ UFC FIGHT / COMBATE",UFC FIGHT PASS 01
+http://newstvc.tech:8080/123456/654321/2299537
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 02" tvg-logo="https://i.ibb.co/H2L1q5r/ufc-fightpass.png" group-title="✅ UFC FIGHT / COMBATE",UFC FIGHT PASS 02
+http://newstvc.tech:8080/123456/654321/2299538
