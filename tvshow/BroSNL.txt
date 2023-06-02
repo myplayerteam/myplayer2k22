@@ -1,1042 +1,136 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="JJ+E (2021)" tvg-logo="http://starshare.live:8080/images/0bb5ff3c340b38c1485cf02331ff4a9a.jpg" group-title="MYANMAR",JJ+E (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Andhadhun (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg" group-title="MYANMAR",Andhadhun (2018)
-http://starshare.live:8080/movie/saqib865/96572459/42425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Annabelle Sethupathi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A33SYANAsoRR6wNalk1SviNI7F.jpg" group-title="MYANMAR",Annabelle Sethupathi (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Another Gantz (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znvoOzHHKNCLqiFTHuJ1G1wC1qZ.jpg" group-title="MYANMAR",Another Gantz (2011)
-http://starshare.live:8080/movie/saqib865/96572459/42427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Battlefield Heroes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV6ddUVrgH1YJlAsvGtm5g7plqK.jpg" group-title="MYANMAR",Battlefield Heroes (2011)
-http://starshare.live:8080/movie/saqib865/96572459/42428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bell Bottom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXV1mKny3ZmsqsTE1h64y8C6uUP.jpg" group-title="MYANMAR",Bell Bottom (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Best Sellers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltGLKabCfw3ncCGsQ1aQEvWFCcf.jpg" group-title="MYANMAR",Best Sellers (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Break Through (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9kZgw1VOCI3tnPJDU596bXtdpX.jpg" group-title="MYANMAR",Break Through (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britney vs. Spears (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd43f1ZDz8H8TDhcIbyKuUuJmIa.jpg" group-title="MYANMAR",Britney vs. Spears (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="C.O.R.N.a.Field.of.Screams.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd43f1ZDz8H8TDhcIbyKuUuJmIa.jpg" group-title="MYANMAR",C.O.R.N.a.Field.of.Screams.2021
-http://starshare.live:8080/movie/saqib865/96572459/42433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Candyman: Day of the Dead (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqr0imYSvDu8Q5nZLNjgAXppVSt.jpg" group-title="MYANMAR",Candyman: Day of the Dead (1999)
-http://starshare.live:8080/movie/saqib865/96572459/42434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Candyman (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n38YbNqUf5KWpMJFc4X3t0rlhg5.jpg" group-title="MYANMAR",Candyman (1992)
-http://starshare.live:8080/movie/saqib865/96572459/42435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqoshZPLNsXlC1qtz5n34raUyrE.jpg" group-title="MYANMAR",Candyman (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Candyman: Farewell to the Flesh (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rQ6q7PjHrMQALXpPl7ExhQIvb4.jpg" group-title="MYANMAR",Candyman: Farewell to the Flesh (1995)
-http://starshare.live:8080/movie/saqib865/96572459/42437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chalo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEessJXKmNYt91u49SiP9EsuGbX.jpg" group-title="MYANMAR",Chalo (2018)
-http://starshare.live:8080/movie/saqib865/96572459/42438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dating & New York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="MYANMAR",Dating & New York (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dil Juunglee (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Po2r97PshUHXspkan7IRgPzAF3.jpg" group-title="MYANMAR",Dil Juunglee (2018)
-http://starshare.live:8080/movie/saqib865/96572459/42440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dil Se.. (1998)" tvg-logo="http://starshare.live:8080/images/7e84f784327dcf6e96ae4554296667ca.jpg" group-title="MYANMAR",Dil Se.. (1998)
-http://starshare.live:8080/movie/saqib865/96572459/42441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gantz (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBqiz2Umxh0F7FqCx7rUqWYrNrN.jpg" group-title="MYANMAR",Gantz (2010)
-http://starshare.live:8080/movie/saqib865/96572459/42442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gantz: Perfect Answer (2011)" tvg-logo="http://starshare.live:8080/images/5ce41adea6692f79533442da0ac047a9.jpg" group-title="MYANMAR",Gantz: Perfect Answer (2011)
-http://starshare.live:8080/movie/saqib865/96572459/42443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gantz:O (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmYUrlTc6KwZKSHMXuyCvZF19tf.jpg" group-title="MYANMAR",Gantz:O (2016)
-http://starshare.live:8080/movie/saqib865/96572459/42444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Girl in the Basement (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg" group-title="MYANMAR",Girl in the Basement (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hamari Adhuri Kahani (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWeiGPq1uav2j5bnjeQhIk7VP51.jpg" group-title="MYANMAR",Hamari Adhuri Kahani (2015)
-http://starshare.live:8080/movie/saqib865/96572459/42446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Horton Hears a Who! (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg" group-title="MYANMAR",Horton Hears a Who! (2008)
-http://starshare.live:8080/movie/saqib865/96572459/42447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invisible Alien (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkT1ooVR4rPVZHQ6yg5tG28wL2u.jpg" group-title="MYANMAR",Invisible Alien (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kill Me Three Times (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGXUyaCEWL4r8v8fSfM31ASp7eS.jpg" group-title="MYANMAR",Kill Me Three Times (2015)
-http://starshare.live:8080/movie/saqib865/96572459/42449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars Terrifying Tales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg" group-title="MYANMAR",LEGO Star Wars Terrifying Tales (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maestro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Acin0jMdcVOa4gN8HczJqDxnuj.jpg" group-title="MYANMAR",Maestro (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster's Ball (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7o0AyOFIYNjTe008pV6EZMI2IP.jpg" group-title="MYANMAR",Monster's Ball (2001)
-http://starshare.live:8080/movie/saqib865/96572459/42452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moonbound (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VWxSU37ik4ifqRA7v0VfScin2k.jpg" group-title="MYANMAR",Moonbound (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Son (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d4q6bf1PS6OX6F3syWnfBzFZg9.jpg" group-title="MYANMAR",My Son (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NET (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioYpGqNf9YSo3Yj1LmdTUAgeO0c.jpg" group-title="MYANMAR",NET (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Night of the Animated Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mluarGbxZjgvhe5bteR7P24HHAw.jpg" group-title="MYANMAR",Night of the Animated Dead (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nightbooks (2021)" tvg-logo="http://starshare.live:8080/images/0a1b463bc0c773f7775e0ae4d0cbf929.jpg" group-title="MYANMAR",Nightbooks (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No One Gets Out Alive (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg" group-title="MYANMAR",No One Gets Out Alive (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Old (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title="MYANMAR",Old (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operation Bangok.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title="MYANMAR",Operation Bangok.2021
-http://starshare.live:8080/movie/saqib865/96572459/42460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebels of the Neon God (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fvS07LDOuL9610VeftTWRqHYTM.jpg" group-title="MYANMAR",Rebels of the Neon God (1994)
-http://starshare.live:8080/movie/saqib865/96572459/42461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pop Redemption (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjpkbwt1h5mJW7wua0fGdGAxdV7.jpg" group-title="MYANMAR",Pop Redemption (2013)
-http://starshare.live:8080/movie/saqib865/96572459/42462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sinkhole (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MW2Nl8SuRs2pxCTUN2hthsHrv.jpg" group-title="MYANMAR",Sinkhole (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Streamline (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eljWN08RiLOi0TZJrPGIwFCAEtv.jpg" group-title="MYANMAR",Streamline (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sundari (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLJBeUVSO7jw4niJR5xw2nK1Wr2.jpg" group-title="MYANMAR",Sundari (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Curse (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivdkAJO0WE4bIra0jNmKRrmy9vQ.jpg" group-title="MYANMAR",Sweet Curse (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Banquet (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FsCB03z4LYtugcetwKCr427oZ.jpg" group-title="MYANMAR",The Banquet (2006)
-http://starshare.live:8080/movie/saqib865/96572459/42467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Grimsby (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snwjRGxnPGDbtjfl0lmqLbextot.jpg" group-title="MYANMAR",Grimsby (2016)
-http://starshare.live:8080/movie/saqib865/96572459/42468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Guilty (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg" group-title="MYANMAR",The Guilty (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Medium (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aP7usXx1uLbduhrsW84hn3yRyY.jpg" group-title="MYANMAR",The Medium (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Card Counter (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60AQOrByV9vDCqy6nt4eOroRild.jpg" group-title="MYANMAR",The Card Counter (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Girl Who Played with Fire (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v9LgxjEPyJfDDOtkWUJNYnYcfu.jpg" group-title="MYANMAR",The Girl Who Played with Fire (2009)
-http://starshare.live:8080/movie/saqib865/96572459/42473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Girl with the Dragon Tattoo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4Ra0SvYM08winX6fxn6AknlygV.jpg" group-title="MYANMAR",The Girl with the Dragon Tattoo (2009)
-http://starshare.live:8080/movie/saqib865/96572459/42474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last Seduction (1994)" tvg-logo="http://starshare.live:8080/images/adb05ac07ef964ce2e8c495575d93a24.jpg" group-title="MYANMAR",The Last Seduction (1994)
-http://starshare.live:8080/movie/saqib865/96572459/42475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="This Is the Year (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwmvdgpCT7obPNF5ZaQKmPuo9Uq.jpg" group-title="MYANMAR",This Is the Year (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Together (2021)" tvg-logo="http://starshare.live:8080/images/39d95e3a6bd998b0c94e1c554d28eae3.jpg" group-title="MYANMAR",Together (2021)
-http://starshare.live:8080/movie/saqib865/96572459/42477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="MYANMAR",3 Idiots (2009)
-http://starshare.live:8080/movie/saqib865/96572459/44421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Way Station (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqBVZucNhvPLBTt0s7SDXvL6Ejc.jpg" group-title="MYANMAR",A Way Station (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All Things Fair (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUjMEUpTFbnxcZRfNuFTpxSnzga.jpg" group-title="MYANMAR",All Things Fair (1995)
-http://starshare.live:8080/movie/saqib865/96572459/44423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ankahi Kahaniya (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B33UMfA8Yr79qP7g90eMSLggXm.jpg" group-title="MYANMAR",Ankahi Kahaniya (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Another Girl (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIm7gjfaxLG9FsjTNUA9H2SbdL5.jpg" group-title="MYANMAR",Another Girl (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asmee (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHjJdFvMzvxjBlxkaDlymoxQv9r.jpg" group-title="MYANMAR",Asmee (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Journey To The West: Red Boy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zsaZhxLHsFiqcK1GK7RDDW0I38.jpg" group-title="MYANMAR",Journey To The West: Red Boy (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bāhubali: The Beginning (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="MYANMAR",Bāhubali: The Beginning (2015)
-http://starshare.live:8080/movie/saqib865/96572459/44428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bāhubali 2: The Conclusion (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21sC2assImQIYCEDA84Qh9d1RsK.jpg" group-title="MYANMAR",Bāhubali 2: The Conclusion (2017)
-http://starshare.live:8080/movie/saqib865/96572459/44429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Back to the Future (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg" group-title="MYANMAR",Back to the Future (1985)
-http://starshare.live:8080/movie/saqib865/96572459/44430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Back to the Future Part II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg" group-title="MYANMAR",Back to the Future Part II (1989)
-http://starshare.live:8080/movie/saqib865/96572459/44431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Back to the Future Part III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg" group-title="MYANMAR",Back to the Future Part III (1990)
-http://starshare.live:8080/movie/saqib865/96572459/44432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Teacher (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpIY4qUSX91J9XpPgr0hFrk1eKr.jpg" group-title="MYANMAR",Bad Teacher (2011)
-http://starshare.live:8080/movie/saqib865/96572459/44433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhoot Police (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="MYANMAR",Bhoot Police (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black as Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg" group-title="MYANMAR",Black as Night (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boys from County Hell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DAmmAxTeZd2oh6cveD0yyysjcT.jpg" group-title="MYANMAR",Boys from County Hell (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chehre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egpv58u11MxepnNwXtzdMOagRdg.jpg" group-title="MYANMAR",Chehre (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coraline (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg" group-title="MYANMAR",Coraline (2009)
-http://starshare.live:8080/movie/saqib865/96572459/44438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cry Macho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqaaWAlXgLNGdAemU7wNvFZ70hr.jpg" group-title="MYANMAR",Cry Macho (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dark Places (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acJXtT4ZX7nWIhOaCfSAGBxFw71.jpg" group-title="MYANMAR",Dark Places (2015)
-http://starshare.live:8080/movie/saqib865/96572459/44440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deadly Misconduct (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPwmHDj7A9kJsvHOpgXpt2CRJ03.jpg" group-title="MYANMAR",Deadly Misconduct (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dear Evan Hansen (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83pobg0tx4r4JeLenCAemanpnS2.jpg" group-title="MYANMAR",Dear Evan Hansen (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diana (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGZtXXZAbSr4kW2wzqZsEvGlb9r.jpg" group-title="MYANMAR",Diana (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dikkiloona (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25oAuifiIWv9oQVoY0qdiTtxBsc.jpg" group-title="MYANMAR",Dikkiloona (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drishyam (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg" group-title="MYANMAR",Drishyam (2015)
-http://starshare.live:8080/movie/saqib865/96572459/44445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape Room: Tournament of Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="MYANMAR",Escape Room: Tournament of Champions (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape Room (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="MYANMAR",Escape Room (2019)
-http://starshare.live:8080/movie/saqib865/96572459/44447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Guy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="MYANMAR",Free Guy (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gabi (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="MYANMAR",Gabi (2011)
-http://starshare.live:8080/movie/saqib865/96572459/44449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guimoon: The Lightless Door (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD3DvlwJbGv0QkNrTNmsve6jvcl.jpg" group-title="MYANMAR",Guimoon: The Lightless Door (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hostage: Missing Celebrity (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/friTd4TghctdY7raG8PjnoODAFo.jpg" group-title="MYANMAR",Hostage: Missing Celebrity (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intrusion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" group-title="MYANMAR",Intrusion (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="J2: J Retribusi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvPfAW9soIwwo0zJxRAzwDpLaXS.jpg" group-title="MYANMAR",J2: J Retribusi (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="MYANMAR",Kate (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kicking Out Shoshana (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHjNixfOq1vD4lFNedIIP36LdOn.jpg" group-title="MYANMAR",Kicking Out Shoshana (2014)
-http://starshare.live:8080/movie/saqib865/96572459/44457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Green Dragon Crescent Blade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCS25p0mrYxLJO1Foeo3lZQUsv5.jpg" group-title="MYANMAR",Green Dragon Crescent Blade (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Man Down (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg" group-title="MYANMAR",Last Man Down (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Life of Brian (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSSA64WF0M0BXnjwr2quMh6shCl.jpg" group-title="MYANMAR",Life of Brian (1979)
-http://starshare.live:8080/movie/saqib865/96572459/44460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lift (2021) Tamil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSSA64WF0M0BXnjwr2quMh6shCl.jpg" group-title="MYANMAR",Lift (2021) Tamil
-http://starshare.live:8080/movie/saqib865/96572459/44461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maleficent (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik8PugpL41s137RAWEGTAWu0dPo.jpg" group-title="MYANMAR",Maleficent (2014)
-http://starshare.live:8080/movie/saqib865/96572459/44462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maleficent: Mistress of Evil (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="MYANMAR",Maleficent: Mistress of Evil (2019)
-http://starshare.live:8080/movie/saqib865/96572459/44463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malignant (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg" group-title="MYANMAR",Malignant (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Martyrs Lane (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2p9ATFUEiXT75LmMsSCBicnpX8e.jpg" group-title="MYANMAR",Martyrs Lane (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meander (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OTIAx8AmwGCaXmq5ohQCyPUjdC.jpg" group-title="MYANMAR",Meander (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meet the Parents (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg" group-title="MYANMAR",Meet the Parents (2000)
-http://starshare.live:8080/movie/saqib865/96572459/44467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moonraker (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg" group-title="MYANMAR",Moonraker (1979)
-http://starshare.live:8080/movie/saqib865/96572459/44468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Hong 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg" group-title="MYANMAR",Mr. Hong 2004
-http://starshare.live:8080/movie/saqib865/96572459/44469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Naduvan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymorFfQOW6w8KUd4WFFtBSl9LMA.jpg" group-title="MYANMAR",Naduvan (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nilalang (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEfxu9VHXpSWipolwTgTLVAgBIt.jpg" group-title="MYANMAR",Nilalang (2015)
-http://starshare.live:8080/movie/saqib865/96572459/44471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pandora (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elTrkTm5GjynK3H26cpOZsWDYjy.jpg" group-title="MYANMAR",Pandora (2016)
-http://starshare.live:8080/movie/saqib865/96572459/44472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse The Story of 540 Days" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elTrkTm5GjynK3H26cpOZsWDYjy.jpg" group-title="MYANMAR",Penthouse The Story of 540 Days
-http://starshare.live:8080/movie/saqib865/96572459/44473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D7nfhHI7b9ZvW3m7wVMtBSbC9U.jpg" group-title="MYANMAR",Prey (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prisoners of the Ghostland (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg" group-title="MYANMAR",Prisoners of the Ghostland (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Queenpins (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Uz76EOwj9rAsdGxYL8IZGPV2B.jpg" group-title="MYANMAR",Queenpins (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raging Fire (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nD9zK3nfEUPHKWwFmAaQoLsQYE5.jpg" group-title="MYANMAR",Raging Fire (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Red Carpet (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZOTeajdznZSsv3v5EQJZKpqsDc.jpg" group-title="MYANMAR",Red Carpet (2014)
-http://starshare.live:8080/movie/saqib865/96572459/44478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Restart The Earth (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo12Rw4p0QSfIZXPiiuCRTl0nrw.jpg" group-title="MYANMAR",Restart The Earth (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream 2 (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mumarnp1ZBHFdmt2q6x9ELuC3x0.jpg" group-title="MYANMAR",Scream 2 (1997)
-http://starshare.live:8080/movie/saqib865/96572459/44480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream 3 (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geD86M58Zkv6O6lLbA1tHllH8B4.jpg" group-title="MYANMAR",Scream 3 (2000)
-http://starshare.live:8080/movie/saqib865/96572459/44481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream 4 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg" group-title="MYANMAR",Scream 4 (2011)
-http://starshare.live:8080/movie/saqib865/96572459/44482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg" group-title="MYANMAR",Scream (1996)
-http://starshare.live:8080/movie/saqib865/96572459/44483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Secret Magic Control Agency (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg" group-title="MYANMAR",Secret Magic Control Agency (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Shaolin Boy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QxAPREvGVpWstvlypxn6aW8xdc.jpg" group-title="MYANMAR",The Shaolin Boy (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shiddat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OMGLNH4yv4UxLI9gmKZSjY6enS.jpg" group-title="MYANMAR",Shiddat (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Show Me the Ghost (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krOu4oB23BHhLlFRo2n4EsyiU5S.jpg" group-title="MYANMAR",Show Me the Ghost (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shutter (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tq7SrB14r3WpjJQOldbDHQk89J.jpg" group-title="MYANMAR",Shutter (2004)
-http://starshare.live:8080/movie/saqib865/96572459/44488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Silver Skates (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCyKHTXP87lFleDDMJfTXbVq2DR.jpg" group-title="MYANMAR",Silver Skates (2020)
-http://starshare.live:8080/movie/saqib865/96572459/44489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Singles (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYUSLrJSbNpKLIGdcnZnSImEpx6.jpg" group-title="MYANMAR",Singles (2004)
-http://starshare.live:8080/movie/saqib865/96572459/44490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sunny Sisters (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U0UDYMSth9Wp5e9p1EofPCZBv4.jpg" group-title="MYANMAR",Sunny Sisters (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thalaivii (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uukJCbDHjF6vGRiQfB5Ohmo0KkG.jpg" group-title="MYANMAR",Thalaivii (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Addams Family 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYLBgw7dHyEqmcrSk2Sq3asuSq5.jpg" group-title="MYANMAR",The Addams Family 2 (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Alpines (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qED4kIfRAG0rtnjMp7QsWolP6H1.jpg" group-title="MYANMAR",The Alpines (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Housemaid (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QgSlS0IV9jlDadjdVrrN4quqEM.jpg" group-title="MYANMAR",The Housemaid (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Legend of The Condor Heroes: The Dragon Tamer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKTbEQJnkYXVZkq1g4ZakJ9Y16N.jpg" group-title="MYANMAR",The Legend of The Condor Heroes: The Dragon Tamer (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Man Who Sold His Skin (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1wRIwEttuWUByTm1wXsfCstNlh.jpg" group-title="MYANMAR",The Man Who Sold His Skin (2020)
-http://starshare.live:8080/movie/saqib865/96572459/44497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Midnight Meat Train (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg" group-title="MYANMAR",The Midnight Meat Train (2008)
-http://starshare.live:8080/movie/saqib865/96572459/44498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Patriot (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWZd815QxUCUcrWQZwUkAp9ljG.jpg" group-title="MYANMAR",The Patriot (2000)
-http://starshare.live:8080/movie/saqib865/96572459/44499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Stronghold (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLanxl7Xhfbd5s8FxPy8jWZw4rv.jpg" group-title="MYANMAR",The Stronghold (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Voyeurs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg" group-title="MYANMAR",The Voyeurs (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Wailing (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAyQODgkQHsxgKFF3yhGQ2WsABA.jpg" group-title="MYANMAR",The Wailing (2016)
-http://starshare.live:8080/movie/saqib865/96572459/44502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Addams Family (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg" group-title="MYANMAR",The Addams Family (2019)
-http://starshare.live:8080/movie/saqib865/96572459/44503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Happening (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Cw6WaCjNqInpAzUwbXB4LGgoX.jpg" group-title="MYANMAR",The Happening (2008)
-http://starshare.live:8080/movie/saqib865/96572459/44504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Interview: Night of 26/11 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZSA7u5KdpgCppNCy4lc1SBT9o.jpg" group-title="MYANMAR",The Interview: Night of 26/11 (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Legend of the Condor Heroes: The Cadaverous Claws (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6aY8dzkAfoXL4PFFlCZtzCbxYy.jpg" group-title="MYANMAR",The Legend of the Condor Heroes: The Cadaverous Claws (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Till Death Do Us Part (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhGYCpd6AgO2m3u8Y1CVxjKcfWS.jpg" group-title="MYANMAR",Till Death Do Us Part (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Time Is Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg" group-title="MYANMAR",Time Is Up (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tremors: Shrieker Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" group-title="MYANMAR",Tremors: Shrieker Island (2020)
-http://starshare.live:8080/movie/saqib865/96572459/44509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tremors: A Cold Day in Hell (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg" group-title="MYANMAR",Tremors: A Cold Day in Hell (2018)
-http://starshare.live:8080/movie/saqib865/96572459/44510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tuck Jagadish (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ9wjhkEO0zrsSnCG6CCpMugndk.jpg" group-title="MYANMAR",Tuck Jagadish (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tughlaq Durbar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajxa9eE4vojurvYqSmRQVLSh6bt.jpg" group-title="MYANMAR",Tughlaq Durbar (2021)
-http://starshare.live:8080/movie/saqib865/96572459/44512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unstoppable (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg" group-title="MYANMAR",Unstoppable (2010)
-http://starshare.live:8080/movie/saqib865/96572459/44513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Up (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg" group-title="MYANMAR",Up (2009)
-http://starshare.live:8080/movie/saqib865/96572459/44514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valkyrie (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg" group-title="MYANMAR",Valkyrie (2008)
-http://starshare.live:8080/movie/saqib865/96572459/44515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Very Good Girls (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV3zIZudCz2UAeqc3ZOf6BnHLIC.jpg" group-title="MYANMAR",Very Good Girls (2013)
-http://starshare.live:8080/movie/saqib865/96572459/44516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="White Snake (2019)" tvg-logo="http://starshare.live:8080/images/4078f7ce2bb23545ca981a6553277326.jpg" group-title="MYANMAR",White Snake (2019)
-http://starshare.live:8080/movie/saqib865/96572459/44517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="White Snake (2019)" tvg-logo="http://starshare.live:8080/images/4078f7ce2bb23545ca981a6553277326.jpg" group-title="MYANMAR",White Snake (2019)
-http://starshare.live:8080/movie/saqib865/96572459/44518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wife of a Spy (2020)" tvg-logo="http://starshare.live:8080/images/018217c57c477dfa1a2f451939545d88.jpg" group-title="MYANMAR",Wife of a Spy (2020)
-http://starshare.live:8080/movie/saqib865/96572459/44519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019) Hindi & English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="(MULTI LANGUAGE) ",Aladdin (2019) Hindi & English
-http://starshare.live:8080/movie/saqib865/96572459/30087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 (2010) Telugu + Tamil + Hindi + Eng" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg" group-title="(MULTI LANGUAGE) ",Iron Man 2 (2010) Telugu + Tamil + Hindi + Eng
-http://starshare.live:8080/movie/saqib865/96572459/30088.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man (2008) Telugu + Tamil + Hindi + Eng" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="(MULTI LANGUAGE) ",Iron Man (2008) Telugu + Tamil + Hindi + Eng
-http://starshare.live:8080/movie/saqib865/96572459/30089.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 (2013) Telugu + Tamil + Hindi + Eng" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="(MULTI LANGUAGE) ",Iron Man 3 (2013) Telugu + Tamil + Hindi + Eng
-http://starshare.live:8080/movie/saqib865/96572459/30090.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Violent Man (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMLJ6dKZvg07ioc9WNV66TEaDGH.jpg" group-title="(MULTI LANGUAGE) ",A Violent Man (2017)
-http://starshare.live:8080/movie/saqib865/96572459/30191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Golgo 13: The Professional (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOTFmar2FyhDEDFNIMQL97K5Pcg.jpg" group-title="(MULTI LANGUAGE) ",Golgo 13: The Professional (1983)
-http://starshare.live:8080/movie/saqib865/96572459/30192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It Chapter Two (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="(MULTI LANGUAGE) ",It Chapter Two (2019)
-http://starshare.live:8080/movie/saqib865/96572459/30364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enemy at the Gates (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg" group-title="(MULTI LANGUAGE) ",Enemy at the Gates (2001)
-http://starshare.live:8080/movie/saqib865/96572459/30365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shutter Island (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kve20tXwUZpu4GUX8l6X7Z4jmL6.jpg" group-title="(MULTI LANGUAGE) ",Shutter Island (2010)
-http://starshare.live:8080/movie/saqib865/96572459/30368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Curious Case of Benjamin Button (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg" group-title="(MULTI LANGUAGE) ",The Curious Case of Benjamin Button (2008)
-http://starshare.live:8080/movie/saqib865/96572459/30369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Irishman (2019) Hindi & English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="(MULTI LANGUAGE) ",The Irishman (2019) Hindi & English
-http://starshare.live:8080/movie/saqib865/96572459/30370.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Curse of La Llorona (2019) Hindi &English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg" group-title="(MULTI LANGUAGE) ",The Curse of La Llorona (2019) Hindi &English
-http://starshare.live:8080/movie/saqib865/96572459/30373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020) Hindi &English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKthjUmxjHjvJK8FktFfQdmwP12.jpg" group-title="(MULTI LANGUAGE) ",Deep Blue Sea 3 (2020) Hindi &English
-http://starshare.live:8080/movie/saqib865/96572459/30374.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Things Heard & Seen (2021)  Hindi &English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg" group-title="(MULTI LANGUAGE) ",Things Heard & Seen (2021)  Hindi &English
-http://starshare.live:8080/movie/saqib865/96572459/30386.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A Week Away (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htTS07IvYv3rv57ftzNEprefwSq.jpg" group-title="(MULTI LANGUAGE) ",A Week Away (2021)
-http://starshare.live:8080/movie/saqib865/96572459/30578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Trip (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg" group-title="(MULTI LANGUAGE) ",Bad Trip (2021)
-http://starshare.live:8080/movie/saqib865/96572459/30579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Holidate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg" group-title="(MULTI LANGUAGE) ",Holidate (2020)
-http://starshare.live:8080/movie/saqib865/96572459/30580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mrs. Serial Killer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg" group-title="(MULTI LANGUAGE) ",Mrs. Serial Killer (2020)
-http://starshare.live:8080/movie/saqib865/96572459/30581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Project Power (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg" group-title="(MULTI LANGUAGE) ",Project Power (2020)
-http://starshare.live:8080/movie/saqib865/96572459/30582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Social Dilemma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoIiOTuG2hASVQnZHJ6iciVkQJc.jpg" group-title="(MULTI LANGUAGE) ",The Social Dilemma (2020)
-http://starshare.live:8080/movie/saqib865/96572459/30583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="(MULTI LANGUAGE) ",Don't Breathe 2 (2021)
-http://starshare.live:8080/movie/saqib865/96572459/50430.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Castle for Christmas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg" group-title="(MULTI LANGUAGE) ",A Castle for Christmas (2021)
-http://starshare.live:8080/movie/saqib865/96572459/50438.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Night of the Sicario (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZPCxCO0oROs9gljJ1cVZt1a8a3.jpg" group-title="(MULTI LANGUAGE) ",Night of the Sicario (2021)
-http://starshare.live:8080/movie/saqib865/96572459/50450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Through My Window (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87BbV8DdgKzQKT1avH2VqW2r3dO.jpg" group-title="(MULTI LANGUAGE) ",Through My Window (2022)
-http://starshare.live:8080/movie/saqib865/96572459/63349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Catherine Called Birdy (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6welBP7DtjHDsr6fwT5IuCS33f.jpg" group-title="(MULTI LANGUAGE) ",Catherine Called Birdy (2022)
-http://starshare.live:8080/movie/saqib865/96572459/122936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dongalunnaru Jagratha (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7mAps47NzjzRdPtVNr352xQ0Vx.jpg" group-title="(MULTI LANGUAGE) ",Dongalunnaru Jagratha (2022).
-http://starshare.live:8080/movie/saqib865/96572459/122937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Free Fall (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exjf5UDJTrOHALugoBAxFUfEPwe.jpg" group-title="(MULTI LANGUAGE) ",The Free Fall (2022)
-http://starshare.live:8080/movie/saqib865/96572459/123654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Infernal Machine (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="(MULTI LANGUAGE) ",The Infernal Machine (2022)
-http://starshare.live:8080/movie/saqib865/96572459/124725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ammu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckaM4pI0CzYHzGUG1bar9Q7LHbl.jpg" group-title="(MULTI LANGUAGE) ",Ammu (2022)
-http://starshare.live:8080/movie/saqib865/96572459/124726.mkv
-#EXTINF:-1 tvg-id="" tvg-name="20th Century Girl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/od22ftNnyag0TTxcnJhlsu3aLoU.jpg" group-title="(MULTI LANGUAGE) ",20th Century Girl (2022)
-#EXTINF:-1 tvg-id="" tvg-name="Ammu (2022) (Hindi+Kannada+Malayalam+Telugu+Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckaM4pI0CzYHzGUG1bar9Q7LHbl.jpg" group-title="(MULTI LANGUAGE) ",Ammu (2022) (Hindi+Kannada+Malayalam+Telugu+Tamil)
-http://starshare.live:8080/movie/saqib865/96572459/125916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kanam (2022) (Tamil + Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Yn1AaEkm7sk7RTAZRWFG4Xd4zr.jpg" group-title="(MULTI LANGUAGE) ",Kanam (2022) (Tamil + Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/125924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kanam (2022)(Telugu + Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Yn1AaEkm7sk7RTAZRWFG4Xd4zr.jpg" group-title="(MULTI LANGUAGE) ",Kanam (2022)(Telugu + Kannada)
-http://starshare.live:8080/movie/saqib865/96572459/125925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wendell & Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg" group-title="(MULTI LANGUAGE) ",Wendell & Wild (2022)
-http://starshare.live:8080/movie/saqib865/96572459/126295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Icon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI1CsBpwTjpv2Kwnh2yhbaguFHK.jpg" group-title="(MULTI LANGUAGE) ",Icon (2022)
-http://starshare.live:8080/movie/saqib865/96572459/126296.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ponniyin Selvan: Part I (2022)," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otfDEsb1feHFDWfl60k9kKiX4SI.jpg" group-title="(MULTI LANGUAGE) ",Ponniyin Selvan: Part I (2022),
-http://starshare.live:8080/movie/saqib865/96572459/126588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bheemla Nayak (2022)," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14KeWSkgzTbfJmmD4bXT9mwkaYz.jpg" group-title="(MULTI LANGUAGE) ",Bheemla Nayak (2022),
-http://starshare.live:8080/movie/saqib865/96572459/126969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Mocktail 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AitIMxhVAqVGt5yAr63DoIksw4B.jpg" group-title="(MULTI LANGUAGE) ",Love Mocktail 2 (2022)
-http://starshare.live:8080/movie/saqib865/96572459/127301.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Falling for Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkphwL9s6dZb3DoQS9OQ4LcPgY.jpg" group-title="(MULTI LANGUAGE) ",Falling for Christmas (2022)
-http://starshare.live:8080/movie/saqib865/96572459/128513.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lost Bullet 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg" group-title="(MULTI LANGUAGE) ",Lost Bullet 2 (2022)
-http://starshare.live:8080/movie/saqib865/96572459/128514.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monica, O My Darling (2022)( Tamil+Telgue+Hindi+Malayalam+English)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEksr0T34utTkeg0DB1Au4M0jto.jpg" group-title="(MULTI LANGUAGE) ",Monica, O My Darling (2022)( Tamil+Telgue+Hindi+Malayalam+English)
-http://starshare.live:8080/movie/saqib865/96572459/128814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rorschach (2022)(Tamil+Telgue+Hindi+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKVeDdgpjR8CAEd73ioDe7wni4o.jpg" group-title="(MULTI LANGUAGE) ",Rorschach (2022)(Tamil+Telgue+Hindi+Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/128815.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nenu Meeku Baaga Kavalsinavaadini (2022)(Tamil+Malayalam+Kannada+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vCTxz8QWj4ZiwL2Vgi2jf1lnq9.jpg" group-title="(MULTI LANGUAGE) ",Nenu Meeku Baaga Kavalsinavaadini (2022)(Tamil+Malayalam+Kannada+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/128816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ghost (2022)(Tamil+Telgue+Malayalam+Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AulIkX8l9u17lcQfEubU8n0cnwk.jpg" group-title="(MULTI LANGUAGE) ",The Ghost (2022)(Tamil+Telgue+Malayalam+Hindi)
-http://starshare.live:8080/movie/saqib865/96572459/128817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Routine Love Story (2022)(Tamil+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GD5jn7LTnoxovp4o9gDtEpTWDO.jpg" group-title="(MULTI LANGUAGE) ",Routine Love Story (2022)(Tamil+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/128818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Panthrand (2022)(Tamil+Telgue+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6CLXaIOkVla42ZwurjczzEuCYp.jpg" group-title="(MULTI LANGUAGE) ",Panthrand (2022)(Tamil+Telgue+Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/128819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aa Ammayi Gurinchi Meeku Cheppali (2022)(Tamil+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6y1kPTeGswSzAie1XTisDV6TB2.jpg" group-title="(MULTI LANGUAGE) ",Aa Ammayi Gurinchi Meeku Cheppali (2022)(Tamil+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/128872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ammu (2022)(Tamil+Kannada+Telgue+Hindi+Malayalam) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckaM4pI0CzYHzGUG1bar9Q7LHbl.jpg" group-title="(MULTI LANGUAGE) ",Ammu (2022)(Tamil+Kannada+Telgue+Hindi+Malayalam) 
-http://starshare.live:8080/movie/saqib865/96572459/128873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Valayam (2022)(Tamil+Telgue) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNRSlnY8MN3JdvegLTPwxBNUIVm.jpg" group-title="(MULTI LANGUAGE) ",Valayam (2022)(Tamil+Telgue) 
-http://starshare.live:8080/movie/saqib865/96572459/128874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Palthu Janwar (2022)(Tamil+Telgue+Hindi+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b581PJG9dLh7zJVn8uUkl1pFkkm.jpg" group-title="(MULTI LANGUAGE) ",Palthu Janwar (2022)(Tamil+Telgue+Hindi+Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/128900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thank You (2022)(Tamil+Telgue+Kannada+Malayalam) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wrpCfKmeyFLSE3pOYdY5TR4kw2.jpg" group-title="(MULTI LANGUAGE) ",Thank You (2022)(Tamil+Telgue+Kannada+Malayalam) 
-http://starshare.live:8080/movie/saqib865/96572459/128901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pakka Commercial (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ8inMWG3TyPILtK5h4YRj45vH8.jpg" group-title="(MULTI LANGUAGE) ",Pakka Commercial (2022).
-http://starshare.live:8080/movie/saqib865/96572459/129070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descendant (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg" group-title="(MULTI LANGUAGE) ",Descendant (2022)
-http://starshare.live:8080/movie/saqib865/96572459/129248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="(MULTI LANGUAGE) ",Enola Holmes 2 (2022)
-http://starshare.live:8080/movie/saqib865/96572459/129249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Nurse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="(MULTI LANGUAGE) ",The Good Nurse (2022)
-http://starshare.live:8080/movie/saqib865/96572459/129250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christmas With You (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26RZloFHUyc0GTsybmnUPpSCPHb.jpg" group-title="(MULTI LANGUAGE) ",Christmas With You (2022)
-http://starshare.live:8080/movie/saqib865/96572459/129276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Wonder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBvD1rRQHYGrxuwr2OrzXLso1w.jpg" group-title="(MULTI LANGUAGE) ",The Wonder (2022)
-http://starshare.live:8080/movie/saqib865/96572459/129277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Babli Bouncer (2022)(Tamil+Telgue+Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iX2vylrLdiiDBGaA3xhPobJp7dW.jpg" group-title="(MULTI LANGUAGE) ",Babli Bouncer (2022)(Tamil+Telgue+Hindi)
-http://starshare.live:8080/movie/saqib865/96572459/129588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anel Meley Pani Thuli (2022)(Tamil+Telgue+Kannada+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thqzMTWt8I4EoBA4jJmX2MYGTj5.jpg" group-title="(MULTI LANGUAGE) ",Anel Meley Pani Thuli (2022)(Tamil+Telgue+Kannada+Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/129589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Warriorr (2022)(Hindi+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIbE0HxhcqD243ThAkTiz6vyh5c.jpg" group-title="(MULTI LANGUAGE) ",The Warriorr (2022)(Hindi+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/129655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kantara (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg" group-title="(MULTI LANGUAGE) ",Kantara (2022).
-http://starshare.live:8080/movie/saqib865/96572459/129970.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Noel Diary (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg" group-title="(MULTI LANGUAGE) ",The Noel Diary (2022)
-http://starshare.live:8080/movie/saqib865/96572459/129972.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ghislaine Maxwell: Filthy Rich (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9vl0FxtPQaiTOMRoKYhEuu9xw3.jpg" group-title="(MULTI LANGUAGE) ",Ghislaine Maxwell: Filthy Rich (2022)
-http://starshare.live:8080/movie/saqib865/96572459/130047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DJ Tillu (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XKg3VhpFDXdAktwKvFMSuIneE3.jpg" group-title="(MULTI LANGUAGE) ",DJ Tillu (2022).
-http://starshare.live:8080/movie/saqib865/96572459/130245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kantara (2022)," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg" group-title="(MULTI LANGUAGE) ",Kantara (2022),
-http://starshare.live:8080/movie/saqib865/96572459/130247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg" group-title="(MULTI LANGUAGE) ",Smile (2022)
-http://starshare.live:8080/movie/saqib865/96572459/130361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scrooge: A Christmas Carol (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg" group-title="(MULTI LANGUAGE) ",Scrooge: A Christmas Carol (2022)
-http://starshare.live:8080/movie/saqib865/96572459/130533.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barbie: Mermaid Power (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qb8cLDBAWdahrtixN2mQdI6e52.jpg" group-title="(MULTI LANGUAGE) ",Barbie: Mermaid Power (2022)
-http://starshare.live:8080/movie/saqib865/96572459/130534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lady Chatterley's Lover (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSgl2DxPG3DuQXoaHr500KeULmT.jpg" group-title="(MULTI LANGUAGE) ",Lady Chatterley's Lover (2022)
-http://starshare.live:8080/movie/saqib865/96572459/130580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monster (2022)(Tamil+Malayalam+Telgue+Hindi)" tvg-logo="https://e.top4top.io/p_2528vmq1i0.jpg" group-title="(MULTI LANGUAGE) ",Monster (2022)(Tamil+Malayalam+Telgue+Hindi)
-http://starshare.live:8080/movie/saqib865/96572459/130625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chup (2022)(Malayalam+Kannada+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3tJMHzqCa3R1CA9lW4n6obJvxJ.jpg" group-title="(MULTI LANGUAGE) ",Chup (2022)(Malayalam+Kannada+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/130905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Delivery by Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49KcmgKAtgC02xQFpDly2svEOxW.jpg" group-title="(MULTI LANGUAGE) ",Delivery by Christmas (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z4jRr43JdtU66P0iy8h18OyLql.jpg" group-title="(MULTI LANGUAGE) ",Troll (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg" group-title="(MULTI LANGUAGE) ",Argentina, 1985 (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Man of Action (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL6lwQE5WrdQrMiisjma0uIonpT.jpg" group-title="(MULTI LANGUAGE) ",A Man of Action (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="(MULTI LANGUAGE) ",Black Adam (2022).
-http://starshare.live:8080/movie/saqib865/96572459/131159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QnfT7zunSxKwbQmmT9FoxccwZe.jpg" group-title="(MULTI LANGUAGE) ",Hunt (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVVegwPsW6n9unBtLWq1rzOutka.jpg" group-title="(MULTI LANGUAGE) ",Jeepers Creepers: Reborn (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Once In The Desert (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnjGrFdh2FZPQGOFq9myiQuABoK.jpg" group-title="(MULTI LANGUAGE) ",Once In The Desert (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Overdose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" group-title="(MULTI LANGUAGE) ",Overdose (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samaritan (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg" group-title="(MULTI LANGUAGE) ",Samaritan (2022).
-http://starshare.live:8080/movie/saqib865/96572459/131164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Swimmers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gAmA9hvblerOc6xwOjYQwAnpWe.jpg" group-title="(MULTI LANGUAGE) ",The Swimmers (2022)
-http://starshare.live:8080/movie/saqib865/96572459/131165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Torn Hearts (2022)," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8dSAuMHUgx0lYSB6wAAURStcGM.jpg" group-title="(MULTI LANGUAGE) ",Torn Hearts (2022),
-http://starshare.live:8080/movie/saqib865/96572459/131166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Like Share & Subscribe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tD2lbmaf0ZLTYps9dK1HaXsHrHG.jpg" group-title="(MULTI LANGUAGE) ",Like Share & Subscribe (2022)
-http://starshare.live:8080/movie/saqib865/96572459/132210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Har Har Mahadev (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnSPawPoBmtcd6vCTIncY3QAesD.jpg" group-title="(MULTI LANGUAGE) ",Har Har Mahadev (2022)
-http://starshare.live:8080/movie/saqib865/96572459/132360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Witness (2022)" tvg-logo="https://g.top4top.io/p_2539ltbtd1.jpg" group-title="(MULTI LANGUAGE) ",Witness (2022)
-http://starshare.live:8080/movie/saqib865/96572459/132377.mkv
-#EXTINF:-1 tvg-id="" tvg-name="30 Naatkalil Kaadhalippadhu Eppadi (2022)" tvg-logo="https://g.top4top.io/p_253951qg21.jpg" group-title="(MULTI LANGUAGE) ",30 Naatkalil Kaadhalippadhu Eppadi (2022)
-http://starshare.live:8080/movie/saqib865/96572459/132378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="(MULTI LANGUAGE) ",Avatar (2009)
-http://starshare.live:8080/movie/saqib865/96572459/133173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jagamemaya Instant Karma(2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw6QnhvKFR0MYnINe7FlZWRBY9A.jpg" group-title="(MULTI LANGUAGE) ",Jagamemaya Instant Karma(2022)
-http://starshare.live:8080/movie/saqib865/96572459/133642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lyle, Lyle, Crocodile (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg" group-title="(MULTI LANGUAGE) ",Lyle, Lyle, Crocodile (2022).
-http://starshare.live:8080/movie/saqib865/96572459/133643.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Contractor (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="(MULTI LANGUAGE) ",The Contractor (2022).
-http://starshare.live:8080/movie/saqib865/96572459/133644.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Enforcer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72V1r1G8S87ELagVxjqAUdChMCt.jpg" group-title="(MULTI LANGUAGE) ",The Enforcer (2022)
-http://starshare.live:8080/movie/saqib865/96572459/133645.mkv
-#EXTINF:-1 tvg-id="" tvg-name="101 Jillavin Azhagan (2022)(Tamil+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiXmVZU7cy6L2G7STgq5mqABdf2.jpg" group-title="(MULTI LANGUAGE) ",101 Jillavin Azhagan (2022)(Tamil+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/133654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aavi (2022)(Tamil+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzDgSGbFxMrFXvH5SdorTehfe2v.jpg" group-title="(MULTI LANGUAGE) ",Aavi (2022)(Tamil+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/133655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Akshara (2022)(Tamil+Telgue+Malayalam+Hindi+Kannda)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9kwA9DDR5EGiouCjpfM7nDafL7.jpg" group-title="(MULTI LANGUAGE) ",Akshara (2022)(Tamil+Telgue+Malayalam+Hindi+Kannda)
-http://starshare.live:8080/movie/saqib865/96572459/133656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Athiran (2022)(Tamil+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpcZ49Z4VH5niZVhiY0rwLJDMS0.jpg" group-title="(MULTI LANGUAGE) ",Athiran (2022)(Tamil+Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/133657.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kuri (2022)(Tamil+Telgue)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PFlIYNynzJTevfden3BHvlxtLR.jpg" group-title="(MULTI LANGUAGE) ",Kuri (2022)(Tamil+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/133658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jayamma Panchayathi (2022)(Tamil+Telgue+Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YaK8gaAInlBizx0BDkZ7piKVH9.jpg" group-title="(MULTI LANGUAGE) ",Jayamma Panchayathi (2022)(Tamil+Telgue+Kannada)
-http://starshare.live:8080/movie/saqib865/96572459/134243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jaya Jaya Jaya Jaya Hey (2022)(Tamil+Telgue+Hindi+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAc6mHHJxmiAbkxrF0TipvRRZW7.jpg" group-title="(MULTI LANGUAGE) ",Jaya Jaya Jaya Jaya Hey (2022)(Tamil+Telgue+Hindi+Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/134244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="(MULTI LANGUAGE) ",Glass Onion: A Knives Out Mystery (2022)
-http://starshare.live:8080/movie/saqib865/96572459/134293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Teacher (2022)(Tamil+Telgue+Malayalam+Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnZROAClSnGs7FsukCNCoF7RO6E.jpg" group-title="(MULTI LANGUAGE) ",The Teacher (2022)(Tamil+Telgue+Malayalam+Kannada)
-http://starshare.live:8080/movie/saqib865/96572459/134380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="(MULTI LANGUAGE) ",Avatar: The Way of Water (2022)
-http://starshare.live:8080/movie/saqib865/96572459/134621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Roald Dahl's Matilda the Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg" group-title="(MULTI LANGUAGE) ",Roald Dahl's Matilda the Musical (2022)
-http://starshare.live:8080/movie/saqib865/96572459/134634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wolf Warrior 2 (2017)(DUAL AUDIO)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophb3WpBZz5oNLoUbOTelvIzeku.jpg" group-title="(MULTI LANGUAGE) ",Wolf Warrior 2 (2017)(DUAL AUDIO)
-http://starshare.live:8080/movie/saqib865/96572459/135102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Night at the Kindergarten (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6tDFLtLzlzkm27OOOsdjlK58wD.jpg" group-title="(MULTI LANGUAGE) ",A Night at the Kindergarten (2022)
-http://starshare.live:8080/movie/saqib865/96572459/135248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nadanam (2022)(Tamil+Telgue+kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWXh5VQOMflOJI5uz5DJlJHr4Po.jpg" group-title="(MULTI LANGUAGE) ",Nadanam (2022)(Tamil+Telgue+kannada)
-http://starshare.live:8080/movie/saqib865/96572459/135335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Butterfly (2022)(Tamil,Telgue,Kannda,Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuigYPgr7gT9tShzGeP71c43rUB.jpg" group-title="(MULTI LANGUAGE) ",Butterfly (2022)(Tamil,Telgue,Kannda,Malayalam)
-http://starshare.live:8080/movie/saqib865/96572459/135336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Violent Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XSYOP0JjjyMz1irihvWywro82r.jpg" group-title="(MULTI LANGUAGE) ",Violent Night (2022)
-http://starshare.live:8080/movie/saqib865/96572459/136108.mkv
-#EXTINF:-1 tvg-id="" tvg-name="White Noise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXFRM14wo5zHFDqqC0QtW7Qy4vL.jpg" group-title="(MULTI LANGUAGE) ",White Noise (2022)
-http://starshare.live:8080/movie/saqib865/96572459/136109.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mumbai Mafia: Police vs the Underworld (2023)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" group-title="(MULTI LANGUAGE) ",Mumbai Mafia: Police vs the Underworld (2023).
-http://starshare.live:8080/movie/saqib865/96572459/136775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MAD (2022)(Tamil+Telgue)" tvg-logo="https://c.top4top.io/p_2564l0oan0.jpg" group-title="(MULTI LANGUAGE) ",MAD (2022)(Tamil+Telgue)
-http://starshare.live:8080/movie/saqib865/96572459/137089.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saudi Vellakka (2022)(Tam+Tel+Hin+Mal)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wleL3eWeIVapr84WcdRA2h2t2pS.jpg" group-title="(MULTI LANGUAGE) ",Saudi Vellakka (2022)(Tam+Tel+Hin+Mal)
-http://starshare.live:8080/movie/saqib865/96572459/137090.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Pale Blue Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg" group-title="(MULTI LANGUAGE) ",The Pale Blue Eye (2022)
-http://starshare.live:8080/movie/saqib865/96572459/137210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Hatchet Wielding Hitchhiker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w3XkmtAoNQ5tHmWNud9f8jVAWi.jpg" group-title="(MULTI LANGUAGE) ",The Hatchet Wielding Hitchhiker (2023)
-http://starshare.live:8080/movie/saqib865/96572459/137351.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Tharak (2022) [Tel,Tam,Hin,Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2E1JkCEJUMccpPwz9W2sL7U8eY.jpg" group-title="(MULTI LANGUAGE) ",Mr. Tharak (2022) [Tel,Tam,Hin,Kan]
-http://starshare.live:8080/movie/saqib865/96572459/137450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dog Gone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="(MULTI LANGUAGE) ",Dog Gone (2023)
-http://starshare.live:8080/movie/saqib865/96572459/137964.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oru Yemanin Kadhal Kadhai (2023) (Tam , Mal)" tvg-logo="https://i.top4top.io/p_2572s2uri1.jpg" group-title="(MULTI LANGUAGE) ",Oru Yemanin Kadhal Kadhai (2023) (Tam , Mal)
-http://starshare.live:8080/movie/saqib865/96572459/138443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Athena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8B0GsFEebd0DW2spykLMxnc1Kn.jpg" group-title="(MULTI LANGUAGE) ",Athena (2022)
-http://starshare.live:8080/movie/saqib865/96572459/138690.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mission Majnu (2023)[Tel , Tam , Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHQitiHK4M561W1O7WwfJ0dJ8S1.jpg" group-title="(MULTI LANGUAGE) ",Mission Majnu (2023)[Tel , Tam , Hin]
-http://starshare.live:8080/movie/saqib865/96572459/138899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Martian (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg" group-title="(MULTI LANGUAGE) ",The Martian (2015)
-http://starshare.live:8080/movie/saqib865/96572459/138920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 3-Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="(MULTI LANGUAGE) ",John Wick: Chapter 3-Parabellum (2019)
-http://starshare.live:8080/movie/saqib865/96572459/138921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXbCboT5mMv9RH1E7ogzIytN302.jpg" group-title="(MULTI LANGUAGE) ",Star Trek Into Darkness (2013)
-http://starshare.live:8080/movie/saqib865/96572459/138922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="JUNG_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LAtcGxhgfPmaKL7dItQ1n9TepH.jpg" group-title="(MULTI LANGUAGE) ",JUNG_E (2023)
-http://starshare.live:8080/movie/saqib865/96572459/139019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFovfotIztxGVtUpLlaNG3ACMpl.jpg" group-title="(MULTI LANGUAGE) ",Star Trek Beyond (2016)
-http://starshare.live:8080/movie/saqib865/96572459/139087.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Operation Red Sea (2018)(Tam, Tel, Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ctXBO0o5fKQvGdSJsPc8TAYCvp.jpg" group-title="(MULTI LANGUAGE) ",Operation Red Sea (2018)(Tam, Tel, Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/139137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ice Road (2021)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg" group-title="(MULTI LANGUAGE) ",The Ice Road (2021).
-http://starshare.live:8080/movie/saqib865/96572459/139144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="(MULTI LANGUAGE) ",Narvik (2022)
-http://starshare.live:8080/movie/saqib865/96572459/139149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Days  of Future Past (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg" group-title="(MULTI LANGUAGE) ",X-Men: Days  of Future Past (2014)
-http://starshare.live:8080/movie/saqib865/96572459/139248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pattathu Arasan (2022) (kan, Tam, Tel, Mal) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fz37GKiZvM1NerWpKokpnCKDEf.jpg" group-title="(MULTI LANGUAGE) ",Pattathu Arasan (2022) (kan, Tam, Tel, Mal) 
-http://starshare.live:8080/movie/saqib865/96572459/139342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arjuna Kaappaathu (2022)(Tam , Tel)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBkfc0MxqIUbAp9kUHLDUk3H7ZY.jpg" group-title="(MULTI LANGUAGE) ",Arjuna Kaappaathu (2022)(Tam , Tel)
-http://starshare.live:8080/movie/saqib865/96572459/139344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Korameenu (2022)[Mal , Kan , Tel]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKbROPE3pmJcI25uObghQjHOC8b.jpg" group-title="(MULTI LANGUAGE) ",Korameenu (2022)[Mal , Kan , Tel]
-http://starshare.live:8080/movie/saqib865/96572459/139346.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saturday Night (2022) (Tam + Tel + Mal + Hin)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQrNM5Vsr9CK8o6lmofav9Dueq9.jpg" group-title="(MULTI LANGUAGE) ",Saturday Night (2022) (Tam + Tel + Mal + Hin)
-http://starshare.live:8080/movie/saqib865/96572459/139352.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sivan Udukkai (2022)(Tam, Tel) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhCcMBnKHkGHBd85PYcVkrGhP0X.jpg" group-title="(MULTI LANGUAGE) ",Sivan Udukkai (2022)(Tam, Tel) 
-http://starshare.live:8080/movie/saqib865/96572459/139449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LUPIN THE 3rd vs. CAT’S EYE (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V6M4mBXQCoRwXkohWMyrt5FZSG.jpg" group-title="(MULTI LANGUAGE) ",LUPIN THE 3rd vs. CAT’S EYE (2023)
-http://starshare.live:8080/movie/saqib865/96572459/139544.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Raid 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olA39iaXISiKEkACdELgr0ZRvIF.jpg" group-title="(MULTI LANGUAGE) ",The Raid 2 (2014)
-http://starshare.live:8080/movie/saqib865/96572459/139566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="You People (2023)(Tam , Hin , Eng)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg" group-title="(MULTI LANGUAGE) ",You People (2023)(Tam , Hin , Eng)
-http://starshare.live:8080/movie/saqib865/96572459/139606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vettri Kani (2023)(Tamil , Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOSz6clPKWXNDUxj2oahdJBysPo.jpg" group-title="(MULTI LANGUAGE) ",Vettri Kani (2023)(Tamil , Telugu)
-http://starshare.live:8080/movie/saqib865/96572459/139607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ved (2022)" tvg-logo="https://l.top4top.io/p_2589iuelo0.jpg" group-title="(MULTI LANGUAGE) ",Ved (2022)
-http://starshare.live:8080/movie/saqib865/96572459/139834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sembi (2022)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waqlWEPyebrXzD5N0g9YN1p0LHN.jpg" group-title="(MULTI LANGUAGE) ",Sembi (2022)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/139847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infiesto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83o0IzCimc3HJLrXTvrq08h4oMf.jpg" group-title="(MULTI LANGUAGE) ",Infiesto (2023)
-http://starshare.live:8080/movie/saqib865/96572459/140176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Your Place or Mine (2023)[Tel, Tam, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApkSeqfIPRCxOtfjXYYE6Ji7jVU.jpg" group-title="(MULTI LANGUAGE) ",Your Place or Mine (2023)[Tel, Tam, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/140924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vedha (2022)[Tel, Tam, Kan, Mal]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C9VkUY4zOOiSJWhqkdfMAAQcCa.jpg" group-title="(MULTI LANGUAGE) ",Vedha (2022)[Tel, Tam, Kan, Mal]
-http://starshare.live:8080/movie/saqib865/96572459/140925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Naan Mirugamaai Maara (2022)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp3qBIXpnVAkA3VHCtB0Zij5buI.jpg" group-title="(MULTI LANGUAGE) ",Naan Mirugamaai Maara (2022)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/140929.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Squared Love All Over Again (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43nsgB6n1BNyaD4KCEqTFS2462S.jpg" group-title="(MULTI LANGUAGE) ",Squared Love All Over Again (2023)
-http://starshare.live:8080/movie/saqib865/96572459/141931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Heroic Losers (2019)[Tam, Tel, Hin, Spa]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MaAzW8sERDcIEYORE7jzeCew3P.jpg" group-title="(MULTI LANGUAGE) ",Heroic Losers (2019)[Tam, Tel, Hin, Spa]
-http://starshare.live:8080/movie/saqib865/96572459/141989.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Malikappuram (2022)[Tam, Tel, Mal, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CFhiwbxJXu7YpOJG3vG1TRB0Zd.jpg" group-title="(MULTI LANGUAGE) ",Malikappuram (2022)[Tam, Tel, Mal, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/141991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mishan Impossible (2023)[Tam, Tel]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AQmJr33xvZ3sHU2z05pfShU5xr.jpg" group-title="(MULTI LANGUAGE) ",Mishan Impossible (2023)[Tam, Tel]
-http://starshare.live:8080/movie/saqib865/96572459/141992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mukhachitram (2022)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7WpuYoWoyZ0ZtGcCJTD424aKvj.jpg" group-title="(MULTI LANGUAGE) ",Mukhachitram (2022)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/141993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tarak (2022)[Tam, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2E1JkCEJUMccpPwz9W2sL7U8eY.jpg" group-title="(MULTI LANGUAGE) ",Tarak (2022)[Tam, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/141996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Wedding Unplanner (2020)[Tam, Tel, Hin, Spa]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg" group-title="(MULTI LANGUAGE) ",The Wedding Unplanner (2020)[Tam, Tel, Hin, Spa]
-http://starshare.live:8080/movie/saqib865/96572459/141997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thirumurugan (2023)[Tamil, Telugu]" tvg-logo="https://i.top4top.io/p_2605yi1ra1.jpg" group-title="(MULTI LANGUAGE) ",Thirumurugan (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/141998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)[Tam, Tel, Hin, Eng] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="(MULTI LANGUAGE) ",Titanic (1997)[Tam, Tel, Hin, Eng] 
-http://starshare.live:8080/movie/saqib865/96572459/141999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Race Kuthirai (2022)[Tamil, Telugu]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg" group-title="(MULTI LANGUAGE) ",Race Kuthirai (2022)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/142154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Korameenu (2022)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKbROPE3pmJcI25uObghQjHOC8b.jpg" group-title="(MULTI LANGUAGE) ",Korameenu (2022)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/142156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ustaad Ram (2023)[Tamil, Telugu]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cEEDAHhMGtoWfYXJxelVMRwLu0.jpg" group-title="(MULTI LANGUAGE) ",Ustaad Ram (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/142157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lucky Lakshman (2023)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cByGL5KOrSifhiDcY2ELy0Ie0Gv.jpg" group-title="(MULTI LANGUAGE) ",Lucky Lakshman (2023)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/142158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Overload (2018)[Tam, Tel, Hin, Eng]" tvg-logo="https://c.top4top.io/p_2607975l31.jpg" group-title="(MULTI LANGUAGE) ",Overload (2018)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/142159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Everything Everywhere All at Once (2022)(Eng, Hin)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg" group-title="(MULTI LANGUAGE) ",Everything Everywhere All at Once (2022)(Eng, Hin)
-http://starshare.live:8080/movie/saqib865/96572459/142478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 3 - Parabellum (2019)(Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="(MULTI LANGUAGE) ",John Wick: Chapter 3 - Parabellum (2019)(Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/142479.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Strays (2023)(Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg" group-title="(MULTI LANGUAGE) ",The Strays (2023)(Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/142509.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kranti (2023)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79b3hTg8dIQf29ArB6xRRzoTKKt.jpg" group-title="(MULTI LANGUAGE) ",Kranti (2023)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/142660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nanpakal Nerathu Mayakkam (2023)[Tel, Mal, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MKCdSoT58LOfRJm23rZsJysLaf.jpg" group-title="(MULTI LANGUAGE) ",Nanpakal Nerathu Mayakkam (2023)[Tel, Mal, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/142664.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Hating Game (2021)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prbZxJxGcy07y60eq8lCGMciTYz.jpg" group-title="(MULTI LANGUAGE) ",The Hating Game (2021)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/142665.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Strays (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg" group-title="(MULTI LANGUAGE) ",The Strays (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/142666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Through the Glass Darkly (2020)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKLfCWHGFLQjS2ZbIa35sjXh4nE.jpg" group-title="(MULTI LANGUAGE) ",Through the Glass Darkly (2020)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/142667.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Veera Simha  Reddy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYUIyP53CHBjDUci5hGmmpSVjNB.jpg" group-title="(MULTI LANGUAGE) ",Veera Simha  Reddy (2023)
-http://starshare.live:8080/movie/saqib865/96572459/142670.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Like an Afternoon Dream (2023)(Hin, Mal) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MKCdSoT58LOfRJm23rZsJysLaf.jpg" group-title="(MULTI LANGUAGE) ",Like an Afternoon Dream (2023)(Hin, Mal) 
-http://starshare.live:8080/movie/saqib865/96572459/142671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="We Have a Ghost (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg" group-title="(MULTI LANGUAGE) ",We Have a Ghost (2023)
-http://starshare.live:8080/movie/saqib865/96572459/142738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Die Hart the Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1u5tEew9zdfqJJuBXyauLQoAmT.jpg" group-title="(MULTI LANGUAGE) ",Die Hart the Movie (2023)
-http://starshare.live:8080/movie/saqib865/96572459/142739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gaalodu (2022)[Tam, Tel, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kxH7ArOhhlPCMpxLywSnGswx7d.jpg" group-title="(MULTI LANGUAGE) ",Gaalodu (2022)[Tam, Tel, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/142741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="We Have a Ghost (2023)(Hin, Eng) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg" group-title="(MULTI LANGUAGE) ",We Have a Ghost (2023)(Hin, Eng) 
-http://starshare.live:8080/movie/saqib865/96572459/142748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Happy Birthday (2023)[Tamil, Telugu]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/as2cX6cDsGvyBEKRQ0QZimhi49I.jpg" group-title="(MULTI LANGUAGE) ",Happy Birthday (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/142817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black (2023)(Tamil , Telugu)" tvg-logo="https://b.top4top.io/p_26132fhck1.jpg" group-title="(MULTI LANGUAGE) ",Black (2023)(Tamil , Telugu)
-http://starshare.live:8080/movie/saqib865/96572459/143202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Unlocked (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9DOGlKfXWlnxAdOJHQzP3aRqt0.jpg" group-title="(MULTI LANGUAGE) ",Unlocked (2023)
-http://starshare.live:8080/movie/saqib865/96572459/143788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Legend (2022)(Tel, Mal, Hin) " tvg-logo="https://k.top4top.io/p_2619qjswf0.jpg" group-title="(MULTI LANGUAGE) ",The Legend (2022)(Tel, Mal, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/144381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alone (2023)(Hin, Mal) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YoSk9SH4zW1piVORvHp0VLs4MM.jpg" group-title="(MULTI LANGUAGE) ",Alone (2023)(Hin, Mal) 
-http://starshare.live:8080/movie/saqib865/96572459/144396.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)(Hin, Eng) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="(MULTI LANGUAGE) ",Sayen (2023)(Hin, Eng) 
-http://starshare.live:8080/movie/saqib865/96572459/144515.mkv
-#EXTINF:-1 tvg-id="" tvg-name="32 Malasana Street (2020)[Tam, Tel, Hin, Spa]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neCS8vPAtsj9cJDGNaEH76ImSd7.jpg" group-title="(MULTI LANGUAGE) ",32 Malasana Street (2020)[Tam, Tel, Hin, Spa]
-http://starshare.live:8080/movie/saqib865/96572459/144945.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alone (2023)[Tam, Tel, Mal, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YoSk9SH4zW1piVORvHp0VLs4MM.jpg" group-title="(MULTI LANGUAGE) ",Alone (2023)[Tam, Tel, Mal, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/144947.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fall (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="(MULTI LANGUAGE) ",Fall (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/144950.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Geethanjali (2023)[Tam, Tel]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dMgvRdsmzf9jv1sizPQRsKsede.jpg" group-title="(MULTI LANGUAGE) ",Geethanjali (2023)[Tam, Tel]
-http://starshare.live:8080/movie/saqib865/96572459/144951.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hello (2020)[Tamil, Telugu]" tvg-logo="https://l.top4top.io/p_2623ghuim1.jpg" group-title="(MULTI LANGUAGE) ",Hello (2020)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/144953.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hunt (2023)[Tamil, Malayalam]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QnfT7zunSxKwbQmmT9FoxccwZe.jpg" group-title="(MULTI LANGUAGE) ",Hunt (2023)[Tamil, Malayalam]
-http://starshare.live:8080/movie/saqib865/96572459/144955.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Femme Nikita (1990)[Tamil, Hindi, Fre]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg" group-title="(MULTI LANGUAGE) ",La Femme Nikita (1990)[Tamil, Hindi, Fre]
-http://starshare.live:8080/movie/saqib865/96572459/144960.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lake Placid vs. Anaconda (2015)[Tamil, Hindi, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWTTolhnR1yW7z1YAIC5vrTn4s8.jpg" group-title="(MULTI LANGUAGE) ",Lake Placid vs. Anaconda (2015)[Tamil, Hindi, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/144961.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Léon: The Professional (1994)[Tam, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg" group-title="(MULTI LANGUAGE) ",Léon: The Professional (1994)[Tam, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/144962.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maja Ma (2023)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfzBw0g0zKjyCpcTCEQEfq3gy0d.jpg" group-title="(MULTI LANGUAGE) ",Maja Ma (2023)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/144965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spectre (2015)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/672kUEMtTHcaVYSVY4eiHEliHFa.jpg" group-title="(MULTI LANGUAGE) ",Spectre (2015)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/144969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Supreme (2023)[Tamil, Telugu]" tvg-logo="https://e.top4top.io/p_26231n6hz1.jpg" group-title="(MULTI LANGUAGE) ",Supreme (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/144970.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Great Indian Kitchen (2023)[Tel, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoUWbW4XlTp0RHfwbdzMFN4pw33.jpg" group-title="(MULTI LANGUAGE) ",The Great Indian Kitchen (2023)[Tel, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/144971.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Untraceable (2008)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg" group-title="(MULTI LANGUAGE) ",Untraceable (2008)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/144972.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCCtPOoJH1VktSJCHetuzEWkDj6.jpg" group-title="(MULTI LANGUAGE) ",Luther: The Fallen Sun (2023)
-http://starshare.live:8080/movie/saqib865/96572459/145877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Elephant Whisperers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UQN0JIyAlyFRhYpmBcbrDw7Bsr.jpg" group-title="(MULTI LANGUAGE) ",The Elephant Whisperers (2022)
-http://starshare.live:8080/movie/saqib865/96572459/146921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="80 for Brady (2023)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="(MULTI LANGUAGE) ",80 for Brady (2023).
-http://starshare.live:8080/movie/saqib865/96572459/146922.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="American Exit (2017)[Tamil, Telugu, Hindi, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRqff9JyOG4q03IeNHP5JKNcfat.jpg" group-title="(MULTI LANGUAGE) ",American Exit (2017)[Tamil, Telugu, Hindi, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/147009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Augest 15 (2023)[Tam, Mal]" tvg-logo="https://e.top4top.io/p_2630wmjo71.jpg" group-title="(MULTI LANGUAGE) ",Augest 15 (2023)[Tam, Mal]
-http://starshare.live:8080/movie/saqib865/96572459/147010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christy (2023)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg" group-title="(MULTI LANGUAGE) ",Christy (2023)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/147012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iratta (2023)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ittBLkDQ0e605gHBpl73sFmRsmd.jpg" group-title="(MULTI LANGUAGE) ",Iratta (2023)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/147149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pokkiri Rathinangal (2023)[Tamil, Telugu]" tvg-logo="https://k.top4top.io/p_26327i4vd1.jpg" group-title="(MULTI LANGUAGE) ",Pokkiri Rathinangal (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/147159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ready (2023)[Tamil, Telugu] " tvg-logo="https://i.top4top.io/p_2632c1u2x1.jpg" group-title="(MULTI LANGUAGE) ",Ready (2023)[Tamil, Telugu] 
-http://starshare.live:8080/movie/saqib865/96572459/147162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Room (2015)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg" group-title="(MULTI LANGUAGE) ",Room (2015)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/147163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Run Baby Run (2023)[Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8IuI1vB8qcrH6MKPu9FP0Xtbh.jpg" group-title="(MULTI LANGUAGE) ",Run Baby Run (2023)[Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/147164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! (2019)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg" group-title="(MULTI LANGUAGE) ",Shazam! (2019)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/147165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smurfs: The Lost Village (2017)[Tam, Tel, Hin, Mal, Kan, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swt9crREg1UcKgg3wGWfoFNlXOz.jpg" group-title="(MULTI LANGUAGE) ",Smurfs: The Lost Village (2017)[Tam, Tel, Hin, Mal, Kan, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/147166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Hero of Color City (2014)[Tam, Tel, Hin, Mal, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r43IegMrhoVGnyD0NM1wYlmaflc.jpg" group-title="(MULTI LANGUAGE) ",The Hero of Color City (2014)[Tam, Tel, Hin, Mal, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/147168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="In His Shadow (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooyH5mGWvN3ZJOSqTBntlQ8Iail.jpg" group-title="(MULTI LANGUAGE) ",In His Shadow (2023)
-http://starshare.live:8080/movie/saqib865/96572459/147211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caught Out: Crime. Corruption.Cricket. (2023)(Hin, Eng) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JJaqFHA3WrVoaDmqXXATgb2LqC.jpg" group-title="(MULTI LANGUAGE) ",Caught Out: Crime. Corruption.Cricket. (2023)(Hin, Eng) 
-http://starshare.live:8080/movie/saqib865/96572459/147212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Magician's Elephant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="(MULTI LANGUAGE) ",The Magician's Elephant (2023)
-http://starshare.live:8080/movie/saqib865/96572459/147213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caught Out: Crime. Corruption.Cricket. (2023)(Tam, Tel, Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JJaqFHA3WrVoaDmqXXATgb2LqC.jpg" group-title="(MULTI LANGUAGE) ",Caught Out: Crime. Corruption.Cricket. (2023)(Tam, Tel, Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/147235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bodhai Ah Viduda (2023)(Tam, Tel) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1OyAcGrIACNjXkq0gmIgNmyGh.jpg" group-title="(MULTI LANGUAGE) ",Bodhai Ah Viduda (2023)(Tam, Tel) 
-http://starshare.live:8080/movie/saqib865/96572459/147237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Catch Me If You Can (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg" group-title="(MULTI LANGUAGE) ",Catch Me If You Can (2002)
-http://starshare.live:8080/movie/saqib865/96572459/147620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="We Lost Our Human (2023)(Hin, Eng) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8IcCEswNqNTj5A1l7FJ3gGQ4Fp.jpg" group-title="(MULTI LANGUAGE) ",We Lost Our Human (2023)(Hin, Eng) 
-http://starshare.live:8080/movie/saqib865/96572459/147649.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shivam (2023)(Tam, Tel)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdEaWJMCvx3F05DAXPt2wbiybY2.jpg" group-title="(MULTI LANGUAGE) ",Shivam (2023)(Tam, Tel)
-http://starshare.live:8080/movie/saqib865/96572459/148082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Balagam (2023)[Tam, Tel, Mal] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5Wtp4BcMm6Z03rjik11AS5UYhd.jpg" group-title="(MULTI LANGUAGE) ",Balagam (2023)[Tam, Tel, Mal] 
-http://starshare.live:8080/movie/saqib865/96572459/148091.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhai (2023) [Tamil, Telugu]" tvg-logo="https://c.top4top.io/p_2639v51e01.jpg" group-title="(MULTI LANGUAGE) ",Bhai (2023) [Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/148093.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Butta Bomma (2023)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BkOzXTTwSO11AMTp9dO3tuLXOd.jpg" group-title="(MULTI LANGUAGE) ",Butta Bomma (2023)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/148094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chor Nikal Ke Bhaga (2023)[Tam, Tel, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg" group-title="(MULTI LANGUAGE) ",Chor Nikal Ke Bhaga (2023)[Tam, Tel, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/148096.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hello June (2023)[Tam, Mal]" tvg-logo="https://i.top4top.io/p_26399ocvs1.jpg" group-title="(MULTI LANGUAGE) ",Hello June (2023)[Tam, Mal]
-http://starshare.live:8080/movie/saqib865/96572459/148098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Never Back Down (2008)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oRUTyP1QAtGDMvRpKZyuyFPG0U.jpg" group-title="(MULTI LANGUAGE) ",Never Back Down (2008)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Never Back Down: Revolt (2021)[Tamil, Telugu, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icAG01wZyy1ZpS3UEnPReph3jMV.jpg" group-title="(MULTI LANGUAGE) ",Never Back Down: Revolt (2021)[Tamil, Telugu, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Purusha Pretham (2023)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRcYxEyWqVFKpH8HwP4EXRAhNHx.jpg" group-title="(MULTI LANGUAGE) ",Purusha Pretham (2023)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/148115.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stalin (2023)[Tamil, Telugu]" tvg-logo="https://c.top4top.io/p_2639reu6f1.jpg" group-title="(MULTI LANGUAGE) ",Stalin (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/148126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tees Maar Khan (2023)[Tamil, Telugu]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTAB1D6A7w1eyao6mCf2TEn9GyK.jpg" group-title="(MULTI LANGUAGE) ",Tees Maar Khan (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/148127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Magician's Elephant (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="(MULTI LANGUAGE) ",The Magician's Elephant (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="You Keep the Kids (2021)[Tam, Tel, Hin, Spa]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo4aBPuyWh8uB2VHPwK1O7R6WwO.jpg" group-title="(MULTI LANGUAGE) ",You Keep the Kids (2021)[Tam, Tel, Hin, Spa]
-http://starshare.live:8080/movie/saqib865/96572459/148130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick (2014)[Tam, Tel, Hin, Kan, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCzzQKGijVzfGFg42id7uDLOjY5.jpg" group-title="(MULTI LANGUAGE) ",John Wick (2014)[Tam, Tel, Hin, Kan, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 2 (2017)[Tam, Tel, Hin, Kan, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="(MULTI LANGUAGE) ",John Wick: Chapter 2 (2017)[Tam, Tel, Hin, Kan, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 3 - Parabellum (2019)[Tam, Tel, Hin, Kan, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="(MULTI LANGUAGE) ",John Wick: Chapter 3 - Parabellum (2019)[Tam, Tel, Hin, Kan, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="10000 Years Later (2015)[Tamil, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyQBg6NsxpFmTAMBPaT69MBdh5w.jpg" group-title="(MULTI LANGUAGE) ",10000 Years Later (2015)[Tamil, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/148874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monkey King Return of Wu Kong (2018)[Tam, Tel, Hin, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab00ptLh3DlR3SQxH82H2jbfOFa.jpg" group-title="(MULTI LANGUAGE) ",Monkey King Return of Wu Kong (2018)[Tam, Tel, Hin, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/148875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Whistle Podu (2023)[Tamil, Telugu]" tvg-logo="https://d.top4top.io/p_2641nd8tl1.jpg" group-title="(MULTI LANGUAGE) ",Whistle Podu (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/148876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Murder on the Orient Express (2017)(Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc2gJjebceoFgOQbukzPzP8SXVZ.jpg" group-title="(MULTI LANGUAGE) ",Murder on the Orient Express (2017)(Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/148879.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Death on the Nile (2022)(Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg" group-title="(MULTI LANGUAGE) ",Death on the Nile (2022)(Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/148880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maya the Bee: The Golden Orb (2021)[Tam, Tel, Hin, Mal, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMS2qcbhbkFpcwLnbUE9o9IK4HH.jpg" group-title="(MULTI LANGUAGE) ",Maya the Bee: The Golden Orb (2021)[Tam, Tel, Hin, Mal, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/148967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eiffel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg" group-title="(MULTI LANGUAGE) ",Eiffel (2021)
-http://starshare.live:8080/movie/saqib865/96572459/148991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery 2 (2023)(Tam, Tel, Hin ,Eng)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg" group-title="(MULTI LANGUAGE) ",Murder Mystery 2 (2023)(Tam, Tel, Hin ,Eng)
-http://starshare.live:8080/movie/saqib865/96572459/150018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hello June (2023)(Mal, Tam)" tvg-logo="https://i.top4top.io/p_26399ocvs1.jpg" group-title="(MULTI LANGUAGE) ",Hello June (2023)(Mal, Tam)
-http://starshare.live:8080/movie/saqib865/96572459/150077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romancham (2023)(Tam, Tel, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4JBNvVVHj60OEEc6MbLIvA0v6B.jpg" group-title="(MULTI LANGUAGE) ",Romancham (2023)(Tam, Tel, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/150129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bagheera (2023)[Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FF2llKrJYAH7RQ4EAJ8XBjwl9P.jpg" group-title="(MULTI LANGUAGE) ",Bagheera (2023)[Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/150141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="65 (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="(MULTI LANGUAGE) ",65 (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antha Naal Nyabagam (2023)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0Z9yaYfulbqKm1Y4ysgipc9m7H.jpg" group-title="(MULTI LANGUAGE) ",Antha Naal Nyabagam (2023)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/150153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Site (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipn8khVVC4eToWiGf89WF9J5PJn.jpg" group-title="(MULTI LANGUAGE) ",Black Site (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chupa (2023)[Tam, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" group-title="(MULTI LANGUAGE) ",Chupa (2023)[Tam, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lake Placid 3 (2010)[Tam, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHH3fy5ZVs4nrzNLZYIe1p2PJSc.jpg" group-title="(MULTI LANGUAGE) ",Lake Placid 3 (2010)[Tam, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Popcorn (2023)[Tam, Tel, Mal, Kan]" tvg-logo="https://i.top4top.io/p_26033j5bt1.jpg" group-title="(MULTI LANGUAGE) ",Popcorn (2023)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/150571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Marksman (2021)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vcDalR50RWa309vBH1NLmG2rjQ.jpg" group-title="(MULTI LANGUAGE) ",The Marksman (2021)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Red Ghost (2020)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbUfMyfmGJKio3PEn1EogxTh7Mg.jpg" group-title="(MULTI LANGUAGE) ",The Red Ghost (2020)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Whale (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg" group-title="(MULTI LANGUAGE) ",The Whale (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Total Recall (2012)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg" group-title="(MULTI LANGUAGE) ",Total Recall (2012)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150581.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Faster (2010)[Tamil, Hindi, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsUeaXrhw4oscCSjUZ6heh1pVvd.jpg" group-title="(MULTI LANGUAGE) ",Faster (2010)[Tamil, Hindi, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Seetharam Benoy Case No.18 (2023)[Tam, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKnGQjCIAuUOTEJqcV7Nxjxi3Y3.jpg" group-title="(MULTI LANGUAGE) ",Seetharam Benoy Case No.18 (2023)[Tam, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/150585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shankara (2023)[Tam, Tel]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tstshAlE8fehXvLHFv0wUGmMUzH.jpg" group-title="(MULTI LANGUAGE) ",Shankara (2023)[Tam, Tel]
-http://starshare.live:8080/movie/saqib865/96572459/150586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Darker the Lake (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SPC2wUdNuhY0uJpidefCKo0AVD.jpg" group-title="(MULTI LANGUAGE) ",The Darker the Lake (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="White as Snow (2019)[Tam, Tel, Hin, Fre]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kANdcc2G5yFqPDcb1Z8xVshmrFb.jpg" group-title="(MULTI LANGUAGE) ",White as Snow (2019)[Tam, Tel, Hin, Fre]
-http://starshare.live:8080/movie/saqib865/96572459/150591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hunger (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCvHEU3mioUf51DngTBG05JHNYJ.jpg" group-title="(MULTI LANGUAGE) ",Hunger (2023)
-http://starshare.live:8080/movie/saqib865/96572459/150619.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muhammad: The Messenger of God (2015)[Tamil, Hindi, Per]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSlPUIM2ONpxtsFBtY3O6hRF0pi.jpg" group-title="(MULTI LANGUAGE) ",Muhammad: The Messenger of God (2015)[Tamil, Hindi, Per]
-http://starshare.live:8080/movie/saqib865/96572459/150857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Plane (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="(MULTI LANGUAGE) ",Plane (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Last Kingdom: Seven Kings Must Die (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="(MULTI LANGUAGE) ",The Last Kingdom: Seven Kings Must Die (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Offering (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg" group-title="(MULTI LANGUAGE) ",The Offering (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/150863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taYgn3RRpCGlTGdaGQvnSIOzXFy.jpg" group-title="(MULTI LANGUAGE) ",Kill Boksoon (2023)
-http://starshare.live:8080/movie/saqib865/96572459/150873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Borrego  (2022)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAVIAbyhFKbVpXozBhICQboPuRD.jpg" group-title="(MULTI LANGUAGE) ",Borrego  (2022).
-http://starshare.live:8080/movie/saqib865/96572459/150905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ashwathama (2023)[Tam, Mal, Kan]" tvg-logo="https://e.top4top.io/p_2664b4aaa1.jpg" group-title="(MULTI LANGUAGE) ",Ashwathama (2023)[Tam, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/151373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg" group-title="(MULTI LANGUAGE) ",Shazam! Fury of the Gods (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/151389.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oh My Darling (2023) [Tam, Tel, Mal]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywUOF1b5RpbUkQDBAVIKozmOh4g.jpg" group-title="(MULTI LANGUAGE) ",Oh My Darling (2023) [Tam, Tel, Mal]
-http://starshare.live:8080/movie/saqib865/96572459/151552.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Timeline (2003)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOCIrFOT4U9QXML3SLlpCxGs7BV.jpg" group-title="(MULTI LANGUAGE) ",Timeline (2003)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/151557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Project E.1337: ALPHA (2022)[Tam, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtPfO2bQUkUkUxBAkmsUnvCAd2X.jpg" group-title="(MULTI LANGUAGE) ",Project E.1337: ALPHA (2022)[Tam, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/151908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mr. King (2023)[Tamil, Telugu]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hcuXysMgXrfAGrod67s6hBL5eR.jpg" group-title="(MULTI LANGUAGE) ",Mr. King (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/151911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dasara (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzhNxKy20k3MiGKWLApuegbAcRD.jpg" group-title="(MULTI LANGUAGE) ",Dasara (2023)
-http://starshare.live:8080/movie/saqib865/96572459/152162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AKA (2023)(Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Zv7gNTH8LoRnHANhAHGWhGvJC.jpg" group-title="(MULTI LANGUAGE) ",AKA (2023)(Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/152163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jarhead 3: The Siege (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/namZEDSMbFOSI3sMjzeSJ4E176o.jpg" group-title="(MULTI LANGUAGE) ",Jarhead 3: The Siege (2016)
-http://starshare.live:8080/movie/saqib865/96572459/152261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barot House (2023)[Tam, Mal, Tel, Kan, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abzKYvfeFYCLJvwc4ZUpdU3YQ7Q.jpg" group-title="(MULTI LANGUAGE) ",Barot House (2023)[Tam, Mal, Tel, Kan, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/152608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Burial (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4D22vnat4DUm9a9TFPZ0abDEsc.jpg" group-title="(MULTI LANGUAGE) ",Burial (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/152609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cocaine Bear (2023)[Hindi, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg" group-title="(MULTI LANGUAGE) ",Cocaine Bear (2023)[Hindi, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/152610.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor Among Thieves (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg" group-title="(MULTI LANGUAGE) ",Dungeons & Dragons: Honor Among Thieves (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/152616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Huge Shark (2021)[Tam, Tel, Hin, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGGsyRi27b3Kf8pnVl93Y2JszFC.jpg" group-title="(MULTI LANGUAGE) ",Huge Shark (2021)[Tam, Tel, Hin, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/152618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pathu Thala (2023)[Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0t36qEw53A8U1CI5tAcCsUeq0H.jpg" group-title="(MULTI LANGUAGE) ",Pathu Thala (2023)[Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/152622.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ponniyin Selvan: Part I (2022)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSNyZUeqDdii0doQ9970E90kCkb.jpg" group-title="(MULTI LANGUAGE) ",Ponniyin Selvan: Part I (2022)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/152625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sardar (2023)[Malayalam, Tamil]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6wfuQWN9QjUu3j63FAZ3uFL5pO.jpg" group-title="(MULTI LANGUAGE) ",Sardar (2023)[Malayalam, Tamil]
-http://starshare.live:8080/movie/saqib865/96572459/152631.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sniping 2 (2020)[Tam, Tel, Hin, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DS53kZGOsnIXP6wxCUuLizQ031.jpg" group-title="(MULTI LANGUAGE) ",Sniping 2 (2020)[Tam, Tel, Hin, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/152635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Southern Shaolin's Angry Eye (2021)[Tam, Tel, Hin, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLZ5e6vDwLppk3v6fDYtiqJjciO.jpg" group-title="(MULTI LANGUAGE) ",The Southern Shaolin's Angry Eye (2021)[Tam, Tel, Hin, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/152636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Village (2004)[Tamil, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg" group-title="(MULTI LANGUAGE) ",The Village (2004)[Tamil, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/152640.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Savage Man (2020)[Tamil, Telugu, Hindi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyKIgNk9LQkJhgfNJu2TrXrEP54.jpg" group-title="(MULTI LANGUAGE) ",Savage Man (2020)[Tamil, Telugu, Hindi]
-http://starshare.live:8080/movie/saqib865/96572459/152641.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thuramukham (2023)[Tam, Tel, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ2lPXyAwm0c5Sre9xyvnTPEt0Z.jpg" group-title="(MULTI LANGUAGE) ",Thuramukham (2023)[Tam, Tel, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/152642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evil Dead Rise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" group-title="(MULTI LANGUAGE) ",Evil Dead Rise (2023)
-http://starshare.live:8080/movie/saqib865/96572459/152905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Corona Papers (2023)[Tam, Tel, Mal, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKZXVZxZlSs4i7HKaUxPlSwiyuF.jpg" group-title="(MULTI LANGUAGE) ",Corona Papers (2023)[Tam, Tel, Mal, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/152917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Volume 3 (2023)[Hindi, English]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="(MULTI LANGUAGE) ",Guardians of the Galaxy Volume 3 (2023)[Hindi, English]
-http://starshare.live:8080/movie/saqib865/96572459/152919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Volume 3 (2023)[Tamil, Eng](CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="(MULTI LANGUAGE) ",Guardians of the Galaxy Volume 3 (2023)[Tamil, Eng](CAM)
-http://starshare.live:8080/movie/saqib865/96572459/152920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg" group-title="(MULTI LANGUAGE) ",Operation Fortune: Ruse de Guerre (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/152923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy (2014)Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="(MULTI LANGUAGE) ",Guardians of the Galaxy (2014)Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/153238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 2 (2017)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg" group-title="(MULTI LANGUAGE) ",Guardians of the Galaxy Vol. 2 (2017)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/153239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arahan (2004)[Tamil, Hindi, Kor]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98c0nyZOLW9xdGJwvkzWQMiAgBT.jpg" group-title="(MULTI LANGUAGE) ",Arahan (2004)[Tamil, Hindi, Kor]
-http://starshare.live:8080/movie/saqib865/96572459/153244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Volume 3 (2023)[Tamil, Telugu, Hindi, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="(MULTI LANGUAGE) ",Guardians of the Galaxy Volume 3 (2023)[Tamil, Telugu, Hindi, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/153245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sniper (2020) [Tamil, Telugu, Hindi, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ4Npo2BXaWS5GJGgYcQ8DSORZZ.jpg" group-title="(MULTI LANGUAGE) ",Sniper (2020) [Tamil, Telugu, Hindi, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/153246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)(Eng, Hin) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VMWLpk9VXyYcEZ8w3uUhp0OF1v.jpg" group-title="(MULTI LANGUAGE) ",Mission: Impossible II (2000)(Eng, Hin) 
-http://starshare.live:8080/movie/saqib865/96572459/154849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Air (2023)[Tam, Tel, Hin, Mal, Kan, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="(MULTI LANGUAGE) ",Air (2023)[Tam, Tel, Hin, Mal, Kan, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Back to Earth (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tOF6yTtzFP2p7q4GB1lSEMrfIq.jpg" group-title="(MULTI LANGUAGE) ",Boonie Bears: Back to Earth (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Super Mario Bros. Movie (2023) [Hindi, English]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="(MULTI LANGUAGE) ",The Super Mario Bros. Movie (2023) [Hindi, English]
-http://starshare.live:8080/movie/saqib865/96572459/155057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sindhooram (2023)[Tam, Tel, Mal, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVlMypbIRectCSzpU4iV8T9hFNS.jpg" group-title="(MULTI LANGUAGE) ",Sindhooram (2023)[Tam, Tel, Mal, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/155326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soppana Sundari (2023)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10gtxHmaHbalVVwCbQggJfK1V6F.jpg" group-title="(MULTI LANGUAGE) ",Soppana Sundari (2023)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/155327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Curse of Turandot (2021)[Tam, Tel, Hin, Chi]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqwiJHZvbzxNGWsnEtwPakkkOOq.jpg" group-title="(MULTI LANGUAGE) ",The Curse of Turandot (2021)[Tam, Tel, Hin, Chi]
-http://starshare.live:8080/movie/saqib865/96572459/155328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Hurt Locker (2008)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2duGsKjBOl3BB8uFOTnRUzdEhg.jpg" group-title="(MULTI LANGUAGE) ",The Hurt Locker (2008)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Mother (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnRthEZz16Q9VWcP5homkHxyHoy.jpg" group-title="(MULTI LANGUAGE) ",The Mother (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Pope's Exorcist (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IjRR2OW2itjQWQnmlUzvwLz9DQ.jpg" group-title="(MULTI LANGUAGE) ",The Pope's Exorcist (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Princess and the Dragon (2018)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8lY7bzTZ9LsimEVjSLpRDW9fEZ.jpg" group-title="(MULTI LANGUAGE) ",The Princess and the Dragon (2018)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Triangle of Sadness (2022)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9eLozCgCed5FGTSdHu0bBElAV8.jpg" group-title="(MULTI LANGUAGE) ",Triangle of Sadness (2022)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Two Tails (2018)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUhCpS255LXwmN4ELL02bmHsXYH.jpg" group-title="(MULTI LANGUAGE) ",Two Tails (2018)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hollow Man (2000)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAasMJGaytKKsMGbrXJr0g8OufK.jpg" group-title="(MULTI LANGUAGE) ",Hollow Man (2000)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paappan (2023) [Tam, Mal]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajrhlzn5ia18djjtLeNcNdPHikb.jpg" group-title="(MULTI LANGUAGE) ",Paappan (2023) [Tam, Mal]
-http://starshare.live:8080/movie/saqib865/96572459/155460.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Southern Gospel (2023)[Hindi, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uskzrZyYKP1cKxnhTunfUVbl1Xi.jpg" group-title="(MULTI LANGUAGE) ",Southern Gospel (2023)[Hindi, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Kingdom (2007)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RkL0PGod3b75MSrc1nVJxZsoRT.jpg" group-title="(MULTI LANGUAGE) ",The Kingdom (2007)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious (2001)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="(MULTI LANGUAGE) ",The Fast and the Furious (2001)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155479.mkv
-#EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious (2003)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg" group-title="(MULTI LANGUAGE) ",2 Fast 2 Furious (2003)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155480.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious: Tokyo Drift (2006)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46xqGOwHbh2TH2avWSw3SMXph4E.jpg" group-title="(MULTI LANGUAGE) ",The Fast and the Furious: Tokyo Drift (2006)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155481.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious (2009)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUtVoRukW7WNtUySwd8hWlByBds.jpg" group-title="(MULTI LANGUAGE) ",Fast & Furious (2009)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155482.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast Five (2011)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0Xsy4aomjMO47RpoHv8lnfbkoE.jpg" group-title="(MULTI LANGUAGE) ",Fast Five (2011)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6 (2013)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EXOOkhSmJQ9DisNmIjZ8Xi633I.jpg" group-title="(MULTI LANGUAGE) ",Fast & Furious 6 (2013)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Furious 7 (2015)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg" group-title="(MULTI LANGUAGE) ",Furious 7 (2015)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155485.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fate of the Furious (2017)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="(MULTI LANGUAGE) ",The Fate of the Furious (2017)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155486.mkv
-#EXTINF:-1 tvg-id="" tvg-name="F9 The Fast Saga (2021)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="(MULTI LANGUAGE) ",F9 The Fast Saga (2021)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/155487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania (2023) [Tamil + Telugu + Hindi + Malayalam + Eng] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg" group-title="(MULTI LANGUAGE) ",Ant-Man and the Wasp: Quantumania (2023) [Tamil + Telugu + Hindi + Malayalam + Eng] 
-http://starshare.live:8080/movie/saqib865/96572459/155511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast X (2023)(Eng, Hin) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="(MULTI LANGUAGE) ",Fast X (2023)(Eng, Hin) (CAM)
-http://starshare.live:8080/movie/saqib865/96572459/155582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ayalvaashi (2023)[Tamil, Malayalam, Telugu, Kannada]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N2a5q0Qum83OPaJZyAXvCU08U4.jpg" group-title="(MULTI LANGUAGE) ",Ayalvaashi (2023)[Tamil, Malayalam, Telugu, Kannada]
-http://starshare.live:8080/movie/saqib865/96572459/155586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pookkaalam (2023)[Tam, Mal, Tel, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyVvjdw20Fz32m2jSjHo9ijBEsj.jpg" group-title="(MULTI LANGUAGE) ",Pookkaalam (2023)[Tam, Mal, Tel, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/155588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kathal A Jackfruit Mystery (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzVMUMN3tkLXdGbLHbOJ6sfXYI.jpg" group-title="(MULTI LANGUAGE) ",Kathal A Jackfruit Mystery (2023)
-http://starshare.live:8080/movie/saqib865/96572459/155607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Polite Society (2023)(English, Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1izSvHbGu6JiFTVzgfKxWQOfs.jpg" group-title="(MULTI LANGUAGE) ",Polite Society (2023)(English, Hindi)
-http://starshare.live:8080/movie/saqib865/96572459/155728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Again (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGEiqgynu453hMHxOZYtZlisv95.jpg" group-title="(MULTI LANGUAGE) ",Love Again (2023)
-http://starshare.live:8080/movie/saqib865/96572459/155902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Victim/Suspect (2023)(Hindi, English)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGaFFNfqS6rH51LJS8a663OGwdO.jpg" group-title="(MULTI LANGUAGE) ",Victim/Suspect (2023)(Hindi, English)
-http://starshare.live:8080/movie/saqib865/96572459/155903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viduthalai: Part I (2023)[Mal, Kan] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg" group-title="(MULTI LANGUAGE) ",Viduthalai: Part I (2023)[Mal, Kan] 
-http://starshare.live:8080/movie/saqib865/96572459/156018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zhong Kui Exorcism (2022)[Tam, Tel, Hin, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpGZUwFjutrUIlGVN8ucQDLEzuT.jpg" group-title="(MULTI LANGUAGE) ",Zhong Kui Exorcism (2022)[Tam, Tel, Hin, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/156022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhediya (2023)[Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg" group-title="(MULTI LANGUAGE) ",Bhediya (2023)[Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/156137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 (2023)[Tam, Tel, Hin, Eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="(MULTI LANGUAGE) ",John Wick: Chapter 4 (2023)[Tam, Tel, Hin, Eng]
-http://starshare.live:8080/movie/saqib865/96572459/156142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pichaikkaran 2 (2023)[Tam, Tel, Hin]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ6b5VYTZRFI1Q66tsOQXKokre7.jpg" group-title="(MULTI LANGUAGE) ",Pichaikkaran 2 (2023)[Tam, Tel, Hin]
-http://starshare.live:8080/movie/saqib865/96572459/156145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ponniyin Selvan: Part II (2023)[Tam, Mal, Tel, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fMM5yjLYJNfO3CSQBpfC1kqeIK.jpg" group-title="(MULTI LANGUAGE) ",Ponniyin Selvan: Part II (2023)[Tam, Mal, Tel, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/156146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rudra  Land of Nowhere (2021)[Tam, Tel, Hin, Mal, Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmxekqA9zMEwUFDJvsaVb3a9RrF.jpg" group-title="(MULTI LANGUAGE) ",Rudra  Land of Nowhere (2021)[Tam, Tel, Hin, Mal, Kan]
-http://starshare.live:8080/movie/saqib865/96572459/156147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Point Men (2023)[Tamil, Hindi, Kor]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clqjSOghnY9OxmqkrdS9nHMnKEz.jpg" group-title="(MULTI LANGUAGE) ",The Point Men (2023)[Tamil, Hindi, Kor]
-http://starshare.live:8080/movie/saqib865/96572459/156150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thiruvin Kural (2023)[Malayalam, Telugu, Kannada]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4CZ3AKQlIsd0CJuI7QF9dOatUk.jpg" group-title="(MULTI LANGUAGE) ",Thiruvin Kural (2023)[Malayalam, Telugu, Kannada]
-http://starshare.live:8080/movie/saqib865/96572459/156151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pachuvum Athbhuthavilakkum (2023)[Tamil, Telugu]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pImw8H3Ae8fMbAZ16z6Wtsf6Qn4.jpg" group-title="(MULTI LANGUAGE) ",Pachuvum Athbhuthavilakkum (2023)[Tamil, Telugu]
-http://starshare.live:8080/movie/saqib865/96572459/156267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Grandson (2022)[Tam, Tel, Hin, Hun]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izwRjEfdxI9en3QmzDAjfSZVqlt.jpg" group-title="(MULTI LANGUAGE) ",The Grandson (2022)[Tam, Tel, Hin, Hun]
-http://starshare.live:8080/movie/saqib865/96572459/156268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tin & Tina (2023)(Hindi, English)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" group-title="(MULTI LANGUAGE) ",Tin & Tina (2023)(Hindi, English)
-http://starshare.live:8080/movie/saqib865/96572459/156350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="AAMIR KHAN COLLECTION",3 Idiots (2009)
-http://starshare.live:8080/movie/saqib865/96572459/33052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Akele Hum Akele Tum (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpCbEiAstlOOIhjbQhQrTHF4ZEg.jpg" group-title="AAMIR KHAN COLLECTION",Akele Hum Akele Tum (1995)
-http://starshare.live:8080/movie/saqib865/96572459/33053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1tE1GspvcyeYSfKxmnh8DObnzG.jpg" group-title="AAMIR KHAN COLLECTION",Andaz Apna Apna (1994)
-http://starshare.live:8080/movie/saqib865/96572459/33054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baazi (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovZzl24CtM4UevTLHMyJO9svRXB.jpg" group-title="AAMIR KHAN COLLECTION",Baazi (1995)
-http://starshare.live:8080/movie/saqib865/96572459/33055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dangal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg" group-title="AAMIR KHAN COLLECTION",Dangal (2016)
-http://starshare.live:8080/movie/saqib865/96572459/33056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baT20krHmPWE5erxJgqPXIF1zvG.jpg" group-title="AAMIR KHAN COLLECTION",Dhoom 3 (2013)
-http://starshare.live:8080/movie/saqib865/96572459/33057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dil Chahta Hai (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5yjk7hbv8AK0DR0oJUrSGHMn9A.jpg" group-title="AAMIR KHAN COLLECTION",Dil Chahta Hai (2001)
-http://starshare.live:8080/movie/saqib865/96572459/33058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dil Dhadakne Do (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApyXce8aQ5xaNXUd8XKd9JaPVwa.jpg" group-title="AAMIR KHAN COLLECTION",Dil Dhadakne Do (2015)
-http://starshare.live:8080/movie/saqib865/96572459/33059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dil Hai Ke Manta Nahin (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylyfnkNCVjW41GEFyuHUWEhHoMn.jpg" group-title="AAMIR KHAN COLLECTION",Dil Hai Ke Manta Nahin (1991)
-http://starshare.live:8080/movie/saqib865/96572459/33060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fanaa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YCF3drTYLc7eoLFBbbexsT3iQj.jpg" group-title="AAMIR KHAN COLLECTION",Fanaa (2006)
-http://starshare.live:8080/movie/saqib865/96572459/33061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ghajini (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ib1Ddr8AuMa9sfVADjznzkih0x.jpg" group-title="AAMIR KHAN COLLECTION",Ghajini (2008)
-http://starshare.live:8080/movie/saqib865/96572459/33062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ghulam (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Nq1gKCp7JhwkCzmb5x9XGkmLu.jpg" group-title="AAMIR KHAN COLLECTION",Ghulam (1998)
-http://starshare.live:8080/movie/saqib865/96572459/33063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hum Hain Rahi Pyar Ke (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocEQInlignEoa8ztW7CSVSnsty3.jpg" group-title="AAMIR KHAN COLLECTION",Hum Hain Rahi Pyar Ke (1993)
-http://starshare.live:8080/movie/saqib865/96572459/33064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ishq (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg" group-title="AAMIR KHAN COLLECTION",Ishq (1997)
-http://starshare.live:8080/movie/saqib865/96572459/33065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jo Jeeta Wohi Sikandar (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztuMAX4CMnfLosDv7PLmaJZurjI.jpg" group-title="AAMIR KHAN COLLECTION",Jo Jeeta Wohi Sikandar (1992)
-http://starshare.live:8080/movie/saqib865/96572459/33066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kal Ho Naa Ho (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="AAMIR KHAN COLLECTION",Kal Ho Naa Ho (2003)
-http://starshare.live:8080/movie/saqib865/96572459/33067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Koi Jaane Na (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5a58rPtVzy8Ygt4w0vPn6Mrxfx.jpg" group-title="AAMIR KHAN COLLECTION",Koi Jaane Na (2021)
-http://starshare.live:8080/movie/saqib865/96572459/33068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lagaan: Once Upon a Time in India (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg" group-title="AAMIR KHAN COLLECTION",Lagaan: Once Upon a Time in India (2001)
-http://starshare.live:8080/movie/saqib865/96572459/33069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mann (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg" group-title="AAMIR KHAN COLLECTION",Mann (1999)
-http://starshare.live:8080/movie/saqib865/96572459/33070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Qayamat Se Qayamat Tak (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWF3RMf7SKfZx5CObQusnemnhmU.jpg" group-title="AAMIR KHAN COLLECTION",Qayamat Se Qayamat Tak (1988)
-http://starshare.live:8080/movie/saqib865/96572459/33071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Raja Hindustani (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4Uy3dHYmnYgvZ0U2xK5alazBFR.jpg" group-title="AAMIR KHAN COLLECTION",Raja Hindustani (1996)
-http://starshare.live:8080/movie/saqib865/96572459/33072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rang De Basanti (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1bF8CHzEu621bPSIg6XiUNAabh.jpg" group-title="AAMIR KHAN COLLECTION",Rang De Basanti (2006)
-http://starshare.live:8080/movie/saqib865/96572459/33073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sarfarosh (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pu7ykvptVV3hEPuf2soqoCwyJMl.jpg" group-title="AAMIR KHAN COLLECTION",Sarfarosh (1999)
-http://starshare.live:8080/movie/saqib865/96572459/33074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Secret Superstar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkTeziNtc0uwE899uI1hlMOEdZL.jpg" group-title="AAMIR KHAN COLLECTION",Secret Superstar (2017)
-http://starshare.live:8080/movie/saqib865/96572459/33075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Like Stars on Earth (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwXhw9bERqKrJfJK6WGakPIh3FS.jpg" group-title="AAMIR KHAN COLLECTION",Like Stars on Earth (2007)
-http://starshare.live:8080/movie/saqib865/96572459/33076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Talaash (2012)" tvg-logo="http://starshare.live:8080/images/f7516a1aa0ca40d09a0086e582ca6fd8.jpg" group-title="AAMIR KHAN COLLECTION",Talaash (2012)
-http://starshare.live:8080/movie/saqib865/96572459/33077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thugs of Hindostan (2018)" tvg-logo="http://starshare.live:8080/images/fbb583f245dc35b215bed3be301d591d.jpg" group-title="AAMIR KHAN COLLECTION",Thugs of Hindostan (2018)
-http://starshare.live:8080/movie/saqib865/96572459/33078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Daulat Ki Jung (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hyO0QG9K0TczBTnn8M4p752wtB.jpg" group-title="AAMIR KHAN COLLECTION",Daulat Ki Jung (1992)
-http://starshare.live:8080/movie/saqib865/96572459/33267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mangal Pandey - The Rising (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwEckVbFP20UYVhLAs2c4JZ3TE.jpg" group-title="AAMIR KHAN COLLECTION",Mangal Pandey - The Rising (2005)
-http://starshare.live:8080/movie/saqib865/96572459/33268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PK (2014)" tvg-logo="http://starshare.live:8080/images/d52d6cd1dcea943cad2c58d4c4e1b6fa.jpg" group-title="AAMIR KHAN COLLECTION",PK (2014)
-http://starshare.live:8080/movie/saqib865/96572459/69403.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", SET HD
+https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony SAB HD
+https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony PAL
+https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony YAY
+https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony AATH
+https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony Marathi
+https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony BBC Earth HD
+https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony PIX HD
+https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony WAH
+https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony MAX
+https://dai.google.com/ssai/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony MAX HD
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony MAX2
+https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 1
+https://dai.google.com/ssai/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 2
+https://dai.google.com/ssai/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 3
+https://dai.google.com/ssai/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 4
+https://dai.google.com/ssai/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 5
+https://dai.google.com/ssai/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 1 HD
+https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 2 HD
+https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 3 HD
+https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 4 HD
+https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony TEN 5 HD
+https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
