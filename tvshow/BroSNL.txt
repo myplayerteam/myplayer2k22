@@ -134,3 +134,43 @@ https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SONY Pictures Network", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="===== AF: SPORT =====" tvg-logo="" group-title="AF SPORT",===== AF: SPORT =====
+http://pandar.cc:25461/02023684441733/4909632958/116673
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT PLAY HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT PLAY HD
+http://pandar.cc:25461/02023684441733/4909632958/116674
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT MAXIMO 1" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT MAXIMO 1
+http://pandar.cc:25461/02023684441733/4909632958/116675
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT BLITZ HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT BLITZ HD
+http://pandar.cc:25461/02023684441733/4909632958/116676
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT EVENTS HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT EVENTS HD
+http://pandar.cc:25461/02023684441733/4909632958/116677
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT MOTORSPORT HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT MOTORSPORT HD
+http://pandar.cc:25461/02023684441733/4909632958/116678
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT GOLF HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT GOLF HD
+http://pandar.cc:25461/02023684441733/4909632958/116679
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT CRICKET HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT CRICKET HD
+http://pandar.cc:25461/02023684441733/4909632958/116680
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT RUGBY HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT RUGBY HD
+http://pandar.cc:25461/02023684441733/4909632958/116681
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT TENNIS HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT TENNIS HD
+http://pandar.cc:25461/02023684441733/4909632958/116682
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT FOOTBAL PLUS HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT FOOTBAL PLUS HD
+http://pandar.cc:25461/02023684441733/4909632958/116683
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT LALIGA HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT LALIGA HD
+http://pandar.cc:25461/02023684441733/4909632958/116684
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT PREMIER LEAGUE HD
+http://pandar.cc:25461/02023684441733/4909632958/116685
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT FOOTBALL HD
+http://pandar.cc:25461/02023684441733/4909632958/116686
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT PSL HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT PSL HD
+http://pandar.cc:25461/02023684441733/4909632958/116687
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT ACTION HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT ACTION HD
+http://pandar.cc:25461/02023684441733/4909632958/116688
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 1 HD
+http://pandar.cc:25461/02023684441733/4909632958/116689
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 2 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 2 HD
+http://pandar.cc:25461/02023684441733/4909632958/116690
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 3 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 3 HD
+http://pandar.cc:25461/02023684441733/4909632958/116691
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 4 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 4 HD
+http://pandar.cc:25461/02023684441733/4909632958/116692
