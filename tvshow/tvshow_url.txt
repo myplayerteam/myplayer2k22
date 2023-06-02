@@ -1,4 +1,4 @@
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con9000.txt
 (myplayer)Bro Snow Lake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/BroSNL.txt
 (myplayer)Bein TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/be_in.txt
-(myplayer)BananaTV,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=ts&type=m3u_plus
+(myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/btv.txt
