@@ -174,3 +174,34 @@ http://pandar.cc:25461/02023684441733/4909632958/116690
 http://pandar.cc:25461/02023684441733/4909632958/116691
 #EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 4 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 4 HD
 http://pandar.cc:25461/02023684441733/4909632958/116692
+
+#EXTINF:-1,Star Bharat Via
+http://103.154.47.147:4000/play/a017/index.m3u8
+#EXTINF:-1,Star Gold HD Via
+http://103.154.47.147:4000/play/a01v/index.m3u8
+#EXTINF:-1,Star Gold HD Via (clone)
+http://103.154.47.147:4000/play/a01x/index.m3u8
+#EXTINF:-1,Star Plus HD Via
+http://103.154.47.147:4000/play/a016/index.m3u8
+#EXTINF:-1,Star Plus HD Via (clone)
+http://103.154.47.147:4000/play/a01m/index.m3u8
+#EXTINF:-1,Star Sports 1 HD Via
+http://103.154.47.147:4000/play/a018/index.m3u8
+#EXTINF:-1,Star Sports 1 HD Via (clone)
+http://103.154.47.147:4000/play/a01n/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi HD Via
+http://103.154.47.147:4000/play/a01a/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi HD Via (clone)
+http://103.154.47.147:4000/play/a01o/index.m3u8
+#EXTINF:-1,Star Sports 2 HD via
+http://103.154.47.147:4000/play/a019/index.m3u8
+#EXTINF:-1,Star Sports 2 HD via (clone)
+http://103.154.47.147:4000/play/a01p/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD Via
+http://103.154.47.147:4000/play/a01b/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD Via (clone)
+http://103.154.47.147:4000/play/a01q/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD Via
+http://103.154.47.147:4000/play/a01c/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD Via (clone)
+http://103.154.47.147:4000/play/a01r/index.m3u8
