@@ -3,3 +3,4 @@
 (myplayer)Bein TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/be_in.txt
 (myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/btv.txt
 (myplayer)Movies,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/vod.txt
+(myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
