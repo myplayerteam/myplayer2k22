@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9e634df5913f55ef4f67469b99294d45.jfif" group-title="Greece",GR: Nova Premiere Comedy
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/90629
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Hellenic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a4fb616499b0668637fd75ddbf3bb8bc.jfif" group-title="Greece",GR: Nova Premiere Hellenic
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/81460
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere History" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/edacda84d2a66958b64a993d4950cde4.jpg" group-title="Greece",GR: Nova Premiere History
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/39
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Mythology" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d0342a48840297bc6e9dca4f4249a31c.jfif" group-title="Greece",GR: Nova Premiere Mythology
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/198413
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Passion" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/06d615f2d95e4b550c5be88833dc91f8.jfif" group-title="Greece",GR: Nova Premiere Passion
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/266429
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere sci-fi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a26b221e68a79867d9c68c0aed2e6205.jfif" group-title="Greece",GR: Nova Premiere sci-fi
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/151625
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Starz" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/fd301cac052d820bac3c305b6a765122.jfif" group-title="Greece",GR: Nova Premiere Starz
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/146538
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Thriller" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04bc64797147e0bc0e755bbbfbd99757.jfif" group-title="Greece",GR: Nova Premiere Thriller
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/45
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Premiere Western" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dd296b76fadf7a739af0cbd0ef28c729.jfif" group-title="Greece",GR: Nova Premiere Western
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/198414
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/224417b4962845144900afd5b142613d.png" group-title="France ➾ LifeStyle",FR: CANAL+
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/170
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f5d48cb102472e4ff6713c15fc967c2f.png" group-title="France ➾ Movie",FR: CANAL+ Cinema
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/172
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Docs" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ba8136fe03e06b6ac848c955e214735a.png" group-title="France ➾ Documentary",FR: CANAL+ Docs
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298737
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Elles" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/a2cdd01433e5b0a0f1e83934b38b30f3.png" group-title="France ➾ Movie",FR: CANAL+ Elles
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297370
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Film" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/cfd66762a2f793760da13ae4c5911dfa.png" group-title="France ➾ Movie",FR: CANAL+ Film
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298738
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ First" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ca2409c71816f15567c53d4596393e7c.png" group-title="France ➾ Movie",FR: CANAL+ First
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298739
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Foot" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="France ➾ Sports",FR: CANAL+ Foot
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297371
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Formula 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France ➾ Movie",FR: CANAL+ Formula 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298740
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FORMULE 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/023d2b998cbf030c0e554eb18c6eb546.jpg" group-title="France ➾ Sports",FR: CANAL+ FORMULE 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295260
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Grand Ecran" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France ➾ Movie",FR: CANAL+ Grand Ecran
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298741
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="France ➾ Kids",FR: CANAL+ Kids
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281601
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ MotoGP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France ➾ Sports",FR: CANAL+ MotoGP
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297423
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France ➾ Football",FR: CANAL+ Premier League
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286794
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3cb04d35c090108c3d40ea207b43fbda.png" group-title="France ➾ Movie",FR: CANAL+ Series
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/173
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="France ➾ Sports",FR: CANAL+ Sport
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/143
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1c3051796e55e0ae4bc5c67f6bc50c49.jpg" group-title="France ➾ Sports",FR: CANAL+ Sport 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/291175
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/207d0bf6cb14838f26078d7702168090.png" group-title="France ➾ Sports",FR: CANAL+ Sport 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298742
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ccdd67e3afbdfaa1fabdc29c99820433.png" group-title="France ➾ Sports",FR: CANAL+ Sport 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/291177
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f389c3a9b79953394fda84bdc4044658.png" group-title="France ➾ Sports",FR: CANAL+ Sport 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297381
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d61d1906b88792e013fb83f7dab08ab1.png" group-title="France ➾ Sports",FR: CANAL+ Sport 5
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/291178
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c5e0963b89951b3efa29b9cda6103926.png" group-title="France ➾ Sports",FR: CANAL+ Sport 360
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297378
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Paris Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14315b8daa23b332e9db88c6a61b692d.png" group-title="France ➾ LifeStyle",FR: Paris Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/868
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" group-title="UK ➾ Movie",UK: Sky Cinema Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1085
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/812726221490a0613a84839d98841089.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/24247
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Dokument" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/99d9e118f2944b07b5a917812c16932f.png" group-title="Poland ➾ Documentary",PL: CANAL+ Dokument
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2720
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Domo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1c571edf76970e17b081ae170ee4133c.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ Domo
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2695
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0b0740eb7ff783b99c5e9b91e4107be8.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ Family
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/147180
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Film" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54cff68b6254cb66c588ee3eafebf054.png" group-title="Poland ➾ Movie",PL: CANAL+ Film
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1714
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Kuchnia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd68563b3c37075d8c31177c27a87205.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ Kuchnia
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1703
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Now" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e78640bbfdfd6682aaecaf43c138d5f5.png" group-title="Poland",PL: CANAL+ Now
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/122183
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/524e80b807006b992f74efd99450afae.png" group-title="Poland ➾ Movie",PL: CANAL+ Premium
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/341
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Seriale" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fe9e74a82c8c642c4b1bbbcfb2170805.png" group-title="Poland ➾ Movie",PL: CANAL+ Seriale
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/342
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4103f08667719cf9449e3df11e0a27a0.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/69426
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/13195a8ec80cfd5754934fa6b004be0d.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/343
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/86fe6ddb363034dcfa2d2a037e8e99fc.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/33580
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/05fefe0951fe1b0b22ba09eea8508397.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/78322
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6b3e922a78ab307d4fc4fc1779a72aa7.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 5
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297382
+#EXTINF:-1 tvg-ID="" tvg-name="PL: FIGHT BOX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/94bc6cae7e751f5d7d5bb3bb5d459aff.png" group-title="Poland ➾ Sports",PL: FIGHT BOX
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/350
+#EXTINF:-1 tvg-ID="" tvg-name="PL: FIGHT Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/97f3ed75795cf15a6c66a0d8303b6729.png" group-title="Poland ➾ Sports",PL: FIGHT Klub
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/67638
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport FIGHT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/004ea7bb81589ce24fbeb5aae3ee1a3c.png" group-title="Poland ➾ Sports",PL: Polsat Sport FIGHT
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/26592
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d2b40c20cd42aee89dc3d9046c2fa329.png" group-title="Germany ➾ Movie",DE: Sky Cinema Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2117
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Premieren" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ea30627241bde8715bb3e61e287cb1fd.png" group-title="Germany ➾ Movie",DE: Sky Cinema Premieren
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298585
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Premieren +24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ae711c8f6f85772359e474455109c70f.png" group-title="Germany ➾ Movie",DE: Sky Cinema Premieren +24
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2414
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Premiere League" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg" group-title="Germany ➾ Football",DE: Sky Sport Premiere League
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298381
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png" group-title="USA ➾ Sports",US: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/747
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bb7f0a14bf41b0d0cb5a524a7ef46dd6.png" group-title="USA ➾ Sports",US: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/41918
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",US: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/14816
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/563035a6fbe029b233bb53cdf2d3cbac.png" group-title="USA ➾ Sports",US: ESPN News
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2312
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPNU" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15094ba088f2e48b88e81236d6336575.png" group-title="USA ➾ Sports",US: ESPNU
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2311
+#EXTINF:-1 tvg-ID="" tvg-name="US: FIGHT BOX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7f4b6b73ae00fc12673c82dcc4891361.png" group-title="USA ➾ Sports",US: FIGHT BOX
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/530
+#EXTINF:-1 tvg-ID="" tvg-name="US: FIGHT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bb9cc634e4ef4812034bbe9a4ddb655f.png" group-title="USA ➾ Sports",US: FIGHT Sports
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/157606
+#EXTINF:-1 tvg-ID="" tvg-name="US: Universal Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/241d1dabdd405409c5d12a9c7021fbd9.png" group-title="USA",US: Universal Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/291223
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FIGHT Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0acf73a8d84e27437ea2ec13b3576666.png" group-title="Canada ➾ Sports",CA: FIGHT Network
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/9235
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" group-title="Turkey ➾ Movie",TR: beIN Movies Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1764
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" group-title="Turkey ➾ Movie",TR: beIN Movies Premiere 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1765
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",NL: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/267209
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Netherlands ➾ Sports",NL: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/272119
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="Netherlands ➾ Sports",NL: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/272120
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="Netherlands ➾ Sports",NL: ESPN 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/272121
+#EXTINF:-1 tvg-ID="" tvg-name="NL: FILM1 Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f97197873fd9f68fc7a291e3667e66cf.png" group-title="Netherlands ➾ Movie",NL: FILM1 Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2462
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="Spain ➾ Sports",ES: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/90708
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png" group-title="Spain ➾ Sports",ES: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281480
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5c432b98e228de745d3de84f5526e459.png" group-title="Spain ➾ Sports",ES: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281403
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e79116fd84fbb5bb76c050ae09684729.png" group-title="Spain ➾ Sports",ES: ESPN Deportes
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281417
+#EXTINF:-1 tvg-ID="" tvg-name="AL: CineStar TV Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c58bee426c97015fe68762a3026a514d.png" group-title="Albania",AL: CineStar TV Premiere 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297303
+#EXTINF:-1 tvg-ID="" tvg-name="AL: CineStar TV Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/466bc8acf4ce9bcd0a7eaafeb6dd6ced.png" group-title="Albania",AL: CineStar TV Premiere 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297302
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: KS Filma24 Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/278255
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eecdc54a99f39060d1a6777e65135235.jpg" group-title="Albania",AL: X Premiere 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/40535
+#EXTINF:-1 tvg-ID="" tvg-name="LA: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="Latino",LA: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/5779
+#EXTINF:-1 tvg-ID="" tvg-name="LA: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png" group-title="Latino",LA: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3031
+#EXTINF:-1 tvg-ID="" tvg-name="LA: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png" group-title="Latino",LA: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3032
+#EXTINF:-1 tvg-ID="" tvg-name="LA: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg" group-title="Latino",LA: ESPN 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295304
+#EXTINF:-1 tvg-ID="" tvg-name="LA: ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png" group-title="Latino",LA: ESPN Deportes
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/6446
+#EXTINF:-1 tvg-ID="" tvg-name="LA: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/55f937782e1eff60fd0d2ed936aa5ce7.png" group-title="Latino",LA: ESPN Extra
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/285105
+#EXTINF:-1 tvg-ID="" tvg-name="MX: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Mexico ➾ Sports",MX: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/9070
+#EXTINF:-1 tvg-ID="" tvg-name="MX: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/64516b5abe7608f85db2b125d4ed9166.svg" group-title="Mexico ➾ Sports",MX: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298057
+#EXTINF:-1 tvg-ID="" tvg-name="MX: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="Mexico ➾ Sports",MX: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/38603
+#EXTINF:-1 tvg-ID="" tvg-name="MX: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="Mexico ➾ Sports",MX: ESPN Extra
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/38607
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="Brazil ➾ Sports",BR: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8793
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="Brazil ➾ Sports",BR: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8801
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d4eadd237437bdfc6f611165eb5891c8.png" group-title="Brazil ➾ Sports",BR: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/290657
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="Brazil ➾ Sports",BR: ESPN Extra
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8789
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil ➾ Football",BR: Premiere FC 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8785
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png" group-title="Brazil ➾ Football",BR: Premiere FC 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8786
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="Brazil ➾ Football",BR: Premiere FC 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8787
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="Brazil ➾ Football",BR: Premiere FC 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8788
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="Brazil ➾ Football",BR: Premiere FC 5
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8790
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 6
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8791
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere FC 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43c658602510deaefdbb2c0191238330.jpg" group-title="Brazil ➾ Football",BR: Premiere FC 7
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8798
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="Argentina",ARG: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/61174
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="Argentina",ARG: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/70752
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="Argentina",ARG: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/61170
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="Argentina",ARG: ESPN 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295627
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Argentina",ARG: ESPN Extra
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/66298
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: ESPN Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg" group-title="Argentina",ARG: ESPN Premium
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298158
+#EXTINF:-1 tvg-ID="" tvg-name="CO: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9077abd6402f65b78b66f0a1fa79c0cd.png" group-title="Colombia",CO: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295642
+#EXTINF:-1 tvg-ID="" tvg-name="CO: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0b85729cd212b1cc4d23ffadad19f9e.png" group-title="Colombia",CO: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/273212
+#EXTINF:-1 tvg-ID="" tvg-name="CO: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0bc67a3ca3b778cea017d25060ac86cd.png" group-title="Colombia",CO: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295641
+#EXTINF:-1 tvg-ID="" tvg-name="CO: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0d513d16eccae18d3668ac09a6dc3613.jpg" group-title="Colombia",CO: ESPN 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298683
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Arena Fight" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/24a3bcf4b80c09121f750ea441d61aad.png" group-title="Serbia ➾ Sports",RS: Arena Fight
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/280238
+#EXTINF:-1 tvg-ID="" tvg-name="HR: CineStar Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/601776b9be2e0c96803121313e235c4e.png" group-title="Croatia",HR: CineStar Premiere 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/192244
+#EXTINF:-1 tvg-ID="" tvg-name="HR: CineStar Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/491a37341f89bd288bdf1044a59c5786.png" group-title="Croatia",HR: CineStar Premiere 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/192637
+#EXTINF:-1 tvg-ID="" tvg-name="HR: CineStar TV Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/5013895bd4d3d26baea072bc95825517.png" group-title="Croatia",HR: CineStar TV Premiere 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/4141
+#EXTINF:-1 tvg-ID="" tvg-name="HR: CineStar TV Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/be4a33dfdf0b2b0b0090e45aacab262e.png" group-title="Croatia",HR: CineStar TV Premiere 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/4142
+#EXTINF:-1 tvg-ID="" tvg-name="HR: Sport Klub FIGHT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bc89e1ef81ba352752194ae6d02d3af5.png" group-title="Croatia",HR: Sport Klub FIGHT
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/67741
+#EXTINF:-1 tvg-ID="" tvg-name="MK: Cinestar TV Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/dda7f3f94df3e99c303b21ec795af5e5.png" group-title="Macedonia",MK: Cinestar TV Premiere 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/84430
+#EXTINF:-1 tvg-ID="" tvg-name="DK: V Film Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a21c4581dd92b5920266862f64968771.png" group-title="Denmark ➾ Movie",DK: V Film Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298453
+#EXTINF:-1 tvg-ID="" tvg-name="SE: V Film Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e60f1e3616822454b7e161464f3b2f46.png" group-title="Sweden ➾ Movie",SE: V Film Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/10638
+#EXTINF:-1 tvg-ID="" tvg-name="SUR: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="Suriname",SUR: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8689
+#EXTINF:-1 tvg-ID="" tvg-name="SUR: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="Suriname",SUR: ESPN 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298157
+#EXTINF:-1 tvg-ID="" tvg-name="SUR: ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f79d6b3be2794fc6432b81cc6e123c0c.png" group-title="Suriname",SUR: ESPN Deportes
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281418
+#EXTINF:-1 tvg-ID="" tvg-name="CL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8b504cd4f5d0a0855aa7061d639a3c95.svg" group-title="Chile",CL: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295637
+#EXTINF:-1 tvg-ID="" tvg-name="CL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e11a3ef7190367204b911bcae386a644.png" group-title="Chile",CL: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298602
+#EXTINF:-1 tvg-ID="" tvg-name="PE: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9a74a744a38f95d26aaff9e72dde2894.png" group-title="Peru",PE: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295657
+#EXTINF:-1 tvg-ID="" tvg-name="PE: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5a99fc538e2a9b20763af4a26e7141a3.png" group-title="Peru",PE: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295656
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/14322a63056b0682864f44bc28a0dad1.png" group-title="South Africa",ZA: Canal+ Action
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297366
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/736aff3a7b371468c4dd1df88a8b99af.png" group-title="South Africa ➾ Movie",ZA: Canal+ Cinema
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297367
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Elles" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2f4a40e4a57bcf3b63868760f38ef075.png" group-title="South Africa",ZA: Canal+ Elles
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297369
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6a8462aec273df1fb331fa2134ee8353.png" group-title="South Africa ➾ LifeStyle",ZA: CANAL+ Family
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1894
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Foot" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1ef307d2ff7e452d2d95f3d340717ed9.png" group-title="South Africa ➾ Sports",ZA: Canal+ Foot
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297372
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="South Africa",ZA: CANAL+ Kids
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297373
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ MotoGP" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce0a68330a0fe567809cf0c405457c68.png" group-title="South Africa",ZA: Canal+ MotoGP
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297424
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Pop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0b7c91279726fdfdd6321722fe0fc113.png" group-title="South Africa ➾ LifeStyle",ZA: Canal+ Pop
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297374
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Premier League
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297425
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1cd470ab600d9ad1f4a648294fd06a41.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297375
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c90064fe9ad60a5ff8265f8b98a0d507.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297376
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b1fb6c251cc8552a7e273b30f6f42581.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 3
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297377
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/72ce68d0cf533451413b2e196e0e9eec.png" group-title="South Africa ➾ Sports",ZA: Canal+ Sport 4
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297380
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/08b1fa390c5f6b51d8ce98a8787b7595.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 5
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297383
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/802c45fdf3f60818630503f4e8d58246.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 360
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297379
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: ESPN 2 Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/63d7ebf810808d4d7aa14d9ef29a37ee.png" group-title="South Africa ➾ Sports",ZA: ESPN 2 Africa
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295317
+#EXTINF:-1 tvg-ID="" tvg-name="RU: VIP Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c82e07c34da5248505eca17c50f46b8b.png" group-title="Russia",RU: VIP Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/43988
+#EXTINF:-1 tvg-ID="" tvg-name="CAR: ESPN Caribbean 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/24b61aa7d91b43418b17a8125e2c6f18.png" group-title="Caribbean",CAR: ESPN Caribbean 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/196669
+#EXTINF:-1 tvg-ID="" tvg-name="AU: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" group-title="Australia",AU: ESPN
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/294449
+#EXTINF:-1 tvg-ID="" tvg-name="AU: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" group-title="Australia",AU: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/35326
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Indonesia",ID: Fight Sport
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298531
+#EXTINF:-1 tvg-ID="" tvg-name="LT: ESPN 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Lithuania",LT: ESPN 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/202075
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Movies Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5e38160e63541c3247432ad7cd12e674.jpg" group-title="Qatar",QA: beIN Movies Premiere 1
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/267063
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/efa31acf39edca3d0c8894e774c4b0ef.png" group-title="Qatar",QA: beIN Movies Premiere 2
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1267
+#EXTINF:-1 tvg-ID="" tvg-name="AE: OSN Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e349ce7f1a7e1d5f6f2f112e4d923e2f.png" group-title="UAE ➾ Movie",AE: OSN Premiere
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/22118
