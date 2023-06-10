@@ -1,8 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 1 SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 1 SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35782
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 2 SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 2 SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35785
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 3 SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 3 SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35783
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 1 PREMUM SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 1 PREMUM SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35780
 #EXTINF:-1 tvg-ID="" tvg-name="AR: beIN PREMIUM 1 426x256" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR: beIN PREMIUM 1 426x256
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/87234
 #EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 1 PREMIUM 480" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR: beIN SPORTS 1 PREMIUM 480
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/58640
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 2 PREMUM SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 2 PREMUM SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35781
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 3 PREMUM SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 3 PREMUM SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35787
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 4 SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 4 SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35784
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/1600px-BeIN_Sports.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 5 SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35788
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 6 SD" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 6 SD
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35786
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 7 SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/1600px-BeIN_Sports.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS 7 SD 
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35789
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS XTRA 1 HD " tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS XTRA 1 HD 
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/76113
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS XTRA 2 HD " tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL SD ",AR:BEIN SPORTS XTRA 2 HD 
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/76114
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/1600px-BeIN_Sports.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: Bein Sport News
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35628
 #EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 1 PREMIUM HD ⓧ" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: beIN SPORTS 1 PREMIUM HD ⓧ
@@ -71,14 +95,20 @@ http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/71449
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/71450
 #EXTINF:-1 tvg-ID="" tvg-name="AR: beIN French 3 4K" tvg-logo="https://code-gsm.com/katkotati_4k.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: beIN French 3 4K
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/71451
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 1 HD ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR:BEIN SPORTS 1 HD ✔️
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35765
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 2 HD  ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: BEIN SPORTS 2 HD  ✔️
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35766
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 3  HD  ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR:BEIN SPORTS 3  HD  ✔️
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35767
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 4 HD  ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: BEIN SPORTS 4 HD  ✔️
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35768
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 5 HD ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: BEIN SPORTS 5 HD ✔️
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35769
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 6 HD ✔️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/1600px-BeIN_Sports.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: BEIN SPORTS 6 HD ✔️
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35770
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BEIN SPORTS 7 HD ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR:BEIN SPORTS 7 HD ✔️
+http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35771
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS PREMIUM 1 HD ✔️" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: BEIN SPORTS PREMIUM 1 HD ✔️
 http://iptv-tn.com:8080/@Luckygluckyg/iptv.4ktezz.top/35772
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS PREMIUM 2 HD ✔️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/1600px-BeIN_Sports.png" group-title="|AR| BEIN SPORT LOCAL HD",AR: BEIN SPORTS PREMIUM 2 HD ✔️
