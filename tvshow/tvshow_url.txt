@@ -3,3 +3,4 @@
 (myplayer)Bein TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/be_in.txt
 (myplayer)Movies,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/vod.txt
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
+(myplayer)BananaTV,http://bananatv.org:25461/get.php?username=bananatv&password=bananatv&output=ts&type=m3u_plus
