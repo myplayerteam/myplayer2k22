@@ -1,4 +1,294 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="" group-title="Espn",LD - ESPN 1 SUR HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155888
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="" group-title="Espn",LD - ESPN 1 SUR SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/33469
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="" group-title="Espn",LD - ESPN 2 SUR HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/43637
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="" group-title="Espn",LD - ESPN 2 SUR SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155889
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN SUR 3 HD" tvg-logo="" group-title="Espn",LD - ESPN SUR 3 HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155890
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="" group-title="Espn",LD - ESPN 3 SUR SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/43639
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 4 SUR HD" tvg-logo="" group-title="Espn",LD - ESPN 4 SUR HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1118360
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 4" tvg-logo="" group-title="Espn",LD - ESPN 4
+http://tv.nousiptv.com:8080/yira.usa/Y2023/18580
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN EXTRA SUR FHD" tvg-logo="" group-title="Espn",LD - ESPN EXTRA SUR FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7940
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN EXTRA SUR HD" tvg-logo="" group-title="Espn",LD - ESPN EXTRA SUR HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/43638
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN CHILE HD" tvg-logo="" group-title="Espn",LD - ESPN CHILE HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1080110
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN CHILE SD" tvg-logo="" group-title="Espn",LD - ESPN CHILE SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1080111
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 4 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 4 BRASIL
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147322
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN MX" tvg-logo="" group-title="Espn",LD - ESPN MX
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155892
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 MX HD" tvg-logo="" group-title="Espn",LD - ESPN 2 MX HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1118923
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 3 MX HD" tvg-logo="" group-title="Espn",LD - ESPN 3 MX HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155903
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN PLUS MX" tvg-logo="" group-title="Espn",LD - ESPN PLUS MX
+http://tv.nousiptv.com:8080/yira.usa/Y2023/4120
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN EXTRA BRASIL" tvg-logo="" group-title="Espn",LD - ESPN EXTRA BRASIL
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159094
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 1 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 1 BRASIL
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159095
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 2 BRASIL
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159096
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 3 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 3 BRASIL
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159093
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN DEPORTES" tvg-logo="" group-title="Espn",LD - ESPN DEPORTES
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155891
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 1 HD CHILE" tvg-logo="" group-title="Sport",LD - FOX SPORTS 1 HD CHILE
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155912
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 1 SD (CHILE)" tvg-logo="" group-title="Sport",LD - FOX SPORTS 1 SD (CHILE)
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1095232
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 2 SUR HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/16139
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 2 SUR SD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 2 SUR SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/42456
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 SUR HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/33475
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 SUR SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/43640
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 1 HD MEX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 1 HD MEX
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156755
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 2 HD MEX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 2 HD MEX
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156756
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 HD MEX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 HD MEX
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156757
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 MX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 MX
+http://tv.nousiptv.com:8080/yira.usa/Y2023/4008
+#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS PREMIUM FHD (MX)" tvg-logo="" group-title="Sport",LD - FOX SPORTS PREMIUM FHD (MX)
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1126417
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS FHD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1091366
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7863
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS SD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/33512
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS 2 FHD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS 2 FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1091367
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/32882
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS 2 SD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS 2 SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/32881
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS PLUS FHD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS PLUS FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1091368
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS PLUS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/27879
+#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS PLUS SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/8520
+#EXTINF:-1 tvg-ID="" tvg-name="LD - TYC SPORTS" tvg-logo="" group-title="Sport",LD - TYC SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/8247
+#EXTINF:-1 tvg-ID="" tvg-name="LD - CLARO SPORTS HD" tvg-logo="" group-title="Sport",LD - CLARO SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/12011
+#EXTINF:-1 tvg-ID="" tvg-name="LD - AYM SPORTS" tvg-logo="" group-title="Sport",LD - AYM SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156008
+#EXTINF:-1 tvg-ID="" tvg-name="LD - UFC LIVE HD" tvg-logo="" group-title="Ufc",LD - UFC LIVE HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53372
+#EXTINF:-1 tvg-ID="" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="" group-title="Ufc",LD - UFC  NETWORK FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/4082
+#EXTINF:-1 tvg-ID="" tvg-name="LD - BEIN SPORTS Ñ HD" tvg-logo="" group-title="Sport",LD - BEIN SPORTS Ñ HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155904
+#EXTINF:-1 tvg-ID="" tvg-name="LD - BEIN SPORTS SD" tvg-logo="" group-title="Sport",LD - BEIN SPORTS SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/43187
+#EXTINF:-1 tvg-ID="" tvg-name="LD - SKY SPORTS" tvg-logo="" group-title="Sport",LD - SKY SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1151425
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 1
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147316
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 2" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147317
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 3" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 3
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147318
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 4" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 4
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147319
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 5" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 5
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147320
+#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 6" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 6
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1147321
+#EXTINF:-1 tvg-ID="" tvg-name="LD - TIGO SPORTS HD (PARAGUAY)" tvg-logo="" group-title="Sport",LD - TIGO SPORTS HD (PARAGUAY)
+http://tv.nousiptv.com:8080/yira.usa/Y2023/29832
+#EXTINF:-1 tvg-ID="" tvg-name="URU - ESPN URUGUAY" tvg-logo="" group-title="Espn",URU - ESPN URUGUAY
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156002
+#EXTINF:-1 tvg-ID="" tvg-name="MX -  Adrenalina Sports Network HD" tvg-logo="" group-title="Sport",MX -  Adrenalina Sports Network HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1153331
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - ESPN CHILE HD" tvg-logo="" group-title="Espn",CHILE - ESPN CHILE HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1068348
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - ESPN CHILE" tvg-logo="" group-title="Espn",CHILE - ESPN CHILE
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1117657
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE-TNT SPORTS FHD" tvg-logo="" group-title="Sport",CHILE-TNT SPORTS FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1160041
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS HD" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156014
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/16138
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS 2 FHD" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS 2 FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1129864
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS 2 HD" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS 2 HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1129865
+#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS 3" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS 3
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1068349
+#EXTINF:-1 tvg-ID="" tvg-name="EC - DIRECTV SPORTS FHD" tvg-logo="" group-title="Sport",EC - DIRECTV SPORTS FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53462
+#EXTINF:-1 tvg-ID="" tvg-name="ECU - DIRECTV SPORTS HD" tvg-logo="" group-title="Sport",ECU - DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/23239
+#EXTINF:-1 tvg-ID="" tvg-name="EC - DIRECTV SPORTS 2 HD" tvg-logo="" group-title="Sport",EC - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53489
+#EXTINF:-1 tvg-ID="" tvg-name="EC - DIRECTV SPORTS + FHD" tvg-logo="" group-title="Sport",EC - DIRECTV SPORTS + FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53490
+#EXTINF:-1 tvg-ID="" tvg-name="ECU - CNT SPORTS / GOL TV" tvg-logo="" group-title="Sport",ECU - CNT SPORTS / GOL TV
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7471
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - TYC SPORTS 2" tvg-logo="" group-title="Sport",ARG - TYC SPORTS 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/49525
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - TNT SPORTS HD" tvg-logo="" group-title="Sport",ARG - TNT SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155814
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - TNT SPORTS" tvg-logo="" group-title="Sport",ARG - TNT SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/33457
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - TYC SPORTS HD" tvg-logo="" group-title="Sport",ARG - TYC SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155819
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - TYC SPORTS" tvg-logo="" group-title="Sport",ARG - TYC SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/43633
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 1 ᴴᴰ" tvg-logo="" group-title="Espn",ARG - ESPN 1 ᴴᴰ
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1090736
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 1" tvg-logo="" group-title="Espn",ARG - ESPN 1
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1090737
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 2 ᴴᴰ" tvg-logo="" group-title="Espn",ARG - ESPN 2 ᴴᴰ
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1089695
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 2" tvg-logo="" group-title="Espn",ARG - ESPN 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1089694
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN PREMIUM ᴴᴰ" tvg-logo="" group-title="Espn",ARG - ESPN PREMIUM ᴴᴰ
+http://tv.nousiptv.com:8080/yira.usa/Y2023/8330
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN PREMIUM" tvg-logo="" group-title="Espn",ARG - ESPN PREMIUM
+http://tv.nousiptv.com:8080/yira.usa/Y2023/4193
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 1 ᴴᴰ" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 1 ᴴᴰ
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1090738
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 1" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 1
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1090739
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 2 FHD" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 2 FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1090741
+#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 2 ᴴᴰ" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 2 ᴴᴰ
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1090740
+#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS + FHD" tvg-logo="" group-title="Sport",COL - WIN SPORTS + FHD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/16724
+#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS + HD" tvg-logo="" group-title="Sport",COL - WIN SPORTS + HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/54738
+#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="" group-title="Sport",COL - WIN SPORTS + SD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/16723
+#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS HD" tvg-logo="" group-title="Sport",COL - WIN SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1155795
+#EXTINF:-1 tvg-ID="" tvg-name="COL - ESPN COLOMBIA HD" tvg-logo="" group-title="Espn",COL - ESPN COLOMBIA HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1119288
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - BAND SPORT" tvg-logo="" group-title="Sport",BRA - BAND SPORT
+http://tv.nousiptv.com:8080/yira.usa/Y2023/29330
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - BAND SPORTS" tvg-logo="" group-title="Sport",BRA - BAND SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/17186
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",BRA - ELEVEN SPORTS 1
+http://tv.nousiptv.com:8080/yira.usa/Y2023/18542
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN" tvg-logo="" group-title="Espn",BRA - ESPN
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7784
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN 2" tvg-logo="" group-title="Espn",BRA - ESPN 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159097
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN 3" tvg-logo="" group-title="Espn",BRA - ESPN 3
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159098
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN 4" tvg-logo="" group-title="Espn",BRA - ESPN 4
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1159099
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN EXTRA" tvg-logo="" group-title="Espn",BRA - ESPN EXTRA
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1095615
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - SPORTV" tvg-logo="" group-title="Sport",BRA - SPORTV
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7791
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - SPORTV 2" tvg-logo="" group-title="Sport",BRA - SPORTV 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7792
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - SPORTV 3" tvg-logo="" group-title="Sport",BRA - SPORTV 3
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53171
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - FOX SPORTS BR" tvg-logo="" group-title="Sport",BRA - FOX SPORTS BR
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7785
+#EXTINF:-1 tvg-ID="" tvg-name="BRA - FOX SPORTS 2 BR" tvg-logo="" group-title="Sport",BRA - FOX SPORTS 2 BR
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7786
+#EXTINF:-1 tvg-ID="" tvg-name="PAN- CABLE ONDA SPORTS" tvg-logo="" group-title="Sport",PAN- CABLE ONDA SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1078662
+#EXTINF:-1 tvg-ID="" tvg-name="PAN- CABLE ONDA SPORTS  FC" tvg-logo="" group-title="Sport",PAN- CABLE ONDA SPORTS  FC
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1078663
+#EXTINF:-1 tvg-ID="" tvg-name="PAN - TIGO SPORT" tvg-logo="" group-title="Sport",PAN - TIGO SPORT
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1151424
+#EXTINF:-1 tvg-ID="" tvg-name="CR - TIGO SPORTS" tvg-logo="" group-title="Sport",CR - TIGO SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/18594
+#EXTINF:-1 tvg-ID="" tvg-name="CR - TIGO SPORTS 2" tvg-logo="" group-title="Sport",CR - TIGO SPORTS 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1141967
+#EXTINF:-1 tvg-ID="" tvg-name="PAR - TIGO SPORTS + HD" tvg-logo="" group-title="Sport",PAR - TIGO SPORTS + HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53029
+#EXTINF:-1 tvg-ID="" tvg-name="PAR - TIGO SPORTS HD" tvg-logo="" group-title="Sport",PAR - TIGO SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7435
+#EXTINF:-1 tvg-ID="" tvg-name="PAR - TIGO SPORTS 2" tvg-logo="" group-title="Sport",PAR - TIGO SPORTS 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/7450
+#EXTINF:-1 tvg-ID="" tvg-name="CA - TVA SPORTS" tvg-logo="" group-title="Sport",CA - TVA SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1092270
+#EXTINF:-1 tvg-ID="" tvg-name="CA - SPORTSNET ONE" tvg-logo="" group-title="Sport",CA - SPORTSNET ONE
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1100905
+#EXTINF:-1 tvg-ID="" tvg-name="CA - SPORTSNET EAST" tvg-logo="" group-title="Sport",CA - SPORTSNET EAST
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1105352
+#EXTINF:-1 tvg-ID="" tvg-name="CA - SPORTSNET 360 HD" tvg-logo="" group-title="Sport",CA - SPORTSNET 360 HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1105353
+#EXTINF:-1 tvg-ID="" tvg-name="BOL - TIGO SPORTS HD" tvg-logo="" group-title="Sport",BOL - TIGO SPORTS HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/54735
+#EXTINF:-1 tvg-ID="" tvg-name="BOL - TIGO SPORTS 2" tvg-logo="" group-title="Sport",BOL - TIGO SPORTS 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/54736
+#EXTINF:-1 tvg-ID="" tvg-name="BOL - TIGO SPORTS 3" tvg-logo="" group-title="Sport",BOL - TIGO SPORTS 3
+http://tv.nousiptv.com:8080/yira.usa/Y2023/54737
+#EXTINF:-1 tvg-ID="" tvg-name="HON - TIGO SPORTS" tvg-logo="" group-title="Sport",HON - TIGO SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/51390
+#EXTINF:-1 tvg-ID="" tvg-name="ESP D  - BEIN SPORTS LA LIGA" tvg-logo="" group-title="Sport",ESP D  - BEIN SPORTS LA LIGA
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156047
+#EXTINF:-1 tvg-ID="" tvg-name="ESP D - Eurosport 1" tvg-logo="" group-title="Sport",ESP D - Eurosport 1
+http://tv.nousiptv.com:8080/yira.usa/Y2023/41816
+#EXTINF:-1 tvg-ID="" tvg-name="ESP D - Eurosport  2" tvg-logo="" group-title="Sport",ESP D - Eurosport  2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/51352
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - NBC SPORTS" tvg-logo="" group-title="Sport",US.SP - NBC SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1085950
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - NBC SPORTS NETWORK" tvg-logo="" group-title="Sport",US.SP - NBC SPORTS NETWORK
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53292
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN U" tvg-logo="" group-title="Espn",US.SP - ESPN U
+http://tv.nousiptv.com:8080/yira.usa/Y2023/34602
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN 2" tvg-logo="" group-title="Espn",US.SP - ESPN 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1163327
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN 3" tvg-logo="" group-title="Espn",US.SP - ESPN 3
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1163328
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN PLUS" tvg-logo="" group-title="Espn",US.SP - ESPN PLUS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1163329
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - AT&T SportsNet Pittsburgh" tvg-logo="" group-title="Sport",US.SP - AT&T SportsNet Pittsburgh
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1085951
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - UFC FIGHT PASS" tvg-logo="" group-title="Ufc",US.SP - UFC FIGHT PASS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53373
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - UFC TV HD" tvg-logo="" group-title="Ufc",US.SP - UFC TV HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53374
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - BYN SPORTS USA" tvg-logo="" group-title="Sport",US.SP - BYN SPORTS USA
+http://tv.nousiptv.com:8080/yira.usa/Y2023/29341
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FUBO SPORTS NETWORK" tvg-logo="" group-title="Sport",US.SP - FUBO SPORTS NETWORK
+http://tv.nousiptv.com:8080/yira.usa/Y2023/54579
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FOX SPORTS 1 HD" tvg-logo="" group-title="Sport",US.SP - FOX SPORTS 1 HD
+http://tv.nousiptv.com:8080/yira.usa/Y2023/17418
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FOX SPORTS 2" tvg-logo="" group-title="Sport",US.SP - FOX SPORTS 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/53621
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FOX SPORTS SUN" tvg-logo="" group-title="Sport",US.SP - FOX SPORTS SUN
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1118207
+#EXTINF:-1 tvg-ID="" tvg-name="US.SP - NBC SPORTS CALIFORNIA" tvg-logo="" group-title="Sport",US.SP - NBC SPORTS CALIFORNIA
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1158640
+#EXTINF:-1 tvg-ID="" tvg-name="ITA -  SKY SPORT SERIE A" tvg-logo="" group-title="Sport",ITA -  SKY SPORT SERIE A
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1156973
+#EXTINF:-1 tvg-ID="" tvg-name="EUR-EUROSPORT 2" tvg-logo="" group-title="Sport",EUR-EUROSPORT 2
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1072129
+#EXTINF:-1 tvg-ID="" tvg-name="PORT-SPORT TV 1" tvg-logo="" group-title="Sport",PORT-SPORT TV 1
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1072130
+#EXTINF:-1 tvg-ID="" tvg-name="LD - BYM SPORTS" tvg-logo="" group-title="Sport",LD - BYM SPORTS
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1164066
+#EXTINF:-1 tvg-ID="" tvg-name="Directv Sports Motors" tvg-logo="" group-title="Sport",Directv Sports Motors
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1165273
+#EXTINF:-1 tvg-ID="" tvg-name="05:00 PM | LEXINGTON SPORTING CLUB VS CHATTANOOGA RED WOLVES SC (USL LEAGUE ONE)" tvg-logo="" group-title="Sport",05:00 PM | LEXINGTON SPORTING CLUB VS CHATTANOOGA RED WOLVES SC (USL LEAGUE ONE)
+http://tv.nousiptv.com:8080/yira.usa/Y2023/1165305
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="Romania ➾ Sports",RO: DIGI SPORT 1
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/71457
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="Romania ➾ Sports",RO: DIGI SPORT 2
@@ -1377,293 +1667,3 @@ http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297606
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297604
 #EXTINF:-1 tvg-ID="" tvg-name="AE: Yas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/92a0bf96d4ab9376e8d1e8750326186a.png" group-title="UAE ➾ Sports",AE: Yas TV
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/22009
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="" group-title="Espn",LD - ESPN 1 SUR HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155888
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="" group-title="Espn",LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/33469
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="" group-title="Espn",LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/43637
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="" group-title="Espn",LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155889
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN SUR 3 HD" tvg-logo="" group-title="Espn",LD - ESPN SUR 3 HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155890
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="" group-title="Espn",LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/43639
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 4 SUR HD" tvg-logo="" group-title="Espn",LD - ESPN 4 SUR HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1118360
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 4" tvg-logo="" group-title="Espn",LD - ESPN 4
-http://tv.nousiptv.com:8080/yira.usa/Y2023/18580
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN EXTRA SUR FHD" tvg-logo="" group-title="Espn",LD - ESPN EXTRA SUR FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7940
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN EXTRA SUR HD" tvg-logo="" group-title="Espn",LD - ESPN EXTRA SUR HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/43638
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN CHILE HD" tvg-logo="" group-title="Espn",LD - ESPN CHILE HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1080110
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN CHILE SD" tvg-logo="" group-title="Espn",LD - ESPN CHILE SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1080111
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 4 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 4 BRASIL
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147322
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN MX" tvg-logo="" group-title="Espn",LD - ESPN MX
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155892
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 MX HD" tvg-logo="" group-title="Espn",LD - ESPN 2 MX HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1118923
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 3 MX HD" tvg-logo="" group-title="Espn",LD - ESPN 3 MX HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155903
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN PLUS MX" tvg-logo="" group-title="Espn",LD - ESPN PLUS MX
-http://tv.nousiptv.com:8080/yira.usa/Y2023/4120
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN EXTRA BRASIL" tvg-logo="" group-title="Espn",LD - ESPN EXTRA BRASIL
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159094
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 1 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 1 BRASIL
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159095
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 2 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 2 BRASIL
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159096
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN 3 BRASIL" tvg-logo="" group-title="Espn",LD - ESPN 3 BRASIL
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159093
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ESPN DEPORTES" tvg-logo="" group-title="Espn",LD - ESPN DEPORTES
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155891
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 1 HD CHILE" tvg-logo="" group-title="Sport",LD - FOX SPORTS 1 HD CHILE
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155912
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 1 SD (CHILE)" tvg-logo="" group-title="Sport",LD - FOX SPORTS 1 SD (CHILE)
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1095232
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 2 SUR HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/16139
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 2 SUR SD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 2 SUR SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/42456
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 SUR HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/33475
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 SUR SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/43640
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 1 HD MEX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 1 HD MEX
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156755
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 2 HD MEX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 2 HD MEX
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156756
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 HD MEX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 HD MEX
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156757
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS 3 MX" tvg-logo="" group-title="Sport",LD - FOX SPORTS 3 MX
-http://tv.nousiptv.com:8080/yira.usa/Y2023/4008
-#EXTINF:-1 tvg-ID="" tvg-name="LD - FOX SPORTS PREMIUM FHD (MX)" tvg-logo="" group-title="Sport",LD - FOX SPORTS PREMIUM FHD (MX)
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1126417
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS FHD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1091366
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7863
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS SD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/33512
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS 2 FHD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS 2 FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1091367
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/32882
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS 2 SD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS 2 SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/32881
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS PLUS FHD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS PLUS FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1091368
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/27879
-#EXTINF:-1 tvg-ID="" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="" group-title="Sport",LD - DIRECTV SPORTS PLUS SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/8520
-#EXTINF:-1 tvg-ID="" tvg-name="LD - TYC SPORTS" tvg-logo="" group-title="Sport",LD - TYC SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/8247
-#EXTINF:-1 tvg-ID="" tvg-name="LD - CLARO SPORTS HD" tvg-logo="" group-title="Sport",LD - CLARO SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/12011
-#EXTINF:-1 tvg-ID="" tvg-name="LD - AYM SPORTS" tvg-logo="" group-title="Sport",LD - AYM SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156008
-#EXTINF:-1 tvg-ID="" tvg-name="LD - UFC LIVE HD" tvg-logo="" group-title="Ufc",LD - UFC LIVE HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53372
-#EXTINF:-1 tvg-ID="" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="" group-title="Ufc",LD - UFC  NETWORK FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/4082
-#EXTINF:-1 tvg-ID="" tvg-name="LD - BEIN SPORTS Ñ HD" tvg-logo="" group-title="Sport",LD - BEIN SPORTS Ñ HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155904
-#EXTINF:-1 tvg-ID="" tvg-name="LD - BEIN SPORTS SD" tvg-logo="" group-title="Sport",LD - BEIN SPORTS SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/43187
-#EXTINF:-1 tvg-ID="" tvg-name="LD - SKY SPORTS" tvg-logo="" group-title="Sport",LD - SKY SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1151425
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 1
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147316
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 2" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147317
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 3" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 3
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147318
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 4" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 4
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147319
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 5" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 5
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147320
-#EXTINF:-1 tvg-ID="" tvg-name="LD - ELEVEN SPORTS 6" tvg-logo="" group-title="Sport",LD - ELEVEN SPORTS 6
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1147321
-#EXTINF:-1 tvg-ID="" tvg-name="LD - TIGO SPORTS HD (PARAGUAY)" tvg-logo="" group-title="Sport",LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.nousiptv.com:8080/yira.usa/Y2023/29832
-#EXTINF:-1 tvg-ID="" tvg-name="URU - ESPN URUGUAY" tvg-logo="" group-title="Espn",URU - ESPN URUGUAY
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156002
-#EXTINF:-1 tvg-ID="" tvg-name="MX -  Adrenalina Sports Network HD" tvg-logo="" group-title="Sport",MX -  Adrenalina Sports Network HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1153331
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - ESPN CHILE HD" tvg-logo="" group-title="Espn",CHILE - ESPN CHILE HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1068348
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - ESPN CHILE" tvg-logo="" group-title="Espn",CHILE - ESPN CHILE
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1117657
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE-TNT SPORTS FHD" tvg-logo="" group-title="Sport",CHILE-TNT SPORTS FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1160041
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS HD" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156014
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/16138
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS 2 FHD" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS 2 FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1129864
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS 2 HD" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS 2 HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1129865
-#EXTINF:-1 tvg-ID="" tvg-name="CHILE - TNT SPORTS 3" tvg-logo="" group-title="Sport",CHILE - TNT SPORTS 3
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1068349
-#EXTINF:-1 tvg-ID="" tvg-name="EC - DIRECTV SPORTS FHD" tvg-logo="" group-title="Sport",EC - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53462
-#EXTINF:-1 tvg-ID="" tvg-name="ECU - DIRECTV SPORTS HD" tvg-logo="" group-title="Sport",ECU - DIRECTV SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/23239
-#EXTINF:-1 tvg-ID="" tvg-name="EC - DIRECTV SPORTS 2 HD" tvg-logo="" group-title="Sport",EC - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53489
-#EXTINF:-1 tvg-ID="" tvg-name="EC - DIRECTV SPORTS + FHD" tvg-logo="" group-title="Sport",EC - DIRECTV SPORTS + FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53490
-#EXTINF:-1 tvg-ID="" tvg-name="ECU - CNT SPORTS / GOL TV" tvg-logo="" group-title="Sport",ECU - CNT SPORTS / GOL TV
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7471
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - TYC SPORTS 2" tvg-logo="" group-title="Sport",ARG - TYC SPORTS 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/49525
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - TNT SPORTS HD" tvg-logo="" group-title="Sport",ARG - TNT SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155814
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - TNT SPORTS" tvg-logo="" group-title="Sport",ARG - TNT SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/33457
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - TYC SPORTS HD" tvg-logo="" group-title="Sport",ARG - TYC SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155819
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - TYC SPORTS" tvg-logo="" group-title="Sport",ARG - TYC SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/43633
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 1 ᴴᴰ" tvg-logo="" group-title="Espn",ARG - ESPN 1 ᴴᴰ
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1090736
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 1" tvg-logo="" group-title="Espn",ARG - ESPN 1
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1090737
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 2 ᴴᴰ" tvg-logo="" group-title="Espn",ARG - ESPN 2 ᴴᴰ
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1089695
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN 2" tvg-logo="" group-title="Espn",ARG - ESPN 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1089694
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN PREMIUM ᴴᴰ" tvg-logo="" group-title="Espn",ARG - ESPN PREMIUM ᴴᴰ
-http://tv.nousiptv.com:8080/yira.usa/Y2023/8330
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - ESPN PREMIUM" tvg-logo="" group-title="Espn",ARG - ESPN PREMIUM
-http://tv.nousiptv.com:8080/yira.usa/Y2023/4193
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 1 ᴴᴰ" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 1 ᴴᴰ
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1090738
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 1" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 1
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1090739
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 2 FHD" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 2 FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1090741
-#EXTINF:-1 tvg-ID="" tvg-name="ARG - FOX SPORTS 2 ᴴᴰ" tvg-logo="" group-title="Sport",ARG - FOX SPORTS 2 ᴴᴰ
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1090740
-#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS + FHD" tvg-logo="" group-title="Sport",COL - WIN SPORTS + FHD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/16724
-#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS + HD" tvg-logo="" group-title="Sport",COL - WIN SPORTS + HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/54738
-#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="" group-title="Sport",COL - WIN SPORTS + SD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/16723
-#EXTINF:-1 tvg-ID="" tvg-name="COL - WIN SPORTS HD" tvg-logo="" group-title="Sport",COL - WIN SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1155795
-#EXTINF:-1 tvg-ID="" tvg-name="COL - ESPN COLOMBIA HD" tvg-logo="" group-title="Espn",COL - ESPN COLOMBIA HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1119288
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - BAND SPORT" tvg-logo="" group-title="Sport",BRA - BAND SPORT
-http://tv.nousiptv.com:8080/yira.usa/Y2023/29330
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - BAND SPORTS" tvg-logo="" group-title="Sport",BRA - BAND SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/17186
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",BRA - ELEVEN SPORTS 1
-http://tv.nousiptv.com:8080/yira.usa/Y2023/18542
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN" tvg-logo="" group-title="Espn",BRA - ESPN
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7784
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN 2" tvg-logo="" group-title="Espn",BRA - ESPN 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159097
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN 3" tvg-logo="" group-title="Espn",BRA - ESPN 3
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159098
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN 4" tvg-logo="" group-title="Espn",BRA - ESPN 4
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1159099
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - ESPN EXTRA" tvg-logo="" group-title="Espn",BRA - ESPN EXTRA
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1095615
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - SPORTV" tvg-logo="" group-title="Sport",BRA - SPORTV
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7791
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - SPORTV 2" tvg-logo="" group-title="Sport",BRA - SPORTV 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7792
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - SPORTV 3" tvg-logo="" group-title="Sport",BRA - SPORTV 3
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53171
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - FOX SPORTS BR" tvg-logo="" group-title="Sport",BRA - FOX SPORTS BR
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7785
-#EXTINF:-1 tvg-ID="" tvg-name="BRA - FOX SPORTS 2 BR" tvg-logo="" group-title="Sport",BRA - FOX SPORTS 2 BR
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7786
-#EXTINF:-1 tvg-ID="" tvg-name="PAN- CABLE ONDA SPORTS" tvg-logo="" group-title="Sport",PAN- CABLE ONDA SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1078662
-#EXTINF:-1 tvg-ID="" tvg-name="PAN- CABLE ONDA SPORTS  FC" tvg-logo="" group-title="Sport",PAN- CABLE ONDA SPORTS  FC
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1078663
-#EXTINF:-1 tvg-ID="" tvg-name="PAN - TIGO SPORT" tvg-logo="" group-title="Sport",PAN - TIGO SPORT
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1151424
-#EXTINF:-1 tvg-ID="" tvg-name="CR - TIGO SPORTS" tvg-logo="" group-title="Sport",CR - TIGO SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/18594
-#EXTINF:-1 tvg-ID="" tvg-name="CR - TIGO SPORTS 2" tvg-logo="" group-title="Sport",CR - TIGO SPORTS 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1141967
-#EXTINF:-1 tvg-ID="" tvg-name="PAR - TIGO SPORTS + HD" tvg-logo="" group-title="Sport",PAR - TIGO SPORTS + HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53029
-#EXTINF:-1 tvg-ID="" tvg-name="PAR - TIGO SPORTS HD" tvg-logo="" group-title="Sport",PAR - TIGO SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7435
-#EXTINF:-1 tvg-ID="" tvg-name="PAR - TIGO SPORTS 2" tvg-logo="" group-title="Sport",PAR - TIGO SPORTS 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/7450
-#EXTINF:-1 tvg-ID="" tvg-name="CA - TVA SPORTS" tvg-logo="" group-title="Sport",CA - TVA SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1092270
-#EXTINF:-1 tvg-ID="" tvg-name="CA - SPORTSNET ONE" tvg-logo="" group-title="Sport",CA - SPORTSNET ONE
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1100905
-#EXTINF:-1 tvg-ID="" tvg-name="CA - SPORTSNET EAST" tvg-logo="" group-title="Sport",CA - SPORTSNET EAST
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1105352
-#EXTINF:-1 tvg-ID="" tvg-name="CA - SPORTSNET 360 HD" tvg-logo="" group-title="Sport",CA - SPORTSNET 360 HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1105353
-#EXTINF:-1 tvg-ID="" tvg-name="BOL - TIGO SPORTS HD" tvg-logo="" group-title="Sport",BOL - TIGO SPORTS HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/54735
-#EXTINF:-1 tvg-ID="" tvg-name="BOL - TIGO SPORTS 2" tvg-logo="" group-title="Sport",BOL - TIGO SPORTS 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/54736
-#EXTINF:-1 tvg-ID="" tvg-name="BOL - TIGO SPORTS 3" tvg-logo="" group-title="Sport",BOL - TIGO SPORTS 3
-http://tv.nousiptv.com:8080/yira.usa/Y2023/54737
-#EXTINF:-1 tvg-ID="" tvg-name="HON - TIGO SPORTS" tvg-logo="" group-title="Sport",HON - TIGO SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/51390
-#EXTINF:-1 tvg-ID="" tvg-name="ESP D  - BEIN SPORTS LA LIGA" tvg-logo="" group-title="Sport",ESP D  - BEIN SPORTS LA LIGA
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156047
-#EXTINF:-1 tvg-ID="" tvg-name="ESP D - Eurosport 1" tvg-logo="" group-title="Sport",ESP D - Eurosport 1
-http://tv.nousiptv.com:8080/yira.usa/Y2023/41816
-#EXTINF:-1 tvg-ID="" tvg-name="ESP D - Eurosport  2" tvg-logo="" group-title="Sport",ESP D - Eurosport  2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/51352
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - NBC SPORTS" tvg-logo="" group-title="Sport",US.SP - NBC SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1085950
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - NBC SPORTS NETWORK" tvg-logo="" group-title="Sport",US.SP - NBC SPORTS NETWORK
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53292
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN U" tvg-logo="" group-title="Espn",US.SP - ESPN U
-http://tv.nousiptv.com:8080/yira.usa/Y2023/34602
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN 2" tvg-logo="" group-title="Espn",US.SP - ESPN 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1163327
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN 3" tvg-logo="" group-title="Espn",US.SP - ESPN 3
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1163328
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - ESPN PLUS" tvg-logo="" group-title="Espn",US.SP - ESPN PLUS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1163329
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - AT&T SportsNet Pittsburgh" tvg-logo="" group-title="Sport",US.SP - AT&T SportsNet Pittsburgh
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1085951
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - UFC FIGHT PASS" tvg-logo="" group-title="Ufc",US.SP - UFC FIGHT PASS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53373
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - UFC TV HD" tvg-logo="" group-title="Ufc",US.SP - UFC TV HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53374
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - BYN SPORTS USA" tvg-logo="" group-title="Sport",US.SP - BYN SPORTS USA
-http://tv.nousiptv.com:8080/yira.usa/Y2023/29341
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FUBO SPORTS NETWORK" tvg-logo="" group-title="Sport",US.SP - FUBO SPORTS NETWORK
-http://tv.nousiptv.com:8080/yira.usa/Y2023/54579
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FOX SPORTS 1 HD" tvg-logo="" group-title="Sport",US.SP - FOX SPORTS 1 HD
-http://tv.nousiptv.com:8080/yira.usa/Y2023/17418
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FOX SPORTS 2" tvg-logo="" group-title="Sport",US.SP - FOX SPORTS 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/53621
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - FOX SPORTS SUN" tvg-logo="" group-title="Sport",US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1118207
-#EXTINF:-1 tvg-ID="" tvg-name="US.SP - NBC SPORTS CALIFORNIA" tvg-logo="" group-title="Sport",US.SP - NBC SPORTS CALIFORNIA
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1158640
-#EXTINF:-1 tvg-ID="" tvg-name="ITA -  SKY SPORT SERIE A" tvg-logo="" group-title="Sport",ITA -  SKY SPORT SERIE A
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1156973
-#EXTINF:-1 tvg-ID="" tvg-name="EUR-EUROSPORT 2" tvg-logo="" group-title="Sport",EUR-EUROSPORT 2
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1072129
-#EXTINF:-1 tvg-ID="" tvg-name="PORT-SPORT TV 1" tvg-logo="" group-title="Sport",PORT-SPORT TV 1
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1072130
-#EXTINF:-1 tvg-ID="" tvg-name="LD - BYM SPORTS" tvg-logo="" group-title="Sport",LD - BYM SPORTS
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1164066
-#EXTINF:-1 tvg-ID="" tvg-name="Directv Sports Motors" tvg-logo="" group-title="Sport",Directv Sports Motors
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1165273
-#EXTINF:-1 tvg-ID="" tvg-name="05:00 PM | LEXINGTON SPORTING CLUB VS CHATTANOOGA RED WOLVES SC (USL LEAGUE ONE)" tvg-logo="" group-title="Sport",05:00 PM | LEXINGTON SPORTING CLUB VS CHATTANOOGA RED WOLVES SC (USL LEAGUE ONE)
-http://tv.nousiptv.com:8080/yira.usa/Y2023/1165305
