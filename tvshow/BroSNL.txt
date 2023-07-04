@@ -1,4 +1,1061 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426502
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR PLUS HD
+http://s1.pubnow.info:8080/aya3/samir112233/426503
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426504
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE TV CANADA
+http://s1.pubnow.info:8080/aya3/samir112233/426505
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: COLORS
+http://s1.pubnow.info:8080/aya3/samir112233/426506
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: COLORS TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426507
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: COLORS (UK)
+http://s1.pubnow.info:8080/aya3/samir112233/426508
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: &TV
+http://s1.pubnow.info:8080/aya3/samir112233/426509
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY SAB HD
+http://s1.pubnow.info:8080/aya3/samir112233/426510
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY SAB SD
+http://s1.pubnow.info:8080/aya3/samir112233/426511
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY PAL
+http://s1.pubnow.info:8080/aya3/samir112233/426512
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR BHARAT (UK)
+http://s1.pubnow.info:8080/aya3/samir112233/426513
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DHAMAAL TV
+http://s1.pubnow.info:8080/aya3/samir112233/426514
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DILLAGI TV
+http://s1.pubnow.info:8080/aya3/samir112233/426515
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: BIG MAGIC
+http://s1.pubnow.info:8080/aya3/samir112233/426516
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: & PICTURES HD
+http://s1.pubnow.info:8080/aya3/samir112233/426517
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: & PICTURES
+http://s1.pubnow.info:8080/aya3/samir112233/426518
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE CINEMA USA
+http://s1.pubnow.info:8080/aya3/samir112233/426519
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY MAX HD
+http://s1.pubnow.info:8080/aya3/samir112233/426520
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: UTV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426521
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: B4U Kadak
+http://s1.pubnow.info:8080/aya3/samir112233/426522
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ENTER 10
+http://s1.pubnow.info:8080/aya3/samir112233/426523
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: MANORANJAN TV
+http://s1.pubnow.info:8080/aya3/samir112233/426524
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: MANORANJAN MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426525
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: BOLLYWOOD CLASSIC
+http://s1.pubnow.info:8080/aya3/samir112233/426526
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: WILLOW CRICKET HD
+http://s1.pubnow.info:8080/aya3/samir112233/426527
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR SPORTS 2 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426528
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY SIX HD
+http://s1.pubnow.info:8080/aya3/samir112233/426529
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: TEN 1 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426530
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: TEN 2 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426531
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: TEN 3 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426532
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DSPORTS
+http://s1.pubnow.info:8080/aya3/samir112233/426533
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DSPORTS 1
+http://s1.pubnow.info:8080/aya3/samir112233/426534
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ANIMAL PLANET HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426535
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Discovery HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426536
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Discovery Science HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426537
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ID
+http://s1.pubnow.info:8080/aya3/samir112233/426538
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: BBC EARTH HD
+http://s1.pubnow.info:8080/aya3/samir112233/426539
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: LIVING FOODZ
+http://s1.pubnow.info:8080/aya3/samir112233/426540
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: FOOD FOOD
+http://s1.pubnow.info:8080/aya3/samir112233/426541
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: CARTOON NETWORK
+http://s1.pubnow.info:8080/aya3/samir112233/426542
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DICOVERY KIDS HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426543
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: 9X JALWA
+http://s1.pubnow.info:8080/aya3/samir112233/426544
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: B4U Music
+http://s1.pubnow.info:8080/aya3/samir112233/426545
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: PITAARA
+http://s1.pubnow.info:8080/aya3/samir112233/426546
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DIL SE
+http://s1.pubnow.info:8080/aya3/samir112233/426547
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE CAFE
+http://s1.pubnow.info:8080/aya3/samir112233/426548
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Movies Now
+http://s1.pubnow.info:8080/aya3/samir112233/426549
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: MNX
+http://s1.pubnow.info:8080/aya3/samir112233/426550
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Romedy Now
+http://s1.pubnow.info:8080/aya3/samir112233/426551
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE SALAAM
+http://s1.pubnow.info:8080/aya3/samir112233/426552
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ABP NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426553
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: REPUBLIC BHARAT NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426554
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NEWS 18 INDIA
+http://s1.pubnow.info:8080/aya3/samir112233/426555
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: INDIA TV NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426556
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Zee Cinema HD
+http://s1.pubnow.info:8080/aya3/samir112233/426557
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Ahlulbayt TV UK
+http://s1.pubnow.info:8080/aya3/samir112233/426558
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN: Zee cinema usa
+http://s1.pubnow.info:8080/aya3/samir112233/426559
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE ANMOL
+http://s1.pubnow.info:8080/aya3/samir112233/426560
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: &EXPLOR HD
+http://s1.pubnow.info:8080/aya3/samir112233/426561
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR GOLD SELECT
+http://s1.pubnow.info:8080/aya3/samir112233/426562
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE ACTION
+http://s1.pubnow.info:8080/aya3/samir112233/426563
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE BOLLYWOOD
+http://s1.pubnow.info:8080/aya3/samir112233/426564
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DISNEY CHANNEL
+http://s1.pubnow.info:8080/aya3/samir112233/426565
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: POGO HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426566
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: BBO HD
+http://s1.pubnow.info:8080/aya3/samir112233/426567
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: MAHA MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426568
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: BOLLYWOOD PREMIER
+http://s1.pubnow.info:8080/aya3/samir112233/426569
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: BOLLYWOOD NOW
+http://s1.pubnow.info:8080/aya3/samir112233/426570
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR SPORTS 3 SD
+http://s1.pubnow.info:8080/aya3/samir112233/426571
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR SPORTS SELECT 2
+http://s1.pubnow.info:8080/aya3/samir112233/426572
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: DD SPORTS
+http://s1.pubnow.info:8080/aya3/samir112233/426573
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: HISTORY
+http://s1.pubnow.info:8080/aya3/samir112233/426574
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NAT GEO HD
+http://s1.pubnow.info:8080/aya3/samir112233/426575
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NAT GEO WILD
+http://s1.pubnow.info:8080/aya3/samir112233/426576
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: FOX LIFE
+http://s1.pubnow.info:8080/aya3/samir112233/426577
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: EPIC HD
+http://s1.pubnow.info:8080/aya3/samir112233/426578
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NICK SONIC
+http://s1.pubnow.info:8080/aya3/samir112233/426579
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NICK
+http://s1.pubnow.info:8080/aya3/samir112233/426580
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NICK HD+
+http://s1.pubnow.info:8080/aya3/samir112233/426581
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Mastiii TV
+http://s1.pubnow.info:8080/aya3/samir112233/426582
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: INSYNC MUSIC
+http://s1.pubnow.info:8080/aya3/samir112233/426583
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: &FLIX
+http://s1.pubnow.info:8080/aya3/samir112233/426584
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE HINDUSTAN
+http://s1.pubnow.info:8080/aya3/samir112233/426585
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426586
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: AAJ TAK NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426587
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND :  ZEE TV
+http://s1.pubnow.info:8080/aya3/samir112233/426588
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN : Star World Premier HD
+http://s1.pubnow.info:8080/aya3/samir112233/426589
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN : & xplore HD
+http://s1.pubnow.info:8080/aya3/samir112233/426590
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : WoW CINEMA
+http://s1.pubnow.info:8080/aya3/samir112233/426591
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : BBC Earth Hindi
+http://s1.pubnow.info:8080/aya3/samir112233/426592
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : Star Gold 2
+http://s1.pubnow.info:8080/aya3/samir112233/426593
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : STAR MAA Gold
+http://s1.pubnow.info:8080/aya3/samir112233/426594
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE CINEMA SD
+http://s1.pubnow.info:8080/aya3/samir112233/426595
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: ZEE ANMOL CINEMA
+http://s1.pubnow.info:8080/aya3/samir112233/426596
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: UTV MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426597
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: UTV ACTION
+http://s1.pubnow.info:8080/aya3/samir112233/426598
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: COLOR CINEPLEX HD
+http://s1.pubnow.info:8080/aya3/samir112233/426599
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: B4U Plus
+http://s1.pubnow.info:8080/aya3/samir112233/426600
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: B4U Movies
+http://s1.pubnow.info:8080/aya3/samir112233/426601
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Cinema TV
+http://s1.pubnow.info:8080/aya3/samir112233/426602
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: HOUSEFULL MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426603
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR SPORTS 1 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426604
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR SPORTS 1 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426605
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR SPORTS SELECT 1
+http://s1.pubnow.info:8080/aya3/samir112233/426606
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: TLC HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426607
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: TRAVEL XP HD
+http://s1.pubnow.info:8080/aya3/samir112233/426608
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: SONY YAY HINDI
+http://s1.pubnow.info:8080/aya3/samir112233/426609
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: POP PATAKHA
+http://s1.pubnow.info:8080/aya3/samir112233/426610
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: Jhanjar Music (PANJABI)
+http://s1.pubnow.info:8080/aya3/samir112233/426611
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: HBO HD
+http://s1.pubnow.info:8080/aya3/samir112233/426612
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR MOVIES SELECT
+http://s1.pubnow.info:8080/aya3/samir112233/426613
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: &PRIVE HD
+http://s1.pubnow.info:8080/aya3/samir112233/426614
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: PBN MUSIC
+http://s1.pubnow.info:8080/aya3/samir112233/426615
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Malayalam - Kairali We
+http://s1.pubnow.info:8080/aya3/samir112233/426616
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN:Kairali TV
+http://s1.pubnow.info:8080/aya3/samir112233/426617
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN: Kairali We
+http://s1.pubnow.info:8080/aya3/samir112233/426618
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN: Kairali News
+http://s1.pubnow.info:8080/aya3/samir112233/426619
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN : Peace of Mind
+http://s1.pubnow.info:8080/aya3/samir112233/426620
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN : Vedic
+http://s1.pubnow.info:8080/aya3/samir112233/426621
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Bflix Movies
+http://s1.pubnow.info:8080/aya3/samir112233/426622
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : UTSAV GOLD HD (UK)
+http://s1.pubnow.info:8080/aya3/samir112233/426623
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN: KTV
+http://s1.pubnow.info:8080/aya3/samir112233/426624
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Zoom TV
+http://s1.pubnow.info:8080/aya3/samir112233/426625
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | DD News
+http://s1.pubnow.info:8080/aya3/samir112233/426626
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | DD National
+http://s1.pubnow.info:8080/aya3/samir112233/426627
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Cine Voice (punjabi)
+http://s1.pubnow.info:8080/aya3/samir112233/426628
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | CBeebies Asia
+http://s1.pubnow.info:8080/aya3/samir112233/426629
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Boogle Bollywood (PANJABI)
+http://s1.pubnow.info:8080/aya3/samir112233/426630
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Big Ganga
+http://s1.pubnow.info:8080/aya3/samir112233/426631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | 9XM
+http://s1.pubnow.info:8080/aya3/samir112233/426632
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Desi Channel (PANJABI)
+http://s1.pubnow.info:8080/aya3/samir112233/426633
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Humdard Laughter HD (punjabi)
+http://s1.pubnow.info:8080/aya3/samir112233/426634
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | India Today
+http://s1.pubnow.info:8080/aya3/samir112233/426635
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Kadak Hits
+http://s1.pubnow.info:8080/aya3/samir112233/426636
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | MH1 MUSIC (PUNJABI)
+http://s1.pubnow.info:8080/aya3/samir112233/426637
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | COLORS INFINITY
+http://s1.pubnow.info:8080/aya3/samir112233/426638
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | ZEE TALKIES HD
+http://s1.pubnow.info:8080/aya3/samir112233/426639
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | ZEE MARATHI  HD
+http://s1.pubnow.info:8080/aya3/samir112233/426640
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN: TV9 Telugu
+http://s1.pubnow.info:8080/aya3/samir112233/426641
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Shraddha MH One
+http://s1.pubnow.info:8080/aya3/samir112233/426642
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | CNBC Bajar GUJRATI HD
+http://s1.pubnow.info:8080/aya3/samir112233/426643
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Fashion TV
+http://s1.pubnow.info:8080/aya3/samir112233/426644
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | FASTWAY NEWS (PANJABI)
+http://s1.pubnow.info:8080/aya3/samir112233/426645
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | CNBC Awaaz
+http://s1.pubnow.info:8080/aya3/samir112233/426646
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Zee Punjabi (punjabi)
+http://s1.pubnow.info:8080/aya3/samir112233/426647
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Z LIVING (USA)
+http://s1.pubnow.info:8080/aya3/samir112233/426648
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", | UK | Sony Max 2
+http://s1.pubnow.info:8080/aya3/samir112233/426649
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: NDTV INDIA
+http://s1.pubnow.info:8080/aya3/samir112233/426650
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR GOLD HD
+http://s1.pubnow.info:8080/aya3/samir112233/426651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : INDIA NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND : NDTV PROFILE
+http://s1.pubnow.info:8080/aya3/samir112233/426653
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | JAN TV
+http://s1.pubnow.info:8080/aya3/samir112233/426654
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | ZEE 24 KALAK
+http://s1.pubnow.info:8080/aya3/samir112233/426655
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ |  ABP ASMITA HD
+http://s1.pubnow.info:8080/aya3/samir112233/426656
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | SANSKAR TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426657
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | NEWS 18 GUJARATI HD
+http://s1.pubnow.info:8080/aya3/samir112233/426658
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | TV9 GUJARATI HD
+http://s1.pubnow.info:8080/aya3/samir112233/426659
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | GS TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426660
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | Sandesh News HD
+http://s1.pubnow.info:8080/aya3/samir112233/426661
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", GUJ | Mantavya News Gujrat
+http://s1.pubnow.info:8080/aya3/samir112233/426662
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | ABP Majha HD
+http://s1.pubnow.info:8080/aya3/samir112233/426663
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | Fakt marathi
+http://s1.pubnow.info:8080/aya3/samir112233/426664
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | Sugran tv HD
+http://s1.pubnow.info:8080/aya3/samir112233/426665
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | Zee Vajwa
+http://s1.pubnow.info:8080/aya3/samir112233/426666
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | News18 Lokmat
+http://s1.pubnow.info:8080/aya3/samir112233/426667
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | TV9 Marathi HD
+http://s1.pubnow.info:8080/aya3/samir112233/426668
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | SAAM Marathi HD
+http://s1.pubnow.info:8080/aya3/samir112233/426669
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | Zee 24 Taas TV
+http://s1.pubnow.info:8080/aya3/samir112233/426670
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | ZEE MARATHI
+http://s1.pubnow.info:8080/aya3/samir112233/426671
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Tamil Vision TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426672
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Tamil Vision TV FHD
+http://s1.pubnow.info:8080/aya3/samir112233/426673
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Akaram Kidz HD
+http://s1.pubnow.info:8080/aya3/samir112233/426674
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Akaram Mix
+http://s1.pubnow.info:8080/aya3/samir112233/426675
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | EET TV
+http://s1.pubnow.info:8080/aya3/samir112233/426676
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Malaimurasu HD
+http://s1.pubnow.info:8080/aya3/samir112233/426677
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | MN Marutam TV
+http://s1.pubnow.info:8080/aya3/samir112233/426678
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Thanthi TV
+http://s1.pubnow.info:8080/aya3/samir112233/426679
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Santhora TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426680
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Santhora Short Flim
+http://s1.pubnow.info:8080/aya3/samir112233/426681
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL |  7S Music
+http://s1.pubnow.info:8080/aya3/samir112233/426682
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | Aathavan TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426683
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC Tamil HD
+http://s1.pubnow.info:8080/aya3/samir112233/426684
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC MUSIC hd
+http://s1.pubnow.info:8080/aya3/samir112233/426685
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC Srilanka HD
+http://s1.pubnow.info:8080/aya3/samir112233/426686
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC Comedy HD
+http://s1.pubnow.info:8080/aya3/samir112233/426687
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC Tamil Canada HD
+http://s1.pubnow.info:8080/aya3/samir112233/426688
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC Bhakthi HD
+http://s1.pubnow.info:8080/aya3/samir112233/426689
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | IBC Siluvai HD
+http://s1.pubnow.info:8080/aya3/samir112233/426690
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | Tamil  Puthiya Thalaimurai
+http://s1.pubnow.info:8080/aya3/samir112233/426691
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | Tamil  KTV
+http://s1.pubnow.info:8080/aya3/samir112233/426692
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | Tamil  Murasu
+http://s1.pubnow.info:8080/aya3/samir112233/426693
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |  3 Tamil TV
+http://s1.pubnow.info:8080/aya3/samir112233/426694
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |  Zee Tamil HD
+http://s1.pubnow.info:8080/aya3/samir112233/426695
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |  Sony_Yay_Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426696
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |  Sony BBC Earth HD Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426697
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |  Colors_Tamil_HD
+http://s1.pubnow.info:8080/aya3/samir112233/426698
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |  Zee Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426699
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sun News
+http://s1.pubnow.info:8080/aya3/samir112233/426700
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sun Life
+http://s1.pubnow.info:8080/aya3/samir112233/426701
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sathiyam
+http://s1.pubnow.info:8080/aya3/samir112233/426702
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Raj Musix
+http://s1.pubnow.info:8080/aya3/samir112233/426703
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   History 18 Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426704
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Vasanth TV
+http://s1.pubnow.info:8080/aya3/samir112233/426705
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Tunes 6
+http://s1.pubnow.info:8080/aya3/samir112233/426706
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Thanthi TV
+http://s1.pubnow.info:8080/aya3/samir112233/426707
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sahana Music
+http://s1.pubnow.info:8080/aya3/samir112233/426708
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Polimer News
+http://s1.pubnow.info:8080/aya3/samir112233/426709
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   News 18 Tamilnadu
+http://s1.pubnow.info:8080/aya3/samir112233/426710
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Nambikkai
+http://s1.pubnow.info:8080/aya3/samir112233/426711
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |    MK News
+http://s1.pubnow.info:8080/aya3/samir112233/426712
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   MK Tunes
+http://s1.pubnow.info:8080/aya3/samir112233/426713
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Madhimugam TV
+http://s1.pubnow.info:8080/aya3/samir112233/426714
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   CARTOON NETWORK
+http://s1.pubnow.info:8080/aya3/samir112233/426715
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Angel TV
+http://s1.pubnow.info:8080/aya3/samir112233/426716
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Nick Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426717
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |    Media One
+http://s1.pubnow.info:8080/aya3/samir112233/426718
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Santhora TV
+http://s1.pubnow.info:8080/aya3/samir112233/426719
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Vision International HD
+http://s1.pubnow.info:8080/aya3/samir112233/426720
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Santhora Short Flim HD
+http://s1.pubnow.info:8080/aya3/samir112233/426721
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Colors Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426722
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sun Music HD
+http://s1.pubnow.info:8080/aya3/samir112233/426723
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   KTV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426724
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Aditya TV
+http://s1.pubnow.info:8080/aya3/samir112233/426725
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Athavan Music Hd
+http://s1.pubnow.info:8080/aya3/samir112233/426726
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   HOLY GOD TV
+http://s1.pubnow.info:8080/aya3/samir112233/426727
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Hosanna tv
+http://s1.pubnow.info:8080/aya3/samir112233/426728
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   NLM TV
+http://s1.pubnow.info:8080/aya3/samir112233/426729
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Polimer TV
+http://s1.pubnow.info:8080/aya3/samir112233/426730
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Kalaignar TV
+http://s1.pubnow.info:8080/aya3/samir112233/426731
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sirippoli TV
+http://s1.pubnow.info:8080/aya3/samir112233/426732
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   PUTHIYA THALAIMURAI
+http://s1.pubnow.info:8080/aya3/samir112233/426733
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Captian TV
+http://s1.pubnow.info:8080/aya3/samir112233/426734
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Murasu
+http://s1.pubnow.info:8080/aya3/samir112233/426735
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   News7
+http://s1.pubnow.info:8080/aya3/samir112233/426736
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Jaya TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426737
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Jaya Max
+http://s1.pubnow.info:8080/aya3/samir112233/426738
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Jaya Movies
+http://s1.pubnow.info:8080/aya3/samir112233/426739
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Jaya Plus
+http://s1.pubnow.info:8080/aya3/samir112233/426740
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Thanthi TV
+http://s1.pubnow.info:8080/aya3/samir112233/426741
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Makkal TV
+http://s1.pubnow.info:8080/aya3/samir112233/426742
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Vendhar TV
+http://s1.pubnow.info:8080/aya3/samir112233/426743
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Puthuyugam NEWS TV
+http://s1.pubnow.info:8080/aya3/samir112233/426744
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Vasanth TV
+http://s1.pubnow.info:8080/aya3/samir112233/426745
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Seithigal TV
+http://s1.pubnow.info:8080/aya3/samir112233/426746
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Raj TV
+http://s1.pubnow.info:8080/aya3/samir112233/426747
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Raj Digital Plus
+http://s1.pubnow.info:8080/aya3/samir112233/426748
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Raj News 24X7
+http://s1.pubnow.info:8080/aya3/samir112233/426749
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Captain News
+http://s1.pubnow.info:8080/aya3/samir112233/426750
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sivan Temple TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426751
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Thanthi TV UK
+http://s1.pubnow.info:8080/aya3/samir112233/426752
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Jaya TV UK
+http://s1.pubnow.info:8080/aya3/samir112233/426753
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Raj TV UK
+http://s1.pubnow.info:8080/aya3/samir112233/426754
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Makkal TV UK
+http://s1.pubnow.info:8080/aya3/samir112233/426755
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Madha TV
+http://s1.pubnow.info:8080/aya3/samir112233/426756
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sri Sankara
+http://s1.pubnow.info:8080/aya3/samir112233/426757
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Swasthik TV
+http://s1.pubnow.info:8080/aya3/samir112233/426758
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |    Peppers TV
+http://s1.pubnow.info:8080/aya3/samir112233/426759
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Travel XP Tamil
+http://s1.pubnow.info:8080/aya3/samir112233/426760
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Athavan TV Hd
+http://s1.pubnow.info:8080/aya3/samir112233/426761
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Colors Tamil FHD
+http://s1.pubnow.info:8080/aya3/samir112233/426762
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil |   Sun TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426763
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | Star Vijay UK
+http://s1.pubnow.info:8080/aya3/samir112233/426764
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | Star Vijay HD
+http://s1.pubnow.info:8080/aya3/samir112233/426765
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Bbo classic
+http://s1.pubnow.info:8080/aya3/samir112233/426766
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MARATHI | SANGEET MARATHI
+http://s1.pubnow.info:8080/aya3/samir112233/426767
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MARATHI | Star Pravah HD
+http://s1.pubnow.info:8080/aya3/samir112233/426768
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ZEE KERALAM SD
+http://s1.pubnow.info:8080/aya3/samir112233/426769
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | FLOWER TV ME
+http://s1.pubnow.info:8080/aya3/samir112233/426770
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET PLUS UK
+http://s1.pubnow.info:8080/aya3/samir112233/426771
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET TV UK
+http://s1.pubnow.info:8080/aya3/samir112233/426772
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426773
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | 24 NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426774
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | AMRITA TV
+http://s1.pubnow.info:8080/aya3/samir112233/426775
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426776
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426777
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | DD MALAYALAM
+http://s1.pubnow.info:8080/aya3/samir112233/426778
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | FLOWERS TV
+http://s1.pubnow.info:8080/aya3/samir112233/426779
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | JAIHIND tv
+http://s1.pubnow.info:8080/aya3/samir112233/426780
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | JANAM TV
+http://s1.pubnow.info:8080/aya3/samir112233/426781
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KAIRALI PEOPLE
+http://s1.pubnow.info:8080/aya3/samir112233/426782
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KAIRALI TV
+http://s1.pubnow.info:8080/aya3/samir112233/426783
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KAIRALI WE TV
+http://s1.pubnow.info:8080/aya3/samir112233/426784
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KAPPA TV
+http://s1.pubnow.info:8080/aya3/samir112233/426785
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KAUMUDY TV
+http://s1.pubnow.info:8080/aya3/samir112233/426786
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KERALA VISION
+http://s1.pubnow.info:8080/aya3/samir112233/426787
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KOCHU TV
+http://s1.pubnow.info:8080/aya3/samir112233/426788
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | MANORAMA NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426789
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | MATHRUBHUMI NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426790
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | MAZHAVIL MANORAMA
+http://s1.pubnow.info:8080/aya3/samir112233/426791
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | MAZHAVIL MANORAMA HD
+http://s1.pubnow.info:8080/aya3/samir112233/426792
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | NEWS 18 KERALA
+http://s1.pubnow.info:8080/aya3/samir112233/426793
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | RAJ NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426794
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | REPORTER TV
+http://s1.pubnow.info:8080/aya3/samir112233/426795
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SHALOM TV
+http://s1.pubnow.info:8080/aya3/samir112233/426796
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SURYA HD
+http://s1.pubnow.info:8080/aya3/samir112233/426797
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SURYA MUSIC
+http://s1.pubnow.info:8080/aya3/samir112233/426798
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SURYA TV
+http://s1.pubnow.info:8080/aya3/samir112233/426799
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | Kairali Arabia
+http://s1.pubnow.info:8080/aya3/samir112233/426800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET PLUS+
+http://s1.pubnow.info:8080/aya3/samir112233/426801
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ACV UTSAV
+http://s1.pubnow.info:8080/aya3/samir112233/426802
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | HARVEST TV ARABIA
+http://s1.pubnow.info:8080/aya3/samir112233/426803
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | HARVEST TV USA
+http://s1.pubnow.info:8080/aya3/samir112233/426804
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | MEDIA ONE
+http://s1.pubnow.info:8080/aya3/samir112233/426805
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | POWER VISION
+http://s1.pubnow.info:8080/aya3/samir112233/426806
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SAFARI TV
+http://s1.pubnow.info:8080/aya3/samir112233/426807
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SURYA MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426808
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET HD
+http://s1.pubnow.info:8080/aya3/samir112233/426809
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | DARSHANA TV
+http://s1.pubnow.info:8080/aya3/samir112233/426810
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | JEEVAN TV
+http://s1.pubnow.info:8080/aya3/samir112233/426811
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ACV
+http://s1.pubnow.info:8080/aya3/samir112233/426812
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ACV Teleshop
+http://s1.pubnow.info:8080/aya3/samir112233/426813
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ACV NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426814
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ACV UTSAV PLUS
+http://s1.pubnow.info:8080/aya3/samir112233/426815
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | GARSHOM TV
+http://s1.pubnow.info:8080/aya3/samir112233/426816
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | MARIAN TV
+http://s1.pubnow.info:8080/aya3/samir112233/426817
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ROSE BOWL
+http://s1.pubnow.info:8080/aya3/samir112233/426818
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SURYA COMEDY
+http://s1.pubnow.info:8080/aya3/samir112233/426819
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | GOODNESS TV
+http://s1.pubnow.info:8080/aya3/samir112233/426820
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ACV MOVIES
+http://s1.pubnow.info:8080/aya3/samir112233/426821
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET ME
+http://s1.pubnow.info:8080/aya3/samir112233/426822
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | Propex TV
+http://s1.pubnow.info:8080/aya3/samir112233/426823
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ZEE KERALAM HD
+http://s1.pubnow.info:8080/aya3/samir112233/426824
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ZEE BISKOPE
+http://s1.pubnow.info:8080/aya3/samir112233/426825
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | KAIRALI NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426826
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | DISCOVERY HD MALAYALAM
+http://s1.pubnow.info:8080/aya3/samir112233/426827
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | VICKERS TV
+http://s1.pubnow.info:8080/aya3/samir112233/426828
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | ASIANET TV
+http://s1.pubnow.info:8080/aya3/samir112233/426829
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | SONIC MALAYALAM-1
+http://s1.pubnow.info:8080/aya3/samir112233/426830
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | DISCOVERY KIDS MALAYALAM
+http://s1.pubnow.info:8080/aya3/samir112233/426831
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | Nick Malayalam-1
+http://s1.pubnow.info:8080/aya3/samir112233/426832
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MALAYALAM | Raj Musix Malayalam-1
+http://s1.pubnow.info:8080/aya3/samir112233/426833
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | ANIMAL PLANET HD
+http://s1.pubnow.info:8080/aya3/samir112233/426834
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TAMIL | POGO TAMIL
+http://s1.pubnow.info:8080/aya3/samir112233/426835
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Marathi | Colors Marathi HD
+http://s1.pubnow.info:8080/aya3/samir112233/426836
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | History TV18 HD Hindi
+http://s1.pubnow.info:8080/aya3/samir112233/426837
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | STAR UTSAV
+http://s1.pubnow.info:8080/aya3/samir112233/426838
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | SONY MAX 2
+http://s1.pubnow.info:8080/aya3/samir112233/426839
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | SONY PIX HD
+http://s1.pubnow.info:8080/aya3/samir112233/426840
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Tamil | WIN NEWS
+http://s1.pubnow.info:8080/aya3/samir112233/426841
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Sony Kal (UK)
+http://s1.pubnow.info:8080/aya3/samir112233/426842
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | E24 HD
+http://s1.pubnow.info:8080/aya3/samir112233/426843
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Shemaroo Marathibana HD
+http://s1.pubnow.info:8080/aya3/samir112233/426844
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | DD Bharti
+http://s1.pubnow.info:8080/aya3/samir112233/426845
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND: STAR BHARAT
+http://s1.pubnow.info:8080/aya3/samir112233/426846
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IN | Discovery Turbo
+http://s1.pubnow.info:8080/aya3/samir112233/426847
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | ZEE CLASSIC
+http://s1.pubnow.info:8080/aya3/samir112233/426848
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Star Movies
+http://s1.pubnow.info:8080/aya3/samir112233/426849
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | India Ahead ENG
+http://s1.pubnow.info:8080/aya3/samir112233/426850
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Hungama Tv SD
+http://s1.pubnow.info:8080/aya3/samir112233/426851
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | MN+ HD
+http://s1.pubnow.info:8080/aya3/samir112233/426852
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IND | Shemaroo TV HD
+http://s1.pubnow.info:8080/aya3/samir112233/426853
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="BRASILEIRÃO SÉRIE D" tvg-logo="https://i.imgur.com/D700FXE.png" group-title="CANAIS | ESPORTES PAY PER VIEW",BRASILEIRÃO SÉRIE D
 http://7go.xyz:8080/EzS3Rv3R72023/yWG68yheugBy912042023eZS3v3N/313064
 #EXTINF:-1 tvg-ID="" tvg-name="Kingpyn Boxe HD¹" tvg-logo="https://i.imgur.com/8sh9Lm7.png" group-title="CANAIS | ESPORTES PAY PER VIEW",Kingpyn Boxe HD¹
