@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="UK ➾ Football",UK: MUTV
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/1102
 #EXTINF:-1 tvg-ID="" tvg-name="|CA| beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/1200px-BNN_Bloomberg.svg.png" group-title="CANADA EN",|CA| beIN Sports
 http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/141120.ts
 #EXTINF:-1 tvg-ID="" tvg-name="|CA| FIGHT Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="CANADA EN",|CA| FIGHT Network
