@@ -1,1 +1,647 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13  HD" tvg-logo="http://daleplaypro.com:8080/images/566f84e9d53284f95ca4c92dddd7ca24.png" group-title="(TV) CHILE",CL | CANAL 13  HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/209
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13 SD" tvg-logo="http://daleplay.club:8080/images/566f84e9d53284f95ca4c92dddd7ca24.png" group-title="(TV) CHILE",CL | CANAL 13 SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55270
+#EXTINF:-1 tvg-id="canal13c.cl" tvg-name="CL | CANAL 13. C" tvg-logo="http://daleplaypro.com:8080/images/566f84e9d53284f95ca4c92dddd7ca24.png" group-title="(TV) CHILE",CL | CANAL 13. C
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55271
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://daleplay.club:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="(TV) CHILE",CL | CHILEVISION HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55272
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION SD" tvg-logo="http://daleplay.club:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="(TV) CHILE",CL | CHILEVISION SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55273
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION FHD" tvg-logo="http://daleplaypro.com:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="(TV) CHILE",CL | CHILEVISION FHD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55274
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://daleplaypro.com:8080/images/113266a271908178e56d5f2062d5a66b.png" group-title="(TV) CHILE",CL | MEGA HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55275
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA SD" tvg-logo="http://daleplaypro.com:8080/images/113266a271908178e56d5f2062d5a66b.png" group-title="(TV) CHILE",CL | MEGA SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55276
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA FHD" tvg-logo="http://daleplay.club:8080/images/113266a271908178e56d5f2062d5a66b.png" group-title="(TV) CHILE",CL | MEGA FHD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55277
+#EXTINF:-1 tvg-id="tvnchile.cl" tvg-name="CL | TVN. HD" tvg-logo="http://daleplaypro.com:8080/images/5815d7c93f7904b1c025c5e2b8f9ae29.png" group-title="(TV) CHILE",CL | TVN. HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55278
+#EXTINF:-1 tvg-id="teletrak.cl" tvg-name="CL | TVN  SD" tvg-logo="http://daleplaypro.com:8080/images/5815d7c93f7904b1c025c5e2b8f9ae29.png" group-title="(TV) CHILE",CL | TVN  SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55279
+#EXTINF:-1 tvg-id="etc.cl" tvg-name="CL |  ETC TV" tvg-logo="http://daleplaypro.com:8080/images/763b1e6500acf964563dbcbb550fae99.png" group-title="(TV) CHILE",CL |  ETC TV
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55280
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | LA RED HD" tvg-logo="http://daleplaypro.com:8080/images/daaa949e119798859ec1345404e1450e.png" group-title="(TV) CHILE",CL | LA RED HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55281
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | LA RED SD" tvg-logo="http://daleplaypro.com:8080/images/daaa949e119798859ec1345404e1450e.png" group-title="(TV) CHILE",CL | LA RED SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/55282
+#EXTINF:-1 tvg-id="fox.cl" tvg-name="CL | FOX SPORTS 1 HD" tvg-logo="http://daleplay.club:8080/images/eb68a956cbd521edc4661349ff8a5059.png" group-title="(TV) CHILE",CL | FOX SPORTS 1 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144622
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="CL | FOX SPORTS 2HD" tvg-logo="http://daleplay.club:8080/images/bb39365a1ca805f0546e9636505d285d.png" group-title="(TV) CHILE",CL | FOX SPORTS 2HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144623
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="CL | FOX SPORTS 3 HD" tvg-logo="http://daleplay.club:8080/images/864b6976e98740a193c5768c32e18e5b.png" group-title="(TV) CHILE",CL | FOX SPORTS 3 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144624
+#EXTINF:-1 tvg-id="" tvg-name="CL | DSPORTS HD" tvg-logo="http://daleplaypro.com:8080/images/44c1ad9d805fb8336b6024c21c44c294.png" group-title="(TV) CHILE",CL | DSPORTS HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144625
+#EXTINF:-1 tvg-id="" tvg-name="CL | DSPOSRT 2 HD" tvg-logo="http://daleplaypro.com:8080/images/db7ffc7508ae913342030dcaf33372cd.png" group-title="(TV) CHILE",CL | DSPOSRT 2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144626
+#EXTINF:-1 tvg-id="" tvg-name="CL | DPORTS PLUS HD" tvg-logo="http://daleplaypro.com:8080/images/ea1bf18bffabce0ed6cf094ff70c2239.png" group-title="(TV) CHILE",CL | DPORTS PLUS HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144627
+#EXTINF:-1 tvg-id="expn.cl" tvg-name="CL |  ESPN 1 HD" tvg-logo="http://daleplaypro.com:8080/images/295ff63ba521cb66d418947e30ae32ac.png" group-title="(TV) CHILE",CL |  ESPN 1 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144628
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 2 HD" tvg-logo="http://daleplaypro.com:8080/images/61711b387c902bee617e11e892b850f6.png" group-title="(TV) CHILE",CL | ESPN 2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144629
+#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 3 HD" tvg-logo="http://daleplaypro.com:8080/images/2906553b68e961b34bb5d663012146f6.png" group-title="(TV) CHILE",CL | ESPN 3 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144630
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO PREMIUM HD" tvg-logo="http://daleplaypro.com:8080/images/242866c747adea906d6f9a991235f226.png" group-title="(TV) CHILE",CL | CDO PREMIUM HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144631
+#EXTINF:-1 tvg-id="" tvg-name="CL | TELETRAK HD" tvg-logo="http://daleplaypro.com:8080/images/c4f6959a572909ff52961699b9cac903.png" group-title="(TV) CHILE",CL | TELETRAK HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/151590
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",HBO EXTREME HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141383
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NET HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",CARTOON NET HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141384
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME  HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL CRIME  HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141388
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL PREMIERE HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141389
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL REALITY HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141390
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL COMEDY HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141391
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",TIGO SPORTS HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141392
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",History HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141393
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",MTV HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141394
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",HBO Family HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141395
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",HBO HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141396
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",HBO Plus HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141397
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",HBO2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141398
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Discovery Channel HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141399
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",ESPN 3 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141401
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",ESPN 2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141402
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Discovery World HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141403
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Discovery ID HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141404
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",ESPN HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141405
+#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",FUTV HD CR
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141406
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Nat Geo HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141407
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Paramount HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141408
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL CINEMA HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141409
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",TNT HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141410
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Comedy Central HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141411
+#EXTINF:-1 tvg-id="" tvg-name="DISC THEATHER HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",DISC THEATHER HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141412
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",FOX SPORTS 2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141413
+#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",HOLA! TV HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141414
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL PREMIERE O HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141415
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Home & Health HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141416
+#EXTINF:-1 tvg-id="I133.16435.schedulesdirect.org" tvg-name="CINECANAL HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",CINECANAL HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141418
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",SONY HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141419
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",STAR CHANNEL HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141420
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",WARNER HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141421
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 HD - SLV" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Canal 10 HD - SLV
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141425
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Discovery Kids HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141428
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",E! Entertairment HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141429
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",FOX SPORTS 3 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141432
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",A&E HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141433
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",AMC HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141434
+#EXTINF:-1 tvg-id="" tvg-name="TD+2 HD CR" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",TD+2 HD CR
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141435
+#EXTINF:-1 tvg-id="" tvg-name="TD+HD CR" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",TD+HD CR
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141436
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Pasiones HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141437
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",TNT Series HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141438
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",NICK HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185873
+#EXTINF:-1 tvg-id="" tvg-name="La tele" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",La tele
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185875
+#EXTINF:-1 tvg-id="" tvg-name="Rts+" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Rts+
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185876
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo hd" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Telemundo hd
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185877
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador tv" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Ecuador tv
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185878
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Ecuavisa
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185879
+#EXTINF:-1 tvg-id="" tvg-name="Gamavision" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Gamavision
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185880
+#EXTINF:-1 tvg-id="" tvg-name="Rts" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Rts
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185881
+#EXTINF:-1 tvg-id="" tvg-name="Tc television" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Tc television
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185882
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Teleamazonas
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185883
+#EXTINF:-1 tvg-id="" tvg-name="Televicentro" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Televicentro
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185884
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 - PAN" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Canal 13 - PAN
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185885
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Canal Claro HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185886
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 1 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Claro Sports 1 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185887
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Claro Sports 2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185888
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Discovery Channel HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185889
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",FX HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185891
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2 HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Golden Premiere 2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185892
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Golden Premiere HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185893
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Sony Movies HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185896
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",Studio Universal HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185897
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://127.0.0.1/" group-title="TV CENTRO AMERICA ",UNIVERSAL PREMIERE HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185900
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC 4K" tvg-logo="https://i.imgur.com/45mFCmi.png" group-title="TV | 4K MOVISTAR PREMIUM",AMC 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156117
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E 4K" tvg-logo="https://i.imgur.com/dohTPNk.png" group-title="TV | 4K MOVISTAR PREMIUM",A&E 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156118
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN 4K" tvg-logo="https://i.imgur.com/ItssADT.png" group-title="TV | 4K MOVISTAR PREMIUM",AXN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156119
+#EXTINF:-1 tvg-id="" tvg-name="America TV 4K" tvg-logo="https://i.imgur.com/pMHga1b.png" group-title="TV | 4K MOVISTAR PREMIUM",America TV 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156120
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet 4K" tvg-logo="https://i.imgur.com/sbMEznh.png" group-title="TV | 4K MOVISTAR PREMIUM",Animal Planet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156121
+#EXTINF:-1 tvg-id="" tvg-name="CHV 4K" tvg-logo="http://daleplaypro.com:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="TV | 4K MOVISTAR PREMIUM",CHV 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156122
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 4K" tvg-logo="https://i.imgur.com/iF77dKk.png" group-title="TV | 4K MOVISTAR PREMIUM",Canal 13 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156123
+#EXTINF:-1 tvg-id="" tvg-name="Caracol 4K" tvg-logo="https://i.imgur.com/y3nEE7n.png" group-title="TV | 4K MOVISTAR PREMIUM",Caracol 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156125
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 4K" tvg-logo="https://i.imgur.com/SG2LsKk.png" group-title="TV | 4K MOVISTAR PREMIUM",Cartoon Network 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156126
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal 4K" tvg-logo="https://i.imgur.com/Ys1gXYG.png" group-title="TV | 4K MOVISTAR PREMIUM",Cinecanal 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156127
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 4K" tvg-logo="https://i.imgur.com/WsU9eOF.png" group-title="TV | 4K MOVISTAR PREMIUM",Cinemax 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156128
+#EXTINF:-1 tvg-id="" tvg-name="DHE 4K" tvg-logo="https://i.imgur.com/wgjWSfD.png" group-title="TV | 4K MOVISTAR PREMIUM",DHE 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156129
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H 4K" tvg-logo="https://i.imgur.com/tN71jXT.png" group-title="TV | 4K MOVISTAR PREMIUM",Discovery H&H 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156130
+#EXTINF:-1 tvg-id="" tvg-name="Discovery 4K" tvg-logo="https://i.imgur.com/WZyKAcJ.png" group-title="TV | 4K MOVISTAR PREMIUM",Discovery 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156131
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids 4K" tvg-logo="https://i.imgur.com/Uw4ntlu.png" group-title="TV | 4K MOVISTAR PREMIUM",Discovery Kids 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156132
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Theater 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgIur18R2rGamuf6OHqxbFsaBwn1rRjEL1w&usqp=CAU" group-title="TV | 4K MOVISTAR PREMIUM", Discovery Theater 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156133
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery World 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZcLnivobL6NY-pNCMuPlpPLoHTYpNn0dDQ&usqp=CAU" group-title="TV | 4K MOVISTAR PREMIUM", Discovery World 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156134
+#EXTINF:-1 tvg-id="" tvg-name="Disney 4K" tvg-logo="https://i.imgur.com/5hzC8PD.png" group-title="TV | 4K MOVISTAR PREMIUM",Disney 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156135
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Junior 4K" tvg-logo="https://i.imgur.com/Uw4ntlu.png" group-title="TV | 4K MOVISTAR PREMIUM", Disney Junior 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156136
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://i.imgur.com/pwD0Y5Z.png" group-title="TV | 4K MOVISTAR PREMIUM",ESPN 2  4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156137
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN 2 4K" tvg-logo="https://i.imgur.com/pwD0Y5Z.png" group-title="TV | 4K MOVISTAR PREMIUM", ESPN 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156138
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN 2 4K" tvg-logo="https://i.imgur.com/pwD0Y5Z.png" group-title="TV | 4K MOVISTAR PREMIUM", ESPN 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156139
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://i.imgur.com/QVcOUzE.png" group-title="TV | 4K MOVISTAR PREMIUM",ESPN 3 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156140
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="https://i.imgur.com/5LmsXMT.png" group-title="TV | 4K MOVISTAR PREMIUM",ESPN 4 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156141
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN EXTRA 4K" tvg-logo="https://i.imgur.com/nOD51V4.png" group-title="TV | 4K MOVISTAR PREMIUM", ESPN EXTRA 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156142
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN 4K" tvg-logo="https://i.imgur.com/5LmsXMT.png" group-title="TV | 4K MOVISTAR PREMIUM", ESPN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156143
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN 4K" tvg-logo="https://i.imgur.com/5LmsXMT.png" group-title="TV | 4K MOVISTAR PREMIUM", ESPN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156144
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://i.imgur.com/5LmsXMT.png" group-title="TV | 4K MOVISTAR PREMIUM",ESPN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156145
+#EXTINF:-1 tvg-id="" tvg-name=" El Gourmet 4K" tvg-logo="https://i.imgur.com/hlEDgHa.png" group-title="TV | 4K MOVISTAR PREMIUM", El Gourmet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156146
+#EXTINF:-1 tvg-id="" tvg-name=" ElCanaldelFutbol 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrL6C5LYOyTzNz11wVUIp5trHiQdYKSfYRdw&usqp=CAU" group-title="TV | 4K MOVISTAR PREMIUM", ElCanaldelFutbol 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156147
+#EXTINF:-1 tvg-id="" tvg-name=" FOX Sports 2 4K" tvg-logo="https://i.imgur.com/j4wMaU3.png" group-title="TV | 4K MOVISTAR PREMIUM", FOX Sports 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156148
+#EXTINF:-1 tvg-id="" tvg-name=" FX 4K" tvg-logo="https://i.imgur.com/5XEzAph.png" group-title="TV | 4K MOVISTAR PREMIUM", FX 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156149
+#EXTINF:-1 tvg-id="" tvg-name="E! 4K" tvg-logo="https://i.imgur.com/wv5FhgL.png" group-title="TV | 4K MOVISTAR PREMIUM",E! 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156150
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 4K" tvg-logo="https://i.imgur.com/aoPAxlt.png" group-title="TV | 4K MOVISTAR PREMIUM",Fox Sports 1 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156151
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 4K" tvg-logo="https://i.imgur.com/19mFMMW.png" group-title="TV | 4K MOVISTAR PREMIUM",Fox Sports 3 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156152
+#EXTINF:-1 tvg-id="" tvg-name="GOLPERU 4K" tvg-logo="https://i.imgur.com/N9gLdx2.png" group-title="TV | 4K MOVISTAR PREMIUM",GOLPERU 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156153
+#EXTINF:-1 tvg-id="" tvg-name="GolTV 4K" tvg-logo="https://i.imgur.com/H0vMjwx.png" group-title="TV | 4K MOVISTAR PREMIUM",GolTV 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156154
+#EXTINF:-1 tvg-id="" tvg-name="Golden 4K" tvg-logo="https://i.imgur.com/ddLeR8e.png" group-title="TV | 4K MOVISTAR PREMIUM",Golden 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156155
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 2 4K" tvg-logo="https://i.imgur.com/2eSWBlC.png" group-title="TV | 4K MOVISTAR PREMIUM", HBO 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156156
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO Family 4K" tvg-logo="https://i.imgur.com/7bt7Dx3.png" group-title="TV | 4K MOVISTAR PREMIUM",HBO Family 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156157
+#EXTINF:-1 tvg-id="" tvg-name="HBO DUAL AUDIO 4K" tvg-logo="https://i.imgur.com/ECCGDAf.png" group-title="TV | 4K MOVISTAR PREMIUM",HBO DUAL AUDIO 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156158
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K" tvg-logo="https://i.imgur.com/NAJjZLd.png" group-title="TV | 4K MOVISTAR PREMIUM",HBO POP 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156160
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="https://i.imgur.com/xX6uZJn.png" group-title="TV | 4K MOVISTAR PREMIUM",HBO XTREME 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156161
+#EXTINF:-1 tvg-id="" tvg-name="History 2 4K" tvg-logo="https://i.imgur.com/ZM7LPGs.png" group-title="TV | 4K MOVISTAR PREMIUM",History 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156162
+#EXTINF:-1 tvg-id="" tvg-name=" History Channel 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU" group-title="TV | 4K MOVISTAR PREMIUM", History Channel 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156163
+#EXTINF:-1 tvg-id="" tvg-name=" ID 4K" tvg-logo="https://i.imgur.com/acJJCim.png" group-title="TV | 4K MOVISTAR PREMIUM", ID 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156164
+#EXTINF:-1 tvg-id="" tvg-name=" Kanal D Drama 4K" tvg-logo="https://i.imgur.com/tayhfCu.png" group-title="TV | 4K MOVISTAR PREMIUM", Kanal D Drama 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156165
+#EXTINF:-1 tvg-id="" tvg-name=" La Red 4K" tvg-logo="https://i.imgur.com/Nsa020O.png" group-title="TV | 4K MOVISTAR PREMIUM", La Red 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156166
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas 4K" tvg-logo="https://i.imgur.com/2mCxplL.png" group-title="TV | 4K MOVISTAR PREMIUM",Las Estrellas 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156167
+#EXTINF:-1 tvg-id="" tvg-name="Latina 4K" tvg-logo="https://i.imgur.com/oT6r0s0.png" group-title="TV | 4K MOVISTAR PREMIUM",Latina 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156168
+#EXTINF:-1 tvg-id="" tvg-name="MEGA 4K" tvg-logo="https://i.imgur.com/OZJ0IZj.png" group-title="TV | 4K MOVISTAR PREMIUM",MEGA 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156170
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 4K" tvg-logo="https://i.imgur.com/pG4cWdL.png" group-title="TV | 4K MOVISTAR PREMIUM",Movistar Deportes 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156172
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo 4K" tvg-logo="https://i.imgur.com/geVnFyL.png" group-title="TV | 4K MOVISTAR PREMIUM",Nat Geo 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156173
+#EXTINF:-1 tvg-id="" tvg-name=" Playboy 4K" tvg-logo="https://i.imgur.com/vPgPPy8.png" group-title="TV | 4K MOVISTAR PREMIUM", Playboy 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156174
+#EXTINF:-1 tvg-id="" tvg-name="RCN 4K" tvg-logo="https://i.imgur.com/4LDIvrY.png" group-title="TV | 4K MOVISTAR PREMIUM",RCN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156175
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL 4K" tvg-logo="https://i.imgur.com/p4UbStU.png" group-title="TV | 4K MOVISTAR PREMIUM",STAR CHANNEL 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156176
+#EXTINF:-1 tvg-id="" tvg-name=" Sony 4K" tvg-logo="https://i.imgur.com/Fy4LibB.png" group-title="TV | 4K MOVISTAR PREMIUM", Sony 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156179
+#EXTINF:-1 tvg-id="" tvg-name=" Space 4K" tvg-logo="https://i.imgur.com/GhwimGL.png" group-title="TV | 4K MOVISTAR PREMIUM", Space 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156180
+#EXTINF:-1 tvg-id="" tvg-name=" Studio Universal 4K" tvg-logo="https://i.imgur.com/WQXYnzO.png" group-title="TV | 4K MOVISTAR PREMIUM", Studio Universal 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156182
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel 4K" tvg-logo="https://i.imgur.com/XCPKf2i.png" group-title="TV | 4K MOVISTAR PREMIUM",Sun Channel 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156183
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/z10gige.png" group-title="TV | 4K MOVISTAR PREMIUM",TNT 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156184
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series 4K" tvg-logo="https://i.imgur.com/BPvY9Pm.png" group-title="TV | 4K MOVISTAR PREMIUM",TNT Series 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156186
+#EXTINF:-1 tvg-id="" tvg-name="TVN 4K" tvg-logo="https://i.imgur.com/poEwE41.png" group-title="TV | 4K MOVISTAR PREMIUM",TVN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156187
+#EXTINF:-1 tvg-id="" tvg-name=" TyC Sports 4K" tvg-logo="https://i.imgur.com/u8D7BZI.png" group-title="TV | 4K MOVISTAR PREMIUM", TyC Sports 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156189
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="https://i.imgur.com/bT32YRd.png" group-title="TV | 4K MOVISTAR PREMIUM",UNIVERSAL CHANNEL 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156190
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel 4K" tvg-logo="https://i.imgur.com/wjbqxar.png" group-title="TV | 4K MOVISTAR PREMIUM",Warner Channel 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156191
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports 4K" tvg-logo="https://i.imgur.com/HeIBfQY.png" group-title="TV | 4K MOVISTAR PREMIUM",Win Sports 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156192
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+ 4K" tvg-logo="https://i.imgur.com/OanNLv4.png" group-title="TV | 4K MOVISTAR PREMIUM",Win Sports+ 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156193
+#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES 4K" tvg-logo="https://i.imgur.com/rtzCMdH.png" group-title="TV | 4K MOVISTAR PREMIUM",ATRES SERIES 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156231
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",AXN SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150107
+#EXTINF:-1 tvg-id="" tvg-name="C9N SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",C9N SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150109
+#EXTINF:-1 tvg-id="" tvg-name="CDO Basico SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",CDO Basico SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150111
+#EXTINF:-1 tvg-id="" tvg-name="CDO Premium SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",CDO Premium SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150112
+#EXTINF:-1 tvg-id="" tvg-name="Canal Caracol SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Canal Caracol SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150114
+#EXTINF:-1 tvg-id="" tvg-name="Canal Estrellas SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Canal Estrellas SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150115
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Discovery Channel SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150119
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Discovery H&H SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150120
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sd*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",ESPN Sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150125
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Latin SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",ESPN 2 Latin SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150128
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",ESPN 3 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150129
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",ESPN 4 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150130
+#EXTINF:-1 tvg-id="" tvg-name="ESPN CO SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",ESPN CO SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150131
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Fox Sports 2 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150134
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Fox Sports 3 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150135
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",GOL TV SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150136
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 2 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS", HBO 2 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150139
+#EXTINF:-1 tvg-id="" tvg-name=" HBO Plus SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS", HBO Plus SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150141
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",HBO SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150142
+#EXTINF:-1 tvg-id="" tvg-name=" HBO XTREME SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS", HBO XTREME SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150143
+#EXTINF:-1 tvg-id="" tvg-name="History 2 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",History 2 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150144
+#EXTINF:-1 tvg-id="" tvg-name="History Channel SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",History Channel SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150145
+#EXTINF:-1 tvg-id="" tvg-name=" ID - Investigation Discovery SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS", ID - Investigation Discovery SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150146
+#EXTINF:-1 tvg-id="" tvg-name="LA RED SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",LA RED SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150147
+#EXTINF:-1 tvg-id="" tvg-name="NPY SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",NPY SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150149
+#EXTINF:-1 tvg-id="" tvg-name="SNT SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",SNT SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150152
+#EXTINF:-1 tvg-id="" tvg-name="SyFy SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",SyFy SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150156
+#EXTINF:-1 tvg-id="" tvg-name=" TNT SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS", TNT SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150157
+#EXTINF:-1 tvg-id="" tvg-name="₮NT SPORTS 3 SD*" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",₮NT SPORTS 3 SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150159
+#EXTINF:-1 tvg-id="" tvg-name="TELEFUTURO SD*" tvg-logo="" group-title="CANALES SD LATINOS",TELEFUTURO SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150853
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SD*" tvg-logo="" group-title="CANALES SD LATINOS",TELEMUNDO SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150854
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas SD*" tvg-logo="" group-title="CANALES SD LATINOS",Telenovelas SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150855
+#EXTINF:-1 tvg-id="" tvg-name="Tyc SD*" tvg-logo="" group-title="CANALES SD LATINOS",Tyc SD*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150856
+#EXTINF:-1 tvg-id="" tvg-name="América tv sd**" tvg-logo="" group-title="CANALES SD LATINOS",América tv sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157740
+#EXTINF:-1 tvg-id="" tvg-name="ATV sd**" tvg-logo="" group-title="CANALES SD LATINOS",ATV sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157741
+#EXTINF:-1 tvg-id="" tvg-name="canal N sd**" tvg-logo="" group-title="CANALES SD LATINOS",canal N sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157742
+#EXTINF:-1 tvg-id="" tvg-name="Global tv sd**" tvg-logo="" group-title="CANALES SD LATINOS",Global tv sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157743
+#EXTINF:-1 tvg-id="" tvg-name="Latina sd**" tvg-logo="" group-title="CANALES SD LATINOS",Latina sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157744
+#EXTINF:-1 tvg-id="" tvg-name="Movistar plus sd**" tvg-logo="" group-title="CANALES SD LATINOS",Movistar plus sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157745
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana sd**" tvg-logo="" group-title="CANALES SD LATINOS",Panamericana sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157746
+#EXTINF:-1 tvg-id="" tvg-name="Perumagico sd**" tvg-logo="" group-title="CANALES SD LATINOS",Perumagico sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/157747
+#EXTINF:-1 tvg-id="" tvg-name="Movistar deportes sd**" tvg-logo="" group-title="CANALES SD LATINOS",Movistar deportes sd**
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159501
+#EXTINF:-1 tvg-id="" tvg-name="ANTV- SD" tvg-logo="" group-title="CANALES SD LATINOS",ANTV- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159507
+#EXTINF:-1 tvg-id="" tvg-name="CHV- SD" tvg-logo="" group-title="CANALES SD LATINOS",CHV- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159508
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13- SD" tvg-logo="" group-title="CANALES SD LATINOS",Canal 13- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159509
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal- SD" tvg-logo="" group-title="CANALES SD LATINOS",Cinecanal- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159510
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax- SD" tvg-logo="" group-title="CANALES SD LATINOS",Cinemax- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159511
+#EXTINF:-1 tvg-id="" tvg-name="Conciencia- SD" tvg-logo="" group-title="CANALES SD LATINOS",Conciencia- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159512
+#EXTINF:-1 tvg-id="" tvg-name="De PelŦcula- SD" tvg-logo="" group-title="CANALES SD LATINOS",De PelŦcula- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159513
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo-SD" tvg-logo="" group-title="CANALES SD LATINOS",Discovery Turbo-SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159516
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel- SD" tvg-logo="" group-title="CANALES SD LATINOS",Disney Channel- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159518
+#EXTINF:-1 tvg-id="" tvg-name="ESPN- SD" tvg-logo="" group-title="CANALES SD LATINOS",ESPN- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159519
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4- SD" tvg-logo="" group-title="CANALES SD LATINOS",ESPN 4- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159520
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2- SD" tvg-logo="" group-title="CANALES SD LATINOS",ESPN2- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159521
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV- SD" tvg-logo="" group-title="CANALES SD LATINOS",ETC TV- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159523
+#EXTINF:-1 tvg-id="" tvg-name="FANB- SD" tvg-logo="" group-title="CANALES SD LATINOS",FANB- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159524
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports- SD" tvg-logo="" group-title="CANALES SD LATINOS",Fox Sports- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159525
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2- SD" tvg-logo="" group-title="CANALES SD LATINOS",Fox Sports 2- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159526
+#EXTINF:-1 tvg-id="" tvg-name="Glitz*- SD" tvg-logo="" group-title="CANALES SD LATINOS",Glitz*- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159527
+#EXTINF:-1 tvg-id="" tvg-name="Globovision- SD" tvg-logo="" group-title="CANALES SD LATINOS",Globovision- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159528
+#EXTINF:-1 tvg-id="" tvg-name="Golden- SD" tvg-logo="" group-title="CANALES SD LATINOS",Golden- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159529
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge- SD" tvg-logo="" group-title="CANALES SD LATINOS",Golden Edge- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159530
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas- SD" tvg-logo="" group-title="CANALES SD LATINOS",Las Estrellas- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159531
+#EXTINF:-1 tvg-id="" tvg-name="MEGA-SD- SD" tvg-logo="" group-title="CANALES SD LATINOS",MEGA-SD- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159533
+#EXTINF:-1 tvg-id="" tvg-name="Meridiano- SD" tvg-logo="" group-title="CANALES SD LATINOS",Meridiano- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159534
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon- SD" tvg-logo="" group-title="CANALES SD LATINOS",Nickelodeon- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159535
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel- SD" tvg-logo="" group-title="CANALES SD LATINOS",Paramount Channel- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159536
+#EXTINF:-1 tvg-id="" tvg-name="RCN- SD" tvg-logo="" group-title="CANALES SD LATINOS",RCN- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159537
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL- SD" tvg-logo="" group-title="CANALES SD LATINOS",STAR CHANNEL- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159538
+#EXTINF:-1 tvg-id="" tvg-name="Space- SD" tvg-logo="" group-title="CANALES SD LATINOS",Space- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159539
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal- SD" tvg-logo="" group-title="CANALES SD LATINOS",Studio Universal- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159540
+#EXTINF:-1 tvg-id="" tvg-name="TCM- SD" tvg-logo="" group-title="CANALES SD LATINOS",TCM- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159541
+#EXTINF:-1 tvg-id="" tvg-name="TLT- SD" tvg-logo="" group-title="CANALES SD LATINOS",TLT- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159542
+#EXTINF:-1 tvg-id="" tvg-name="TV FAMILIA- SD" tvg-logo="" group-title="CANALES SD LATINOS",TV FAMILIA- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159545
+#EXTINF:-1 tvg-id="" tvg-name="TV+- SD" tvg-logo="" group-title="CANALES SD LATINOS",TV+- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159546
+#EXTINF:-1 tvg-id="" tvg-name="TVES- SD" tvg-logo="" group-title="CANALES SD LATINOS",TVES- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159547
+#EXTINF:-1 tvg-id="" tvg-name="TVN- SD" tvg-logo="" group-title="CANALES SD LATINOS",TVN- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159548
+#EXTINF:-1 tvg-id="" tvg-name="TelefØ- SD" tvg-logo="" group-title="CANALES SD LATINOS",TelefØ- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159549
+#EXTINF:-1 tvg-id="" tvg-name="Teleislas- SD" tvg-logo="" group-title="CANALES SD LATINOS",Teleislas- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159550
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak- SD" tvg-logo="" group-title="CANALES SD LATINOS",Teletrak- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159551
+#EXTINF:-1 tvg-id="" tvg-name="Venevisiðn- SD" tvg-logo="" group-title="CANALES SD LATINOS",Venevisiðn- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159553
+#EXTINF:-1 tvg-id="" tvg-name="Vive- SD" tvg-logo="" group-title="CANALES SD LATINOS",Vive- SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159554
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa sd*" tvg-logo="" group-title="CANALES SD LATINOS",Ecuavisa sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159556
+#EXTINF:-1 tvg-id="" tvg-name="City tv sd*" tvg-logo="" group-title="CANALES SD LATINOS",City tv sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159557
+#EXTINF:-1 tvg-id="" tvg-name="Canal uno sd*" tvg-logo="" group-title="CANALES SD LATINOS",Canal uno sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159558
+#EXTINF:-1 tvg-id="" tvg-name="Animal planet sd*" tvg-logo="" group-title="CANALES SD LATINOS",Animal planet sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159559
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr sd*" tvg-logo="" group-title="CANALES SD LATINOS",Disney Jr sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159560
+#EXTINF:-1 tvg-id="" tvg-name="Nat GEO sd*" tvg-logo="" group-title="CANALES SD LATINOS",Nat GEO sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159561
+#EXTINF:-1 tvg-id="" tvg-name="Sony sd*" tvg-logo="" group-title="CANALES SD LATINOS",Sony sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159562
+#EXTINF:-1 tvg-id="" tvg-name="Maschic sd*" tvg-logo="" group-title="CANALES SD LATINOS",Maschic sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159563
+#EXTINF:-1 tvg-id="" tvg-name="Fx sd*" tvg-logo="" group-title="CANALES SD LATINOS",Fx sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159564
+#EXTINF:-1 tvg-id="" tvg-name="Disney junior sd*" tvg-logo="" group-title="CANALES SD LATINOS",Disney junior sd*
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159566
+#EXTINF:-1 tvg-id="" tvg-name="Vía x -sd" tvg-logo="" group-title="CANALES SD LATINOS",Vía x -sd
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159567
+#EXTINF:-1 tvg-id="" tvg-name="Rec tv-sd" tvg-logo="" group-title="CANALES SD LATINOS",Rec tv-sd
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159568
+#EXTINF:-1 tvg-id="" tvg-name="NTN 24 Horas- sd" tvg-logo="" group-title="CANALES SD LATINOS",NTN 24 Horas- sd
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159569
+#EXTINF:-1 tvg-id="" tvg-name="Antena 7- RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Antena 7- RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159770
+#EXTINF:-1 tvg-id="" tvg-name="Tele Antillas - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Tele Antillas - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159771
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Telesistema - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159772
+#EXTINF:-1 tvg-id="" tvg-name="CDN2- RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",CDN2- RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159773
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15 - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Digital 15 - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159774
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Telecentro - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159775
+#EXTINF:-1 tvg-id="" tvg-name="CDN37 - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",CDN37 - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159776
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9 - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",Color Vision 9 - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159777
+#EXTINF:-1 tvg-id="" tvg-name="TeleMicro - RD" tvg-logo="http://127.0.0.1/" group-title="CANALES SD LATINOS",TeleMicro - RD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159778
+#EXTINF:-1 tvg-id="" tvg-name="IVC" tvg-logo="" group-title="CANALES SD LATINOS",IVC
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/159819
+#EXTINF:-1 tvg-id="" tvg-name="venezolana de television" tvg-logo="" group-title="CANALES SD LATINOS",venezolana de television
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/201950
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO SANTA CRUZ HD." tvg-logo="http://daleplay.club:8080/images/a27f1e1b96028e41769df9d938f4488d.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED UNO SANTA CRUZ HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262707
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO SANTA CRUZ SD." tvg-logo="http://daleplay.club:8080/images/a27f1e1b96028e41769df9d938f4488d.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED UNO SANTA CRUZ SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262708
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO LA PAZ HD." tvg-logo="http://daleplay.club:8080/images/a27f1e1b96028e41769df9d938f4488d.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED UNO LA PAZ HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262709
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO LA PAZ SD." tvg-logo="http://daleplay.club:8080/images/a27f1e1b96028e41769df9d938f4488d.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED UNO LA PAZ SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262710
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO COCHABANBA HD." tvg-logo="http://daleplay.club:8080/images/a27f1e1b96028e41769df9d938f4488d.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED UNO COCHABANBA HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262711
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO COCHABANBA SD." tvg-logo="http://daleplay.club:8080/images/a27f1e1b96028e41769df9d938f4488d.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED UNO COCHABANBA SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262712
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL SANTA CRUZ HD." tvg-logo="http://daleplay.club:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="(TV) BOLIVIA PREMIUM",BOL : UNITEL SANTA CRUZ HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262713
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL SANTA CRUZ SD." tvg-logo="http://daleplay.club:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="(TV) BOLIVIA PREMIUM",BOL : UNITEL SANTA CRUZ SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262714
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL LA PAZ HD." tvg-logo="http://daleplay.club:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="(TV) BOLIVIA PREMIUM",BOL : UNITEL LA PAZ HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262715
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL LA PAZ SD." tvg-logo="http://daleplay.club:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="(TV) BOLIVIA PREMIUM",BOL : UNITEL LA PAZ SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262716
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL COCHABANBA HD." tvg-logo="http://daleplay.club:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="(TV) BOLIVIA PREMIUM",BOL : UNITEL COCHABANBA HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262717
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL COCHABANBA SD." tvg-logo="http://daleplay.club:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="(TV) BOLIVIA PREMIUM",BOL : UNITEL COCHABANBA SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262718
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB SATA CRUZ HD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="(TV) BOLIVIA PREMIUM",BOL : ATB SATA CRUZ HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262719
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB SATA CRUZ SD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="(TV) BOLIVIA PREMIUM",BOL : ATB SATA CRUZ SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262720
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB LA PAZ HD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="(TV) BOLIVIA PREMIUM",BOL : ATB LA PAZ HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262721
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB LA PAZ SD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="(TV) BOLIVIA PREMIUM",BOL : ATB LA PAZ SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262722
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB COCHABANBA HD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="(TV) BOLIVIA PREMIUM",BOL : ATB COCHABANBA HD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262723
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB COCHABANBA SD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="(TV) BOLIVIA PREMIUM",BOL : ATB COCHABANBA SD.
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262724
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED PAT SANTA CRUZ HD" tvg-logo="http://daleplay.club:8080/images/ce807b10cc6dc1a98f59781d151f9e37.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED PAT SANTA CRUZ HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262725
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED PAT LA PAZ HD" tvg-logo="http://daleplay.club:8080/images/ce807b10cc6dc1a98f59781d151f9e37.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED PAT LA PAZ HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262728
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVISION HD" tvg-logo="http://daleplay.club:8080/images/a3fa6320b10d8c821f6da40c07ffb800.png" group-title="(TV) BOLIVIA PREMIUM",BOL : BOLIVISION HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262729
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVISION SD" tvg-logo="http://daleplay.club:8080/images/a3fa6320b10d8c821f6da40c07ffb800.png" group-title="(TV) BOLIVIA PREMIUM",BOL : BOLIVISION SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262730
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED GIGAVISION HD" tvg-logo="http://daleplay.club:8080/images/ddcd6005a1170d6a32c8748cd385f07e.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED GIGAVISION HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262731
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED GIGAVISION SD" tvg-logo="http://daleplay.club:8080/images/ddcd6005a1170d6a32c8748cd385f07e.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RED GIGAVISION SD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262732
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RTP HD" tvg-logo="http://daleplay.club:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RTP HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262733
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RTP SD " tvg-logo="http://daleplay.club:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="(TV) BOLIVIA PREMIUM",BOL : RTP SD 
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262734
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVIA TV 7.1 HD" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="(TV) BOLIVIA PREMIUM",BOL : BOLIVIA TV 7.1 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262736
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="(TV) BOLIVIA PREMIUM",BOL : BOLIVIA TV 7.2 HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262737
+#EXTINF:-1 tvg-id="" tvg-name="AGENDA MINERA" tvg-logo="http://daleplay.club:8080/images/915a19deaea215de5c9a19b7a0ddeadf.png" group-title="(TV) BOLIVIA PREMIUM",AGENDA MINERA
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262738
+#EXTINF:-1 tvg-id="" tvg-name="AYNI TV HD (LP)" tvg-logo="http://daleplay.club:8080/images/289b5abae74d86eb524e1399e02d06d1.png" group-title="(TV) BOLIVIA PREMIUM",AYNI TV HD (LP)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262739
+#EXTINF:-1 tvg-id="" tvg-name="CADENA A HD" tvg-logo="http://daleplay.club:8080/images/ee13338136340faa17845a1e2e946fdd.png" group-title="(TV) BOLIVIA PREMIUM",CADENA A HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262742
+#EXTINF:-1 tvg-id="" tvg-name="CEACOM HD (OR)" tvg-logo="http://daleplay.club:8080/images/2541aae7a979ddb1672391e10030688b.png" group-title="(TV) BOLIVIA PREMIUM",CEACOM HD (OR)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262743
+#EXTINF:-1 tvg-id="" tvg-name="DELTA TV HD (LP)" tvg-logo="http://daleplay.club:8080/images/83e5be1093cd9a364796a0650ab7f4a7.png" group-title="(TV) BOLIVIA PREMIUM",DELTA TV HD (LP)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262744
+#EXTINF:-1 tvg-id="" tvg-name="ERBOL (LP) HD" tvg-logo="http://daleplay.club:8080/images/153cf5bb61a695d2f96375cede47d7aa.png" group-title="(TV) BOLIVIA PREMIUM",ERBOL (LP) HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262745
+#EXTINF:-1 tvg-id="" tvg-name="CVC (EL ALTO)" tvg-logo="http://daleplay.club:8080/images/9adac3e4b9f0eb4d2930c8ba559cb3f2.png" group-title="(TV) BOLIVIA PREMIUM",CVC (EL ALTO)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262746
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE TOTAL HD" tvg-logo="http://daleplay.club:8080/images/eb8409a14e4096c3155cca363864e28d.png" group-title="(TV) BOLIVIA PREMIUM",DEPORTE TOTAL HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262747
+#EXTINF:-1 tvg-id="" tvg-name="F10 (EL ALTO)" tvg-logo="http://daleplay.club:8080/images/1e86120ab20c8a38fbff5e6ced2b21e6.png" group-title="(TV) BOLIVIA PREMIUM",F10 (EL ALTO)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262748
+#EXTINF:-1 tvg-id="" tvg-name="MARVISION (PTS)" tvg-logo="http://daleplay.club:8080/images/1985f015e2d62089b4d2ca40bcee4bf5.png" group-title="(TV) BOLIVIA PREMIUM",MARVISION (PTS)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262750
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV HD (YACUIBA)" tvg-logo="http://daleplay.club:8080/images/890867c87340e67b14f3fe77621dd293.png" group-title="(TV) BOLIVIA PREMIUM",MEGA TV HD (YACUIBA)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262751
+#EXTINF:-1 tvg-id="" tvg-name="NEO TV HD (PTS)" tvg-logo="http://daleplay.club:8080/images/506d234eeec2074ebf36a84ed8f60b66.png" group-title="(TV) BOLIVIA PREMIUM",NEO TV HD (PTS)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262752
+#EXTINF:-1 tvg-id="" tvg-name="PLUS TLT" tvg-logo="http://daleplay.club:8080/images/a5fa547c7e0377588174043232350fc4.png" group-title="(TV) BOLIVIA PREMIUM",PLUS TLT
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262753
+#EXTINF:-1 tvg-id="" tvg-name="RED 24 (EL ALTO)" tvg-logo="http://daleplay.club:8080/images/ae1f4e08e1b923659a7fd36eb237bad0.png" group-title="(TV) BOLIVIA PREMIUM",RED 24 (EL ALTO)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262754
+#EXTINF:-1 tvg-id="" tvg-name="FTV HD (SCZ)" tvg-logo="http://daleplay.club:8080/images/8cce3140407ac74b6c75a8616ae07207.png" group-title="(TV) BOLIVIA PREMIUM",FTV HD (SCZ)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262756
+#EXTINF:-1 tvg-id="" tvg-name="PODER DE DIOS" tvg-logo="http://daleplay.club:8080/images/859efa85037b5c35f7d799148f0a2e5a.png" group-title="(TV) BOLIVIA PREMIUM",PODER DE DIOS
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262757
+#EXTINF:-1 tvg-id="" tvg-name="RTVE HD (CBBA)" tvg-logo="http://daleplay.club:8080/images/e7f487480c4c1996f0cedcf7dabbda1f.png" group-title="(TV) BOLIVIA PREMIUM",RTVE HD (CBBA)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262760
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV  PELICULAS" tvg-logo="http://daleplay.club:8080/images/12fe3e82e8d951a86923411ce8bea863.png" group-title="(TV) BOLIVIA PREMIUM",SEO TV  PELICULAS
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262761
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV DEPORTES" tvg-logo="http://daleplay.club:8080/images/b94bd26a195d8c8eaee3657d0dd94d39.png" group-title="(TV) BOLIVIA PREMIUM",SEO TV DEPORTES
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262762
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV HD" tvg-logo="http://daleplay.club:8080/images/51f131eda20b94c173fd3f0dec0f76c6.png" group-title="(TV) BOLIVIA PREMIUM",SEO TV HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262763
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV KIDS HD" tvg-logo="http://daleplay.club:8080/images/49410b8c68accfaa90074bb29ad22895.png" group-title="(TV) BOLIVIA PREMIUM",SEO TV KIDS HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262764
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV NOVELAS HD" tvg-logo="http://daleplay.club:8080/images/ed814e59cf22c0b4f29d215c836bb338.png" group-title="(TV) BOLIVIA PREMIUM",SEO TV NOVELAS HD
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262765
+#EXTINF:-1 tvg-id="" tvg-name="SITEL" tvg-logo="http://daleplay.club:8080/images/c76e8ee2158ebd27fbcdcdc5547accf3.png" group-title="(TV) BOLIVIA PREMIUM",SITEL
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262766
+#EXTINF:-1 tvg-id="" tvg-name="TV LATINA HD (SCZ)" tvg-logo="http://daleplay.club:8080/images/ab7dc675bdb1c19b7555b480de400bc9.png" group-title="(TV) BOLIVIA PREMIUM",TV LATINA HD (SCZ)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262767
+#EXTINF:-1 tvg-id="" tvg-name="TVU LA PAZ" tvg-logo="http://daleplay.club:8080/images/cb31aaa20ad79611aaa267c988715c62.png" group-title="(TV) BOLIVIA PREMIUM",TVU LA PAZ
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262768
+#EXTINF:-1 tvg-id="" tvg-name="XTO TV" tvg-logo="http://daleplay.club:8080/images/98c17bc37e89ce17eb06fc92cee23d62.png" group-title="(TV) BOLIVIA PREMIUM",XTO TV
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262769
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAS" tvg-logo="http://daleplay.club:8080/images/8b30af0d9073a0d053b481fc1ddc3f07.png" group-title="(TV) BOLIVIA PREMIUM",TV CULTURAS
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262770
+#EXTINF:-1 tvg-id="" tvg-name="ZOY TV PLUS (CBBA)" tvg-logo="http://daleplay.club:8080/images/ee3e55f36b295311e4bfeccf1adee830.png" group-title="(TV) BOLIVIA PREMIUM",ZOY TV PLUS (CBBA)
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262772
+#EXTINF:-1 tvg-id="" tvg-name="PALENQUE TV" tvg-logo="http://daleplay.club:8080/images/ddf0d2a198c96f15ef6f3eac7f4bb6a5.png" group-title="(TV) BOLIVIA PREMIUM",PALENQUE TV
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262773
