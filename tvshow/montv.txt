@@ -1,98 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JCvvk0sQv-KiB22kHb8UrMSpdA-9Ri0AmK0sYZsEB47rE9o5uD9GDt-DB7uCErqXwA.jpg" group-title="Bein Sport Channel For VIP",Bein Sport Premium 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09y4w95lNYd7Hkd7lZOD6M5/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JGgEp6EjiyhK3gkkJgDQGGhe-xzfxhQ-DEMKtedt11_v-UsB2SWkwufKyb2mwwSRCg.jpg" group-title="Bein Sport Channel For VIP",Bein Sport Premium 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09PjCN8d46glVy5ESnu6wFo/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JChoq1rLUh1a2L8AKlVq9SI7X4WXxggslfaAE4GorlBtPMi0JpxWe2w4CcAsxMzuog.jpg" group-title="Bein Sport Channel For VIP",Bein Sport Premium 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0979SIX1Md8VV8AA9HTMKtM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4Z5E2UEI9rukcaI5YAnjs2G3xX1izcB_-F2vT0kWHsgK.jpg" group-title="UK Sport Channels For VIP",BT Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_I_b9vbmJXtNkqLD4c638j/ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4W8svz4B_J1yRzjynN3L5T_Z8aycBTdcKmV9y0U_iprq.jpg" group-title="UK Sport Channels For VIP",BT Sport 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-7XaUDsxnAH7zY3kY4cnlE/ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4d7oc4hXCGo8LvHZjYjwBcqt7Zyb_y0dH3mhxTcokTNu.jpg" group-title="UK Sport Channels For VIP",BT Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0863QPbaR6cTnv4IDw7RRJF/ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sports 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4fbF9O_GOJkzsQEyqWBYjjS8VM91uL99pIVfBTIFPYij.jpg" group-title="UK Sport Channels For VIP",BT Sports 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-SRRdLmx4glTmjKRDbDpqX/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport News" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4VW-XLAxoIs5buS7UvCfZjHZjp8-xvxqkbbfQRcIt_mt.jpg" group-title="UK Sport Channels For VIP",Sky Sport News
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08WMHnqayhI3J9GW4isDuks/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Cricket" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4eOjEWGV9Wrrer1TpOBwccHQzzEvJTeSEVfxIWZQgF9X.jpg" group-title="UK Sport Channels For VIP",Sky Sports Cricket
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08kOsMf5uLWdFtsxcu8ipLR/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4QWU7LEX1XUKUBJQplW79xG8kGXh7JJ7yoOmiEz9EpFK.jpg" group-title="UK Sport Channels For VIP",Sky Sports Football
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-erS02sW8CbBmo9jiRsQ2W/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4TnC2ZwiWT1z_bv1de16wBqpNGLuJ2ifCCvWr6nN3Mq4MXybqUAaCVLV2MwTJ_WXOQ.jpg" group-title="UK Sport Channels For VIP",Sky Sports Premier League
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-KDAfWVbRbAUJADMXKw7kP/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Golf" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4bngqoYfhpSZIVQKbAcPIaUu-g11KngGgOHYrYSlIpPr.jpg" group-title="UK Sport Channels For VIP",Sky Sports Golf
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-eukYjeCCKduI6_Lhf9ONM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports F1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4SlNH-ST1SoIJ_cheKeN78R_zuCWDeprH_pl4xA0c0Nc.jpg" group-title="UK Sport Channels For VIP",Sky Sports F1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08WUlBaxqEgh7paUEekkcco/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Action" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4fzi33GgpMzLcWM2AvoDJfbYLZMnNx1jHQrFYgg5OZ9-.jpg" group-title="UK Sport Channels For VIP",Sky Sports Action
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_mvaCj20XsNyc7Csk3exj6/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Arena" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4SbwqS2GNHHdRKTZpY7nKldnRCSw0HMPHrVjfwAW9Rbn.jpg" group-title="UK Sport Channels For VIP",Sky Sports Arena
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08SR2GITOLjWZ7mGHAKlLY2/ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUTV" tvg-logo="http://62.210.204.79:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWeTDjuzhxbT3_gPcvqmC4ps6fWpOrlXeT-fZb54zRKvw.png" group-title="UK Sport Channels For VIP",MUTV
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-7aAMnJ6-_lOFm49lDnZ0D/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4UBmQ3XnRDA4nPqXvLEeNfxbMqOhy2AAqJ2tXeAcJTka.jpg" group-title="Sport Channel For VIP",Digi Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08u2SWFp9n1WC6B1NUHE2Ta/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4VJcG1VckkAJuYg1a8L0ryo6Icr4LfGqcEWWmsoQRUD9.jpg" group-title="Sport Channel For VIP",Digi Sport 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09LK90a5gFa4gTnG8n5jfle/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4SwXJC8-2QnFjiLzCbwijtjzqnpBfn6xH6NDw7m-mwXG.jpg" group-title="Sport Channel For VIP",Digi Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_83nbkDaMKKpvLQjvrepgJ/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4WkvFD7NdxFKLrbdDgijk8m0zk_Z5r_GyXDSWNvc1Ff5.jpg" group-title="Sport Channel For VIP",Eleven Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-nm-NTHrh_sJCBaQVewL9t/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4XbzLFjuqiHr7kx1ziZSIX_ewL3KIDrt8-9G4KZ3JishzIJtBC9tFBdb79y5ZGMIng.jpg" group-title="Sport Channel For VIP",Eleven Sports 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08oeacuczKF8vZVed89aQNI/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4etY8Ze5akV3a_GWHvzXHr2vGwjt4bBzRjCtzP9Q2Un_QzcsVFR4h0cSiBZBNJZzyQ.jpg" group-title="Sport Channel For VIP",Eleven Sports 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08BVYAyZn-RiYNtYpMeTVsZ/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4bO_pDMPeCEkjF59ZFlY_1_kcfBT3ZAwpfspYOZg_kBuyyhUDl0FmxP54YP0g7m3Rw.jpg" group-title="Sport Channel For VIP",Eleven Sports 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09Kt_B2kjpCbNXr9Ylh4c0R/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4b2rBcv0LfQEW5ycVvSNQVJkwXOmxbQXqjwMkQMog8K9.jpg" group-title="Sport Channel For VIP",Sport TV 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-FrDHCdaf2cwd7pmHOr6_a/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4XPo_GVCN-woGsOC8Q-qK9UD0SreEdaHVeB8vm2ll5ZC.jpg" group-title="Sport Channel For VIP",SPORT TV 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-fwu_PyNOqBHHah9YwXeQ3/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4TuaVs4YeC3G-W9-2rk86KE__ZOY7PYTenfLXkOW936-.jpg" group-title="Sport Channel For VIP",Sport TV 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09SihNANfjKBBrN02804WXb/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4Z08FBR2jcNNoZFywoLijYukuLkN4O7TWHsu41CaZ2xj.jpg" group-title="Sport Channel For VIP",SPORT TV 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08Xren6Tz8hZYnrYbXr_N7d/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 5" tvg-logo="http://filex.tv:8080/Thuhtoosan/XZPZtCadcxNu/126469" group-title="Sport Channel For VIP",SPORT TV 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-gVk0kALnGmMpnwEEPu7Y0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4UPeUaNPxm1aKX5DRqm-2-kJQQKgeUeFa9UFbih4Gr2o.jpg" group-title="Sport Channel For VIP",Eurosport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_7DRIQIMOJn_VJ3YA8E_om/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4XpajORlh1OBKhKH1QVR3-MMjcix7msNEcKi9dlx53UU.jpg" group-title="Sport Channel For VIP",Eurosport 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod082z6fgxQY0tXhb7z_qKPwq/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4ZlzH1hj90zShUiMM_nWaLVVIz7RV2XMOzXmfKq3QHe8.jpg" group-title="Sport Channel 2 For VIP",Canal+ Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09B65RYRcVCV3KtQfOljmr4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4RntEXBlGRykcrEYQh222yGdg1S_7YzleGPF8u6K7PlF.jpg" group-title="Sport Channel 2 For VIP",Canal+ Sport 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod097jdQLHPKJHgG0QciqVl5G/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4U9WO2tYa5CegC_-pPKRsoYMPucU0GRlZL3MmKL-73kH.jpg" group-title="Sport Channel 2 For VIP",Canal+ Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-dvX-14Ha-HmNgyW1MlYZH/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4US6AHbn_NwYqSNqxr1syleyHVVgmWLQa2AA75I-DJBW.jpg" group-title="Sport Channel 2 For VIP",Canal+ Sport 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_a316HNdlYUN_0G6OGkech/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 5" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4UQgzf3QBK-bEoxpdIhdg0djHz_NB7FaI9eIyRO9XyQF.jpg" group-title="Sport Channel 2 For VIP",Canal+ Sport 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09zK1e_vmgYRsBV6VN5cf75/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA PREMIUM 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JMlm77caLNfYcVz9FoAeXZPAgPUghUlxuNHN_0o2_8CLS3SD6Beh9xd6dJxucAD4DA.jpg" group-title="Sport Channel 2 For VIP",ARENA PREMIUM 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_5Ya2CFh9JVYt-Y_G943uk/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA PREMIUM 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JMzAzQSBcH6uAltKceZGTc6OheHZfPXuL8z7dvq22T__a6osln0fgUVeCY0RGGwg-g.jpg" group-title="Sport Channel 2 For VIP",ARENA PREMIUM 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09Nk0PkcYXbmz8HtZkB2osP/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA PREMIUM 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JBx-nzjqi1pt3SYr-qHbDBJccmo8opQxAbzg4s7WLs23bSwkvEJ0btob8hkZPNaTOQ.jpg" group-title="Sport Channel 2 For VIP",ARENA PREMIUM 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08DyW5j4OawvoTBJgoT4RLX/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEGGdcBIIOydPv8XeiwDFNVJ6IRuSwV8QfInkKAwYp26.jpg" group-title="Sport Channel 2 For VIP",ARENA SPORT 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08zrijlFZl32s3wLdDkwTC6/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JJNqM0xjiO2zjD18KqAZJ3bug03mb9jgClbwdwjRO9IL.jpg" group-title="Sport Channel 2 For VIP",ARENA SPORT 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09-f9uVhWGikIkLxbj5A24t/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JKTwFdueLisSrnljXsdcHfNoroTtkeJ_dTBzQawaiVjT.jpg" group-title="Sport Channel 2 For VIP",ARENA SPORT 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08AubMIeh83PomkENDGTFRi/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JO28YPQvA_GvlbyxPbesshlhmSovujjhZkjhTN7pmXCw.jpg" group-title="Sport Channel 2 For VIP",ARENA SPORT 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08d0-fGilEseJcaMxHwQVVx/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JCbKtXWXsUexVYlChdKzHgMAIQfjcP_SDMwVse3mWtgq.jpg" group-title="Sport Channel 2 For VIP",ARENA SPORT 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_Du0u8ngaKKW5CYQ-1XtDx/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JP6EvFZD6XfbDlgjcHbjz0a2FaMJpX5nRSFpfRv0Mr79.jpg" group-title="Sport Channel 2 For VIP",SSC Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08ukjRSTw6_BOgIJTil0An1/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC SPORTS 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JP6EvFZD6XfbDlgjcHbjz0a2FaMJpX5nRSFpfRv0Mr79.jpg" group-title="Sport Channel 2 For VIP",SSC SPORTS 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-Jmgs8swPUERpMhdORs6Hc/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JP6EvFZD6XfbDlgjcHbjz0a2FaMJpX5nRSFpfRv0Mr79.jpg" group-title="Sport Channel 2 For VIP",SSC Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_Y_GEfeKTIdGcoKXaOgi4h/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 4" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JP6EvFZD6XfbDlgjcHbjz0a2FaMJpX5nRSFpfRv0Mr79.jpg" group-title="Sport Channel 2 For VIP",SSC Sport 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09oH_iJGUJpbVnrwpa0XGmg/ts
 #EXTINF:-1 tvg-ID="" tvg-name="MRTV 4" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JDv5vLGp95IaKLuZBuuFCPlWNvp0MpJ557bOPod6Tlae.jpg" group-title="Myanmar TV Channels",MRTV 4
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_j3sqqCXEYZwMcAAxnuKvj/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Channel 7" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JH43LB7uNvP9B41nBY_wXdsse8LLQKPUbc4dDJsS7pty.jpg" group-title="Myanmar TV Channels",Channel 7
@@ -111,38 +17,6 @@ http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_frkITOmL
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-BpnSqYOeTJhfHdmanSUkR/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JFYHGAcD_WCx64KkIhNc5O7DuFGhigEkcq7HtY2SUI8vjCQiZlRG5Yhf8H5eMO2Srw.jpg" group-title="Enterainment Channels",Discovery
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09P49QezIWIANbSsy5xVMJE/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JPTM73rDymrca228VCLMSyYA-j9mqDYORh_RPFXO5hOqB6FUWVKz1ScPdePY3pJPcA.jpg" group-title="Bein Sport Channel For VIP",Bein Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08Su_s4vlMhQMNxix2n6Z_S/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JM8q5m01UXXoMi9aoBxUlrbVgRjEAHMNj4kzYC1BpK-Apaf85_6pgg9bi2Yj7PY_iw.jpg" group-title="Bein Sport Channel For VIP",Bein Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_OTSZN-48fwZ9Aq1HtO7Lk/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 4" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JN6X7SpDYPtfGiZkVCipy2i7mUK_i4B4x7-iJ2amWn-PMf7k7jsKnaF8X0znzrzCPQ.jpg" group-title="Bein Sport Channel For VIP",Bein Sport 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09qW2UXTLb93J7NZi61cHB4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 5" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JFREp2yiyur4n9q-hSEuSlfHWsgjs_98B_wT-tKuCKeE1YtCeVhWQEJQNszLfH-syg.jpg" group-title="Bein Sport Channel For VIP",Bein Sport 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-daNtGWQPAvCuiLLiG0p32/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 6" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JMwA3lAK0ZH5sQeHptXLyrCLm4OzhLFMgQaLHatnUFPk.jpg" group-title="Bein Sport Channel For VIP",Bein Sport 6
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09cVMDv1hSFUXL0J-RZGHo_/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 7" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JA0OE4meFBJdOQt50JXbC_zD_yMocen3qHOIX2iQ2G_i.jpg" group-title="Bein Sport Channel For VIP",Bein Sport 7
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-keuTrFgZal-OcIvUrqu68/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Netflix Box" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",Netflix Box
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod095dYbS-YfOeUZT9LsmrSXW/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX BOX OFFICE 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX BOX OFFICE 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09fI4Zd5Hy73He0WjB1TXgV/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX BOX OFFICE 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX BOX OFFICE 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08nqGjhRq4Ql69ixDUT3RB6/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX HORROR" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX HORROR
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09sB859RTyWOj5-Ihl9qmfJ/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX HORROR 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX HORROR 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-n-OK9uRCQx-uE1Zq61dxC/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX HORROR 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX HORROR 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-h5i_St25O2OnR5maBxkP7/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX ARABIC 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX ARABIC 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08kgm4oumI0reoR6IB2Nniq/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX ARABIC 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX ARABIC 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09FLB28L0tva7VfZu0Rwzrz/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX INDIAN" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX INDIAN
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09hhPBTbuk0_uzUfwIGAUDG/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX INDIAN  2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JD84m7UXSR5zoeCQ-abZMz8pXZxKCyuZRmrIc9TG5vyL.jpg" group-title="Netfilx Channels",NETFLIX INDIAN  2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0--9snb7Fvl5tgrKasVPN41/ts
 #EXTINF:-1 tvg-ID="" tvg-name="WWE" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JJ2wwFUGMrYCvtLA-UIkZeN9Ny2muEujdBNpSWLIZUZU.jpg" group-title="Fighter Channels",WWE
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-ZvJp3WmYcd7Km2h0jKwV2/ts
 #EXTINF:-1 tvg-ID="" tvg-name="UFC FIGHT PASS" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JIStSNSWYMCtIRpHg7rBHUHG4vs_zSdiFnHKnDNLYc01t6qtJLxfED0SQrDuFhP2rA.jpg" group-title="Fighter Channels",UFC FIGHT PASS
@@ -185,64 +59,6 @@ http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08fnSG8LYl
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0__2kNE1fmFKcWe7qe67kCD/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEBCrmMAfE-xqp50lnihJ7Yes6EW36p967AKfOnlVXzH.jpg" group-title="India Channels",Animal Planet
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-t9n_5CNhGuFELe2IC4Y7s/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V SPORT EXTRA" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4WqDXlda3Vj0JP5rtTbDjLaxEqU9f738TPGENpk7Ou5w.jpg" group-title="Sport Channels 3 For VIP",V SPORT EXTRA
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-grJGzZRyT61IdHwH9HsCP/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V SPORT FOOTBALL" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4ciYMYCs9_ncnnQP5r810XmQ9M5ElvoPPEFUYeoshTHf.jpg" group-title="Sport Channels 3 For VIP",V SPORT FOOTBALL
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_-abR1zlYKr05wJQza3jEk/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V SPORT GOLF" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4eF3bQYbNwC9f1edRykGz9MSPsm9I8ukswU8XJYhI6GV.jpg" group-title="Sport Channels 3 For VIP",V SPORT GOLF
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod088zb_ehipp2nOa1iFnpHn_/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V Sport Vinter" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4UnKnI6RUouSvH7nUQrOvr2XhjQHJ6HhDQurwuRsRWGZ.jpg" group-title="Sport Channels 3 For VIP",V Sport Vinter
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod083aA7dGNaLyVR6V6IfTqSa/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V Sport Premium" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4UNdHlYdPvuwVG89iuUjaHseIZKFSiNieJDjRb6LR5vG.jpg" group-title="Sport Channels 3 For VIP",V Sport Premium
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09vZk-bxJDvy2FYxNSP1kur/ts
-#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4X2SNL3UpJdaDMkBCMKYz6P39vEebYOypuzNTOG3v_xB.jpg" group-title="Sport Channels 3 For VIP",RMC Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-s_GtnGtnfJMW-dBs8AZ1P/ts
-#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4UcXa48r4VHCk3m7ZiHpV9c-jSgu763sK866FKaG8EKB.jpg" group-title="Sport Channels 3 For VIP",RMC SPORT 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09Ul2cOSj8rn0PI2ttdBESY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 3" tvg-logo="http://filex.tv:8080/Thuhtoosan/XZPZtCadcxNu/115665" group-title="Sport Channels 3 For VIP",RMC SPORT LIVE 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-wO1Bkr7AJnH2u-QORyxnq/ts
-#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4YQAS1Cg93F_8D6ZD5VtK-1CfZs1fMKSCk4PpozIeQJ8.jpg" group-title="Sport Channels 3 For VIP",RMC SPORT LIVE 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09bGnlsfu9iH8Wp2pIlxvSx/ts
-#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 5" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4botCrD6cOrIzfVNLrl1_ep0eI4W4uI0SCpmVYKJ_Owx.jpg" group-title="Sport Channels 3 For VIP",RMC SPORT LIVE 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_DhA0FYtfX7j4w8IQLCnTj/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JHwY7SJ9pFlRdKJNoOPxSOEgczmU_tOxe-gVWLC7FEEv.jpg" group-title="Sport Channels 3 For VIP",Fox Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08Qo4HIpRHqcgVF1KI6vwqf/ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JFj0v7cLaDygJ1i5RL70yCVqtfElOzWLlc7jw7UQsqFs.jpg" group-title="Sport Channels 3 For VIP",FOX SPORTS 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_ZtCXVlZe5n-e-qnWfJuEj/ts
-#EXTINF:-1 tvg-ID="" tvg-name="BBC News" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JOh1IyYZX1WSJArzh7wFOXnkxmAlH5HK7agt97f5dXRg.jpg" group-title="News Channel",BBC News
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-NkeqdAiDLoFvLUOZunfQF/ts
-#EXTINF:-1 tvg-ID="" tvg-name="EuroNews HD" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JBjj_0kddfSTbBrXU5t7PpgpubHtcI2ya8NGypdHo6mO.jpg" group-title="News Channel",EuroNews HD
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_ErOebjvge8FlyIDDSNM5g/ts
-#EXTINF:-1 tvg-ID="" tvg-name="BBC World News" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JOh1IyYZX1WSJArzh7wFOXnkxmAlH5HK7agt97f5dXRg.jpg" group-title="News Channel",BBC World News
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-bCqZB7dtpGPmBT9cK1Lqa/ts
-#EXTINF:-1 tvg-ID="" tvg-name="CNA" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JBcR4_FvRT7Ep8dr0wx9QgBRxGeAG2I8Xfkko3n6H8rx.jpg" group-title="News Channel",CNA
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-O36nfP_3jkxP98HYD_IPa/ts
-#EXTINF:-1 tvg-ID="" tvg-name="EXPRESS NEWS" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JAhPJIC7nfrNlm2slLGo_5sm5xHJviDSHzjW0LAZ1L09.jpg" group-title="News Channel",EXPRESS NEWS
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_OMZixVp1F_WGd2kj4Q663/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Variety 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4X7IE12G08mHc0qKY73RtZJQk7Gz_8x8ILuscnmW_i4iH7U4c1PvZA7gNFqfkH7l7Q.jpg" group-title="Sport Channels 3 For VIP",Super Sport Variety 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod093VhJN22yUAdeSHPSlnzqD/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Variety 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4d35KLYRgxQbXlz_217py4knYsHrVR2objfNvzC3WdFlPe11O1HXmYqqcnzYxfO6eg.jpg" group-title="Sport Channels 3 For VIP",Super Sport Variety 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod083pC41POW6_H-ZLYtLfC7s/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Variety 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4S2MWG1TfOV3YrrRV2XfRsprBsG0-RYsHP7_AsZmXcFEVXwEoWUtK2jUTBFGiPiDdA.jpg" group-title="Sport Channels 3 For VIP",Super Sport Variety 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09J_qzmkIoXt6QhMwRGvGsF/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Variety 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4XWKRijzTfBV19K4m0hIjZ06iDRNqcLLMJaoAMbvmbEb37WVxz_-9pUUAkQutpVjdA.jpg" group-title="Sport Channels 3 For VIP",Super Sport Variety 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-MPkVYOiWs5aZ6KvxMylbD/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Action" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4bJ1oSDeIm1nMxy9cqlaZWXOoklUdX9hHGR9hUQck5pp.jpg" group-title="Sport Channels 3 For VIP",Super Sport Action
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08z4W1MEFROEgaePTxuIM8A/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Rugby" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4aZBB1iDOlGVZpMbZvds6OAeOx26YTzpF-v06cDkVJio.jpg" group-title="Sport Channels 3 For VIP",Super Sport Rugby
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod093K_7YbyN4fKx42PeSWZpw/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Cricket" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4bq1U--9yTZcZHncJCd6nrgXzmi9E2yeda08c59cO_msheo0lBmhNWTWoJ2MejuKpQ.jpg" group-title="Sport Channels 3 For VIP",Super Sport Cricket
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09QXNt_BCu7wsA8UBxXYoBq/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Golf" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4e_Z8FkQ8CfdZ5AgOEcL8E0uH6YiQo8i4IDfOsUWPJjG.jpg" group-title="Sport Channels 3 For VIP",Super Sport Golf
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0835iL_ehSVutpjUoC-RmOq/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Tennis" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4TWif37oeAScrM0RwHM_U57fO-HuPcTtU1kcd70t6ITd.jpg" group-title="Sport Channels 3 For VIP",Super Sport Tennis
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08cM9zBlzvPeGt6Y8V-21Sg/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JLebZlitVae22kWFvgosyWK6QrA_UReKPC_ns8ugt41Xxd9kMoH2am-MHSGYfmiiYQ.jpg" group-title="Bein Sport Channel For VIP",Bein Sport English 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod083Z96lMTES81dpPr-EnDUS/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JMbgVmX5XVzXLftWtWqhvwcTUhVn3wfxOrezYF81MWuP6HS-6g39z3q2hLIRZkzcCg.jpg" group-title="Bein Sport Channel For VIP",Bein Sport English 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08Qd0PpKqGjcdSvz4OZ9sNk/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 5" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JP6EvFZD6XfbDlgjcHbjz0a2FaMJpX5nRSFpfRv0Mr79.jpg" group-title="Sport Channel 2 For VIP",SSC Sport 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-7GNkfFRP8_sLojsIZn8Vh/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Channel K" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JLqpdwVp8rgFYd_NGksO4oGya1rHXPVNhyEEExLNEPOR.jpg" group-title="Myanmar TV Channels",Channel K
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09uQdB0RZh7kUiKhOBnToqi/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Channel-9" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JJ2GRUgSQjJYb1OlXy5jPaYr7cTcpdK_0VcEtlKaqEP6r6GeKMidGHMhAazmbNmjzA.jpg" group-title="Myanmar TV Channels",Channel-9
@@ -265,12 +81,6 @@ http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08z_54lGcg
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09TwZST175XOBWA0i70ozkd/ts
 #EXTINF:-1 tvg-ID="" tvg-name="True Premier Football 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JBUW-b9auPXV4m9xQhObcyEDDaV6CYH9acyMFNXkia3hgr_lkgeqTkp2y37kCQuF1Q.jpg" group-title="Thailand Channel",True Premier Football 2
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_CV1fmmrcDK5Pm32Lemhwg/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Xtra 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JB51CNJmPTj8Y1HmL-KkXfKpcMOwYrpeMy-i-MSuwPDLGog4Xgx1siZ2doBtaAy1yg.jpg" group-title="Bein Sport Channel For VIP",Bein Sport Xtra 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-m2EwSVhweYhGmYrcTI1rl/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Xtra 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEFiXvTkW9FR_sTqEw0rjrVXHEcKmb0knG7870Oo9biwaWUzGmmVDeohbAGG3EALGg.jpg" group-title="Bein Sport Channel For VIP",Bein Sport Xtra 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09uA0riVNf03m1HTKnxtLh6/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 5" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4dBuPJxPFea736NEWx0FgwwNAQeJNdmy36ajAMaBL4GHOoo6TvjSYihtqsCNfP3PHQ.jpg" group-title="Sport Channel For VIP",Eleven Sport 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_Xc7JQG2FyeL5HAbW4VfCz/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fighter Network" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JAAIj4eRt_oKPzdro0M0Shkeiz1W9vBy8jJFRBSmSW0swKTJoQtPixIlZ5KHwA1Rhg.jpg" group-title="Fighter Channels",Fighter Network
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09-34qH_mnIY0NITvtu7Gs4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fight Box" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JDDJjwnUpwQwUmhA0L5r1WhzFjO4s3mg8vcIhGoifILU.jpg" group-title="Fighter Channels",Fight Box
@@ -291,16 +101,6 @@ http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_i8wC1gWL
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08BAifbzBx43hEM5tQzPpdl/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Animal World" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEBCrmMAfE-xqp50lnihJ7Yes6EW36p967AKfOnlVXzH.jpg" group-title="Enterainment Channels",Animal World
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_ZV0czyE1XMGjfTeAPX8wA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 1" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4QGD3BF5jl1KS-a0CUTrbz9lLDSr6bKnhRctG9Q9nY7T.jpg" group-title="Sport Channel 4 For VIP",Max Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08K3RgxaM30YvKszfboWP7F/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 2" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4dhsJK0pNnl2fzQfy-_nuv4-hVOwaaDXatRL8WUKqNoc.jpg" group-title="Sport Channel 4 For VIP",Max Sport 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_2fdAWtfS8RXL9Ajgn9nha/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 3" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4V9v_OCPi5Mu5O_S-03aYUrEZIjArfV2Y-JbOZ_RcJ_P.jpg" group-title="Sport Channel 4 For VIP",Max Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_yQa2aNFxesjMdrYfUiVz4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 4" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4U6dDwbPFIB8z6F0S2mhxgF9KUgZcH-zDetGsrZUJRyN.jpg" group-title="Sport Channel 4 For VIP",Max Sport 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09EIuHx57MS9_TGfFx8bE_G/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Golf" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JJ23QFNwiQpE8LjS700RZ2mOwXRUadFeYmysT-hbivKw.png" group-title="Sport Channel 4 For VIP",Ziggo Sport Golf
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09eVopUg4X0vzzcRnRvxmcE/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Tennis" tvg-logo="http://62.210.204.79:80/images/dsAt8cMDBjbP3mVNdeYR4Q7kOUfbPjFAsqm2SbhTSwgN_l3EVuN2ETo3QbXGQEv-.jpg" group-title="Tennis Channels",Sky Sport Tennis
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08X6mKePzMXINI7DeZfwO0M/ts
 #EXTINF:-1 tvg-ID="" tvg-name="ZIGGO Tennis" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JHeLfojp3EwgmmPD1G0iPyZwnwvyjXOL_MRwZSMjT1M4.png" group-title="Tennis Channels",ZIGGO Tennis
@@ -355,16 +155,6 @@ http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-u4GXavWN
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod092QIvLdaBmEESZZmdsYoZW/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sony One" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JJAFi-ztdCi3JOGTuCRisiGYI4rr6EceIQcLGgtRbpPH.jpg" group-title="India Channels",Sony One
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-wptGzB-lnDuqXXJ2GGWBp/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZIGGO Docu" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JPEt6YLypGOT94WOrrlE5I_IftZRoleurXFFj_wworeL.jpg" group-title="Sport Channel For VIP",ZIGGO Docu
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08LJ-QW3iMQ_4Vw02KVn3c1/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZIGGO Tennis" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JOKsu1WAugxX08Z6w0vySQp3BgmuKf8-nVgkpy65QrvWpmg20Kz6hZ3xUAMrEAV59A.jpg" group-title="Sport Channel For VIP",ZIGGO Tennis
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_TDxci0J2ssVs7e35hb8tz/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZIGGO Racing" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEuZCrCukIvWQzAgYSTA9dV_FSANpUC2Vy5ZWy7P-15V.jpg" group-title="Sport Channel For VIP",ZIGGO Racing
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09lZytoW6kP9hD75-bBFPdY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZIGGO Sport Select" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JN8bGHyEllMgbMSdOOfggNrj4pB6SnxecUkWG_sS4gzoWEYZ4Op4yL3eReLaoLVkFg.jpg" group-title="Sport Channel For VIP",ZIGGO Sport Select
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod094XChYZbGUbPXYrKr7WESw/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZIGGO Voetball" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JLt-j_KUUaAnkxkSo82r_p5gQIUnZTcmk_aOYiqa3FTM14k6TA8WvGR-2YuMDNryUw.jpg" group-title="Sport Channel For VIP",ZIGGO Voetball
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09faEL0-5wyegqHNXbDFHdm/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Colors" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JF9y7L21SoFxozOd1-OhUdDyAe52Pj7PaDyNsKGxm6IC.jpg" group-title="India Channels",Colors
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-gRxuzMwKsq1Nf-I-zbRFk/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Colors Bangla" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JGiu7NtzW0mPxwpFpShzp2fn8ZnIbsW3SgMhAkowGyi_.jpg" group-title="India Channels",Colors Bangla
@@ -439,40 +229,6 @@ http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_tadJGkjL
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08nQG5cI4KVcIcT0-ElmenS/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Portugal U19 VS Norway U19(July 13, 2023, 10:30 PM)" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JFkza3f6uUK_ZpArgkLQx5fSVepElkKGXq9R65RJkcJF.jpg" group-title="Football Match Live",Portugal U19 VS Norway U19(July 13, 2023, 10:30 PM)
 http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08ZmFSl4gF92gy8QdQvQlAK/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundesliga 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JINXB7-JiYE5WISy1BHwIdufUHZaEx5VEfV6TSwL2LpxgEoVsbs5YjGP601lee8PfA.jpg" group-title="UK Sport Channels For VIP",Sky Bundesliga 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09yqn1gFnSgRUF2IpaRoaoH/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundesliga 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEghysGCd2MyhCR6aFOshxJl4OfXAoH2j2a49hcVT4mt5fAXj-5YoMamJdAjYzQncg.jpg" group-title="UK Sport Channels For VIP",Sky Bundesliga 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09MF4UYWU-gx5It-NV8_Etn/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundesliga 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JGZQn-8TtDFwqHNcPMGbX-THPaUDLgcoNHwVlch54gKWdUNxolEQFdlvBtFf8HmO1w.jpg" group-title="UK Sport Channels For VIP",Sky Bundesliga 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_n4I7gPc6Go7cPJzwV0Wck/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundesliga 4" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JNM-RxRyKEcTy4dSVDVDg68w_EHPVAJXi_bw7BrI2LsEckF53FPb34IP8wQmMC1T9Q.jpg" group-title="UK Sport Channels For VIP",Sky Bundesliga 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08KrU__O7QAm5akchf6HoDo/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundesliga 5" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JFw0hbDr6EV_An62UGNPselRKsfJseV8_Z5lBr2D6jL3cqsaS1zbsnCWmMq57UMX9Q.jpg" group-title="UK Sport Channels For VIP",Sky Bundesliga 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08eHecyzI-s3ACUa_r-IUEq/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Bundesliga 6" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JHkdx6FKIMifXJv3MXu3bKeEIxOeug3_H6ZEr0RphQ_IVQ96nJox4XdS2wAwhyfpUA.jpg" group-title="UK Sport Channels For VIP",Sky Sport Bundesliga 6
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09okvrxsCl7u-QSGbojVi-N/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Bundesliga 7" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JP8KKofQMwzNrdAPgTae6i7JRIFivA68vXNRFiof6kfsr3pNLJdrqTxUvhAPJjNFhw.jpg" group-title="UK Sport Channels For VIP",Sky Sport Bundesliga 7
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-_Ks5YlZz_rQsc0-erTiiu/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Bundesliga 8" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JE50udHXjgy9TpjG-MsMo981B9q1sSs_dlV4FVV85OpXsc4UDUILxLmtRepa34ekWg.jpg" group-title="UK Sport Channels For VIP",Sky Sport Bundesliga 8
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09Me0FQfg4yHNIyZTV-kbPS/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Bundesliga 9" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JOvk3gtF1-MwtTOfN0D-hD3K30nrm_PQUVwFThl6trHNlbbsqWfaQhTOOJ7c_Gn_eQ.jpg" group-title="UK Sport Channels For VIP",Sky Sport Bundesliga 9
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09yqQenmZSBmquEKbMhOmm0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JNIkwudhKudc2FqDyq4vjY3tCCgb5GWQxmLg6aezQOro.jpg" group-title="UK Sport Channels For VIP",Sky Sport 1
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod08gM7aTkzeX3DIZ3CedrDC7/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 2" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JEwX3rq6ud-pNyvKjdjUx8KQ-2VQN8zIJ78TYAfeuA8_.jpg" group-title="UK Sport Channels For VIP",Sky Sport 2
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09xIzd3bUuSMFdlZt_1TkzK/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 3" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JOsrI2VsF759Tbk2cMn2a8ryVyqtsE-cm74iGawb14n7.jpg" group-title="UK Sport Channels For VIP",Sky Sport 3
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-n5GUzmHgYOqHeSlqr7DcT/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 4" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JJh4QvUoXA6auEZDfV9zmbVNPstjxsXuayp3kGXdrNTK.jpg" group-title="UK Sport Channels For VIP",Sky Sport 4
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09DhU86DaV1vdbNzL0Bo3Iz/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 5" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JGwT4jgCULPx4reFm0tNikokNHvbe8IdiWf0AoSrYrjK.jpg" group-title="UK Sport Channels For VIP",Sky Sport 5
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09piBTfbcXREHEIh-DTvGIK/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 7" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JILv9dRKftBVYoS3So0_P25aTDDreWEqD-RR1yos4Lds.jpg" group-title="UK Sport Channels For VIP",Sky Sport 7
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0_kcXAVYg5EQ8t0CXmfptjw/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 8" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JFIpkBD6YiL-PreOJ8F1onK6sFzk6ZVy6FSj-bvU81hi.jpg" group-title="UK Sport Channels For VIP",Sky Sport 8
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod09ly3IXz4NdiGbYRtOy6ip_/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 9" tvg-logo="http://62.210.204.79:80/images/QCqX5p5x3Y181Q8jwb82JOqFDsiJeBVW0Y0ePbOQviWLQX3Oa9yaA4T4gKLV6LgS.jpg" group-title="UK Sport Channels For VIP",Sky Sport 9
-http://62.210.204.79:80/play/TGdME5E1K2ct7mrXZSVkgNIzAedi77pYNDydefQod0-VlT-EkrfZ6fKNdBhXHyPP/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Wrath of Man (2021)" tvg-logo="http://62.210.204.79:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2bZ30bLVJtoHQrA-9V98jDUMEQOgOZkkhkG4jRH6Qzw.jpg" group-title="2021 Movies",Wrath of Man (2021)
 http://62.210.204.79:80/play/Wllb1eACL6AJR8mBpCKc_NNCAHkjSYB58WxRpTL3kbVPy3LBj5TYpcwlBs_M6WrB#.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Wolf Garden (2023)" tvg-logo="http://62.210.204.79:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLc8dq5JYeeXzzIdb_swD7rYtawuQu5RFlsFtsJD0NoX4.jpg" group-title="2023 Movies",Wolf Garden (2023)
@@ -3771,3 +3527,885 @@ http://62.210.204.79:80/play/f-o1vbU3D0JK3keuTEG7sWdEr5zJJa5y7wvprNnnaGopaDry458
 http://62.210.204.79:80/play/f-o1vbU3D0JK3keuTEG7sWdEr5zJJa5y7wvprNnnaGpi2mwpu3zoqAMP7Xtiessw#.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="See S03E05" tvg-logo="http://62.210.204.79:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVe7KVG8dumKZ5TQS806Z_kesth0piDNAXDzUUntQDN3Bh5W6xUUxCyOQ-Q4C2dGw0.jpg" group-title="2019 Series",See S03E05
 http://62.210.204.79:80/play/f-o1vbU3D0JK3keuTEG7sWdEr5zJJa5y7wvprNnnaGo6ZAN1oOHm9MB1E_dbwRK3#.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium 1" tvg-logo="http://109.123.238.74:80/images/a79b55359b304de21b4935772766f522.jpg" group-title="Bein Sport Channels",Bein Sport Premium 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvBq3GRM9Fg8szAsVrRg_OzM/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium 2" tvg-logo="http://109.123.238.74:80/images/5b772df91880b63e4d5be5eef5f232aa.jpg" group-title="Bein Sport Channels",Bein Sport Premium 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsBqKGE9jZ3xV99tzKWGi78/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium 3" tvg-logo="http://109.123.238.74:80/images/acdaad62ae2886839f43b9221118b715.jpg" group-title="Bein Sport Channels",Bein Sport Premium 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu5fj_W4dB-jnPo53sNVNC56/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 1" tvg-logo="http://109.123.238.74:80/images/b60fdb060be3a7b5b2bf03499e13f461.jpg" group-title="Bein Sport Channels",Bein Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYLXZucqbN-ro-HMvlDPtqhy/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 2" tvg-logo="http://109.123.238.74:80/images/4cd7b905523b0035f2688562378ede67.jpg" group-title="Bein Sport Channels",Bein Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57Ew1g16DhtYQj1uU5fkCOot/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3" tvg-logo="http://109.123.238.74:80/images/82efa970d10b5cbcd639d072de86578f.jpg" group-title="Bein Sport Channels",Bein Sport 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hxGnM9ANUmuZMTNSmod0rpqBun7VMxq3G--3ZCGh8mxX/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 4" tvg-logo="http://109.123.238.74:80/images/aca9904560f693ee3547c5bd4b0bc938.jpg" group-title="Bein Sport Channels",Bein Sport 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h_3nHFHE8qafA5lsXb4XcFWmlm3zHtELlD62hff3MhR4/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 5" tvg-logo="http://109.123.238.74:80/images/e041f95d72c01737ba88ffcfa79066e3.jpg" group-title="Bein Sport Channels",Bein Sport 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h9ndZQMfZXnBu1Q1O3GsOoSNvlLAtLog62-A32qNQFa1/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1" tvg-logo="http://109.123.238.74:80/images/1441fe84ef5f47cb42eba2fadd079b1a.png" group-title="Portugal Sport Channels",Sport TV 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7sg7t2KnpgnsX-BuQhPko-lppWrg5Yz7HJzdl2M61f_/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2" tvg-logo="http://109.123.238.74:80/images/abb71aba48617317221a601533da473b.png" group-title="Portugal Sport Channels",Sport TV 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvAXXybrp6HBfphSHSCXG4y4/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="http://109.123.238.74:80/images/5238463effdbf6be01a14a3f65b3c48b.png" group-title="Portugal Sport Channels",Sport TV 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvCfL3ZSSwqZP8o56GaSeJnC/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4" tvg-logo="http://109.123.238.74:80/images/2fd74924b9829b47ae51c34874b4c3b7.png" group-title="Portugal Sport Channels",Sport TV 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvCUhuLIGcJhxv0UNNQ__o-W/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5" tvg-logo="http://109.123.238.74:80/images/2f3ed39bf2f83acc5baca614af67dc3c.png" group-title="Portugal Sport Channels",Sport TV 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDjcbeApR9VYhRhbSId9L-h/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 1" tvg-logo="http://109.123.238.74:80/images/8dc37105ecec1160c69cb267747cdad3.png" group-title="Portugal Sport Channels",Eleven Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDzUFwSkxGwHKSrPvTs7LHb/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 2" tvg-logo="http://109.123.238.74:80/images/d906da2d61078ef4a34ee89aef6c73d3.png" group-title="Portugal Sport Channels",Eleven Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvAhnHwFNAWLPHO1KLTWawgY/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 3" tvg-logo="http://109.123.238.74:80/images/fdefb380888c39e16cfcd67a49b5dc71.png" group-title="Portugal Sport Channels",Eleven Sport 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvCyGWOWVyqDiTDm5-fA-Xos/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 4" tvg-logo="http://109.123.238.74:80/images/456956e2f3254c8f386872e9ba5781c9.png" group-title="Portugal Sport Channels",Eleven Sport 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvAKkSkyOKq6P4MhlfmDo5_S/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 5" tvg-logo="http://109.123.238.74:80/images/aaf1dfcf9776b4cc5255e0e53cd5d472.png" group-title="Portugal Sport Channels",Eleven Sport 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvCpGKGu5NwQr6LbgfAuCaso/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Premium 1" tvg-logo="http://109.123.238.74:80/images/6872545377ccff9c9bacc96ecc2fc9f4.png" group-title="Arena Sport Channels",Arena Premium 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvBwkFv5pUxXDurk3wD6gRrB/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Premium 2" tvg-logo="http://109.123.238.74:80/images/869515fbde32f6e9f28b17d0ed0ca70f.png" group-title="Arena Sport Channels",Arena Premium 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStzQolENQoy6-50kFyzeB7e/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Premium 3" tvg-logo="http://109.123.238.74:80/images/71e4e6a90ae5d12824fda66be039516a.png" group-title="Arena Sport Channels",Arena Premium 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASssnh4o99p3Ne1rRv82TIuf/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1" tvg-logo="http://109.123.238.74:80/images/e69de8db9d3a825e1dd921d9550c7451.png" group-title="Arena Sport Channels",Arena Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStcICzMNPAWFaeCktZQLb33/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2" tvg-logo="http://109.123.238.74:80/images/a69cbb895ae8035f1aeb1cb9648874ac.png" group-title="Arena Sport Channels",Arena Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvDug4wdFkLQa9d4NO65-9G/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3" tvg-logo="http://109.123.238.74:80/images/7484ab7b179e75df1fba4fe2d8c1ad3d.png" group-title="Arena Sport Channels",Arena Sport 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsoYB_37OomGuBoGbaRLjzP/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4" tvg-logo="http://109.123.238.74:80/images/b51a06cf0097b59349774098174d6633.png" group-title="Arena Sport Channels",Arena Sport 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsXP9_WStquyjPt5EWe3MAz/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5" tvg-logo="http://109.123.238.74:80/images/44a0b5fbbc546e3b44d02bc550e13241.png" group-title="Arena Sport Channels",Arena Sport 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsiax-N-kp6cG_Trb0uCmnr/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Maximo" tvg-logo="http://109.123.238.74:80/images/f4bc0dcfcc2c120ec8cd49df3109bd5f.png" group-title="Super Sport Channels",Super Sport Maximo
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStJAytKJp_4ooY_7by52-HE/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Golf" tvg-logo="http://109.123.238.74:80/images/dcede3ad09d373716f07bb4f729f3c47.png" group-title="Super Sport Channels",Super Sport Golf
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStX_swk912-AzPwM6ootkJX/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Tennis" tvg-logo="http://109.123.238.74:80/images/fc07560421ea173f6570bfb8d37b65d5.png" group-title="Super Sport Channels",Super Sport Tennis
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASssYPh1RsAf3I5GybERonwb/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Premier Leauge" tvg-logo="http://109.123.238.74:80/images/ccb2ce7df191d75a065361ace4335ada.png" group-title="Super Sport Channels",Super Sport Premier Leauge
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu6LDPPD-jCakxqlwlwxwjQC/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport PSL" tvg-logo="http://109.123.238.74:80/images/3c3eab49ce993413940a760a7fa1f08f.png" group-title="Super Sport Channels",Super Sport PSL
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu7shQk93KJclAqpLUhAEya3/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport LaLiga" tvg-logo="http://109.123.238.74:80/images/94e33ac0a2e5fd18180ea4310f9f0c48.png" group-title="Super Sport Channels",Super Sport LaLiga
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu42rtSDmLl9kv7eE_edrC33/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport Football" tvg-logo="http://109.123.238.74:80/images/dcada305645cc7ad2649b353abef406d.png" group-title="Super Sport Channels",Super Sport Football
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu6BFU5ZR7AsUf6W7CRVQj23/ts
+#EXTINF:-1 tvg-ID="" tvg-name="WWE" tvg-logo="http://109.123.238.74:80/images/3c2c0b25d2d67337319ff87cee1791b4.jpg" group-title="Fight Sport Channels",WWE
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu7i4khX-o5R8D7Y52Q2EOF6/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Box" tvg-logo="http://109.123.238.74:80/images/ebf54b737b9ed4bed3a7567aa08e354e.jpg" group-title="Fight Sport Channels",Fight Box
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu61eib4_pIOgPkriGFsadLF/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport FIGHT" tvg-logo="http://109.123.238.74:80/images/ff8f07225ec24bd18fcbe083b42b94af.jpg" group-title="Fight Sport Channels",Polsat Sport FIGHT
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu4D4giF88H99hZWTpAss6Go/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Network" tvg-logo="http://109.123.238.74:80/images/729156219def42c00e3bf40c65026d23.jpg" group-title="Fight Sport Channels",Fight Network
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu5bWuSdLcOlv90P1InVonNU/ts
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Fight Pass" tvg-logo="http://109.123.238.74:80/images/4dc2d531278b7b2f7edf6756a6c89541.jpg" group-title="Fight Sport Channels",UFC Fight Pass
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu4YyCpBn_r6eWc8b6u8MJj5/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 1" tvg-logo="http://109.123.238.74:80/images/3f7544416e2333d3f03604ff5113b052.jpg" group-title="India Sport Channels",Sony Ten 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu76pRn1wg-Av_dYjLs2zFo4/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 2" tvg-logo="http://109.123.238.74:80/images/78f4760f617917a56f0a956ae460f824.jpg" group-title="India Sport Channels",Sony Ten 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYKCWj4KIHQkMXOGSJLIH3vR/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 3" tvg-logo="http://109.123.238.74:80/images/78758952b252cf5e2b3b3edfdc142097.jpg" group-title="India Sport Channels",Sony Ten 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYJUcn1fpn0gd8eOhsUAGcUd/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="India Sport Channels",Sony Ten 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYJL9RThMRfjMdeewN6hV5tU/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" group-title="India Sport Channels",Sony Ten 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYJUrbQujbLA9NWbSWBN-dB9/ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR Sports 2 Select" tvg-logo="http://109.123.238.74:80/images/4a738f280a2b85e440d4960580bffed0.jpg" group-title="India Sport Channels",STAR Sports 2 Select
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYLAVxBpEvp3afyOCoks-5ff/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery" tvg-logo="http://109.123.238.74:80/images/22cd3c5b521080139a9a6e674a7e6399.jpg" group-title="Life Style Channels",Discovery
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYLVo-zxDB0eqN0rHcn2yfz8/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="http://109.123.238.74:80/images/4cd07b02aa6a629fb4f94f08e409ba6e.jpg" group-title="Life Style Channels",Animal Planet
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYLPVQ1QiTodNpZx5uYFadcK/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV" tvg-logo="http://109.123.238.74:80/images/981391bd724d675136f91f250760d9cd.jpg" group-title="Life Style Channels",Fashion TV
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYIR-_PjLHQmnttPsSJTHJNC/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="http://109.123.238.74:80/images/bee1be013cf1982c011927fef6104f08.jpg" group-title="Life Style Channels",Food Network
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYLAv30U2EzMnxdWFkLgvlSP/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Travel Channel" tvg-logo="http://109.123.238.74:80/images/afb5d8954c80c5f3358794448ca19166.jpg" group-title="Life Style Channels",Travel Channel
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hwcRoQnqPBezqAuQGnK1AYII4rGUxVc7aNuFl91kKLFP/ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC News" tvg-logo="http://109.123.238.74:80/images/5f7c6f842e16260e0788acdd6b868cba.jpg" group-title="World News Channels",BBC News
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57H_ZDIAb3xO1E64GjBXUwON/ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN" tvg-logo="http://109.123.238.74:80/images/d3857bae6b8c24123ec9ee050d172ca1.jpg" group-title="World News Channels",CNN
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57GONkRNYfvBBDRgaIFRGQi9/ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC News" tvg-logo="http://109.123.238.74:80/images/128eb648e58a181131a2ec71caeb6cdb.jpg" group-title="World News Channels",CNBC News
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57EOGodlq15_AbhlkjaG4Wr3/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Action" tvg-logo="http://109.123.238.74:80/images/df6175304783ff325fdcfb290a1b84d3.jpg" group-title="Netflix Channels",Netflix Action
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57G3hWySdyGDO37q4kRYBJ92/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Comedy" tvg-logo="http://109.123.238.74:80/images/df6175304783ff325fdcfb290a1b84d3.jpg" group-title="Netflix Channels",Netflix Comedy
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57GIAKoRugUw_d3JruInhNJH/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Drama" tvg-logo="http://109.123.238.74:80/images/df6175304783ff325fdcfb290a1b84d3.jpg" group-title="Netflix Channels",Netflix Drama
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57Gp2X_swrKWWAFXfBz678Wk/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Horror" tvg-logo="http://109.123.238.74:80/images/df6175304783ff325fdcfb290a1b84d3.jpg" group-title="Netflix Channels",Netflix Horror
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57EdOngOkpXTeG79jStvda4F/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Kids" tvg-logo="http://109.123.238.74:80/images/df6175304783ff325fdcfb290a1b84d3.jpg" group-title="Netflix Channels",Netflix Kids
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57ELxgozpqcl3u2SGR8HMQzK/ts
+#EXTINF:-1 tvg-ID="" tvg-name="5 Plus" tvg-logo="http://109.123.238.74:80/images/db332e65676bf9ce27aa56bd912e5511.jpg" group-title="Myanmar Free Air Channels",5 Plus
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57Hh-UXdYgg5tiaslCuxcC2a/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel K" tvg-logo="http://109.123.238.74:80/images/677cbec38e02a25297f3771d6fba462d.jpg" group-title="Myanmar Free Air Channels",Channel K
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h3YGXk2etA0gYOAQwZ-K57GyA1NkoqbOnzYSz6wjTmgP/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel-9" tvg-logo="http://109.123.238.74:80/images/000c8c79e40efaea5c34a43722ba3246.jpg" group-title="Myanmar Free Air Channels",Channel-9
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hxGnM9ANUmuZMTNSmod0rprh_hpjuUI--Bk-F3R2qZ5P/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel-7" tvg-logo="http://109.123.238.74:80/images/1c22cc10a88b0cdff9538a66c9f21fa2.jpg" group-title="Myanmar Free Air Channels",Channel-7
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hxGnM9ANUmuZMTNSmod0rpp3yhA18VE1CHvc5raneKbv/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fortune TV" tvg-logo="http://109.123.238.74:80/images/26ff4b7b3796d2c94acf1002bdfd813b.png" group-title="Myanmar Free Air Channels",Fortune TV
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hxGnM9ANUmuZMTNSmod0rpqvh3X4agWiIgwfqyjIqCwm/ts
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV-4" tvg-logo="http://109.123.238.74:80/images/a690067dc1d01ef4568805b7151b751a.jpg" group-title="Myanmar Free Air Channels",MRTV-4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hxGnM9ANUmuZMTNSmod0rpqk-gn9hKrurlljeYxI40LN/ts
+#EXTINF:-1 tvg-ID="" tvg-name="M Entertainment" tvg-logo="http://109.123.238.74:80/images/2864ae49815890e96cdba7cbaab09b7b.jpg" group-title="Myanmar Free Air Channels",M Entertainment
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hxGnM9ANUmuZMTNSmod0rppbyeucb6Kf7b5iD6IqGxY_/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 1" tvg-logo="http://109.123.238.74:80/images/492ce0e7730da1e339dd11a9e0c15f5c.png" group-title="Other Sport Channels",Digi Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h_3nHFHE8qafA5lsXb4XcFV6rc0iLas_aMr5k5Iq6kHK/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 2" tvg-logo="http://109.123.238.74:80/images/fda53fb7b94d5af48c61c93a3c2486e4.png" group-title="Other Sport Channels",Digi Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h_3nHFHE8qafA5lsXb4XcFXKt5zoi_CY4JgKrigzTEl4/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 3" tvg-logo="http://109.123.238.74:80/images/bfea275164b8fb8906f5b56f0e5e1a69.png" group-title="Other Sport Channels",Digi Sport 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h_3nHFHE8qafA5lsXb4XcFVvHV-beBgtreKpDDv7xVu9/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi Sport 4" tvg-logo="http://109.123.238.74:80/images/ee6e67fe7b627c4f481e06bc0a4266c7.png" group-title="Other Sport Channels",Digi Sport 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h9ndZQMfZXnBu1Q1O3GsOoTfmIoC4_aWSIcDEPV7RZEH/ts
+#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 1" tvg-logo="http://109.123.238.74:80/images/75c4c5302a75bf025010b26289f24463.png" group-title="Other Sport Channels",SSC Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h9ndZQMfZXnBu1Q1O3GsOoR50ILK0D1hzGm8dwedDOtQ/ts
+#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 2" tvg-logo="http://109.123.238.74:80/images/75c4c5302a75bf025010b26289f24463.png" group-title="Other Sport Channels",SSC Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h9ndZQMfZXnBu1Q1O3GsOoRSDEwPL_3c6LLxRNpF9gpQ/ts
+#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 3" tvg-logo="http://109.123.238.74:80/images/75c4c5302a75bf025010b26289f24463.png" group-title="Other Sport Channels",SSC Sport 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h9ndZQMfZXnBu1Q1O3GsOoRMVvWEh9c_jXr8L5LIz3b2/ts
+#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 4" tvg-logo="http://109.123.238.74:80/images/75c4c5302a75bf025010b26289f24463.png" group-title="Other Sport Channels",SSC Sport 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7sg7t2KnpgnsX-BuQhPko8_OvqZa_n8_TcGnwv0SU-m/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Football" tvg-logo="http://109.123.238.74:80/images/1a5e897e0b34c47741f15deb24b106b6.png" group-title="UK Sport Channels",Sky Sport Football
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvAJVVT_AqT8l0RDr5iOXUzd/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Golf" tvg-logo="http://109.123.238.74:80/images/2de544193693673ff25fdcad2236b836.png" group-title="UK Sport Channels",Sky Sport Golf
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDN2oDKBzOxJR712mpOg58T/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Golf" tvg-logo="http://109.123.238.74:80/images/2de544193693673ff25fdcad2236b836.png" group-title="Golf Channels",Sky Sport Golf
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDN2oDKBzOxJR712mpOg58T/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Premier League" tvg-logo="http://109.123.238.74:80/images/8449f223b44a7f51db79e7c45ea53d47.png" group-title="UK Sport Channels",Sky Sport Premier League
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvAYt6tlzEBGHyzJzUc3eXML/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 1" tvg-logo="http://109.123.238.74:80/images/8fc913ea09ecfbd18ce01a8917210b80.png" group-title="Dubai Sport Channels",Abu Dhabi Sports 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDE82pLnQEwnAo3rGYUjnYL/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 2" tvg-logo="http://109.123.238.74:80/images/d429aca297b87c35ba8cfae3b7093a68.png" group-title="Dubai Sport Channels",Abu Dhabi Sports 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvD6LNXQ8AkXxxUsEt-JhdrK/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar LaLiga 1 4K+" tvg-logo="http://109.123.238.74:80/images/22ca43110f1820cb525a17d7eb352576.jpg" group-title="4K Sport Channels",Movistar LaLiga 1 4K+
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvBlC9ei8rbJJY0h0Gi7vpHf/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar LaLiga 4K+" tvg-logo="http://109.123.238.74:80/images/c82cc6031d3126bb4b5426c7bcec3648.png" group-title="4K Sport Channels",Movistar LaLiga 4K+
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDD4LeI2JlrFepCNXkrKGWd/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 1 (4k)" tvg-logo="http://109.123.238.74:80/images/8dc37105ecec1160c69cb267747cdad3.png" group-title="4K Sport Channels",Eleven Sport 1 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvAQRI_al08UXWgabXT_J4Wt/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 4K+" tvg-logo="http://109.123.238.74:80/images/d906da2d61078ef4a34ee89aef6c73d3.png" group-title="4K Sport Channels",Eleven Sports 2 4K+
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvBZMYkr-aFOgiCDDx7YTFrE/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 4K+" tvg-logo="http://109.123.238.74:80/images/fdefb380888c39e16cfcd67a49b5dc71.png" group-title="4K Sport Channels",Eleven Sports 3 4K+
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDUKgdr3mQFEhGiJ7zBvxL-/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 4 (4k)" tvg-logo="http://109.123.238.74:80/images/456956e2f3254c8f386872e9ba5781c9.png" group-title="4K Sport Channels",Eleven Sport 4 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvDa0X4K50Cs9oF41dNIgZ33/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 5 (4k)" tvg-logo="http://109.123.238.74:80/images/aaf1dfcf9776b4cc5255e0e53cd5d472.png" group-title="4K Sport Channels",Eleven Sport 5 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvBc0f23uVcrZ9FrKU8jvKB6/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1 (4k)" tvg-logo="http://109.123.238.74:80/images/1441fe84ef5f47cb42eba2fadd079b1a.png" group-title="4K Sport Channels",Sport TV 1 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvADv4EQA5XOcUzSxHVX6en7/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2 (4k)" tvg-logo="http://109.123.238.74:80/images/abb71aba48617317221a601533da473b.png" group-title="4K Sport Channels",Sport TV 2 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvCW4qhKL8s5oULFqoL_Z8qa/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3 (4k)" tvg-logo="http://109.123.238.74:80/images/5238463effdbf6be01a14a3f65b3c48b.png" group-title="4K Sport Channels",Sport TV 3 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvC1WtM3dHaCU1gu0oFcqIoo/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4 (4k)" tvg-logo="http://109.123.238.74:80/images/2fd74924b9829b47ae51c34874b4c3b7.png" group-title="4K Sport Channels",Sport TV 4 (4k)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvA1dRy7R1RG0tL5j_v-z4qj/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5" tvg-logo="http://109.123.238.74:80/images/2f3ed39bf2f83acc5baca614af67dc3c.png" group-title="4K Sport Channels",Sport TV 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h6JBYLjj9RufgpGmMg42EvA9ppMBgmEumpgB3Adjx0Yw/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Sports 1 Select" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="India Sport Channels",Star Sports 1 Select
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASuRCR7BFwRjJzG5GD6d0I22/ts
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Tennis" tvg-logo="http://109.123.238.74:80/images/fc07560421ea173f6570bfb8d37b65d5.png" group-title="Tennis Channels",SuperSport Tennis
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvbUY35dWhgYjHKUlGXcERy/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family" tvg-logo="http://109.123.238.74:80/images/caf18a63d4e7936824050c0a9a26742f.png" group-title="Movie Channels",HBO Family
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASuv4lU4PmEpKKeUNuhzLGuK/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="http://109.123.238.74:80/images/105494de89e4b2755def3912984009fb.jpeg" group-title="Movie Channels",HBO
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASuYr0xJ2A0-QMkwHI6xrEMf/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi" tvg-logo="http://109.123.238.74:80/images/f51289d4e1da5b3886299426616608c9.png" group-title="Movie Channels",HBO Mundi
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvQYVWmOc4fyU8mDYCa9EsW/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO POP" tvg-logo="http://109.123.238.74:80/images/f1de6be8471f2365dfe5abff2ab70aae.png" group-title="Movie Channels",HBO POP
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStamkDTSjeZaiAoFK4K23HN/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature" tvg-logo="http://109.123.238.74:80/images/5d48aa85eb9e73f9713a3d0f48199895.png" group-title="Movie Channels",HBO Signature
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsYSpsErjTis4Od5OA9PaKc/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme" tvg-logo="http://109.123.238.74:80/images/f3dd126ec4c8d00af5ade234ab7d0acf.png" group-title="Movie Channels",HBO Xtreme
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASut7dQMBY40fXBIVYzg9PO-/ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus" tvg-logo="http://109.123.238.74:80/images/c8d3a30b15f49d7dd7996472a13e0dd7.png" group-title="Movie Channels",HBO Plus
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvtIcq52WcCuFBV-QT3jwIm/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English 1" tvg-logo="http://109.123.238.74:80/images/8f97ae0e0d70ed72cbd620283c887334.jpg" group-title="Bein Sport Channels",Bein Sport English 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvVa9IlEOUCHJkAPP6YNGbn/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English 2" tvg-logo="http://109.123.238.74:80/images/d45ff93485c092054b766e4061b546bf.jpg" group-title="Bein Sport Channels",Bein Sport English 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsc6teUpxiGpOeX0HJqNq_f/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Tamil" tvg-logo="http://109.123.238.74:80/images/65cf9f1ebaeaa0db8107f0dcdf985060.jpeg" group-title="India Sport Channels",Zee Tamil
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASul_Ic_-sHsIKOw3Ga74oTL/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Premier Football 1" tvg-logo="http://109.123.238.74:80/images/462735f92aac08881f4ad6806fd5913f.png" group-title="Thailand Sport Channels",True Premier Football 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStslluPXnOm-7fZkzAWXiIb/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Premier Football 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Thailand Sport Channels",True Premier Football 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASsyxgSwYcBv9ZLJmLH2MZ1M/ts
+#EXTINF:-1 tvg-ID="" tvg-name="T Sport" tvg-logo="http://109.123.238.74:80/images/b69df6f716cd576be33b27c64f6beb6b.jpg" group-title="Thailand Sport Channels",T Sport
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStn7LFcOx1E39kwxwqd4l9K/ts
+#EXTINF:-1 tvg-ID="" tvg-name="TrueSports 1" tvg-logo="http://109.123.238.74:80/images/3f2d589ac7d80dc0aa9e5cb20b45ca56.png" group-title="Thailand Sport Channels",TrueSports 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvbAq-Tcvpa1M4EMQ91A4z7/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Sport 2" tvg-logo="http://109.123.238.74:80/images/e96bb8c9c5decbf9fe868f4bc13ecd31.png" group-title="Thailand Sport Channels",True Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStidAkjz2fndV95-FId5hhK/ts
+#EXTINF:-1 tvg-ID="" tvg-name="TrueSports 3" tvg-logo="http://109.123.238.74:80/images/cc7357deab926c05f927ff8591a4acf8.png" group-title="Thailand Sport Channels",TrueSports 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASuN02w1WgOt9szf5ccKLQKp/ts
+#EXTINF:-1 tvg-ID="" tvg-name="PPTV HD 36" tvg-logo="http://109.123.238.74:80/images/42075b07df5a0663ce3675c847fc0ed2.png" group-title="Thailand Sport Channels",PPTV HD 36
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvIzSp7uyw5W7SAYsyuEr8Z/ts
+#EXTINF:-1 tvg-ID="" tvg-name="test" tvg-logo="" group-title="Movie",test
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASuWb3mMGRXgklNOQzeklrjl/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Premier Football 3" tvg-logo="http://109.123.238.74:80/images/dd9b1854ff8fb9e5f894eb73f5dab8f9.png" group-title="Thailand Sport Channels",True Premier Football 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStfEWzZzhEVw8YqA45qKAxJ/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Premier Football 4" tvg-logo="http://109.123.238.74:80/images/35cffc67b256a9165a936e2c9a268996.png" group-title="Thailand Sport Channels",True Premier Football 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStMopELuu66LuGMGKf4-vWg/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Premier Football 5" tvg-logo="http://109.123.238.74:80/images/224155fc5ba506f406dedc9ac40891ec.png" group-title="Thailand Sport Channels",True Premier Football 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvR7J3IRfker2qFlLgOEYwh/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Thailand 1" tvg-logo="http://109.123.238.74:80/images/60dfd0d4a3e6e3a1ae6a42874fa1ee26.png" group-title="Thailand Sport Channels",Bein Sport Thailand 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeASvuKnHu_vkwK3-ETe54e9yL/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Sport 5" tvg-logo="http://109.123.238.74:80/images/51c46b101a1bcc266a2ebeeee87ce84b.png" group-title="Thailand Sport Channels",True Sport 5
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStMSOPz1WT_5tQCSSdsn2ZU/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Sport 6" tvg-logo="http://109.123.238.74:80/images/79c11954081efbfb3ef0946cc1a929db.png" group-title="Thailand Sport Channels",True Sport 6
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStUZK480hzrl3mPVSEVSDkB/ts
+#EXTINF:-1 tvg-ID="" tvg-name="True Sport 7" tvg-logo="http://109.123.238.74:80/images/e75e460c682760a5888033d7a85ba517.png" group-title="Thailand Sport Channels",True Sport 7
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h7R2keY_M52Wr2MxeaKeAStKYnBicfP6r-ClFsz18B7N/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 1" tvg-logo="http://109.123.238.74:80/images/afc05fbf0ae478ee539c582b138c12bb.png" group-title="Max Sport Channels",Max Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu7Uu7XBDwuY9dwctpeRRDKe/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 3" tvg-logo="http://109.123.238.74:80/images/0fc3897dde1dd43c764052948b2a5fac.png" group-title="Max Sport Channels",Max Sport 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu6vc5sTKFGABCJbXKzVr_Ai/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max Sport 4" tvg-logo="http://109.123.238.74:80/images/4eac64baddb34b50e9d5e09e37c287a7.png" group-title="Max Sport Channels",Max Sport 4
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu4AvGeeTapg-clsDnvdnHzl/ts
+#EXTINF:-1 tvg-ID="" tvg-name="testinglive" tvg-logo="" group-title="Movie",testinglive
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu7WUqlrsBlV_dU7jrvdV9qo/ts
+#EXTINF:-1 tvg-ID="" tvg-name="tesingjdalfjdlkf;a" tvg-logo="" group-title="4K Sport Channels",tesingjdalfjdlkf;a
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu53IRoo_ffHqJARcIah2D0h/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Chelsea vs Fulham(July 31, 2023, 1:15 AM)" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt28b06a97b87d97da/63da4a2ba62a9d711b707212/murcia-4.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Live",Chelsea vs Fulham(July 31, 2023, 1:15 AM)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu7aXAwNrqF_vKp-JGorgjjz/ts
+#EXTINF:-1 tvg-ID="" tvg-name="Manchester United Vs Borussia Dortmund(July 31, 2023, 7:30 AM)" tvg-logo="http://109.123.238.74:80/images/debca276c27552cfb7c029786e7c0b0e.jpg" group-title="Live",Manchester United Vs Borussia Dortmund(July 31, 2023, 7:30 AM)
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4h0EDeaAslpXrNkszAgLfnu6jPYJrX9WJJfO6qeEtx9zv/ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Paris Proposal (2023)" tvg-logo="http://109.123.238.74:80/images/060ec2d842c27fe68bb27a7b3dc46fae.jpg" group-title="Romance",A Paris Proposal (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7B2037_5eUruGqrIm4sYX8
+#EXTINF:-1 tvg-ID="" tvg-name="A Paris Proposal (2023)" tvg-logo="http://109.123.238.74:80/images/060ec2d842c27fe68bb27a7b3dc46fae.jpg" group-title="Comedy",A Paris Proposal (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7B2037_5eUruGqrIm4sYX8
+#EXTINF:-1 tvg-ID="" tvg-name="A Sunday Affair (2023)" tvg-logo="http://109.123.238.74:80/images/88e9f70bfd045e3104490cf1959deee0.jpg" group-title="Romance",A Sunday Affair (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6xGKUX_RzokQ41n4KcaoXG
+#EXTINF:-1 tvg-ID="" tvg-name="A Sunday Affair (2023)" tvg-logo="http://109.123.238.74:80/images/88e9f70bfd045e3104490cf1959deee0.jpg" group-title="Netflix",A Sunday Affair (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6xGKUX_RzokQ41n4KcaoXG
+#EXTINF:-1 tvg-ID="" tvg-name="A Sunday Affair (2023)" tvg-logo="http://109.123.238.74:80/images/88e9f70bfd045e3104490cf1959deee0.jpg" group-title="Drama",A Sunday Affair (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6xGKUX_RzokQ41n4KcaoXG
+#EXTINF:-1 tvg-ID="" tvg-name="관계의 일변 (2023)" tvg-logo="http://109.123.238.74:80/images/cf0232177cb6ffb523cff073015137aa.jpg" group-title="Drama",관계의 일변 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6iZL3mRjoSxWc2OKg4NrBg
+#EXTINF:-1 tvg-ID="" tvg-name="A Man Called Otto (2022)" tvg-logo="http://109.123.238.74:80/images/bce2d5aa7a094ea4220d3fc52184442e.jpg" group-title="Comedy",A Man Called Otto (2022)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4bFr12uw2PqG7zwOOeo-pl
+#EXTINF:-1 tvg-ID="" tvg-name="A Man Called Otto (2022)" tvg-logo="http://109.123.238.74:80/images/bce2d5aa7a094ea4220d3fc52184442e.jpg" group-title="Drama",A Man Called Otto (2022)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4bFr12uw2PqG7zwOOeo-pl
+#EXTINF:-1 tvg-ID="" tvg-name="அகிலன் (2023)" tvg-logo="http://109.123.238.74:80/images/f895cbf340d1f20e02079184f2aacaae.jpg" group-title="Action",அகிலன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7wSc2OS1W8mkyyhTHs5Mqs
+#EXTINF:-1 tvg-ID="" tvg-name="அகிலன் (2023)" tvg-logo="http://109.123.238.74:80/images/f895cbf340d1f20e02079184f2aacaae.jpg" group-title="Drama",அகிலன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7wSc2OS1W8mkyyhTHs5Mqs
+#EXTINF:-1 tvg-ID="" tvg-name="A Todas Partes (2023)" tvg-logo="http://109.123.238.74:80/images/9514ad724521db14f2d0ee1095cdc273.jpg" group-title="Comedy",A Todas Partes (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H77iLjl3hR9Nf8zm7P9GhwP
+#EXTINF:-1 tvg-ID="" tvg-name="A Todas Partes (2023)" tvg-logo="http://109.123.238.74:80/images/9514ad724521db14f2d0ee1095cdc273.jpg" group-title="Drama",A Todas Partes (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H77iLjl3hR9Nf8zm7P9GhwP
+#EXTINF:-1 tvg-ID="" tvg-name="Ambush (2023)" tvg-logo="http://109.123.238.74:80/images/5fb2ddc3e2c24d528583966a3abcbbb5.jpg" group-title="Action",Ambush (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6_JXEqSM3oUM-nVFG8z4bi
+#EXTINF:-1 tvg-ID="" tvg-name="Ambush (2023)" tvg-logo="http://109.123.238.74:80/images/5fb2ddc3e2c24d528583966a3abcbbb5.jpg" group-title="War",Ambush (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6_JXEqSM3oUM-nVFG8z4bi
+#EXTINF:-1 tvg-ID="" tvg-name="Ambush (2023)" tvg-logo="http://109.123.238.74:80/images/5fb2ddc3e2c24d528583966a3abcbbb5.jpg" group-title="Thriller",Ambush (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6_JXEqSM3oUM-nVFG8z4bi
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Behind Bars: Jodi Arias (2023)" tvg-logo="http://109.123.238.74:80/images/63f564067db8b5f27b2ad66253423cd7.jpg" group-title="Crime",Bad Behind Bars: Jodi Arias (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6th0AuZ8P7zN-xce3cQxPg
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Behind Bars: Jodi Arias (2023)" tvg-logo="http://109.123.238.74:80/images/63f564067db8b5f27b2ad66253423cd7.jpg" group-title="Drama",Bad Behind Bars: Jodi Arias (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6th0AuZ8P7zN-xce3cQxPg
+#EXTINF:-1 tvg-ID="" tvg-name="Amar es madurar (2023)" tvg-logo="http://109.123.238.74:80/images/2ea96d6784ab7525c52f7a0ce2497884.jpg" group-title="Romance",Amar es madurar (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IPLdXul9ie62O-ia_L1eA
+#EXTINF:-1 tvg-ID="" tvg-name="Amar es madurar (2023)" tvg-logo="http://109.123.238.74:80/images/2ea96d6784ab7525c52f7a0ce2497884.jpg" group-title="Comedy",Amar es madurar (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IPLdXul9ie62O-ia_L1eA
+#EXTINF:-1 tvg-ID="" tvg-name="안나푸르나 (2023)" tvg-logo="http://109.123.238.74:80/images/d0addb2e712f0656a6327bdab71487e7.jpg" group-title="Romance",안나푸르나 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6flXvB8-sjknPTC5JxrYJh
+#EXTINF:-1 tvg-ID="" tvg-name="안나푸르나 (2023)" tvg-logo="http://109.123.238.74:80/images/d0addb2e712f0656a6327bdab71487e7.jpg" group-title="Comedy",안나푸르나 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6flXvB8-sjknPTC5JxrYJh
+#EXTINF:-1 tvg-ID="" tvg-name="Balada Si Roy (2023)" tvg-logo="http://109.123.238.74:80/images/7cbdd5d8f371fec273fead1c2cd0ae89.jpg" group-title="Action",Balada Si Roy (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H74V_o1c2k-5CdWFrIgxlzR
+#EXTINF:-1 tvg-ID="" tvg-name="Balada Si Roy (2023)" tvg-logo="http://109.123.238.74:80/images/7cbdd5d8f371fec273fead1c2cd0ae89.jpg" group-title="Romance",Balada Si Roy (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H74V_o1c2k-5CdWFrIgxlzR
+#EXTINF:-1 tvg-ID="" tvg-name="Balada Si Roy (2023)" tvg-logo="http://109.123.238.74:80/images/7cbdd5d8f371fec273fead1c2cd0ae89.jpg" group-title="Drama",Balada Si Roy (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H74V_o1c2k-5CdWFrIgxlzR
+#EXTINF:-1 tvg-ID="" tvg-name="Bela Luna (2023)" tvg-logo="http://109.123.238.74:80/images/4e5bdcc7390a4e43395b1b84f2db1f74.jpg" group-title="Drama",Bela Luna (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sQ0kShgr8T_uS6AcdopjC
+#EXTINF:-1 tvg-ID="" tvg-name="Bela Luna (2023)" tvg-logo="http://109.123.238.74:80/images/4e5bdcc7390a4e43395b1b84f2db1f74.jpg" group-title="Philippines",Bela Luna (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sQ0kShgr8T_uS6AcdopjC
+#EXTINF:-1 tvg-ID="" tvg-name="Big George Foreman (2023)" tvg-logo="http://109.123.238.74:80/images/75e60d46d78a94d61dd184c2422f9847.jpg" group-title="History",Big George Foreman (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5fJT59AGQD2mr5qM0Pb0bb
+#EXTINF:-1 tvg-ID="" tvg-name="Big George Foreman (2023)" tvg-logo="http://109.123.238.74:80/images/75e60d46d78a94d61dd184c2422f9847.jpg" group-title="Biography",Big George Foreman (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5fJT59AGQD2mr5qM0Pb0bb
+#EXTINF:-1 tvg-ID="" tvg-name="Big George Foreman (2023)" tvg-logo="http://109.123.238.74:80/images/75e60d46d78a94d61dd184c2422f9847.jpg" group-title="Drama",Big George Foreman (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5fJT59AGQD2mr5qM0Pb0bb
+#EXTINF:-1 tvg-ID="" tvg-name="Big George Foreman (2023)" tvg-logo="http://109.123.238.74:80/images/75e60d46d78a94d61dd184c2422f9847.jpg" group-title="Sport",Big George Foreman (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5fJT59AGQD2mr5qM0Pb0bb
+#EXTINF:-1 tvg-ID="" tvg-name="Bird Box Barcelona (2023)" tvg-logo="http://109.123.238.74:80/images/2ab98caa92179e24905650eacfb6125e.jpg" group-title="Science Fiction",Bird Box Barcelona (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H47sxscB6VL7FD0PxY5f01I
+#EXTINF:-1 tvg-ID="" tvg-name="Bird Box Barcelona (2023)" tvg-logo="http://109.123.238.74:80/images/2ab98caa92179e24905650eacfb6125e.jpg" group-title="Drama",Bird Box Barcelona (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H47sxscB6VL7FD0PxY5f01I
+#EXTINF:-1 tvg-ID="" tvg-name="Bird Box Barcelona (2023)" tvg-logo="http://109.123.238.74:80/images/2ab98caa92179e24905650eacfb6125e.jpg" group-title="Thriller",Bird Box Barcelona (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H47sxscB6VL7FD0PxY5f01I
+#EXTINF:-1 tvg-ID="" tvg-name="Blind (2023)" tvg-logo="http://109.123.238.74:80/images/306d07284872c74aacf5b807fbfc8ed5.jpg" group-title="Crime",Blind (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6M6bsXcbXEwdl4ElYHEWT5
+#EXTINF:-1 tvg-ID="" tvg-name="Blind (2023)" tvg-logo="http://109.123.238.74:80/images/306d07284872c74aacf5b807fbfc8ed5.jpg" group-title="Drama",Blind (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6M6bsXcbXEwdl4ElYHEWT5
+#EXTINF:-1 tvg-ID="" tvg-name="Blind (2023)" tvg-logo="http://109.123.238.74:80/images/306d07284872c74aacf5b807fbfc8ed5.jpg" group-title="Thriller",Blind (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6M6bsXcbXEwdl4ElYHEWT5
+#EXTINF:-1 tvg-ID="" tvg-name="Chakravyuham (2023)" tvg-logo="http://109.123.238.74:80/images/85f517c4eba40829de0e07a9044cea74.jpg" group-title="Thriller",Chakravyuham (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4cA0eqM0jjTcNxFU-L3HjM
+#EXTINF:-1 tvg-ID="" tvg-name="Chakravyuham (2023)" tvg-logo="http://109.123.238.74:80/images/85f517c4eba40829de0e07a9044cea74.jpg" group-title="Mystery",Chakravyuham (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4cA0eqM0jjTcNxFU-L3HjM
+#EXTINF:-1 tvg-ID="" tvg-name="Corona Papers (2023)" tvg-logo="http://109.123.238.74:80/images/bf148618e69823fa72cc081132810715.jpg" group-title="Action",Corona Papers (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H424AUzHN4Q3P6wvX415TMz
+#EXTINF:-1 tvg-ID="" tvg-name="Corona Papers (2023)" tvg-logo="http://109.123.238.74:80/images/bf148618e69823fa72cc081132810715.jpg" group-title="Drama",Corona Papers (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H424AUzHN4Q3P6wvX415TMz
+#EXTINF:-1 tvg-ID="" tvg-name="Corona Papers (2023)" tvg-logo="http://109.123.238.74:80/images/bf148618e69823fa72cc081132810715.jpg" group-title="Thriller",Corona Papers (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H424AUzHN4Q3P6wvX415TMz
+#EXTINF:-1 tvg-ID="" tvg-name="Come Out Fighting (2023)" tvg-logo="http://109.123.238.74:80/images/2c6c12de6710dfffc34b1e8507ecfe20.jpg" group-title="Action",Come Out Fighting (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Sgjr6XvxcP-kF8jg8AUZH
+#EXTINF:-1 tvg-ID="" tvg-name="Come Out Fighting (2023)" tvg-logo="http://109.123.238.74:80/images/2c6c12de6710dfffc34b1e8507ecfe20.jpg" group-title="War",Come Out Fighting (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Sgjr6XvxcP-kF8jg8AUZH
+#EXTINF:-1 tvg-ID="" tvg-name="Come Out Fighting (2023)" tvg-logo="http://109.123.238.74:80/images/2c6c12de6710dfffc34b1e8507ecfe20.jpg" group-title="Adventure",Come Out Fighting (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Sgjr6XvxcP-kF8jg8AUZH
+#EXTINF:-1 tvg-ID="" tvg-name="Come Out Fighting (2023)" tvg-logo="http://109.123.238.74:80/images/2c6c12de6710dfffc34b1e8507ecfe20.jpg" group-title="Drama",Come Out Fighting (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Sgjr6XvxcP-kF8jg8AUZH
+#EXTINF:-1 tvg-ID="" tvg-name="Chhatriwali (2023)" tvg-logo="http://109.123.238.74:80/images/fda7d3e3b170cbd792263c1953a625a3.jpg" group-title="Comedy",Chhatriwali (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5Fn6f-Ua1jwEN_l5N1BQrB
+#EXTINF:-1 tvg-ID="" tvg-name="Chhatriwali (2023)" tvg-logo="http://109.123.238.74:80/images/fda7d3e3b170cbd792263c1953a625a3.jpg" group-title="Drama",Chhatriwali (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5Fn6f-Ua1jwEN_l5N1BQrB
+#EXTINF:-1 tvg-ID="" tvg-name="Dear David (2023)" tvg-logo="http://109.123.238.74:80/images/378c075bcc33eeaf48554ec0d093431e.jpg" group-title="Romance",Dear David (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4xmTOF3XOzYW6mF1D3V4g1
+#EXTINF:-1 tvg-ID="" tvg-name="Dear David (2023)" tvg-logo="http://109.123.238.74:80/images/378c075bcc33eeaf48554ec0d093431e.jpg" group-title="Comedy",Dear David (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4xmTOF3XOzYW6mF1D3V4g1
+#EXTINF:-1 tvg-ID="" tvg-name="Dear David (2023)" tvg-logo="http://109.123.238.74:80/images/378c075bcc33eeaf48554ec0d093431e.jpg" group-title="Drama",Dear David (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4xmTOF3XOzYW6mF1D3V4g1
+#EXTINF:-1 tvg-ID="" tvg-name="Creed III (2023)" tvg-logo="http://109.123.238.74:80/images/91ea76bcdcb6106b6aab9b945f7f7a63.jpg" group-title="Action",Creed III (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7cgo2V6owzsyCnD14v2iOZ
+#EXTINF:-1 tvg-ID="" tvg-name="Creed III (2023)" tvg-logo="http://109.123.238.74:80/images/91ea76bcdcb6106b6aab9b945f7f7a63.jpg" group-title="Drama",Creed III (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7cgo2V6owzsyCnD14v2iOZ
+#EXTINF:-1 tvg-ID="" tvg-name="Devilreaux (2023)" tvg-logo="http://109.123.238.74:80/images/b00a5a712ad95ed2ed023f43765021da.jpg" group-title="Horror",Devilreaux (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7vuheeE0iQy3mMM31cI3cW
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hart (2023)" tvg-logo="http://109.123.238.74:80/images/987cc04162de11331857a532679514fa.jpg" group-title="Action",Die Hart (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7M30e6EXY5l7_X1t5_aTac
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hart (2023)" tvg-logo="http://109.123.238.74:80/images/987cc04162de11331857a532679514fa.jpg" group-title="Comedy",Die Hart (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7M30e6EXY5l7_X1t5_aTac
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hart (2023)" tvg-logo="http://109.123.238.74:80/images/987cc04162de11331857a532679514fa.jpg" group-title="Thriller",Die Hart (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7M30e6EXY5l7_X1t5_aTac
+#EXTINF:-1 tvg-ID="" tvg-name="愛很美味 (2023)" tvg-logo="http://109.123.238.74:80/images/2769bd832bceca0611a92d471f50d4c2.jpg" group-title="Romance",愛很美味 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4m3C56B2bp-WxhWeZ6eaA9
+#EXTINF:-1 tvg-ID="" tvg-name="愛很美味 (2023)" tvg-logo="http://109.123.238.74:80/images/2769bd832bceca0611a92d471f50d4c2.jpg" group-title="Comedy",愛很美味 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4m3C56B2bp-WxhWeZ6eaA9
+#EXTINF:-1 tvg-ID="" tvg-name="愛很美味 (2023)" tvg-logo="http://109.123.238.74:80/images/2769bd832bceca0611a92d471f50d4c2.jpg" group-title="Drama",愛很美味 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4m3C56B2bp-WxhWeZ6eaA9
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Dead Rise (2023)" tvg-logo="http://109.123.238.74:80/images/83ad3d7729dd9163362fb7bbae34b3ca.jpg" group-title="Thriller",Evil Dead Rise (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6bzB95dnFtjsjnPvI21pvC
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Dead Rise (2023)" tvg-logo="http://109.123.238.74:80/images/83ad3d7729dd9163362fb7bbae34b3ca.jpg" group-title="Horror",Evil Dead Rise (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6bzB95dnFtjsjnPvI21pvC
+#EXTINF:-1 tvg-ID="" tvg-name="Fear the Invisible Man (2023)" tvg-logo="http://109.123.238.74:80/images/30066c40f8c8c6ebd84e17e6f10c4c34.jpg" group-title="Science Fiction",Fear the Invisible Man (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6IXAqznbLXlGxg2CN71JD3
+#EXTINF:-1 tvg-ID="" tvg-name="Fear the Invisible Man (2023)" tvg-logo="http://109.123.238.74:80/images/30066c40f8c8c6ebd84e17e6f10c4c34.jpg" group-title="Thriller",Fear the Invisible Man (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6IXAqznbLXlGxg2CN71JD3
+#EXTINF:-1 tvg-ID="" tvg-name="Fear the Invisible Man (2023)" tvg-logo="http://109.123.238.74:80/images/30066c40f8c8c6ebd84e17e6f10c4c34.jpg" group-title="Horror",Fear the Invisible Man (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6IXAqznbLXlGxg2CN71JD3
+#EXTINF:-1 tvg-ID="" tvg-name="Dungeons & Dragons: Honor Among Thieves (2023)" tvg-logo="http://109.123.238.74:80/images/8cfc8112a1893107755c030651963012.jpg" group-title="Comedy",Dungeons & Dragons: Honor Among Thieves (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sZ0ORJY4ou79IkZKi3gAj
+#EXTINF:-1 tvg-ID="" tvg-name="Dungeons & Dragons: Honor Among Thieves (2023)" tvg-logo="http://109.123.238.74:80/images/8cfc8112a1893107755c030651963012.jpg" group-title="Adventure",Dungeons & Dragons: Honor Among Thieves (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sZ0ORJY4ou79IkZKi3gAj
+#EXTINF:-1 tvg-ID="" tvg-name="Dungeons & Dragons: Honor Among Thieves (2023)" tvg-logo="http://109.123.238.74:80/images/8cfc8112a1893107755c030651963012.jpg" group-title="Fantasy",Dungeons & Dragons: Honor Among Thieves (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sZ0ORJY4ou79IkZKi3gAj
+#EXTINF:-1 tvg-ID="" tvg-name="ஃபர்ஹானா (2023)" tvg-logo="http://109.123.238.74:80/images/6c5c828a2292f6a68f55b3bf72d676a4.jpg" group-title="Drama",ஃபர்ஹானா (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6DBtMSMdJ-CWBWc_YvGadM
+#EXTINF:-1 tvg-ID="" tvg-name="ஃபர்ஹானா (2023)" tvg-logo="http://109.123.238.74:80/images/6c5c828a2292f6a68f55b3bf72d676a4.jpg" group-title="Thriller",ஃபர்ஹானா (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6DBtMSMdJ-CWBWc_YvGadM
+#EXTINF:-1 tvg-ID="" tvg-name="东北警察故事2 (2023)" tvg-logo="http://109.123.238.74:80/images/99b5d45d4bde539176f3c1825ba63039.jpg" group-title="Action",东北警察故事2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5_TAHf4Aa2itLZt86HeibX
+#EXTINF:-1 tvg-ID="" tvg-name="东北警察故事2 (2023)" tvg-logo="http://109.123.238.74:80/images/99b5d45d4bde539176f3c1825ba63039.jpg" group-title="Crime",东北警察故事2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5_TAHf4Aa2itLZt86HeibX
+#EXTINF:-1 tvg-ID="" tvg-name="东北警察故事2 (2023)" tvg-logo="http://109.123.238.74:80/images/99b5d45d4bde539176f3c1825ba63039.jpg" group-title="Drama",东北警察故事2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5_TAHf4Aa2itLZt86HeibX
+#EXTINF:-1 tvg-ID="" tvg-name="Folklore Qizz Class (2023)" tvg-logo="http://109.123.238.74:80/images/fa170d1131c53231d6617345f8da1a65.jpg" group-title="Thriller",Folklore Qizz Class (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7dOS7o9uzZlXFRl6_clLe7
+#EXTINF:-1 tvg-ID="" tvg-name="Folklore Qizz Class (2023)" tvg-logo="http://109.123.238.74:80/images/fa170d1131c53231d6617345f8da1a65.jpg" group-title="Mystery",Folklore Qizz Class (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7dOS7o9uzZlXFRl6_clLe7
+#EXTINF:-1 tvg-ID="" tvg-name="옥수역귀신 (2023)" tvg-logo="http://109.123.238.74:80/images/43aece5cb24bb9aa5cf1b39c1628e0e2.jpg" group-title="Horror",옥수역귀신 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4AZEf6jZz_0YF925gyYT_t
+#EXTINF:-1 tvg-ID="" tvg-name="옥수역귀신 (2023)" tvg-logo="http://109.123.238.74:80/images/43aece5cb24bb9aa5cf1b39c1628e0e2.jpg" group-title="Mystery",옥수역귀신 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4AZEf6jZz_0YF925gyYT_t
+#EXTINF:-1 tvg-ID="" tvg-name="옥수역귀신 (2023)" tvg-logo="http://109.123.238.74:80/images/43aece5cb24bb9aa5cf1b39c1628e0e2.jpg" group-title="Fantasy",옥수역귀신 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4AZEf6jZz_0YF925gyYT_t
+#EXTINF:-1 tvg-ID="" tvg-name="Girlfriend Na Pwede Na (2023)" tvg-logo="http://109.123.238.74:80/images/eedd247461452d93d5e7193e708b7e43.jpg" group-title="Romance",Girlfriend Na Pwede Na (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5HU3LGRwkxdeMkddHwuiSv
+#EXTINF:-1 tvg-ID="" tvg-name="Girlfriend Na Pwede Na (2023)" tvg-logo="http://109.123.238.74:80/images/eedd247461452d93d5e7193e708b7e43.jpg" group-title="Comedy",Girlfriend Na Pwede Na (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5HU3LGRwkxdeMkddHwuiSv
+#EXTINF:-1 tvg-ID="" tvg-name="惊天救援 (2023)" tvg-logo="http://109.123.238.74:80/images/f98c41ecaa76de9be19322cd1b3f7a32.jpg" group-title="Action",惊天救援 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4drsSVASZqT10M_3E5wHOO
+#EXTINF:-1 tvg-ID="" tvg-name="惊天救援 (2023)" tvg-logo="http://109.123.238.74:80/images/f98c41ecaa76de9be19322cd1b3f7a32.jpg" group-title="Drama",惊天救援 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4drsSVASZqT10M_3E5wHOO
+#EXTINF:-1 tvg-ID="" tvg-name="Ghosted (2023)" tvg-logo="http://109.123.238.74:80/images/c7b7db63e083e2b2b918ac1ed5c82eac.jpg" group-title="Action",Ghosted (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H59hWLHN3fCl6NookBsNb9T
+#EXTINF:-1 tvg-ID="" tvg-name="Ghosted (2023)" tvg-logo="http://109.123.238.74:80/images/c7b7db63e083e2b2b918ac1ed5c82eac.jpg" group-title="Romance",Ghosted (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H59hWLHN3fCl6NookBsNb9T
+#EXTINF:-1 tvg-ID="" tvg-name="Ghosted (2023)" tvg-logo="http://109.123.238.74:80/images/c7b7db63e083e2b2b918ac1ed5c82eac.jpg" group-title="Comedy",Ghosted (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H59hWLHN3fCl6NookBsNb9T
+#EXTINF:-1 tvg-ID="" tvg-name="Gita Cinta dari SMA (2023)" tvg-logo="http://109.123.238.74:80/images/cb8bdeabf4774886ad391edee7d971c4.jpg" group-title="Romance",Gita Cinta dari SMA (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4vfWpfepx1JfXbIggFhuUA
+#EXTINF:-1 tvg-ID="" tvg-name="Gita Cinta dari SMA (2023)" tvg-logo="http://109.123.238.74:80/images/cb8bdeabf4774886ad391edee7d971c4.jpg" group-title="Drama",Gita Cinta dari SMA (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4vfWpfepx1JfXbIggFhuUA
+#EXTINF:-1 tvg-ID="" tvg-name="குட் நைட் (2023)" tvg-logo="http://109.123.238.74:80/images/cec7c898f8009b3dd279b129aadfb721.jpg" group-title="Comedy",குட் நைட் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5SX2kbT3WsZ28X_Y44IL49
+#EXTINF:-1 tvg-ID="" tvg-name="குட் நைட் (2023)" tvg-logo="http://109.123.238.74:80/images/cec7c898f8009b3dd279b129aadfb721.jpg" group-title="Drama",குட் நைட் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5SX2kbT3WsZ28X_Y44IL49
+#EXTINF:-1 tvg-ID="" tvg-name="侠盗之簪花乱 (2023)" tvg-logo="http://109.123.238.74:80/images/ed2da574343a3502afcd5a1e62bde585.jpg" group-title="Action",侠盗之簪花乱 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4zcZXi7E1ULwgpxNXf2eAU
+#EXTINF:-1 tvg-ID="" tvg-name="侠盗之簪花乱 (2023)" tvg-logo="http://109.123.238.74:80/images/ed2da574343a3502afcd5a1e62bde585.jpg" group-title="Drama",侠盗之簪花乱 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4zcZXi7E1ULwgpxNXf2eAU
+#EXTINF:-1 tvg-ID="" tvg-name="侠盗之簪花乱 (2023)" tvg-logo="http://109.123.238.74:80/images/ed2da574343a3502afcd5a1e62bde585.jpg" group-title="Horror",侠盗之簪花乱 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4zcZXi7E1ULwgpxNXf2eAU
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="http://109.123.238.74:80/images/954b6a6b487f0a346faad01bf109713d.jpg" group-title="Action",Guardians of the Galaxy Vol. 3 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6iYhxpBa5jjY2GlII42ekk
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="http://109.123.238.74:80/images/954b6a6b487f0a346faad01bf109713d.jpg" group-title="Science Fiction",Guardians of the Galaxy Vol. 3 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6iYhxpBa5jjY2GlII42ekk
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="http://109.123.238.74:80/images/954b6a6b487f0a346faad01bf109713d.jpg" group-title="Adventure",Guardians of the Galaxy Vol. 3 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6iYhxpBa5jjY2GlII42ekk
+#EXTINF:-1 tvg-ID="" tvg-name="IB 71 (2023)" tvg-logo="http://109.123.238.74:80/images/d68be4090b4e3dbc0930329cc8251cfb.jpg" group-title="Action",IB 71 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5IeyWarTpaD_JRXfFG3FWj
+#EXTINF:-1 tvg-ID="" tvg-name="IB 71 (2023)" tvg-logo="http://109.123.238.74:80/images/d68be4090b4e3dbc0930329cc8251cfb.jpg" group-title="War",IB 71 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5IeyWarTpaD_JRXfFG3FWj
+#EXTINF:-1 tvg-ID="" tvg-name="IB 71 (2023)" tvg-logo="http://109.123.238.74:80/images/d68be4090b4e3dbc0930329cc8251cfb.jpg" group-title="Thriller",IB 71 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5IeyWarTpaD_JRXfFG3FWj
+#EXTINF:-1 tvg-ID="" tvg-name="แสงกระสือ 2 (2023)" tvg-logo="http://109.123.238.74:80/images/37208a0331d219a295342e99a261818c.jpg" group-title="Romance",แสงกระสือ 2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H49q4ZEfYR_DUtXAjL0aXuv
+#EXTINF:-1 tvg-ID="" tvg-name="แสงกระสือ 2 (2023)" tvg-logo="http://109.123.238.74:80/images/37208a0331d219a295342e99a261818c.jpg" group-title="Drama",แสงกระสือ 2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H49q4ZEfYR_DUtXAjL0aXuv
+#EXTINF:-1 tvg-ID="" tvg-name="แสงกระสือ 2 (2023)" tvg-logo="http://109.123.238.74:80/images/37208a0331d219a295342e99a261818c.jpg" group-title="Horror",แสงกระสือ 2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H49q4ZEfYR_DUtXAjL0aXuv
+#EXTINF:-1 tvg-ID="" tvg-name="Invitation to a Murder (2023)" tvg-logo="http://109.123.238.74:80/images/33cf03e3f37b5bf98cea03e9336c4c11.jpg" group-title="Thriller",Invitation to a Murder (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4-L9VJNmMQlevBBeBl6_4E
+#EXTINF:-1 tvg-ID="" tvg-name="Invitation to a Murder (2023)" tvg-logo="http://109.123.238.74:80/images/33cf03e3f37b5bf98cea03e9336c4c11.jpg" group-title="Mystery",Invitation to a Murder (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4-L9VJNmMQlevBBeBl6_4E
+#EXTINF:-1 tvg-ID="" tvg-name="Heaven in Hell (2023)" tvg-logo="http://109.123.238.74:80/images/a6113048f57ad01cc25c8e55221fb89d.jpg" group-title="Romance",Heaven in Hell (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4ZbjR6PXn2S-zYLGVdOpnP
+#EXTINF:-1 tvg-ID="" tvg-name="Heaven in Hell (2023)" tvg-logo="http://109.123.238.74:80/images/a6113048f57ad01cc25c8e55221fb89d.jpg" group-title="Drama",Heaven in Hell (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4ZbjR6PXn2S-zYLGVdOpnP
+#EXTINF:-1 tvg-ID="" tvg-name="Ishq-e-Nadaan (2023)" tvg-logo="http://109.123.238.74:80/images/614c42a0180a91d4089e51441b88ff51.jpg" group-title="Romance",Ishq-e-Nadaan (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5olGjL3IZDj8jnnHUBzI4J
+#EXTINF:-1 tvg-ID="" tvg-name="Ishq-e-Nadaan (2023)" tvg-logo="http://109.123.238.74:80/images/614c42a0180a91d4089e51441b88ff51.jpg" group-title="Comedy",Ishq-e-Nadaan (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5olGjL3IZDj8jnnHUBzI4J
+#EXTINF:-1 tvg-ID="" tvg-name="Ishq-e-Nadaan (2023)" tvg-logo="http://109.123.238.74:80/images/614c42a0180a91d4089e51441b88ff51.jpg" group-title="Drama",Ishq-e-Nadaan (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5olGjL3IZDj8jnnHUBzI4J
+#EXTINF:-1 tvg-ID="" tvg-name="ജാനകി ജാനേ (2023)" tvg-logo="http://109.123.238.74:80/images/297d7d533f3754b64b3c7efc6e332eba.jpg" group-title="Comedy",ജാനകി ജാനേ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5ZwMKRgcNz6QQumvJMYhGZ
+#EXTINF:-1 tvg-ID="" tvg-name="ജാനകി ജാനേ (2023)" tvg-logo="http://109.123.238.74:80/images/297d7d533f3754b64b3c7efc6e332eba.jpg" group-title="Family",ജാനകി ജാനേ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5ZwMKRgcNz6QQumvJMYhGZ
+#EXTINF:-1 tvg-ID="" tvg-name="ജാനകി ജാനേ (2023)" tvg-logo="http://109.123.238.74:80/images/297d7d533f3754b64b3c7efc6e332eba.jpg" group-title="Drama",ജാനകി ജാനേ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5ZwMKRgcNz6QQumvJMYhGZ
+#EXTINF:-1 tvg-ID="" tvg-name="JUNG_E (2023)" tvg-logo="http://109.123.238.74:80/images/75dd59419e6c0186412714b277583cd1.jpg" group-title="Science Fiction",JUNG_E (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5yrJF84i7OmVN5ohUIKN0Q
+#EXTINF:-1 tvg-ID="" tvg-name="Kill Boksoon (2023)" tvg-logo="http://109.123.238.74:80/images/9ed4d8f532f0f27bcb234c5ede4ca630.jpg" group-title="Action",Kill Boksoon (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H40u0iHxT9xXL8ZeZxL4FzR
+#EXTINF:-1 tvg-ID="" tvg-name="Kill Boksoon (2023)" tvg-logo="http://109.123.238.74:80/images/9ed4d8f532f0f27bcb234c5ede4ca630.jpg" group-title="Crime",Kill Boksoon (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H40u0iHxT9xXL8ZeZxL4FzR
+#EXTINF:-1 tvg-ID="" tvg-name="Kill Boksoon (2023)" tvg-logo="http://109.123.238.74:80/images/9ed4d8f532f0f27bcb234c5ede4ca630.jpg" group-title="Thriller",Kill Boksoon (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H40u0iHxT9xXL8ZeZxL4FzR
+#EXTINF:-1 tvg-ID="" tvg-name="காதர்பாட்சா என்ற முத்துராமலிங்கம் (2023)" tvg-logo="http://109.123.238.74:80/images/1fe55d218e666eea3f2faff48c2a7f26.jpg" group-title="Action",காதர்பாட்சா என்ற முத்துராமலிங்கம் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6gxgoMlKlygN51mxPhe7-K
+#EXTINF:-1 tvg-ID="" tvg-name="காதர்பாட்சா என்ற முத்துராமலிங்கம் (2023)" tvg-logo="http://109.123.238.74:80/images/1fe55d218e666eea3f2faff48c2a7f26.jpg" group-title="Romance",காதர்பாட்சா என்ற முத்துராமலிங்கம் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6gxgoMlKlygN51mxPhe7-K
+#EXTINF:-1 tvg-ID="" tvg-name="காதர்பாட்சா என்ற முத்துராமலிங்கம் (2023)" tvg-logo="http://109.123.238.74:80/images/1fe55d218e666eea3f2faff48c2a7f26.jpg" group-title="Comedy",காதர்பாட்சா என்ற முத்துராமலிங்கம் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6gxgoMlKlygN51mxPhe7-K
+#EXTINF:-1 tvg-ID="" tvg-name="特种兵王之原子核爆 (2023)" tvg-logo="http://109.123.238.74:80/images/acc768073d630d3acf385403a6fe6bef.jpg" group-title="Action",特种兵王之原子核爆 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H72xYpDTFlbOu_E_vaBkbzB
+#EXTINF:-1 tvg-ID="" tvg-name="Knights of the Zodiac (2023)" tvg-logo="http://109.123.238.74:80/images/a1b0af3bf55878bcf6ab444361a0eb81.jpg" group-title="Action",Knights of the Zodiac (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7SeWS1FCb5h1w7tUtZzFLF
+#EXTINF:-1 tvg-ID="" tvg-name="Knights of the Zodiac (2023)" tvg-logo="http://109.123.238.74:80/images/a1b0af3bf55878bcf6ab444361a0eb81.jpg" group-title="Adventure",Knights of the Zodiac (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7SeWS1FCb5h1w7tUtZzFLF
+#EXTINF:-1 tvg-ID="" tvg-name="Knights of the Zodiac (2023)" tvg-logo="http://109.123.238.74:80/images/a1b0af3bf55878bcf6ab444361a0eb81.jpg" group-title="Fantasy",Knights of the Zodiac (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7SeWS1FCb5h1w7tUtZzFLF
+#EXTINF:-1 tvg-ID="" tvg-name="लकड़बग्घा (2023)" tvg-logo="http://109.123.238.74:80/images/cb5e99664603d0e92f99260fe18a5359.jpg" group-title="Action",लकड़बग्घा (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4w8Ju2fggTm_oYC8OzpNMN
+#EXTINF:-1 tvg-ID="" tvg-name="लकड़बग्घा (2023)" tvg-logo="http://109.123.238.74:80/images/cb5e99664603d0e92f99260fe18a5359.jpg" group-title="Crime",लकड़बग्घा (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4w8Ju2fggTm_oYC8OzpNMN
+#EXTINF:-1 tvg-ID="" tvg-name="लकड़बग्घा (2023)" tvg-logo="http://109.123.238.74:80/images/cb5e99664603d0e92f99260fe18a5359.jpg" group-title="Thriller",लकड़बग्घा (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4w8Ju2fggTm_oYC8OzpNMN
+#EXTINF:-1 tvg-ID="" tvg-name="Last Sentinel (2023)" tvg-logo="http://109.123.238.74:80/images/ef5826e6996ba122d30a22db062b0ec6.jpg" group-title="Science Fiction",Last Sentinel (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7atXM-ZTkSbaqBZqE6t7Vd
+#EXTINF:-1 tvg-ID="" tvg-name="Last Sentinel (2023)" tvg-logo="http://109.123.238.74:80/images/ef5826e6996ba122d30a22db062b0ec6.jpg" group-title="Drama",Last Sentinel (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7atXM-ZTkSbaqBZqE6t7Vd
+#EXTINF:-1 tvg-ID="" tvg-name="Last Sentinel (2023)" tvg-logo="http://109.123.238.74:80/images/ef5826e6996ba122d30a22db062b0ec6.jpg" group-title="Thriller",Last Sentinel (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7atXM-ZTkSbaqBZqE6t7Vd
+#EXTINF:-1 tvg-ID="" tvg-name="Kuttey (2023)" tvg-logo="http://109.123.238.74:80/images/79b399a4ffd0a4da561f7ade3c19851c.jpg" group-title="Comedy",Kuttey (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4sIlHmkvwIx1-8tDCqhCSi
+#EXTINF:-1 tvg-ID="" tvg-name="Kuttey (2023)" tvg-logo="http://109.123.238.74:80/images/79b399a4ffd0a4da561f7ade3c19851c.jpg" group-title="Crime",Kuttey (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4sIlHmkvwIx1-8tDCqhCSi
+#EXTINF:-1 tvg-ID="" tvg-name="Kuttey (2023)" tvg-logo="http://109.123.238.74:80/images/79b399a4ffd0a4da561f7ade3c19851c.jpg" group-title="Thriller",Kuttey (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4sIlHmkvwIx1-8tDCqhCSi
+#EXTINF:-1 tvg-ID="" tvg-name="우리 사랑이 향기로 남을 때 (2023)" tvg-logo="http://109.123.238.74:80/images/9fe744fcb42e04b0625b0ec189a6b222.jpg" group-title="Romance",우리 사랑이 향기로 남을 때 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IJd1eum00_ZkBTSd_jRgU
+#EXTINF:-1 tvg-ID="" tvg-name="우리 사랑이 향기로 남을 때 (2023)" tvg-logo="http://109.123.238.74:80/images/9fe744fcb42e04b0625b0ec189a6b222.jpg" group-title="Comedy",우리 사랑이 향기로 남을 때 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IJd1eum00_ZkBTSd_jRgU
+#EXTINF:-1 tvg-ID="" tvg-name="Live (2023)" tvg-logo="http://109.123.238.74:80/images/21739b17ae705ab01a1a58c4637fc89d.jpg" group-title="Thriller",Live (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6mSi5DwHLZFl1tf6isC1JM
+#EXTINF:-1 tvg-ID="" tvg-name="Little Dixie (2023)" tvg-logo="http://109.123.238.74:80/images/1ce4f41510e38c59a8afcf10e8c2145b.jpg" group-title="Action",Little Dixie (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H69j9NEWyoRbqt2ZVzKysyx
+#EXTINF:-1 tvg-ID="" tvg-name="Little Dixie (2023)" tvg-logo="http://109.123.238.74:80/images/1ce4f41510e38c59a8afcf10e8c2145b.jpg" group-title="Drama",Little Dixie (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H69j9NEWyoRbqt2ZVzKysyx
+#EXTINF:-1 tvg-ID="" tvg-name="Little Dixie (2023)" tvg-logo="http://109.123.238.74:80/images/1ce4f41510e38c59a8afcf10e8c2145b.jpg" group-title="Thriller",Little Dixie (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H69j9NEWyoRbqt2ZVzKysyx
+#EXTINF:-1 tvg-ID="" tvg-name="Maid for Revenge (2023)" tvg-logo="http://109.123.238.74:80/images/ad3bce8860d1d5c7bbd23104044cda9f.jpg" group-title="Drama",Maid for Revenge (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4NIjONXNuyiIHqzwtndP9r
+#EXTINF:-1 tvg-ID="" tvg-name="Maid for Revenge (2023)" tvg-logo="http://109.123.238.74:80/images/ad3bce8860d1d5c7bbd23104044cda9f.jpg" group-title="Mystery",Maid for Revenge (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4NIjONXNuyiIHqzwtndP9r
+#EXTINF:-1 tvg-ID="" tvg-name="Lust Stories 2 (2023)" tvg-logo="http://109.123.238.74:80/images/07feeac86252adba70e681a5744c7974.jpg" group-title="Romance",Lust Stories 2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4gGG6p88PHP0uByZcDTCgl
+#EXTINF:-1 tvg-ID="" tvg-name="Lust Stories 2 (2023)" tvg-logo="http://109.123.238.74:80/images/07feeac86252adba70e681a5744c7974.jpg" group-title="Drama",Lust Stories 2 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4gGG6p88PHP0uByZcDTCgl
+#EXTINF:-1 tvg-ID="" tvg-name="Los iniciados (2023)" tvg-logo="http://109.123.238.74:80/images/4bc499db231490a703eb8caeb638fffe.jpg" group-title="Crime",Los iniciados (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4n8PU2QtFkvUibxX8_nCUn
+#EXTINF:-1 tvg-ID="" tvg-name="Los iniciados (2023)" tvg-logo="http://109.123.238.74:80/images/4bc499db231490a703eb8caeb638fffe.jpg" group-title="Thriller",Los iniciados (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4n8PU2QtFkvUibxX8_nCUn
+#EXTINF:-1 tvg-ID="" tvg-name="Los iniciados (2023)" tvg-logo="http://109.123.238.74:80/images/4bc499db231490a703eb8caeb638fffe.jpg" group-title="Mystery",Los iniciados (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4n8PU2QtFkvUibxX8_nCUn
+#EXTINF:-1 tvg-ID="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="http://109.123.238.74:80/images/03e801487d17e7acc8f37b1c4acf93c5.jpg" group-title="Crime",Luther: The Fallen Sun (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4bsmZbDXnqPG9QGjnC-BiL
+#EXTINF:-1 tvg-ID="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="http://109.123.238.74:80/images/03e801487d17e7acc8f37b1c4acf93c5.jpg" group-title="Drama",Luther: The Fallen Sun (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4bsmZbDXnqPG9QGjnC-BiL
+#EXTINF:-1 tvg-ID="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="http://109.123.238.74:80/images/03e801487d17e7acc8f37b1c4acf93c5.jpg" group-title="Mystery",Luther: The Fallen Sun (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4bsmZbDXnqPG9QGjnC-BiL
+#EXTINF:-1 tvg-ID="" tvg-name="Maximum Truth (2023)" tvg-logo="http://109.123.238.74:80/images/3ce0cdb7739e252cfb66ffbb6b271c13.jpg" group-title="Comedy",Maximum Truth (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7Q9szijmhsXTZqFR7_atKw
+#EXTINF:-1 tvg-ID="" tvg-name="Magic Mike's Last Dance (2023)" tvg-logo="http://109.123.238.74:80/images/ce0be1b4ba28ca24b1c98a4c34559b74.jpg" group-title="Romance",Magic Mike's Last Dance (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H68In534U2FQHz93DqCjrbO
+#EXTINF:-1 tvg-ID="" tvg-name="Magic Mike's Last Dance (2023)" tvg-logo="http://109.123.238.74:80/images/ce0be1b4ba28ca24b1c98a4c34559b74.jpg" group-title="Comedy",Magic Mike's Last Dance (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H68In534U2FQHz93DqCjrbO
+#EXTINF:-1 tvg-ID="" tvg-name="Magic Mike's Last Dance (2023)" tvg-logo="http://109.123.238.74:80/images/ce0be1b4ba28ca24b1c98a4c34559b74.jpg" group-title="Drama",Magic Mike's Last Dance (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H68In534U2FQHz93DqCjrbO
+#EXTINF:-1 tvg-ID="" tvg-name="#MenToo (2023)" tvg-logo="http://109.123.238.74:80/images/5b1623d5f2351f89253a6b5cbc2eb513.jpg" group-title="Comedy",#MenToo (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5MvoXZY76TTD0RZ3tl2VG4
+#EXTINF:-1 tvg-ID="" tvg-name="#MenToo (2023)" tvg-logo="http://109.123.238.74:80/images/5b1623d5f2351f89253a6b5cbc2eb513.jpg" group-title="Drama",#MenToo (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5MvoXZY76TTD0RZ3tl2VG4
+#EXTINF:-1 tvg-ID="" tvg-name="幻术先生 (2023)" tvg-logo="http://109.123.238.74:80/images/a02ffc6897eb67a3b0a0662320d7fa2d.jpg" group-title="Fantasy",幻术先生 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6m6cwiww2SB5kbBz6GfgGL
+#EXTINF:-1 tvg-ID="" tvg-name="Daughter of the Bride (2023)" tvg-logo="http://109.123.238.74:80/images/2ebabc5fd616dba55119096f5f3b676e.jpg" group-title="Comedy",Daughter of the Bride (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7728JXxNChZDlT2UHJJ3Vo
+#EXTINF:-1 tvg-ID="" tvg-name="Aaahh Belinda (2023)" tvg-logo="http://109.123.238.74:80/images/ceb435461075e832c865eca44fa73346.jpg" group-title="Comedy",Aaahh Belinda (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6cmu9blU8Vlo7PhiI68oK6
+#EXTINF:-1 tvg-ID="" tvg-name="You Hurt My Feelings (2023)" tvg-logo="http://109.123.238.74:80/images/2aeea65361385524c38a0095b2b5c41d.jpg" group-title="Comedy",You Hurt My Feelings (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5lmsCHILzu9qRQbA-I3rNA
+#EXTINF:-1 tvg-ID="" tvg-name="映画 ブラッククローバー 魔法帝の剣 (2023)" tvg-logo="http://109.123.238.74:80/images/d15468442b1d60c6a753a23363afea3b.jpg" group-title="Animation",映画 ブラッククローバー 魔法帝の剣 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6THAxM5dNj6d6eLmB7fu2A
+#EXTINF:-1 tvg-ID="" tvg-name="கழுவேத்தி மூர்க்கன் (2023)" tvg-logo="http://109.123.238.74:80/images/5446ca8676323958ff3ffce99abc582e.jpg" group-title="Bollywood",கழுவேத்தி மூர்க்கன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6YtOsvHi2VXhj_mcWQqcNE
+#EXTINF:-1 tvg-ID="" tvg-name="Nana's Boys (2022)" tvg-logo="http://109.123.238.74:80/images/fa97309e62e093ef73463564d4891a5d.jpg" group-title="Drama",Nana's Boys (2022)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7j0MRojbO2VBeI7QDbrj0M
+#EXTINF:-1 tvg-ID="" tvg-name="Pretty Red Dress (2023)" tvg-logo="http://109.123.238.74:80/images/3878454acd2fac926045c0bd767c4d8f.jpg" group-title="Drama",Pretty Red Dress (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4mu4aupbQkNQj4L7_EqiV0
+#EXTINF:-1 tvg-ID="" tvg-name="Shooting Stars (2023)" tvg-logo="http://109.123.238.74:80/images/7a10685593fb160f879c0551f612190d.jpg" group-title="Sport",Shooting Stars (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H777AQJrcwKVtALlwh3hmxM
+#EXTINF:-1 tvg-ID="" tvg-name="Space Pups (2023)" tvg-logo="http://109.123.238.74:80/images/8aca5c2c67f1e6bf504f429d3ba1a35e.jpg" group-title="Adventure",Space Pups (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7qAyhESku5yzr3NPXWRTpy
+#EXTINF:-1 tvg-ID="" tvg-name="मुम्बईकर (2023)" tvg-logo="http://109.123.238.74:80/images/bace65bfd4e1266b47c2e9e576a98cf7.jpg" group-title="Crime",मुम्बईकर (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6LEAiT4KW6Qu2nE4K_DS1A
+#EXTINF:-1 tvg-ID="" tvg-name="मुम्बईकर (2023)" tvg-logo="http://109.123.238.74:80/images/bace65bfd4e1266b47c2e9e576a98cf7.jpg" group-title="Drama",मुम्बईकर (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6LEAiT4KW6Qu2nE4K_DS1A
+#EXTINF:-1 tvg-ID="" tvg-name="Mrs. Undercover (2023)" tvg-logo="http://109.123.238.74:80/images/7069a2c56917d2628b13bea65d36cadb.jpg" group-title="Action",Mrs. Undercover (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7I4Lny1eVdm_2o3Pp-y23c
+#EXTINF:-1 tvg-ID="" tvg-name="Mrs. Undercover (2023)" tvg-logo="http://109.123.238.74:80/images/7069a2c56917d2628b13bea65d36cadb.jpg" group-title="Comedy",Mrs. Undercover (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7I4Lny1eVdm_2o3Pp-y23c
+#EXTINF:-1 tvg-ID="" tvg-name="Mrs. Undercover (2023)" tvg-logo="http://109.123.238.74:80/images/7069a2c56917d2628b13bea65d36cadb.jpg" group-title="Thriller",Mrs. Undercover (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7I4Lny1eVdm_2o3Pp-y23c
+#EXTINF:-1 tvg-ID="" tvg-name="찬란한 나의 복수 (2023)" tvg-logo="http://109.123.238.74:80/images/880cce0e2b12c754626709d7b73c5730.jpg" group-title="Crime",찬란한 나의 복수 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6fyIdR96DiZuvz6-PthxdY
+#EXTINF:-1 tvg-ID="" tvg-name="찬란한 나의 복수 (2023)" tvg-logo="http://109.123.238.74:80/images/880cce0e2b12c754626709d7b73c5730.jpg" group-title="Drama",찬란한 나의 복수 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6fyIdR96DiZuvz6-PthxdY
+#EXTINF:-1 tvg-ID="" tvg-name="Culpa mía (2023)" tvg-logo="http://109.123.238.74:80/images/b4a91ccf11b55b824e04234a2bbb00e2.jpg" group-title="Romance",Culpa mía (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7s3yh0XnxMG0RuDOqg658g
+#EXTINF:-1 tvg-ID="" tvg-name="Culpa mía (2023)" tvg-logo="http://109.123.238.74:80/images/b4a91ccf11b55b824e04234a2bbb00e2.jpg" group-title="Drama",Culpa mía (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7s3yh0XnxMG0RuDOqg658g
+#EXTINF:-1 tvg-ID="" tvg-name="O Kala (2023)" tvg-logo="http://109.123.238.74:80/images/8c5c4f33084121696b4100152e17e041.jpg" group-title="Romance",O Kala (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4iJYUbxrGkhBIP0QI-Eyj-
+#EXTINF:-1 tvg-ID="" tvg-name="O Kala (2023)" tvg-logo="http://109.123.238.74:80/images/8c5c4f33084121696b4100152e17e041.jpg" group-title="Drama",O Kala (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4iJYUbxrGkhBIP0QI-Eyj-
+#EXTINF:-1 tvg-ID="" tvg-name="오! 나의 어시님 (영화) (2023)" tvg-logo="http://109.123.238.74:80/images/056fe9db5d5ace0cffd6dc9483197b3e.jpg" group-title="Romance",오! 나의 어시님 (영화) (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4NQjmASQddflvSMtI7mWf1
+#EXTINF:-1 tvg-ID="" tvg-name="오! 나의 어시님 (영화) (2023)" tvg-logo="http://109.123.238.74:80/images/056fe9db5d5ace0cffd6dc9483197b3e.jpg" group-title="Comedy",오! 나의 어시님 (영화) (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4NQjmASQddflvSMtI7mWf1
+#EXTINF:-1 tvg-ID="" tvg-name="오! 나의 어시님 (영화) (2023)" tvg-logo="http://109.123.238.74:80/images/056fe9db5d5ace0cffd6dc9483197b3e.jpg" group-title="Drama",오! 나의 어시님 (영화) (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4NQjmASQddflvSMtI7mWf1
+#EXTINF:-1 tvg-ID="" tvg-name="One Ranger (2023)" tvg-logo="http://109.123.238.74:80/images/28400db648383ca83dc9e9c10e401484.jpg" group-title="Action",One Ranger (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7RoP992S4jlcvEN4Cq5dS4
+#EXTINF:-1 tvg-ID="" tvg-name="One Ranger (2023)" tvg-logo="http://109.123.238.74:80/images/28400db648383ca83dc9e9c10e401484.jpg" group-title="Thriller",One Ranger (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7RoP992S4jlcvEN4Cq5dS4
+#EXTINF:-1 tvg-ID="" tvg-name="Aaahh Belinda (2023)" tvg-logo="http://109.123.238.74:80/images/ceb435461075e832c865eca44fa73346.jpg" group-title="Comedy",Aaahh Belinda (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H74fb4FUECGtd80dydJSaSO
+#EXTINF:-1 tvg-ID="" tvg-name="Aaahh Belinda (2023)" tvg-logo="http://109.123.238.74:80/images/ceb435461075e832c865eca44fa73346.jpg" group-title="Drama",Aaahh Belinda (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H74fb4FUECGtd80dydJSaSO
+#EXTINF:-1 tvg-ID="" tvg-name="Aaahh Belinda (2023)" tvg-logo="http://109.123.238.74:80/images/ceb435461075e832c865eca44fa73346.jpg" group-title="Fantasy",Aaahh Belinda (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H74fb4FUECGtd80dydJSaSO
+#EXTINF:-1 tvg-ID="" tvg-name="No Hard Feelings (2023)" tvg-logo="http://109.123.238.74:80/images/004609efefb3d0cbaa01e64c54018602.jpg" group-title="Romance",No Hard Feelings (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H73CEkVOVvcfFg2YD1Gfcuq
+#EXTINF:-1 tvg-ID="" tvg-name="No Hard Feelings (2023)" tvg-logo="http://109.123.238.74:80/images/004609efefb3d0cbaa01e64c54018602.jpg" group-title="Comedy",No Hard Feelings (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H73CEkVOVvcfFg2YD1Gfcuq
+#EXTINF:-1 tvg-ID="" tvg-name="Not Your Romeo & Juliet (2023)" tvg-logo="http://109.123.238.74:80/images/56b44ac4d68b4ac7ee4e3f3fead8b6a0.jpg" group-title="Romance",Not Your Romeo & Juliet (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Tvr5GrLUGPVKQwwjoinRR
+#EXTINF:-1 tvg-ID="" tvg-name="Not Your Romeo & Juliet (2023)" tvg-logo="http://109.123.238.74:80/images/56b44ac4d68b4ac7ee4e3f3fead8b6a0.jpg" group-title="Comedy",Not Your Romeo & Juliet (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Tvr5GrLUGPVKQwwjoinRR
+#EXTINF:-1 tvg-ID="" tvg-name="Pokolenie Ikea (2023)" tvg-logo="http://109.123.238.74:80/images/5f0ab491aee48b593c9bc475f8c6b003.jpg" group-title="Romance",Pokolenie Ikea (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7-3Gjmc86nKv0aPjvr4SOL
+#EXTINF:-1 tvg-ID="" tvg-name="Pokolenie Ikea (2023)" tvg-logo="http://109.123.238.74:80/images/5f0ab491aee48b593c9bc475f8c6b003.jpg" group-title="Comedy",Pokolenie Ikea (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7-3Gjmc86nKv0aPjvr4SOL
+#EXTINF:-1 tvg-ID="" tvg-name="Pokolenie Ikea (2023)" tvg-logo="http://109.123.238.74:80/images/5f0ab491aee48b593c9bc475f8c6b003.jpg" group-title="Drama",Pokolenie Ikea (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7-3Gjmc86nKv0aPjvr4SOL
+#EXTINF:-1 tvg-ID="" tvg-name="Pathu Thala (2023)" tvg-logo="http://109.123.238.74:80/images/ab00d6fc64d6d4415883cc719639105b.jpg" group-title="Action",Pathu Thala (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4rSBhmdfPH-fBEhqkDsDPG
+#EXTINF:-1 tvg-ID="" tvg-name="Pathu Thala (2023)" tvg-logo="http://109.123.238.74:80/images/ab00d6fc64d6d4415883cc719639105b.jpg" group-title="Thriller",Pathu Thala (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4rSBhmdfPH-fBEhqkDsDPG
+#EXTINF:-1 tvg-ID="" tvg-name="Quicksand (2023)" tvg-logo="http://109.123.238.74:80/images/ddcd546c4a3da219a30977daede4ec62.jpg" group-title="Thriller",Quicksand (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4S5XzET7gphICd03Y1Y56v
+#EXTINF:-1 tvg-ID="" tvg-name="Quicksand (2023)" tvg-logo="http://109.123.238.74:80/images/ddcd546c4a3da219a30977daede4ec62.jpg" group-title="Horror",Quicksand (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4S5XzET7gphICd03Y1Y56v
+#EXTINF:-1 tvg-ID="" tvg-name="రణస్థలి (2022)" tvg-logo="http://109.123.238.74:80/images/50cd8797172dce0f292a898f67d90c78.jpg" group-title="Action",రణస్థలి (2022)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6EyGP_X3d72YqH8KIyoPav
+#EXTINF:-1 tvg-ID="" tvg-name="Pathaan (2023)" tvg-logo="http://109.123.238.74:80/images/97ddfd921159b0e133675c5546298f27.jpg" group-title="Action",Pathaan (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4GpHP1YmNJOd3ZhseZxG-B
+#EXTINF:-1 tvg-ID="" tvg-name="Pathaan (2023)" tvg-logo="http://109.123.238.74:80/images/97ddfd921159b0e133675c5546298f27.jpg" group-title="Adventure",Pathaan (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4GpHP1YmNJOd3ZhseZxG-B
+#EXTINF:-1 tvg-ID="" tvg-name="Pathaan (2023)" tvg-logo="http://109.123.238.74:80/images/97ddfd921159b0e133675c5546298f27.jpg" group-title="Thriller",Pathaan (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4GpHP1YmNJOd3ZhseZxG-B
+#EXTINF:-1 tvg-ID="" tvg-name="Royalteen: Princess Margrethe (2023)" tvg-logo="http://109.123.238.74:80/images/73ad0dec9f7cf3691c6dfbfa44aac483.jpg" group-title="Romance",Royalteen: Princess Margrethe (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5jG6zQ6xL7NP2Fp7KrAm7b
+#EXTINF:-1 tvg-ID="" tvg-name="Royalteen: Princess Margrethe (2023)" tvg-logo="http://109.123.238.74:80/images/73ad0dec9f7cf3691c6dfbfa44aac483.jpg" group-title="Drama",Royalteen: Princess Margrethe (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5jG6zQ6xL7NP2Fp7KrAm7b
+#EXTINF:-1 tvg-ID="" tvg-name="Ride On (2023)" tvg-logo="http://109.123.238.74:80/images/b50b1ea4799417b080360ae8641f0d3d.jpg" group-title="Action",Ride On (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7wUJvpxv4GVt3Uw2UDRGWe
+#EXTINF:-1 tvg-ID="" tvg-name="Ride On (2023)" tvg-logo="http://109.123.238.74:80/images/b50b1ea4799417b080360ae8641f0d3d.jpg" group-title="Comedy",Ride On (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7wUJvpxv4GVt3Uw2UDRGWe
+#EXTINF:-1 tvg-ID="" tvg-name="Ride On (2023)" tvg-logo="http://109.123.238.74:80/images/b50b1ea4799417b080360ae8641f0d3d.jpg" group-title="Drama",Ride On (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7wUJvpxv4GVt3Uw2UDRGWe
+#EXTINF:-1 tvg-ID="" tvg-name="ருத்ரன் (2023)" tvg-logo="http://109.123.238.74:80/images/7e8e1289dfc66941bdb1d987fb6e98be.jpg" group-title="Action",ருத்ரன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5dQ9KVNrpHyzfReZhi98ic
+#EXTINF:-1 tvg-ID="" tvg-name="ருத்ரன் (2023)" tvg-logo="http://109.123.238.74:80/images/7e8e1289dfc66941bdb1d987fb6e98be.jpg" group-title="Drama",ருத்ரன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5dQ9KVNrpHyzfReZhi98ic
+#EXTINF:-1 tvg-ID="" tvg-name="Run Rabbit Run (2023)" tvg-logo="http://109.123.238.74:80/images/d4e902fb2a49c4cb89b386585fc6d40c.jpg" group-title="Thriller",Run Rabbit Run (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5ZXiLl3InPApQTFwWDUVSe
+#EXTINF:-1 tvg-ID="" tvg-name="Run Rabbit Run (2023)" tvg-logo="http://109.123.238.74:80/images/d4e902fb2a49c4cb89b386585fc6d40c.jpg" group-title="Horror",Run Rabbit Run (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5ZXiLl3InPApQTFwWDUVSe
+#EXTINF:-1 tvg-ID="" tvg-name="Scandal Makers (2023)" tvg-logo="http://109.123.238.74:80/images/20aff33dbce7bd5676e8330294f0ce2f.jpg" group-title="Comedy",Scandal Makers (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4-OQO5fITgcC6ACH4i4Itx
+#EXTINF:-1 tvg-ID="" tvg-name="Scandal Makers (2023)" tvg-logo="http://109.123.238.74:80/images/20aff33dbce7bd5676e8330294f0ce2f.jpg" group-title="Family",Scandal Makers (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4-OQO5fITgcC6ACH4i4Itx
+#EXTINF:-1 tvg-ID="" tvg-name="Scandal Makers (2023)" tvg-logo="http://109.123.238.74:80/images/20aff33dbce7bd5676e8330294f0ce2f.jpg" group-title="Drama",Scandal Makers (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4-OQO5fITgcC6ACH4i4Itx
+#EXTINF:-1 tvg-ID="" tvg-name="Sharper (2023)" tvg-logo="http://109.123.238.74:80/images/518baae5d307fe9cb4612c63c560cf67.jpg" group-title="Crime",Sharper (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5H-6JFANAxcUAJLepRD8jX
+#EXTINF:-1 tvg-ID="" tvg-name="Sharper (2023)" tvg-logo="http://109.123.238.74:80/images/518baae5d307fe9cb4612c63c560cf67.jpg" group-title="Drama",Sharper (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5H-6JFANAxcUAJLepRD8jX
+#EXTINF:-1 tvg-ID="" tvg-name="Sharper (2023)" tvg-logo="http://109.123.238.74:80/images/518baae5d307fe9cb4612c63c560cf67.jpg" group-title="Thriller",Sharper (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5H-6JFANAxcUAJLepRD8jX
+#EXTINF:-1 tvg-ID="" tvg-name="Selfiee (2023)" tvg-logo="http://109.123.238.74:80/images/5d9cabf3f5db77cae950391923c83414.jpg" group-title="Action",Selfiee (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4O8XcmSV90kMzvVAPQ8734
+#EXTINF:-1 tvg-ID="" tvg-name="Selfiee (2023)" tvg-logo="http://109.123.238.74:80/images/5d9cabf3f5db77cae950391923c83414.jpg" group-title="Comedy",Selfiee (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4O8XcmSV90kMzvVAPQ8734
+#EXTINF:-1 tvg-ID="" tvg-name="Selfiee (2023)" tvg-logo="http://109.123.238.74:80/images/5d9cabf3f5db77cae950391923c83414.jpg" group-title="Drama",Selfiee (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4O8XcmSV90kMzvVAPQ8734
+#EXTINF:-1 tvg-ID="" tvg-name="శాకుంతలం (2023)" tvg-logo="http://109.123.238.74:80/images/ae0717d001da76872b0cf380f52ab70b.jpg" group-title="Romance",శాకుంతలం (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4lr_ka02gGxgZYUm8UANnD
+#EXTINF:-1 tvg-ID="" tvg-name="శాకుంతలం (2023)" tvg-logo="http://109.123.238.74:80/images/ae0717d001da76872b0cf380f52ab70b.jpg" group-title="History",శాకుంతలం (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4lr_ka02gGxgZYUm8UANnD
+#EXTINF:-1 tvg-ID="" tvg-name="శాకుంతలం (2023)" tvg-logo="http://109.123.238.74:80/images/ae0717d001da76872b0cf380f52ab70b.jpg" group-title="Fantasy",శాకుంతలం (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4lr_ka02gGxgZYUm8UANnD
+#EXTINF:-1 tvg-ID="" tvg-name="Broken Ties (2023)" tvg-logo="http://109.123.238.74:80/images/7a73b65e6133cf8124fbe3808690864b.jpg" group-title="Thriller",Broken Ties (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7juW3-gVaZxNeCSwjKFbGg
+#EXTINF:-1 tvg-ID="" tvg-name="Sound of Silence (2023)" tvg-logo="http://109.123.238.74:80/images/9fdc64976ea447a392d9424f268f1bb0.jpg" group-title="Thriller",Sound of Silence (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5pU5tDP-sMEG_RlmDhWyHT
+#EXTINF:-1 tvg-ID="" tvg-name="Sound of Silence (2023)" tvg-logo="http://109.123.238.74:80/images/9fdc64976ea447a392d9424f268f1bb0.jpg" group-title="Horror",Sound of Silence (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5pU5tDP-sMEG_RlmDhWyHT
+#EXTINF:-1 tvg-ID="" tvg-name="Soulmate (2023)" tvg-logo="http://109.123.238.74:80/images/d0ff2e67e265307fbac3624d04c4c5f1.jpg" group-title="Romance",Soulmate (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6CXjGhljDwQaP4Dd1_ePEz
+#EXTINF:-1 tvg-ID="" tvg-name="Soulmate (2023)" tvg-logo="http://109.123.238.74:80/images/d0ff2e67e265307fbac3624d04c4c5f1.jpg" group-title="Drama",Soulmate (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6CXjGhljDwQaP4Dd1_ePEz
+#EXTINF:-1 tvg-ID="" tvg-name="Showing Up (2023)" tvg-logo="http://109.123.238.74:80/images/a58f5ef9b885f550b6526a7086846d30.jpg" group-title="Comedy",Showing Up (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5hNN9S0iNznXsWsSBBvaQT
+#EXTINF:-1 tvg-ID="" tvg-name="Showing Up (2023)" tvg-logo="http://109.123.238.74:80/images/a58f5ef9b885f550b6526a7086846d30.jpg" group-title="Drama",Showing Up (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5hNN9S0iNznXsWsSBBvaQT
+#EXTINF:-1 tvg-ID="" tvg-name="별 볼일 없는 인생 (2023)" tvg-logo="http://109.123.238.74:80/images/145fa591e8f373c913f68488b27f6836.jpg" group-title="Romance",별 볼일 없는 인생 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5mM4rZ7pqUrjtiHa56Y0kW
+#EXTINF:-1 tvg-ID="" tvg-name="별 볼일 없는 인생 (2023)" tvg-logo="http://109.123.238.74:80/images/145fa591e8f373c913f68488b27f6836.jpg" group-title="Fantasy",별 볼일 없는 인생 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5mM4rZ7pqUrjtiHa56Y0kW
+#EXTINF:-1 tvg-ID="" tvg-name="王牌替身 (2023)" tvg-logo="http://109.123.238.74:80/images/0d5b1339049851bdb6782247271412e8.jpg" group-title="Action",王牌替身 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Bgb7Tu0APr3aUXmCqVSPR
+#EXTINF:-1 tvg-ID="" tvg-name="王牌替身 (2023)" tvg-logo="http://109.123.238.74:80/images/0d5b1339049851bdb6782247271412e8.jpg" group-title="Comedy",王牌替身 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6Bgb7Tu0APr3aUXmCqVSPR
+#EXTINF:-1 tvg-ID="" tvg-name="டக்கர் (2023)" tvg-logo="http://109.123.238.74:80/images/1fc44363936a1d2842c984607dd21955.jpg" group-title="Action",டக்கர் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7o1NWbEoCFa9SJC_GtvF1a
+#EXTINF:-1 tvg-ID="" tvg-name="டக்கர் (2023)" tvg-logo="http://109.123.238.74:80/images/1fc44363936a1d2842c984607dd21955.jpg" group-title="Romance",டக்கர் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7o1NWbEoCFa9SJC_GtvF1a
+#EXTINF:-1 tvg-ID="" tvg-name="டக்கர் (2023)" tvg-logo="http://109.123.238.74:80/images/1fc44363936a1d2842c984607dd21955.jpg" group-title="Drama",டக்கர் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7o1NWbEoCFa9SJC_GtvF1a
+#EXTINF:-1 tvg-ID="" tvg-name="That Peter Crouch Film (2023)" tvg-logo="http://109.123.238.74:80/images/0cc4b91847def79d7abe88deb73163b8.jpg" group-title="Documentary",That Peter Crouch Film (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6I6bgZFWtTQ6NVcXA-ogJ5
+#EXTINF:-1 tvg-ID="" tvg-name="That Peter Crouch Film (2023)" tvg-logo="http://109.123.238.74:80/images/0cc4b91847def79d7abe88deb73163b8.jpg" group-title="Sport",That Peter Crouch Film (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6I6bgZFWtTQ6NVcXA-ogJ5
+#EXTINF:-1 tvg-ID="" tvg-name="तरला (2023)" tvg-logo="http://109.123.238.74:80/images/d20444e13a2870d5256b3f2f8f59dfa1.jpg" group-title="Comedy",तरला (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5hD8YfcLb-fXAjTizpE-29
+#EXTINF:-1 tvg-ID="" tvg-name="तरला (2023)" tvg-logo="http://109.123.238.74:80/images/d20444e13a2870d5256b3f2f8f59dfa1.jpg" group-title="Drama",तरला (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5hD8YfcLb-fXAjTizpE-29
+#EXTINF:-1 tvg-ID="" tvg-name="தண்டட்டி (2023)" tvg-logo="http://109.123.238.74:80/images/ffc35ec19dba5015494cf07b978ae582.jpg" group-title="Comedy",தண்டட்டி (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H72KIfTcWE8mqXd312TmyFw
+#EXTINF:-1 tvg-ID="" tvg-name="தண்டட்டி (2023)" tvg-logo="http://109.123.238.74:80/images/ffc35ec19dba5015494cf07b978ae582.jpg" group-title="Drama",தண்டட்டி (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H72KIfTcWE8mqXd312TmyFw
+#EXTINF:-1 tvg-ID="" tvg-name="Guy Ritchie's The Covenant (2023)" tvg-logo="http://109.123.238.74:80/images/6286b39d860d6a431b5eb4f6f2977e0f.jpg" group-title="Action",Guy Ritchie's The Covenant (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6xinAbcGAD_rBxSBcsh2Xi
+#EXTINF:-1 tvg-ID="" tvg-name="Guy Ritchie's The Covenant (2023)" tvg-logo="http://109.123.238.74:80/images/6286b39d860d6a431b5eb4f6f2977e0f.jpg" group-title="War",Guy Ritchie's The Covenant (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6xinAbcGAD_rBxSBcsh2Xi
+#EXTINF:-1 tvg-ID="" tvg-name="Guy Ritchie's The Covenant (2023)" tvg-logo="http://109.123.238.74:80/images/6286b39d860d6a431b5eb4f6f2977e0f.jpg" group-title="Thriller",Guy Ritchie's The Covenant (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6xinAbcGAD_rBxSBcsh2Xi
+#EXTINF:-1 tvg-ID="" tvg-name="The Devil's Deal (2023)" tvg-logo="http://109.123.238.74:80/images/e793b0b22a128603054eef3bf26b3f36.jpg" group-title="Crime",The Devil's Deal (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6BWVsNDcfZk6aJL-gaUlbJ
+#EXTINF:-1 tvg-ID="" tvg-name="The Devil's Deal (2023)" tvg-logo="http://109.123.238.74:80/images/e793b0b22a128603054eef3bf26b3f36.jpg" group-title="Drama",The Devil's Deal (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6BWVsNDcfZk6aJL-gaUlbJ
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Kingdom: Seven Kings Must Die (2023)" tvg-logo="http://109.123.238.74:80/images/b589df139300d253e4dd25d1c826bb31.jpg" group-title="Action",The Last Kingdom: Seven Kings Must Die (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7LwXbP8IUMg-2uqomvQq2L
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Kingdom: Seven Kings Must Die (2023)" tvg-logo="http://109.123.238.74:80/images/b589df139300d253e4dd25d1c826bb31.jpg" group-title="War",The Last Kingdom: Seven Kings Must Die (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7LwXbP8IUMg-2uqomvQq2L
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Kingdom: Seven Kings Must Die (2023)" tvg-logo="http://109.123.238.74:80/images/b589df139300d253e4dd25d1c826bb31.jpg" group-title="Adventure",The Last Kingdom: Seven Kings Must Die (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7LwXbP8IUMg-2uqomvQq2L
+#EXTINF:-1 tvg-ID="" tvg-name="교섭 (2023)" tvg-logo="http://109.123.238.74:80/images/62e6a9550959430539c5e822d9c692d0.jpg" group-title="Action",교섭 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4R4JiNGoqgnIwSD70P64jx
+#EXTINF:-1 tvg-ID="" tvg-name="교섭 (2023)" tvg-logo="http://109.123.238.74:80/images/62e6a9550959430539c5e822d9c692d0.jpg" group-title="Crime",교섭 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4R4JiNGoqgnIwSD70P64jx
+#EXTINF:-1 tvg-ID="" tvg-name="올빼미 (2022)" tvg-logo="http://109.123.238.74:80/images/56e9f28c530e24e359511a13d75967cf.jpg" group-title="Thriller",올빼미 (2022)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7ncIU6_kRis1VpDM28XUop
+#EXTINF:-1 tvg-ID="" tvg-name="올빼미 (2022)" tvg-logo="http://109.123.238.74:80/images/56e9f28c530e24e359511a13d75967cf.jpg" group-title="Mystery",올빼미 (2022)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7ncIU6_kRis1VpDM28XUop
+#EXTINF:-1 tvg-ID="" tvg-name="The Locksmith (2023)" tvg-logo="http://109.123.238.74:80/images/6e7e040b57e0cd7c50218a058f4dc12a.jpg" group-title="Action",The Locksmith (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H42ldZa78wteBdNmHCcrv2g
+#EXTINF:-1 tvg-ID="" tvg-name="The Locksmith (2023)" tvg-logo="http://109.123.238.74:80/images/6e7e040b57e0cd7c50218a058f4dc12a.jpg" group-title="Thriller",The Locksmith (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H42ldZa78wteBdNmHCcrv2g
+#EXTINF:-1 tvg-ID="" tvg-name="The Locksmith (2023)" tvg-logo="http://109.123.238.74:80/images/6e7e040b57e0cd7c50218a058f4dc12a.jpg" group-title="Mystery",The Locksmith (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H42ldZa78wteBdNmHCcrv2g
+#EXTINF:-1 tvg-ID="" tvg-name="The Machine (2023)" tvg-logo="http://109.123.238.74:80/images/a4dfd5f1e1a51701659cf4187e9de56d.jpg" group-title="Action",The Machine (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6D9UzB1Djlgl-vbGqQo8oJ
+#EXTINF:-1 tvg-ID="" tvg-name="The Machine (2023)" tvg-logo="http://109.123.238.74:80/images/a4dfd5f1e1a51701659cf4187e9de56d.jpg" group-title="Comedy",The Machine (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6D9UzB1Djlgl-vbGqQo8oJ
+#EXTINF:-1 tvg-ID="" tvg-name="The Machine (2023)" tvg-logo="http://109.123.238.74:80/images/a4dfd5f1e1a51701659cf4187e9de56d.jpg" group-title="Crime",The Machine (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6D9UzB1Djlgl-vbGqQo8oJ
+#EXTINF:-1 tvg-ID="" tvg-name="The Mother (2023)" tvg-logo="http://109.123.238.74:80/images/0c25a284b8c3ef954e1678bca1853dc7.jpg" group-title="Action",The Mother (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5FGMfnepQbyJxvhq_3vEp_
+#EXTINF:-1 tvg-ID="" tvg-name="The Mother (2023)" tvg-logo="http://109.123.238.74:80/images/0c25a284b8c3ef954e1678bca1853dc7.jpg" group-title="Thriller",The Mother (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5FGMfnepQbyJxvhq_3vEp_
+#EXTINF:-1 tvg-ID="" tvg-name="The Pope's Exorcist (2023)" tvg-logo="http://109.123.238.74:80/images/57eca9650e5810c87ec37ce8882f455d.jpg" group-title="Thriller",The Pope's Exorcist (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H44RrYOs06DpEha2hFyeFbH
+#EXTINF:-1 tvg-ID="" tvg-name="The Pope's Exorcist (2023)" tvg-logo="http://109.123.238.74:80/images/57eca9650e5810c87ec37ce8882f455d.jpg" group-title="Horror",The Pope's Exorcist (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H44RrYOs06DpEha2hFyeFbH
+#EXTINF:-1 tvg-ID="" tvg-name="The Tomorrow Job (2023)" tvg-logo="http://109.123.238.74:80/images/6cd6f4841b401afde244cc1a94342f18.jpg" group-title="Action",The Tomorrow Job (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7NEGR-EDzwW2ZVvEv-AtfM
+#EXTINF:-1 tvg-ID="" tvg-name="The Tomorrow Job (2023)" tvg-logo="http://109.123.238.74:80/images/6cd6f4841b401afde244cc1a94342f18.jpg" group-title="Science Fiction",The Tomorrow Job (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7NEGR-EDzwW2ZVvEv-AtfM
+#EXTINF:-1 tvg-ID="" tvg-name="The Tank (2023)" tvg-logo="http://109.123.238.74:80/images/b94254e41cd88bf390d4a4a01a801316.jpg" group-title="Thriller",The Tank (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4i1zE3l7ahxBTUEFUNsd_G
+#EXTINF:-1 tvg-ID="" tvg-name="The Tank (2023)" tvg-logo="http://109.123.238.74:80/images/b94254e41cd88bf390d4a4a01a801316.jpg" group-title="Horror",The Tank (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4i1zE3l7ahxBTUEFUNsd_G
+#EXTINF:-1 tvg-ID="" tvg-name="범죄도시 3 (2023)" tvg-logo="http://109.123.238.74:80/images/2a4cd9c40ad669c590093db7d85c78e7.jpg" group-title="Action",범죄도시 3 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H52mlb7zX16iqn66dN0VCtj
+#EXTINF:-1 tvg-ID="" tvg-name="범죄도시 3 (2023)" tvg-logo="http://109.123.238.74:80/images/2a4cd9c40ad669c590093db7d85c78e7.jpg" group-title="Crime",범죄도시 3 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H52mlb7zX16iqn66dN0VCtj
+#EXTINF:-1 tvg-ID="" tvg-name="육지것들 (2023)" tvg-logo="http://109.123.238.74:80/images/988912f1b82238d1b472c3039c090495.jpg" group-title="Comedy",육지것들 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6NvpDxu1ug7K6l1DKQml-y
+#EXTINF:-1 tvg-ID="" tvg-name="A través del mar (2023)" tvg-logo="http://109.123.238.74:80/images/2a311b504ee18c49a640ef21bcada04a.jpg" group-title="Romance",A través del mar (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5k4lq12akDRzhbaT9vC3BV
+#EXTINF:-1 tvg-ID="" tvg-name="A través del mar (2023)" tvg-logo="http://109.123.238.74:80/images/2a311b504ee18c49a640ef21bcada04a.jpg" group-title="Comedy",A través del mar (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5k4lq12akDRzhbaT9vC3BV
+#EXTINF:-1 tvg-ID="" tvg-name="A través del mar (2023)" tvg-logo="http://109.123.238.74:80/images/2a311b504ee18c49a640ef21bcada04a.jpg" group-title="Drama",A través del mar (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5k4lq12akDRzhbaT9vC3BV
+#EXTINF:-1 tvg-ID="" tvg-name="The Wrath of Becky (2023)" tvg-logo="http://109.123.238.74:80/images/839ddf5042e259ebf47155cacee7b5af.jpg" group-title="Action",The Wrath of Becky (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5njeOyi0Auad2fLdiKUNX2
+#EXTINF:-1 tvg-ID="" tvg-name="The Wrath of Becky (2023)" tvg-logo="http://109.123.238.74:80/images/839ddf5042e259ebf47155cacee7b5af.jpg" group-title="Thriller",The Wrath of Becky (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5njeOyi0Auad2fLdiKUNX2
+#EXTINF:-1 tvg-ID="" tvg-name="The Wrath of Becky (2023)" tvg-logo="http://109.123.238.74:80/images/839ddf5042e259ebf47155cacee7b5af.jpg" group-title="Horror",The Wrath of Becky (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5njeOyi0Auad2fLdiKUNX2
+#EXTINF:-1 tvg-ID="" tvg-name="टीकू वेड्स शेरू (2023)" tvg-logo="http://109.123.238.74:80/images/a5e2af7d62a680facefd942beffa9f0c.jpg" group-title="Comedy",टीकू वेड्स शेरू (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6C4iJKbC15ASV52GZDAC83
+#EXTINF:-1 tvg-ID="" tvg-name="टीकू वेड्स शेरू (2023)" tvg-logo="http://109.123.238.74:80/images/a5e2af7d62a680facefd942beffa9f0c.jpg" group-title="Family",टीकू वेड्स शेरू (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6C4iJKbC15ASV52GZDAC83
+#EXTINF:-1 tvg-ID="" tvg-name="टीकू वेड्स शेरू (2023)" tvg-logo="http://109.123.238.74:80/images/a5e2af7d62a680facefd942beffa9f0c.jpg" group-title="Drama",टीकू वेड्स शेरू (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6C4iJKbC15ASV52GZDAC83
+#EXTINF:-1 tvg-ID="" tvg-name="துணிவு (2023)" tvg-logo="http://109.123.238.74:80/images/3cc4f560c04ad39c78329d9c021539b0.jpg" group-title="Action",துணிவு (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4y9Y2fr6ACYuYUnb8_F9MR
+#EXTINF:-1 tvg-ID="" tvg-name="துணிவு (2023)" tvg-logo="http://109.123.238.74:80/images/3cc4f560c04ad39c78329d9c021539b0.jpg" group-title="Crime",துணிவு (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4y9Y2fr6ACYuYUnb8_F9MR
+#EXTINF:-1 tvg-ID="" tvg-name="துணிவு (2023)" tvg-logo="http://109.123.238.74:80/images/3cc4f560c04ad39c78329d9c021539b0.jpg" group-title="Thriller",துணிவு (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4y9Y2fr6ACYuYUnb8_F9MR
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers: Rise of the Beasts (2023)" tvg-logo="http://109.123.238.74:80/images/b8e5b64dee2c3e0b97df5b809cdc8f34.jpg" group-title="Action",Transformers: Rise of the Beasts (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H50lbzLX6LhVgaD4MmwvgNV
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers: Rise of the Beasts (2023)" tvg-logo="http://109.123.238.74:80/images/b8e5b64dee2c3e0b97df5b809cdc8f34.jpg" group-title="Science Fiction",Transformers: Rise of the Beasts (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H50lbzLX6LhVgaD4MmwvgNV
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers: Rise of the Beasts (2023)" tvg-logo="http://109.123.238.74:80/images/b8e5b64dee2c3e0b97df5b809cdc8f34.jpg" group-title="Adventure",Transformers: Rise of the Beasts (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H50lbzLX6LhVgaD4MmwvgNV
+#EXTINF:-1 tvg-ID="" tvg-name="True Spirit (2023)" tvg-logo="http://109.123.238.74:80/images/5679d75d9d7dcfb3106b903d5f438eb8.jpg" group-title="History",True Spirit (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H709hQN7NpraJieDd9pfL3E
+#EXTINF:-1 tvg-ID="" tvg-name="True Spirit (2023)" tvg-logo="http://109.123.238.74:80/images/5679d75d9d7dcfb3106b903d5f438eb8.jpg" group-title="Adventure",True Spirit (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H709hQN7NpraJieDd9pfL3E
+#EXTINF:-1 tvg-ID="" tvg-name="True Spirit (2023)" tvg-logo="http://109.123.238.74:80/images/5679d75d9d7dcfb3106b903d5f438eb8.jpg" group-title="Drama",True Spirit (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H709hQN7NpraJieDd9pfL3E
+#EXTINF:-1 tvg-ID="" tvg-name="스마트폰을 떨어뜨렸을 뿐인데 (2023)" tvg-logo="http://109.123.238.74:80/images/f81b6dd531f36d8033959a9f1b31fed1.jpg" group-title="Thriller",스마트폰을 떨어뜨렸을 뿐인데 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H60haZszZB3ZH2xjln5qet2
+#EXTINF:-1 tvg-ID="" tvg-name="스마트폰을 떨어뜨렸을 뿐인데 (2023)" tvg-logo="http://109.123.238.74:80/images/f81b6dd531f36d8033959a9f1b31fed1.jpg" group-title="Mystery",스마트폰을 떨어뜨렸을 뿐인데 (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H60haZszZB3ZH2xjln5qet2
+#EXTINF:-1 tvg-ID="" tvg-name="Twisted Sister (2023)" tvg-logo="http://109.123.238.74:80/images/ad37cf3fae88d700f8456fcc744b7485.jpg" group-title="Drama",Twisted Sister (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sjPzBNeEgTrMAs0G7THPu
+#EXTINF:-1 tvg-ID="" tvg-name="Twisted Sister (2023)" tvg-logo="http://109.123.238.74:80/images/ad37cf3fae88d700f8456fcc744b7485.jpg" group-title="Thriller",Twisted Sister (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7sjPzBNeEgTrMAs0G7THPu
+#EXTINF:-1 tvg-ID="" tvg-name="Weed People (2023)" tvg-logo="http://109.123.238.74:80/images/cc6d2369b30ae0e0f025285a1b1c9d35.jpg" group-title="Drama",Weed People (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5VFxy0NxqBLfXuptBdcXIT
+#EXTINF:-1 tvg-ID="" tvg-name="வீரன் (2023)" tvg-logo="http://109.123.238.74:80/images/1ef34e6c9b6be7fd6de298871fc7c1a2.jpg" group-title="Thriller",வீரன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4t6xVEBVBB-afTEtGjZWgx
+#EXTINF:-1 tvg-ID="" tvg-name="வீரன் (2023)" tvg-logo="http://109.123.238.74:80/images/1ef34e6c9b6be7fd6de298871fc7c1a2.jpg" group-title="Fantasy",வீரன் (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4t6xVEBVBB-afTEtGjZWgx
+#EXTINF:-1 tvg-ID="" tvg-name="వీరసింహారెడ్డి (2023)" tvg-logo="http://109.123.238.74:80/images/00c7e2dbd570c7f8725146f0a45faf97.jpg" group-title="Action",వీరసింహారెడ్డి (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4qVYuBXbU9Sx_l3vDRlg92
+#EXTINF:-1 tvg-ID="" tvg-name="Your Place or Mine (2023)" tvg-logo="http://109.123.238.74:80/images/36df10d16d0c4032ccac157ef5880d4e.jpg" group-title="Romance",Your Place or Mine (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4aOTURSFV046j6UQlYwP74
+#EXTINF:-1 tvg-ID="" tvg-name="Your Place or Mine (2023)" tvg-logo="http://109.123.238.74:80/images/36df10d16d0c4032ccac157ef5880d4e.jpg" group-title="Comedy",Your Place or Mine (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H4aOTURSFV046j6UQlYwP74
+#EXTINF:-1 tvg-ID="" tvg-name="You’re Killing Me (2023)" tvg-logo="http://109.123.238.74:80/images/0817ec0a9f48ea849d7ab95666d45794.jpg" group-title="Action",You’re Killing Me (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7MI-8dapsjz6W7ohobAcqi
+#EXTINF:-1 tvg-ID="" tvg-name="You’re Killing Me (2023)" tvg-logo="http://109.123.238.74:80/images/0817ec0a9f48ea849d7ab95666d45794.jpg" group-title="Thriller",You’re Killing Me (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7MI-8dapsjz6W7ohobAcqi
+#EXTINF:-1 tvg-ID="" tvg-name="You’re Killing Me (2023)" tvg-logo="http://109.123.238.74:80/images/0817ec0a9f48ea849d7ab95666d45794.jpg" group-title="Horror",You’re Killing Me (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7MI-8dapsjz6W7ohobAcqi
+#EXTINF:-1 tvg-ID="" tvg-name="யாத்திசை (2023)" tvg-logo="http://109.123.238.74:80/images/0daae104c6cd4af23b73c5bde4bf4be2.jpg" group-title="Action",யாத்திசை (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IltXIoIZymazhvQKYwPTa
+#EXTINF:-1 tvg-ID="" tvg-name="யாத்திசை (2023)" tvg-logo="http://109.123.238.74:80/images/0daae104c6cd4af23b73c5bde4bf4be2.jpg" group-title="War",யாத்திசை (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IltXIoIZymazhvQKYwPTa
+#EXTINF:-1 tvg-ID="" tvg-name="யாத்திசை (2023)" tvg-logo="http://109.123.238.74:80/images/0daae104c6cd4af23b73c5bde4bf4be2.jpg" group-title="History",யாத்திசை (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7IltXIoIZymazhvQKYwPTa
+#EXTINF:-1 tvg-ID="" tvg-name="နှစ်လကြာရှည် ချစ်သက်သေ (2023)" tvg-logo="http://109.123.238.74:80/images/0661a19f8b448b7c18b0eca787b18cf7.jpg" group-title="Romance",နှစ်လကြာရှည် ချစ်သက်သေ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7zOp-u0zcCWN4KDT_8L1PZ
+#EXTINF:-1 tvg-ID="" tvg-name="နှစ်လကြာရှည် ချစ်သက်သေ (2023)" tvg-logo="http://109.123.238.74:80/images/0661a19f8b448b7c18b0eca787b18cf7.jpg" group-title="Family",နှစ်လကြာရှည် ချစ်သက်သေ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7zOp-u0zcCWN4KDT_8L1PZ
+#EXTINF:-1 tvg-ID="" tvg-name="နှစ်လကြာရှည် ချစ်သက်သေ (2023)" tvg-logo="http://109.123.238.74:80/images/0661a19f8b448b7c18b0eca787b18cf7.jpg" group-title="Drama",နှစ်လကြာရှည် ချစ်သက်သေ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7zOp-u0zcCWN4KDT_8L1PZ
+#EXTINF:-1 tvg-ID="" tvg-name="About My Father (2023)" tvg-logo="http://109.123.238.74:80/images/e1dfef34db83b499de26b6d110b876d6.jpg" group-title="Comedy",About My Father (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H598lvX-gC_C_B5wFO3156f
+#EXTINF:-1 tvg-ID="" tvg-name="అశ్విన్స్ (2023)" tvg-logo="http://109.123.238.74:80/images/36fb72b135e3213963b2f27185b121bd.jpg" group-title="Thriller",అశ్విన్స్ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7K3ZXsHatHK01tVlam7jz7
+#EXTINF:-1 tvg-ID="" tvg-name="అశ్విన్స్ (2023)" tvg-logo="http://109.123.238.74:80/images/36fb72b135e3213963b2f27185b121bd.jpg" group-title="Horror",అశ్విన్స్ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7K3ZXsHatHK01tVlam7jz7
+#EXTINF:-1 tvg-ID="" tvg-name="అశ్విన్స్ (2023)" tvg-logo="http://109.123.238.74:80/images/36fb72b135e3213963b2f27185b121bd.jpg" group-title="Mystery",అశ్విన్స్ (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7K3ZXsHatHK01tVlam7jz7
+#EXTINF:-1 tvg-ID="" tvg-name="Um Ano Inesquecível - Primavera (2023)" tvg-logo="http://109.123.238.74:80/images/83361476f18d6466c1150c7ac9bd1cba.jpg" group-title="Romance",Um Ano Inesquecível - Primavera (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5h6a1G-AIcDWdUnAIbDdaI
+#EXTINF:-1 tvg-ID="" tvg-name="Um Ano Inesquecível - Primavera (2023)" tvg-logo="http://109.123.238.74:80/images/83361476f18d6466c1150c7ac9bd1cba.jpg" group-title="Drama",Um Ano Inesquecível - Primavera (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5h6a1G-AIcDWdUnAIbDdaI
+#EXTINF:-1 tvg-ID="" tvg-name="Almost Pyaar with DJ Mohabbat (2023)" tvg-logo="http://109.123.238.74:80/images/edcfebbefa41550f034499036b0dc58c.jpg" group-title="Romance",Almost Pyaar with DJ Mohabbat (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6cRr-NMloidSjSGawnPzQr
+#EXTINF:-1 tvg-ID="" tvg-name="Almost Pyaar with DJ Mohabbat (2023)" tvg-logo="http://109.123.238.74:80/images/edcfebbefa41550f034499036b0dc58c.jpg" group-title="Music",Almost Pyaar with DJ Mohabbat (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6cRr-NMloidSjSGawnPzQr
+#EXTINF:-1 tvg-ID="" tvg-name="Almost Pyaar with DJ Mohabbat (2023)" tvg-logo="http://109.123.238.74:80/images/edcfebbefa41550f034499036b0dc58c.jpg" group-title="Drama",Almost Pyaar with DJ Mohabbat (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6cRr-NMloidSjSGawnPzQr
+#EXTINF:-1 tvg-ID="" tvg-name="Baby Boy, Baby Girl (2023)" tvg-logo="http://109.123.238.74:80/images/f05dc728097b9313464aa59a070b6591.jpg" group-title="Drama",Baby Boy, Baby Girl (2023)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5CoYFjUYi0xKhlygcuLXJ1
+#EXTINF:-1 tvg-ID="" tvg-name="Lionel Messi - The Greatest (2020)" tvg-logo="http://109.123.238.74:80/images/5ee1a8521036ee31e3752693c7910cfe.jpg" group-title="Documentary",Lionel Messi - The Greatest (2020)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5urs4K5W788ngZ2dHcKVux
+#EXTINF:-1 tvg-ID="" tvg-name="Elephant (2020)" tvg-logo="http://109.123.238.74:80/images/80775c911131041e574796b4cba37c0c.jpg" group-title="Documentary",Elephant (2020)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H6yor-m2_E4BNk5v7UZwjIm
+#EXTINF:-1 tvg-ID="" tvg-name="The Elephant Queen (2019)" tvg-logo="http://109.123.238.74:80/images/f9229fc9b25dee2b6a82748118186cbf.jpg" group-title="Documentary",The Elephant Queen (2019)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H7m6fhTyqXTOnHeo1oYDskz
+#EXTINF:-1 tvg-ID="" tvg-name="Messi (2014)" tvg-logo="http://109.123.238.74:80/images/599c8c6676c46b49bf0a7c3cdb2387f2.jpg" group-title="Documentary",Messi (2014)
+http://109.123.238.74:80/play/K0ZDxn48r3ghBq99lw_Eowz_r5SsmQMtsihsS3U22H5jTZvafor1pgLc6z-VWiVZ
