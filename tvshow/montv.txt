@@ -6251,3 +6251,23 @@ http://109.123.238.74:80/play/rTGBppgJFtgba6AUEaHwuhrEbm-pkZf-MX4UBV51EguwZgmsvo
 http://109.123.238.74:80/play/rTGBppgJFtgba6AUEaHwuhrEbm-pkZf-MX4UBV51EguwZgmsvoXQMsJ39Y0uVbZt
 #EXTINF:-1 tvg-ID="" tvg-name="별에서 온 그대 S01E21" tvg-logo="http://109.123.238.74:80/images/2a1631c4ba6454a616963e4b55c96c78.jpg" group-title="Comedy",별에서 온 그대 S01E21
 http://109.123.238.74:80/play/rTGBppgJFtgba6AUEaHwuhrEbm-pkZf-MX4UBV51EguwZgmsvoXQMsJ39Y0uVbZt
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="251" tvg-id="" tvg-name="True Premier Football 1" tvg-logo="http://109.123.238.74:80/images/462735f92aac08881f4ad6806fd5913f.png" group-title="Thailand Sport Channels",True Premier Football 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC8NOefmrO-gpZfYcbV3m6Rk/ts
+#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="True Premier Football 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Thailand Sport Channels",True Premier Football 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC9eEur21Mx4tE95ZxRa8iAg/ts
+#EXTINF:-1 xui-id="258" tvg-id="" tvg-name="T Sport" tvg-logo="http://109.123.238.74:80/images/b69df6f716cd576be33b27c64f6beb6b.jpg" group-title="Thailand Sport Channels",T Sport
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC9esRCeDP3PT6ltwKHtV1B3/ts
+#EXTINF:-1 xui-id="260" tvg-id="" tvg-name="TrueSports 1" tvg-logo="http://109.123.238.74:80/images/3f2d589ac7d80dc0aa9e5cb20b45ca56.png" group-title="Thailand Sport Channels",TrueSports 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC_FM1dpfN4veOHchryaMkE9/ts
+#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="True Sport 2" tvg-logo="http://109.123.238.74:80/images/e96bb8c9c5decbf9fe868f4bc13ecd31.png" group-title="Thailand Sport Channels",True Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC_XrkHKZ9tQj8-tBxE2YDse/ts
+#EXTINF:-1 xui-id="264" tvg-id="" tvg-name="TrueSports 3" tvg-logo="http://109.123.238.74:80/images/cc7357deab926c05f927ff8591a4acf8.png" group-title="Thailand Sport Channels",TrueSports 3
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC8t_JFcE4IDD5Rd4A4zUF3M/ts
+#EXTINF:-1 xui-id="267" tvg-id="" tvg-name="PPTV HD 36" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Thailand Sport Channels",PPTV HD 36
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC_ulIhIoZsY7q9nqf78c8Ck/ts
+#EXTINF:-1 xui-id="721" tvg-id="" tvg-name="TH:Bein Sport 1" tvg-logo="http://109.123.238.74:80/images/1a185a358c26a13eb12f9aa0dfccfdfa.png" group-title="Thailand Sport Channels",TH:Bein Sport 1
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC8ZL7SfhXwZ-315spH7yY_M/ts
+#EXTINF:-1 xui-id="722" tvg-id="" tvg-name="TH:Bein Sport 2" tvg-logo="http://109.123.238.74:80/images/eee53fcbf1a983aa5568017dd41fcffc.png" group-title="Thailand Sport Channels",TH:Bein Sport 2
+http://109.123.238.74:80/play/gdWLX5L-1xKVBYPffNa4hyqqB9jTow1sJH2BdHgVSC9v3WhnrQUqLEf7jq5pWy86/ts
