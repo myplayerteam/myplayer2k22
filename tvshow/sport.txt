@@ -1699,3 +1699,446 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296866
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296867
 #EXTINF:-1 tvg-ID="" tvg-name="LV: TV 3 Sport Open" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/85c0e53c119ecda30ba80ee7d8996c46.png" group-title="Latvia",LV: TV 3 Sport Open
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296869
+
+#EXTINF:-1 tvg-ID="" tvg-name="★✦ XC FEED SPORTS ✦★" tvg-logo="https://i.imgur.com/tmhJmYu.png" group-title="TR FEED SPORTS SPECIAL",★✦ XC FEED SPORTS ✦★
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/54170
+#EXTINF:-1 tvg-ID="" tvg-name="beIN KUTU SPORTS FHD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsTI4xus1YIAOZbK41kaT3F0.png" group-title="TR FEED SPORTS SPECIAL",beIN KUTU SPORTS FHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97004
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsfcuD8RZgYxgVhyues1WPYY.png" group-title="TR FEED SPORTS SPECIAL",TR: beIN SPORTS 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97005
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsa55ObKt60tFe-bzppKSWw4.png" group-title="TR FEED SPORTS SPECIAL",TR: beIN SPORTS 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97006
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsW4NxgSkLonAP60amWKVIIE.png" group-title="TR FEED SPORTS SPECIAL",TR: beIN SPORTS 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97007
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsWJHl9h9of0fcUTDJ2x3ZOw.png" group-title="TR FEED SPORTS SPECIAL",TR: beIN SPORTS 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97008
+#EXTINF:-1 tvg-ID="" tvg-name="★✦★ SPORTS 24/7 ★✦★" tvg-logo="https://i.imgur.com/hxSh7ps.png" group-title="FULL MIX EU / NETFLIX 24/7 SPECIAL",★✦★ SPORTS 24/7 ★✦★
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/96973
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 24/7 UFC" tvg-logo="https://i.imgur.com/n9pHFkf.png" group-title="FULL MIX EU / NETFLIX 24/7 SPECIAL",SPORTS 24/7 UFC
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/96974
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 24/7 NFL" tvg-logo="https://i.imgur.com/TVElBtq.png" group-title="FULL MIX EU / NETFLIX 24/7 SPECIAL",SPORTS 24/7 NFL
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/96975
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 24/7 MOTORSPORT" tvg-logo="https://i.imgur.com/6GgZVRu.png" group-title="FULL MIX EU / NETFLIX 24/7 SPECIAL",SPORTS 24/7 MOTORSPORT
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/96976
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 24/7 FORMULA" tvg-logo="https://i.imgur.com/zekUSRC.png" group-title="FULL MIX EU / NETFLIX 24/7 SPECIAL",SPORTS 24/7 FORMULA
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/96977
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 24/7 BOXING" tvg-logo="https://i.imgur.com/m490q95.png" group-title="FULL MIX EU / NETFLIX 24/7 SPECIAL",SPORTS 24/7 BOXING
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/96978
+#EXTINF:-1 tvg-ID="" tvg-name="TR | S SPORT 1 FHD" tvg-logo="https://i.imgur.com/x3wwEew.png" group-title="TURKCELL+ SCRIPT",TR | S SPORT 1 FHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98534
+#EXTINF:-1 tvg-ID="" tvg-name="TR | S SPORT 2 FHD" tvg-logo="https://i.imgur.com/BW1DU7k.png" group-title="TURKCELL+ SCRIPT",TR | S SPORT 2 FHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98535
+#EXTINF:-1 tvg-ID="" tvg-name="TR | EUROSPORT 1 FHD" tvg-logo="https://i.imgur.com/wPVK4xc.png" group-title="TURKCELL+ SCRIPT",TR | EUROSPORT 1 FHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98536
+#EXTINF:-1 tvg-ID="" tvg-name="TR | EUROSPORT 2 FHD" tvg-logo="https://i.imgur.com/0oEv5RN.png" group-title="TURKCELL+ SCRIPT",TR | EUROSPORT 2 FHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98537
+#EXTINF:-1 tvg-ID="" tvg-name="TR | EDGE SPORT" tvg-logo="https://i.imgur.com/vsxgrOG.png" group-title="TURKCELL+ SCRIPT",TR | EDGE SPORT
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98538
+#EXTINF:-1 tvg-ID="" tvg-name="TR | SPORTS TV FHD" tvg-logo="https://i.imgur.com/R3y3Zjr.png" group-title="TURKCELL+ SCRIPT",TR | SPORTS TV FHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98543
+#EXTINF:-1 tvg-ID="" tvg-name="★✦★ MAGENTA SPORT ★✦★" tvg-logo="https://i.imgur.com/Kn3jI4s.png" group-title="MAGENTA MYTEAM SCRIPT",★✦★ MAGENTA SPORT ★✦★
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98339
+#EXTINF:-1 tvg-ID="" tvg-name="DE | SPORTDIGITAL FUSSBALL" tvg-logo="https://i.imgur.com/8ATTlpS.png" group-title="MAGENTA MYTEAM SCRIPT",DE | SPORTDIGITAL FUSSBALL
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98319
+#EXTINF:-1 tvg-ID="" tvg-name="MAGENTA SPORT" tvg-logo="https://i.imgur.com/Kn3jI4s.png" group-title="MAGENTA MYTEAM SCRIPT",MAGENTA SPORT
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98320
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 1" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 1
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98321
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 2" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98322
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 3" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 3
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98323
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 4" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 4
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98324
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 5" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 5
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98325
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 6" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 6
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98326
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 7" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 7
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98327
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 8" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 8
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98328
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 9" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 9
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98329
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 10" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 10
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98330
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 11" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 11
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98331
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 12" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 12
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98332
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 13" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 13
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98333
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 14" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 14
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98334
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 15" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 15
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98335
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 16" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 16
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98336
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 17" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 17
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98337
+#EXTINF:-1 tvg-ID="" tvg-name="MYTEAM TV SPORT 18" tvg-logo="https://i.imgur.com/9kbm0nN.png" group-title="MAGENTA MYTEAM SCRIPT",MYTEAM TV SPORT 18
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98338
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO | Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="PLUTO CHANNELS",PLUTO | Pluto TV Sports
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98641
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO | Pluto TV Fight" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png" group-title="PLUTO CHANNELS",PLUTO | Pluto TV Fight
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98644
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO | Action Sports" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="PLUTO CHANNELS",PLUTO | Action Sports
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98649
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO | Unbeaten Esports" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="PLUTO CHANNELS",PLUTO | Unbeaten Esports
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98679
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO | Auto Motor Sport" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="PLUTO CHANNELS",PLUTO | Auto Motor Sport
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98711
+#EXTINF:-1 tvg-ID="" tvg-name="★✦★ CZECH SPORT ★✦★" tvg-logo="https://i.imgur.com/NpXOuZl.png" group-title="SCRIPT CZECH FULL",★✦★ CZECH SPORT ★✦★
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97633
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Eurosport" tvg-logo="https://sledovanitv.cz/cache/logos512/Eurosport.png" group-title="SCRIPT CZECH FULL",CZ | Eurosport
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97635
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Eurosport 2" tvg-logo="https://sledovanitv.cz/cache/logos512/Eurosport2.png" group-title="SCRIPT CZECH FULL",CZ | Eurosport 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97636
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Nova Sport 1" tvg-logo="https://sledovanitv.cz/cache/logos512/nova_sport.png" group-title="SCRIPT CZECH FULL",CZ | Nova Sport 1
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97637
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Nova Sport 2" tvg-logo="https://sledovanitv.cz/cache/logos512/nova_sport2.png" group-title="SCRIPT CZECH FULL",CZ | Nova Sport 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97638
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Arena sport 1" tvg-logo="https://sledovanitv.cz/cache/logos512/slovak_sport.png" group-title="SCRIPT CZECH FULL",CZ | Arena sport 1
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97639
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Arena sport 2" tvg-logo="https://sledovanitv.cz/cache/logos512/slovak_sport2.png" group-title="SCRIPT CZECH FULL",CZ | Arena sport 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97640
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | FightBox" tvg-logo="https://sledovanitv.cz/cache/logos512/FightboxHD.png" group-title="SCRIPT CZECH FULL",CZ | FightBox
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97641
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | ČT Sport" tvg-logo="https://sledovanitv.cz/cache/logos512/ct4sport.png" group-title="SCRIPT CZECH FULL",CZ | ČT Sport
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97642
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Auto Motor Sport" tvg-logo="https://sledovanitv.cz/cache/logos512/auto_motor_sport.png" group-title="SCRIPT CZECH FULL",CZ | Auto Motor Sport
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97644
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Sport 1" tvg-logo="https://sledovanitv.cz/cache/logos512/Sport1.png" group-title="SCRIPT CZECH FULL",CZ | Sport 1
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97645
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Sport 2" tvg-logo="https://sledovanitv.cz/cache/logos512/Sport2.png" group-title="SCRIPT CZECH FULL",CZ | Sport 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97646
+#EXTINF:-1 tvg-ID="" tvg-name="CZ | Sport 5" tvg-logo="https://sledovanitv.cz/cache/logos512/sport5.png" group-title="SCRIPT CZECH FULL",CZ | Sport 5
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/97647
+#EXTINF:-1 tvg-ID="" tvg-name="IT PLUTO | Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG.png" group-title="PLUTO CHANNELS",IT PLUTO | Pluto TV Sport
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/98919
+#EXTINF:-1 tvg-ID="" tvg-name="DK | TV2 SPORT X" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",DK | TV2 SPORT X
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99200
+#EXTINF:-1 tvg-ID="" tvg-name="DK | TV2 SPORT" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",DK | TV2 SPORT
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99201
+#EXTINF:-1 tvg-ID="" tvg-name="DK | TV3 SPORT HD." tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3-sport-dk.png" group-title="SKANDINAVIA CHANNELS",DK | TV3 SPORT HD.
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99209
+#EXTINF:-1 tvg-ID="" tvg-name="DK | TV3 SPORT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3-sport-dk.png" group-title="SKANDINAVIA CHANNELS",DK | TV3 SPORT HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99210
+#EXTINF:-1 tvg-ID="" tvg-name="DK | EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",DK | EUROSPORT 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99211
+#EXTINF:-1 tvg-ID="" tvg-name="DK | EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",DK | EUROSPORT 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99212
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V SPORT GOLF HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v-sport-golf-se.png" group-title="SKANDINAVIA CHANNELS",DK | V SPORT GOLF HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99234
+#EXTINF:-1 tvg-ID="" tvg-name="DK | Sport Live" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",DK | Sport Live
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99278
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V sport Premier League HD" tvg-logo="https://i.imgur.com/jn3NbxK.png" group-title="SKANDINAVIA CHANNELS",DK | V sport Premier League HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99279
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V sport Premier League 1 HD" tvg-logo="https://i.imgur.com/jn3NbxK.png" group-title="SKANDINAVIA CHANNELS",DK | V sport Premier League 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99280
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V sport Premier League 2 HD" tvg-logo="https://i.imgur.com/jn3NbxK.png" group-title="SKANDINAVIA CHANNELS",DK | V sport Premier League 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99281
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V sport Premier League 3 HD" tvg-logo="https://i.imgur.com/jn3NbxK.png" group-title="SKANDINAVIA CHANNELS",DK | V sport Premier League 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99282
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V sport Premier League 4 HD" tvg-logo="https://i.imgur.com/jn3NbxK.png" group-title="SKANDINAVIA CHANNELS",DK | V sport Premier League 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99283
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V Sport Live 1 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",DK | V Sport Live 1 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99358
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V Sport Live 2 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",DK | V Sport Live 2 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99359
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V Sport Live 3 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",DK | V Sport Live 3 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99360
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V Sport Live 4 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",DK | V Sport Live 4 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99361
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V Sport Live 5 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",DK | V Sport Live 5 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99362
+#EXTINF:-1 tvg-ID="" tvg-name="DK | V Sport Ultra 4K [Only On 4K Devices]" tvg-logo="https://i.imgur.com/qqjn8JI.png" group-title="SKANDINAVIA CHANNELS",DK | V Sport Ultra 4K [Only On 4K Devices]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99363
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sport Expressen HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | Sport Expressen HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99444
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportkanalen HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | Sportkanalen HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99445
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Eurosport 1 UHD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | Eurosport 1 UHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99446
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Eurosport 2 UHD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | Eurosport 2 UHD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99447
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/skandinavian/norway/viasat_sport_no.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99456
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport Fotboll HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport Fotboll HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99457
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport Golf HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport Golf HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99458
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport Motor HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport Motor HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99459
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport Premium HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport Premium HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99460
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport Vinter HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport Vinter HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99461
+#EXTINF:-1 tvg-ID="" tvg-name="SW | V Sport Xtra HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",SW | V Sport Xtra HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99462
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 1 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 1 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99526
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 2 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 2 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99527
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 3 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 3 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99528
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 4 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 4 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99529
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 5 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 5 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99530
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 6 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 6 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99531
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Play 1 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Play 1 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99532
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Play 2 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Play 2 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99533
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Play 3 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Play 3 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99534
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Play 4 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Play 4 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99535
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Play 5 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Play 5 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99536
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Play 6 HD [Live During Events Only]" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Play 6 HD [Live During Events Only]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99537
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 1 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99586
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 2 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99587
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 3 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99588
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 4 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99589
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 5 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 5 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99590
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 6 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 6 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99591
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 7 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 7 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99592
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 8 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 8 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99593
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 9 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 9 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99594
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 10 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 10 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99595
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 11 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 11 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99596
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 12 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 12 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99597
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 13 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 13 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99598
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 14 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 14 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99599
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 15 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 15 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99600
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 16 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 16 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99601
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 17 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 17 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99602
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 18 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 18 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99603
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 19 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 19 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99604
+#EXTINF:-1 tvg-ID="" tvg-name="SW | SportExpressen 20 HD" tvg-logo="https://i.imgur.com/nmJGXxB.png" group-title="SKANDINAVIA CHANNELS",SW | SportExpressen 20 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99605
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 1 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99606
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 2 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99607
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 3 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99608
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 4 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99609
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 5 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 5 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99610
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 6 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 6 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99611
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 7 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 7 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99612
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 8 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 8 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99613
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 9 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 9 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99614
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 10 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 10 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99615
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 11 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 11 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99616
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 12 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 12 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99617
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 13 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 13 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99618
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 14 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 14 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99619
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 15 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 15 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99620
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 16 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 16 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99621
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 17 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 17 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99622
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 18 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 18 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99623
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 19 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 19 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99624
+#EXTINF:-1 tvg-ID="" tvg-name="SW | Sportbladet Live 20 HD" tvg-logo="https://i.imgur.com/qOATNL9.png" group-title="SKANDINAVIA CHANNELS",SW | Sportbladet Live 20 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99625
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport 1 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99688
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport 2 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99689
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport N HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport N HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99690
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV 2 Sport 1 Norway" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | TV 2 Sport 1 Norway
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99692
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV 2 Sport 2 Norway" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | TV 2 Sport 2 Norway
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99693
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sport Premium 1 HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sport Premium 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99694
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sport Premium 2 HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sport Premium 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99695
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99696
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 1" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 1
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99697
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 1 HD" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99698
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 2" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99699
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 2 HD" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99700
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 3" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 3
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99701
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 3 HD" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99702
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 4" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 4
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99703
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League 4 HD" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99704
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Premier League HD" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Premier League HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99705
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Vinter HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v-sport-vinter-se.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Vinter HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99706
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Viasport 1 Norge HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | Viasport 1 Norge HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99707
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Viasport 2 Norge HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | Viasport 2 Norge HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99708
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Viasport 3 Norge HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | Viasport 3 Norge HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99709
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Viasport Plus HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",NO | Viasport Plus HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99710
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 1 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99711
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 2 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99712
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 3 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99713
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 4 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99714
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 5 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 5 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99715
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 6 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 6 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99716
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 7 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 7 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99717
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 8 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 8 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99718
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 9 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 9 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99719
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 10 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 10 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99720
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 11 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 11 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99721
+#EXTINF:-1 tvg-ID="" tvg-name="NO | Eurosport Pluss 12 HD" tvg-logo="https://i.imgur.com/w4VqK0h.png" group-title="SKANDINAVIA CHANNELS",NO | Eurosport Pluss 12 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99722
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 1 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99782
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 2 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99783
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 3 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 3 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99784
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 4 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 4 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99785
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 5 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 5 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99786
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 6 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 6 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99787
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 7 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 7 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99788
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 8 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 8 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99789
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 9 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 9 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99790
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 10 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 10 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99791
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 11 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 11 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99792
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 12 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 12 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99793
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 13 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 13 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99794
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 14 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 14 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99795
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 15 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 15 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99796
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 16 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 16 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99797
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 17 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 17 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99798
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 18 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 18 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99799
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 19 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 19 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99800
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 20 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 20 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99801
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 21 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 21 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99802
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 22 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 22 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99803
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 23 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 23 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99804
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 24 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 24 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99805
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 25 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 25 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99806
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 26 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 26 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99807
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 27 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 27 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99808
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 28 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 28 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99809
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 29 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 29 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99810
+#EXTINF:-1 tvg-ID="" tvg-name="NO | TV2 Sumo Sport 30 HD" tvg-logo="https://i.imgur.com/A3MNK4P.png" group-title="SKANDINAVIA CHANNELS",NO | TV2 Sumo Sport 30 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99811
+#EXTINF:-1 tvg-ID="" tvg-name="NO | V Sport Ultra 4K. [Only On 4K Devices]" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",NO | V Sport Ultra 4K. [Only On 4K Devices]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99812
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport 2 Suomi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v-sport-2-no.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport 2 Suomi
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99826
+#EXTINF:-1 tvg-ID="" tvg-name="FI | C More Sport 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/Finland/c_more_se_sport_1.png" group-title="SKANDINAVIA CHANNELS",FI | C More Sport 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99849
+#EXTINF:-1 tvg-ID="" tvg-name="FI | C More Sport 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c_more_se_sport_1.png" group-title="SKANDINAVIA CHANNELS",FI | C More Sport 1 HD+
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99850
+#EXTINF:-1 tvg-ID="" tvg-name="FI | C More Sport 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/Finland/c_more_se_sport_2.png" group-title="SKANDINAVIA CHANNELS",FI | C More Sport 2 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99851
+#EXTINF:-1 tvg-ID="" tvg-name="FI | EuroSport 1 HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",FI | EuroSport 1 HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99852
+#EXTINF:-1 tvg-ID="" tvg-name="FI | Viasat Sport Premium HD" tvg-logo="https://i.imgur.com/QLSCdOj.png" group-title="SKANDINAVIA CHANNELS",FI | Viasat Sport Premium HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99853
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Vinter HD" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Vinter HD
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99854
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport+ Suomi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport+ Suomi
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99856
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport 1 Suomi" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport 1 Suomi
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99857
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport 2 Suomi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v-sport-2-no.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport 2 Suomi
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99858
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Live 1" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Live 1
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99905
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Live 2" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Live 2
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99906
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Live 3" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Live 3
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99907
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Live 4" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Live 4
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99908
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Live 5" tvg-logo="https://i.imgur.com/3TRPGJ3.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Live 5
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99909
+#EXTINF:-1 tvg-ID="" tvg-name="FI | V Sport Ultra 4K [Only On 4K Devices]" tvg-logo="https://i.imgur.com/qqjn8JI.png" group-title="SKANDINAVIA CHANNELS",FI | V Sport Ultra 4K [Only On 4K Devices]
+http://special.boxserver.live:8080/@Casper0101XxXSikTir/8p3TW5wg5Qf8/99910
