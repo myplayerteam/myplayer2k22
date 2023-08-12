@@ -1,276 +1,101 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS NEWS " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_NEWS_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS NEWS 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/507
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/507
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS GLOBAL " tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_BEIN_SPORTS_GLOBAL.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS GLOBAL 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/508
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/508
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS PREMUIM 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_PREMIUM_1_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS PREMUIM 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/523
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/523
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS PREMUIM 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_PREMIUM_2_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS PREMUIM 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/525
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/525
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS PREMUIM 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_PREMIUM_3_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS PREMUIM 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/527
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/527
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_1_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/509
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/509
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 2 " tvg-logo="http://fireott.one:2052/images/dc27919f3d6efe373c8b04d9edd76338.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56216
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/56216
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_3_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/513
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/513
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 4" tvg-logo="http://fireott.one:2052/images/f9177142c0bc2da864cf17ca5d975959.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 4
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/313991
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/313991
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 5 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_5_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 5 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/517
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/517
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 6 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_6_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 6 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/519
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/519
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS 7 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_7_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS 7 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/521
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/521
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS EXTRA 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_EXTRA_1_HD.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS EXTRA 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38145
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38145
 #EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SPORTS EXTRA 2 " tvg-logo="http://fireott.one:2052/images/db7d0ed59138daad2eaa10a2ba399da1.png" group-title=" AR | BEIN SPORTS HD",AR | HD BEIN SPORTS EXTRA 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/55583
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/55583
 #EXTINF:-1 tvg-ID="" tvg-name="EN | HD BEIN SPORTS ENGLISH 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_1_HD.png" group-title=" AR | BEIN SPORTS HD",EN | HD BEIN SPORTS ENGLISH 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38146
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38146
 #EXTINF:-1 tvg-ID="" tvg-name="EN | HD BEIN SPORTS ENGLISH 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_2_HD.png" group-title=" AR | BEIN SPORTS HD",EN | HD BEIN SPORTS ENGLISH 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38147
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38147
 #EXTINF:-1 tvg-ID="" tvg-name="EN | HD BEIN SPORTS ENGLISH 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_3_HD.png" group-title=" AR | BEIN SPORTS HD",EN | HD BEIN SPORTS ENGLISH 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38148
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38148
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS FRENSH 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/FR_BEINSPORTS_1_HD.png" group-title=" AR | BEIN SPORTS HD",FR | HD BEIN SPORTS FRENSH 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38149
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38149
 #EXTINF:-1 tvg-ID="" tvg-name="FR |  HD BEIN SPORTS FRENSH 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/FR_BEINSPORTS_2_HD.png" group-title=" AR | BEIN SPORTS HD",FR |  HD BEIN SPORTS FRENSH 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38150
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38150
 #EXTINF:-1 tvg-ID="" tvg-name="US | HD BEIN SPORTS NBA " tvg-logo="http://wixa.fire33.xyz:2052/images/ee4f8122834bf7dfb9ce7cb253994358.png" group-title=" AR | BEIN SPORTS HD",US | HD BEIN SPORTS NBA 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38151
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS PREMIUM 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_PREMIUM_1_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS PREMIUM 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56220
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS PREMIUM 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_PREMIUM_2_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS PREMIUM 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56221
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS PREMIUM 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_PREMIUM_3_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS PREMIUM 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56222
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_1_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56223
-#EXTINF:-1 tvg-ID="" tvg-name="AR |  FHD BEIN SPORTS 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_2_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR |  FHD BEIN SPORTS 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56224
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_3_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56225
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS 4 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_4_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS 4 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56226
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS 5 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_5_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS 5 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56227
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS 6 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_6_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS 6 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56230
-#EXTINF:-1 tvg-ID="" tvg-name="AR | FHD BEIN SPORTS 7 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_FHD/AR_BEINSPORTS_7_FHD.png" group-title=" AR | BEIN SPORTS FHD",AR | FHD BEIN SPORTS 7 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/56228
-#EXTINF:-1 tvg-ID="" tvg-name="AU : HD BEIN SPORTS 1 " tvg-logo="" group-title=" AS | AUSTRALIE HD ",AU : HD BEIN SPORTS 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/146709
-#EXTINF:-1 tvg-ID="" tvg-name="AU : HD BEIN SPORTS 2 " tvg-logo="" group-title=" AS | AUSTRALIE HD ",AU : HD BEIN SPORTS 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/146710
-#EXTINF:-1 tvg-ID="" tvg-name="AU : HD BEIN SPORTS 3 " tvg-logo="" group-title=" AS | AUSTRALIE HD ",AU : HD BEIN SPORTS 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/146711
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  BEIN SPORTS HD" tvg-logo="" group-title="US | UNITED STATES ABC",USA |  BEIN SPORTS HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/7995565
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  BEIN SPORTS 5 HD" tvg-logo="" group-title="US | UNITED STATES ABC",USA |  BEIN SPORTS 5 HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/7995564
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  BEIN SPORTS 6 HD" tvg-logo="" group-title="US | UNITED STATES ABC",USA |  BEIN SPORTS 6 HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/7995563
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  BEIN SPORTS 7 HD" tvg-logo="" group-title="US | UNITED STATES ABC",USA |  BEIN SPORTS 7 HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/7995562
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  BEIN SPORTS 8 HD" tvg-logo="" group-title="US | UNITED STATES ABC",USA |  BEIN SPORTS 8 HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/7995561
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  beIN Sports Xtra HD" tvg-logo="" group-title="US | UNITED STATES ABC",USA |  beIN Sports Xtra HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/7995560
-#EXTINF:-1 tvg-ID="" tvg-name="USA: Pluto TV SPORT : BeIN Sports Xtra HD [Not 24/7]" tvg-logo="" group-title=" US | PLUTO TV 4K/HD",USA: Pluto TV SPORT : BeIN Sports Xtra HD [Not 24/7]
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/234956
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38151
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS  PREMUIM 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_PREMIUM_1_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS  PREMUIM 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/524
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/524
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS  PREMUIM 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_PREMIUM_2_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS  PREMUIM 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/526
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/526
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS PREMUIM 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_PREMIUM_3_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS PREMUIM 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/528
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/528
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_1_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/510
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/510
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_2_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/512
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/512
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_3_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/514
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/514
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS 4 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_4_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS 4 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/516
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/516
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS 5 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_5_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS 5 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/518
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/518
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS 6 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_6_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS 6 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/520
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/520
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS  7 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/AR_BEINSPORTS_7_SD.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS  7 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/522
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/522
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS NEWS" tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_4K/AR_4K_BEIN_SPORTS_NEWS.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS NEWS
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38133
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38133
 #EXTINF:-1 tvg-ID="" tvg-name="AR | SD BEIN SPORTS  EXTRA 2 " tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_SD/AR_SD_BEIN_SPORTS_EXTRA_2.png" group-title=" AR | BEIN SPORTS SD ",AR | SD BEIN SPORTS  EXTRA 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/55582
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/55582
 #EXTINF:-1 tvg-ID="" tvg-name="EN | SD BEIN SPORTS ENGLISH 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/EN_BEINSPORTS_1_SD.png" group-title=" AR | BEIN SPORTS SD ",EN | SD BEIN SPORTS ENGLISH 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38134
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38134
 #EXTINF:-1 tvg-ID="" tvg-name="EN | SD BEIN SPORTS ENGLISH 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/EN_BEINSPORTS_2_SD.png" group-title=" AR | BEIN SPORTS SD ",EN | SD BEIN SPORTS ENGLISH 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38135
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38135
 #EXTINF:-1 tvg-ID="" tvg-name="EN | SD BEIN SPORTS ENGLISH 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/EN_BEINSPORTS_3_SD.png" group-title=" AR | BEIN SPORTS SD ",EN | SD BEIN SPORTS ENGLISH 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38136
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38136
 #EXTINF:-1 tvg-ID="" tvg-name="FR | SD BEIN SPORTS FRENSH 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/FR_BEINSPORTS_1_SD.png" group-title=" AR | BEIN SPORTS SD ",FR | SD BEIN SPORTS FRENSH 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38137
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38137
 #EXTINF:-1 tvg-ID="" tvg-name="FR | SD BEIN SPORTS FRENSH 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_SD/FR_BEINSPORTS_2_SD.png" group-title=" AR | BEIN SPORTS SD ",FR | SD BEIN SPORTS FRENSH 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38138
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38138
 #EXTINF:-1 tvg-ID="" tvg-name="AR |  SD BEIN SPORTS NBA" tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_SD/AR_SD_BEIN_SPORTS_NBA.png" group-title=" AR | BEIN SPORTS SD ",AR |  SD BEIN SPORTS NBA
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38139
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS NEWS " tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_4K/AR_4K_BEIN_SPORTS_NEWS.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS NEWS 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241342
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS GLOBAL " tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_4K/AR_4K_BEIN_SPORTS_GLOBAL.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS GLOBAL 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241343
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS PREMUIM 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_PREMIUM_1.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS PREMUIM 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/117734
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS PRENUIM 1" tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_PREMIUM_1.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS PRENUIM 1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241367
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS PREMUIM 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_PREMIUM_2.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS PREMUIM 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241341
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS PRENUIM 2" tvg-logo="http://fireott.one:2052/images/b5d278157601fc93df85c62a4b85bbaa.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS PRENUIM 2
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241368
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS PREMIUM 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_PREMIUM_3.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS PREMIUM 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/5999
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS PRENUIM 3" tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_PREMIUM_3.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS PRENUIM 3
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241369
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_1.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/5990
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_2.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241344
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_3.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241345
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 4 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_4.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 4 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241346
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 5 " tvg-logo="http://fireott.one:2052/images/021b2e54e9c5eb50b9710b32053d53e0.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 5 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241347
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 6 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_6.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 6 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241349
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS 7 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_7.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS 7 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/5996
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS XTRA 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_PREMIUM_1%20copy.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS XTRA 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38121
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SPORTS XTRA 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_EXTRA_2.png" group-title=" AR | BEIN SPORTS  4K",AR | 4K BEIN SPORTS XTRA 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/241348
-#EXTINF:-1 tvg-ID="" tvg-name="EN | 4K BEIN SPORTS ENGLISH 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/EN_4K_BEINSPORTS_1.png" group-title=" AR | BEIN SPORTS  4K",EN | 4K BEIN SPORTS ENGLISH 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38122
-#EXTINF:-1 tvg-ID="" tvg-name="EN | 4K BEIN SPORTS ENGLISH 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/EN_4K_BEINSPORTS_2.png" group-title=" AR | BEIN SPORTS  4K",EN | 4K BEIN SPORTS ENGLISH 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38123
-#EXTINF:-1 tvg-ID="" tvg-name="EN | 4K BEIN SPORTS ENGLISH 3 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/EN_4K_BEINSPORTS_3.png" group-title=" AR | BEIN SPORTS  4K",EN | 4K BEIN SPORTS ENGLISH 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38124
-#EXTINF:-1 tvg-ID="" tvg-name="FR | 4K BEIN SPORTS FRENSH 1 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/FR_4K_BEINSPORTS_1.png" group-title=" AR | BEIN SPORTS  4K",FR | 4K BEIN SPORTS FRENSH 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38125
-#EXTINF:-1 tvg-ID="" tvg-name="FR | 4K BEIN SPORTS FRENSH 2 " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/FR_4K_BEINSPORTS_2.png" group-title=" AR | BEIN SPORTS  4K",FR | 4K BEIN SPORTS FRENSH 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38126
-#EXTINF:-1 tvg-ID="" tvg-name="US | 4K BEIN SPORTS NBA " tvg-logo="http://exaott.xyz/lagi/AR_BEINSPORTS_4K/AR_4K_BEINSPORTS_NBA.png" group-title=" AR | BEIN SPORTS  4K",US | 4K BEIN SPORTS NBA 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/38127
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN MOVIES 1 " tvg-logo="http://zeta.ukhost.xyz:2052/images/c7d57bf48294339c483bf0022f7a3542.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN MOVIES 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/411
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN MOVIES 2 " tvg-logo="http://zeta.ukhost.xyz:2052/images/f3f9a705f92b7a1fd6ea166d98fa92e4.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN MOVIES 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/412
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN MOVIES 3 " tvg-logo="http://zeta.ukhost.xyz:2052/images/8b5d1553b6506d757c95cfba4ad7d1a5.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN MOVIES 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/413
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN MOVIES 4 " tvg-logo="http://zeta.ukhost.xyz:2052/images/9f28bf66f3cfff404317fb9edfd96592.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN MOVIES 4 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/414
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN DRAMA " tvg-logo="http://zeta.ukhost.xyz:2052/images/cfebbe69e9003c612bdddf86f583fef9.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN DRAMA 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/415
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SERIES 1 " tvg-logo="http://zeta.ukhost.xyz:2052/images/20e7285e601e297fed86acfe0a0d06bb.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN SERIES 1 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/416
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN SERIES 2 " tvg-logo="http://zeta.ukhost.xyz:2052/images/66ab0f67ce8393ec61228860fd26d0ee.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN SERIES 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/417
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN HGTV " tvg-logo="http://wixa.fire33.xyz:2052/images/0794db1d115904a6627f8d240a2b93ce.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN HGTV 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/418
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN JUNIOR " tvg-logo="http://wixa.fire33.xyz:2052/images/e64f81339ad6c1058a5b169c6eb07be1.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN JUNIOR 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/434
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN DREAM WORK " tvg-logo="http://wixa.fire33.xyz:2052/images/cca7f591ea09a32dedbb67f9962fe412.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN DREAM WORK 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/433
-#EXTINF:-1 tvg-ID="" tvg-name="AR : HD BEIN JEEM " tvg-logo="http://wixa.fire33.xyz:2052/images/1610dc27f206357df15654dfbe4435ae.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR : HD BEIN JEEM 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/435
-#EXTINF:-1 tvg-ID="" tvg-name="AR | HD BEIN BARAEM " tvg-logo="http://zeta.ukhost.xyz:2052/images/12b79a6204de30b9bf8bbd5ed5a70f7f.png" group-title=" AR | BEIN ENTERTAINMENT HD",AR | HD BEIN BARAEM 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/436
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K  BEIN MOVIES 1" tvg-logo="http://zeta.ukhost.xyz:2052/images/d1934f209b1cf371380a0c49fe7ab4f4.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K  BEIN MOVIES 1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46799
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K  BEIN MOVIES 2 " tvg-logo="http://zeta.ukhost.xyz:2052/images/721b14cd3eeaaf2a1ad137813fc05a8e.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K  BEIN MOVIES 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46800
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN MOVIES 3 " tvg-logo="http://zeta.ukhost.xyz:2052/images/4225372eabf4fa9c2c1af0085677124c.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN MOVIES 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46801
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN MOVIES 4 " tvg-logo="http://zeta.ukhost.xyz:2052/images/ab9693cc4801e32ed5f781babadd5e2a.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN MOVIES 4 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46802
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SERIES 1" tvg-logo="http://zeta.ukhost.xyz:2052/images/963ed6dd49ee8a519f84837721d03ca4.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN SERIES 1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46803
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN SERIES 2 " tvg-logo="http://zeta.ukhost.xyz:2052/images/502540ff04f4e4347cbe1f59d665116a.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN SERIES 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46804
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN BARAEAM " tvg-logo="http://zeta.ukhost.xyz:2052/images/87d0ac829221ca4030bb641cc759c78a.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN BARAEAM 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46805
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN JEEM " tvg-logo="http://zeta.ukhost.xyz:2052/images/95697349cce5a4afe2b754ce7a988596.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN JEEM 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46806
-#EXTINF:-1 tvg-ID="" tvg-name="EN | 4K BEIN BBC EARTH " tvg-logo="http://zeta.ukhost.xyz:2052/images/8388b1dbbc631a005892e66c0fbf6274.png" group-title=" AR | BEIN ENTERTAINMENT 4K",EN | 4K BEIN BBC EARTH 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46808
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN FATAFEAT " tvg-logo="http://zeta.ukhost.xyz:2052/images/a880ec3938ca386b652d48561cd76686.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN FATAFEAT 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46809
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN FOX CRIME " tvg-logo="http://zeta.ukhost.xyz:2052/images/c96ae0885a7ac7926a1ece8ad508af98.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN FOX CRIME 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46810
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN FOX LIFE " tvg-logo="http://wixa.fire33.xyz:2052/images/7ea43bffa09234776fcc5c279b90df70.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN FOX LIFE 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46811
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN FOX MOV ACTION " tvg-logo="http://zeta.ukhost.xyz:2052/images/d4d6d65ded1f48fd15a93abf87ab6214.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN FOX MOV ACTION 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46812
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN FOX MOVIES " tvg-logo="http://zeta.ukhost.xyz:2052/images/df0dec4a443e36861b0cb6378758297e.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN FOX MOVIES 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46813
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN FOX REWAYAT " tvg-logo="http://zeta.ukhost.xyz:2052/images/66e3dbb100077cac626125d0cc2e7c82.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN FOX REWAYAT 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46814
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN GORMENT " tvg-logo="http://zeta.ukhost.xyz:2052/images/577b8d43e833e8d2242356d956b653c4.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN GORMENT 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46815
-#EXTINF:-1 tvg-ID="" tvg-name="AR | 4K BEIN DRAMA " tvg-logo="http://zeta.ukhost.xyz:2052/images/b2fd52ec00dd05716fb497397583b364.png" group-title=" AR | BEIN ENTERTAINMENT 4K",AR | 4K BEIN DRAMA 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/46816
-#EXTINF:-1 tvg-ID="" tvg-name="TR:beIN.Haber" tvg-logo="" group-title="TR | TURKISH HD",TR:beIN.Haber
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304414
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport1" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304415
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport1.HD" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport1.HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304416
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport2" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport2
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304417
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport2.HD" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport2.HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304418
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport3" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport3
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304419
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport3.HD" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport3.HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304420
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport4" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport4
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304421
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport4.HD" tvg-logo="" group-title="TR | TURKISH HD",TR:Beinsport4.HD
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304422
-#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SPORTS MAX 1" tvg-logo="" group-title="TR | TURKISH HD",TR: BEIN SPORTS MAX 1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304423
-#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SPORTS MAX 2" tvg-logo="" group-title="TR | TURKISH HD",TR: BEIN SPORTS MAX 2
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304424
-#EXTINF:-1 tvg-ID="" tvg-name="TR:BeinMovies.Turk" tvg-logo="" group-title="TR | TURKISH HD",TR:BeinMovies.Turk
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304439
-#EXTINF:-1 tvg-ID="" tvg-name="TR:BeinMovies.Stars" tvg-logo="" group-title="TR | TURKISH HD",TR:BeinMovies.Stars
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304440
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Bein.Movies.premier" tvg-logo="" group-title="TR | TURKISH HD",TR:Bein.Movies.premier
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304441
-#EXTINF:-1 tvg-ID="" tvg-name="TR:BeinMovies.Action" tvg-logo="" group-title="TR | TURKISH HD",TR:BeinMovies.Action
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/304442
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/38139
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS 1" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_1_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS 1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96731
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96731
 #EXTINF:-1 tvg-ID="" tvg-name="FR | 4K BEIN SPORTS 1" tvg-logo="http://exaott.xyz/lagi/FRENCH_4K/BEINSPORTS_1_FR_4K.png" group-title=" FR | FRANCE SPORTS",FR | 4K BEIN SPORTS 1
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96733
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96733
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS 2 " tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_2_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS 2 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96734
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96734
 #EXTINF:-1 tvg-ID="" tvg-name="FR | 4K BEIN SPORTS 2" tvg-logo="http://exaott.xyz/lagi/FRENCH_4K/BEINSPORTS_2_FR_4K.png" group-title=" FR | FRANCE SPORTS",FR | 4K BEIN SPORTS 2
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96736
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96736
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS 3 " tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_3_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS 3 
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96737
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96737
 #EXTINF:-1 tvg-ID="" tvg-name="FR | 4K BEIN SPORTS 3" tvg-logo="http://exaott.xyz/lagi/FRENCH_4K/BEINSPORTS_3_FR_4K.png" group-title=" FR | FRANCE SPORTS",FR | 4K BEIN SPORTS 3
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96738
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96738
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 4 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_4_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 4 (EVENT ONLY)
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96739
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96739
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 5 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_5_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 5 (EVENT ONLY)
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96740
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96740
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 6 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_6_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 6 (EVENT ONLY)
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96741
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96741
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 7 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_7_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 7 (EVENT ONLY)
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96742
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96742
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 8 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_8_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 8 (EVENT ONLY)
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96743
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96743
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 9 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_9_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 9 (EVENT ONLY)
-http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96744
-
+http://cloud.cdn-proxy.win:2052/goldstreamexchnage/tj7xXCM8X27U/96744
