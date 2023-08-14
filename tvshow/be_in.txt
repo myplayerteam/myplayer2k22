@@ -375,3 +375,97 @@ http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96742
 http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96743
 #EXTINF:-1 tvg-ID="" tvg-name="FR | HD BEIN SPORTS MAX 9 (EVENT ONLY)" tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_9_HD.png" group-title=" FR | FRANCE SPORTS",FR | HD BEIN SPORTS MAX 9 (EVENT ONLY)
 http://saw.duplex-ott.net:2052/802483361549361/802423208482904/96744
+#EXTINF:-1 tvg-ID="" tvg-name="CA : BEIN SPORTS CANADA" tvg-logo="http://icons.tw:8080/images/cdac01407657cbfe2817641ae84e7fcd.png" group-title="CANADIAN TV",CA : BEIN SPORTS CANADA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/53609.ts
+#EXTINF:-1 tvg-ID="" tvg-name=" DISTROTV: BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/6bde49c24f611c811e5ffa42708d498c.jpeg" group-title="DISTRO TV", DISTROTV: BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/274270.ts
+#EXTINF:-1 tvg-ID="" tvg-name=" DISTROTV: BEIN SPORTS XTRA EN ESPAÑOL" tvg-logo="http://icons.tw:8080/images/6bde49c24f611c811e5ffa42708d498c.jpeg" group-title="DISTRO TV", DISTROTV: BEIN SPORTS XTRA EN ESPAÑOL
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/274286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT 1 FR" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT 1 FR
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT 2 FR" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT 2 FR
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT 3 FR" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT 3 FR
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-10" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-10
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-4" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-4
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-5" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-5
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-6" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-6
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-7" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-7
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-8" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-8
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : BEINSPORT-MAX-9" tvg-logo="http://icons.tw:8080/images/France.png" group-title="FRENCH TV",FR : BEINSPORT-MAX-9
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57260.ts
+#EXTINF:-1 tvg-ID="" tvg-name=" LOCALNOW: BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/7785ed264acf20ac659e13fb6de78341.png" group-title="LOCAL NOW TV", LOCALNOW: BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/274211.ts
+#EXTINF:-1 tvg-ID="" tvg-name=" LOCALNOW: BEIN SPORTS XTRA ESPANOL" tvg-logo="http://icons.tw:8080/images/7785ed264acf20ac659e13fb6de78341.png" group-title="LOCAL NOW TV", LOCALNOW: BEIN SPORTS XTRA ESPANOL
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/274034.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PH : BEIN SPORTS 1" tvg-logo="http://icons.tw:8080/images/Phil.png" group-title="PHILIPPINES TV",PH : BEIN SPORTS 1
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PH : BEIN SPORTS 2" tvg-logo="http://icons.tw:8080/images/Phil.png" group-title="PHILIPPINES TV",PH : BEIN SPORTS 2
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/57392.ts
+#EXTINF:-1 tvg-ID="" tvg-name=" PLEX_USA : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/15f8fe4ad7760d77c85e686eefafd26f.png" group-title="PLEX USA TV", PLEX_USA : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/272631.ts
+#EXTINF:-1 tvg-ID="" tvg-name=" PLUTO_CA : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="PLUTO TV CANADA", PLUTO_CA : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/272424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO_US : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="PLUTO TV USA",PLUTO_US : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/272212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLUTO_US : BEIN SPORTS XTRA EN ESPAÑOL" tvg-logo="http://icons.tw:8080/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="PLUTO TV USA",PLUTO_US : BEIN SPORTS XTRA EN ESPAÑOL
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/272046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDBOXTV: BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/cc37b8296b148d4187e44b201d0757ba.png" group-title="REDBOX TV",REDBOXTV: BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/139089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ROKU: BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/292eebca0d5aa42928e07457ec8a22b3.png" group-title="THE ROKU CHANNEL",ROKU: BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/139832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU BEIN SPORTS 1" tvg-logo="http://icons.tw:8080/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 1
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/112415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU BEIN SPORTS 2" tvg-logo="http://icons.tw:8080/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 2
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/112416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU BEIN SPORTS 3" tvg-logo="http://icons.tw:8080/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 3
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/112417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS (ESP)" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS (ESP)
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 04" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 04
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 05" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 05
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 06" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 06
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 07" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 07
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 08" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 08
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS ENGLISH 01" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 01
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS ENGLISH 02" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 02
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS ENGLISH 03" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 03
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS LA LIGA" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS LA LIGA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS PREMIUM 01" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 01
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS PREMIUM 02" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 02
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS PREMIUM 03" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 03
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS USA" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS USA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/56353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/731a3d7df838df35f90407dd812880c6.png" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/58290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STVP_CA : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/455a640a5446a65648be565be0d95717.png" group-title="SAMSUNG TV PLUS CA",STVP_CA : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/139137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STVP_US : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/455a640a5446a65648be565be0d95717.png" group-title="SAMSUNG TV PLUS US",STVP_US : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/139615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TUBITV : BEIN EN ESPANOL" tvg-logo="http://icons.tw:8080/images/61e5eca1f9c4eff53be5f32e1df811fa.png" group-title="TUBI TV",TUBITV : BEIN EN ESPANOL
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/168564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TUBITV : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/61e5eca1f9c4eff53be5f32e1df811fa.png" group-title="TUBI TV",TUBITV : BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/168559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US : BEIN SPORTS" tvg-logo="http://icons.tw:8080/images/cdac01407657cbfe2817641ae84e7fcd.png" group-title="PREMIUM SPORTS",US : BEIN SPORTS
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/55055.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XUMOTV: BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/28afc2b34d0c562a391e4734c3fc446f.png" group-title="XUMO TV",XUMOTV: BEIN SPORTS XTRA
+http://hostengine.live/live/Tray3152/kKtKeZcEKG/139978.ts
