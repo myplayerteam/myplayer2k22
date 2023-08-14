@@ -2829,3 +2829,31 @@ http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/494973
 http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/494972
 #EXTINF:-1 tvg-ID="" tvg-name="Pluto (ES) Pluto TV Action Sports (D)" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/PLuto_logo_675x675-1.png" group-title="PLUTO ESP",Pluto (ES) Pluto TV Action Sports (D)
 http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/405129
+#EXTINF:-1 tvg-ID="" tvg-name="PPV: UFC Channel" tvg-logo="http://fighttalkscotland.com/wp-content/uploads/2016/02/UFC_Logo.png" group-title="PAY PER VIEW",PPV: UFC Channel
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/433505
+#EXTINF:-1 tvg-ID="" tvg-name="US: UFC 24/7" tvg-logo="https://cdn.vox-cdn.com/thumbor/nPK5qMh-7QFW8HgvXO-bqquAy6o=/0x53:1000x720/2420x1613/filters:focal(0x53:1000x720)/cdn.vox-cdn.com/uploads/chorus_image/image/29638231/ufc_fightpass_logo_f_png.0.png" group-title="MMA / UFC FIGHT PASS",US: UFC 24/7
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/392618
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 1 (FHD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 1 (FHD) 
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515970
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 1 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 1 (HD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515971
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 1 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 1 (SD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515972
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 2 (FHD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 2 (FHD) 
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515973
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 2 (HD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 2 (HD) 
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515974
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 2 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 2 (SD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515975
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 3 (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 3 (FHD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515976
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 3 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 3 (HD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515977
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 3 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 3 (SD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515978
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 4 (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 4 (FHD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515979
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 4 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 4 (HD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515980
+#EXTINF:-1 tvg-ID="" tvg-name="US UFC Feed 4 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="MMA / UFC FIGHT PASS",US UFC Feed 4 (SD)
+http://abc123.digital:8080/derrellpigler@gmail.com/qi4pSQG3cY/515981
