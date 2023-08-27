@@ -1,3 +1,4 @@
+(myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/btv.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Bro Snow Lake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Bein TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
