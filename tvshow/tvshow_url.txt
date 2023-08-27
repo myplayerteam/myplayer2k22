@@ -3,5 +3,5 @@
 (myplayer)Bein TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Movies,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
-(myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
+
 (myplayer)MON TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/montv.txt
