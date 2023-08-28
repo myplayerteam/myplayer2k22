@@ -144,6 +144,8 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXVfm7yhgdEz9JDH2WiY11M/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJT_ZT79ODwi5a5REmshbKIs/ts
 #EXTINF:-1 xui-id="101" tvg-id="" tvg-name="Babyshark TV" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007florc4Logo3PNG.colpng" group-title="Kids",Babyshark TV
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJT0SgsY_R6HqhBd-pIETnU4/ts
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://bananatv.org:25461/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQNp9T3V2ixB1NqI_Dux0y7rSfn24DxWJExDqiAp5ar4g.png" group-title="Kids",ZOOMOO
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJRZntdu8sr_aGSD3Mmh9tlc/ts
 #EXTINF:-1 xui-id="103" tvg-id="" tvg-name="Cbeebies" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWbzWCsrdG4srKzPcm-mAKICFWmKkRsk92fZx327IVp8EGaq7RJz8detaNTzX2bOJg.png" group-title="Kids",Cbeebies
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdhs6X9Ke5Yy65pVm-sgHOY/ts
 #EXTINF:-1 xui-id="108" tvg-id="" tvg-name="Happykids Junior" tvg-logo="http://bananatv.org:25461/images/j2JIxoJMU5fPnzAxyulXbezTzm9g0F0e-SPlxuqma6za5Q9kS5GnX_rBxd7UFIlmPiSIY2OKMBGlIWpM-GEmuCzxAN9PEDNOczUXBapdN1Oj2r5TnMJfDBBSqjtJHMH-.jpg" group-title="Kids",Happykids Junior
@@ -202,8 +204,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbbL6WaYnNxCGwzU9yCJngo/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQuvFC2t4u7TYj8PDiKhIoM/ts
 #EXTINF:-1 xui-id="133" tvg-id="" tvg-name="Star Gold" tvg-logo="http://bananatv.org:25461/images/n7sRxEiXa0bgV1VC9zT1MwBUtII9x9_eFWlVxEIkKbCX6pkzWj-srLV9OVdSKpZ650HefN12X4SReTzhKhNzhw.jpg" group-title="Hindi",Star Gold
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbXro6DfMh60l9AG9o1jLHA/ts
-#EXTINF:-1 xui-id="591" tvg-id="" tvg-name="TPF HD 1" tvg-logo="http://bananatv.org:25461/images/dJQGixVJxvDz0Po424fK0YkOeci5jwT6_VlJpe14T5reC47zS8AcOv-Yw7xQYjdn30TN9Shju4iZ95ivwQQJ2OSFe0B-MyS3U4fVDeac5rY.jpg" group-title="Thai & Truevisions",TPF HD 1
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJc_P5S_gBYIP2tfDxptV1t4/ts
 #EXTINF:-1 xui-id="122" tvg-id="" tvg-name="TPF HD 2" tvg-logo="http://bananatv.org:25461/images/dJQGixVJxvDz0Po424fK0YkOeci5jwT6_VlJpe14T5reC47zS8AcOv-Yw7xQYjdn30TN9Shju4iZ95ivwQQJ2KFnPvgMRCxwDLh435m3-80.jpg" group-title="Thai & Truevisions",TPF HD 2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYFLKaUh6UVaYSil_u-gkcQ/ts
 #EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Star Gold HD Tplay" tvg-logo="http://bananatv.org:25461/images/8QYbcp0UzkidJPymSoJRlOJOm64BN15i885LQffdSCdTSkJNN6s-Qi2JkO90Q9MQg_69KqkersduaxvF02XXaw.png" group-title="Hindi",Star Gold HD Tplay
@@ -454,8 +454,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbG4oK-SscocwmaSnseUsf4/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTMKM1OJRhCUPk3XtWIw3rI/ts
 #EXTINF:-1 xui-id="520" tvg-id="" tvg-name="Gemini TV HD" tvg-logo="" group-title="Telugu",Gemini TV HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfoJ6P5VDlV4vCD-hOoO0as/ts
-#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="Travel Channels" tvg-logo="" group-title="Documentry",Travel Channels
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUkw8nV9gkrp_sTK6QpeXTg/ts
 #EXTINF:-1 xui-id="521" tvg-id="" tvg-name="Sun News" tvg-logo="http://bananatv.org:25461/images/Z9P7BwxXlTl-k8RLQ286tBrdIQ7oWjwrIUBWOve60BuLphNp4L7iCb-ycjRPlK7OQz36qoskr1exHxcH1KBOk-B6Zv5KWgFVvIS8vBDfTE4v8UFM-Gi8UaRtQmC0epiIsZ64cnCe-26R-5dYC3yGSccSX3B6aLLXqERW0r3UQoy0-7PnJAlSWlY6bk5wnAOq5q3_Z_4ub-KtPZKtx3zLNw.png" group-title="Tamil",Sun News
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbLK0hiBhEa0im8NR-tcNsI/ts
 #EXTINF:-1 xui-id="522" tvg-id="" tvg-name="Polimar News" tvg-logo="http://bananatv.org:25461/images/UB-WxTqJnHO7rF2-O5tswlc9iFARhRXd9LvKk26PK8zb5teSoK7tZHDI-rfeqpujNB_Gu6Xt7aUvw9XLXEYDJn5EOmf-shrJeQqroLKRX8A.png" group-title="Tamil",Polimar News
@@ -526,7 +524,7 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJY0qgwJv2Ld96geAsrkLURQ/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdIUtqlFTz7EOOf0r8GWRwQ/ts
 #EXTINF:-1 xui-id="605" tvg-id="" tvg-name="EPL 7" tvg-logo="https://www.dropbox.com/scl/fi/nc1prud3qiiyujuhcwjbv/20230815_182237_0000.jpg?rlkey=3qtfabuu2sez2sja4wtwa09c6&dl=1" group-title="Football",EPL 7
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJa7ZRqGocwx04K-3BXXfPJM/ts
-#EXTINF:-1 xui-id="651" tvg-id="" tvg-name="EPL 5 (Live SD)" tvg-logo="http://bananatv.org:25461/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPksl3hWYtibpDuEmKLNEmwvi3C2W_AXZeSYCQDkG7rminkaPrGP1ANVHMcYc8t-2g7WYjp7vwbOV7QeVfPYipUNPlQgBwbaQ6ni63CLbp4k3z7xP9_JLKRBBvbmrR0gXxTyWqLLouNNgq1YcA4YMubtFIQP0xWU6bSxQBgmC17PSGQ.jpg" group-title="Football",EPL 5 (Live SD)
+#EXTINF:-1 xui-id="651" tvg-id="" tvg-name="EPL 5 (Live HD)" tvg-logo="http://bananatv.org:25461/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPksl3hWYtibpDuEmKLNEmwvi3C2W_AXZeSYCQDkG7rminkaPrGP1ANVHMcYc8t-2g7WYjp7vwbOV7QeVfPYipUNPlQgBwbaQ6ni63CLbp4k3z7xP9_JLKRBBvbmrR0gXxTyWqLLouNNgq1YcA4YMubtFIQP0xWU6bSxQBgmC17PSGQ.jpg" group-title="Football",EPL 5 (Live HD)
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdpV38ckfCuLmriAoR5Mtw4/ts
 #EXTINF:-1 xui-id="348" tvg-id="980" tvg-name="Laliga 1 HD" tvg-logo="https://www.dropbox.com/scl/fi/lqjwpaztsnnyj4527nnx1/20230815_183913_0000.jpg?rlkey=0gmw84rx8umtaogkj7xmjdk54&dl=1" group-title="Football",Laliga 1 HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJc_HP2at1yiYPGpFlJaohTI/ts
@@ -570,8 +568,16 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJflKosih62i-PGpQxn9VLSI/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJRpC9xA1nmhhnJsfybCBQZ8/ts
 #EXTINF:-1 xui-id="639" tvg-id="" tvg-name="Arena Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw6NHpu9B8ERbXYc-rxgGmxQ1eCbhfG_N7DARi4dtQAbMhEcuSinEYNujrQrRLN6M0tQ&usqp=CAU" group-title="Football",Arena Sport 6
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJcjn7myGWhjxv3eZPIYniKg/ts
-#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="Jio Football 8" tvg-logo="https://www.dropbox.com/scl/fi/vshoskvfrhaur5kso8er2/20230805_181037_0000.jpg?rlkey=3dbb0qh2ecwswvv3dj2gkx0uz&dl=1" group-title="Football",Jio Football 8
+#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="TPF HD 1 Test" tvg-logo="http://bananatv.org:25461/images/6Uuj9KM6KWBw8Skj5Y5OusCimXkfv1h885xkrWGV2QTa81y4eAxIiXvNChbWSa3fcXMp0WBR3491MmNC85MezYd_iST0o9S12Jgh38oSwxtKrrsU6bVpRiNGMm9xStH8.png" group-title="test",TPF HD 1 Test
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWn6ZbV6pAC_zgekeP1tydU/ts
+#EXTINF:-1 xui-id="646" tvg-id="" tvg-name="TPF HD 2" tvg-logo="http://bananatv.org:25461/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET_DY7yqd19liyQQGzBmIXtb5DAEI_dPvm9yPt6kThpWMfjMRI3KwfjSMJ6gCFj5IKA0OM39pijFH7UViP6CnxQN.png" group-title="test",TPF HD 2
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXq5cBTVUPp5mMcLm2WxZjc/ts
+#EXTINF:-1 xui-id="650" tvg-id="" tvg-name="TPF HD 3 Test" tvg-logo="http://bananatv.org:25461/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-UYcGpNNIzUxxH4GN5vOEybbaa-Dnuwrrl9bP8cDo0A_DP56TcbL5qZgHeS0t3djBY-roPrAqxSixj5DENkMij.png" group-title="test",TPF HD 3 Test
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWXcWmpmRusZcGRYJ1HpTlY/ts
+#EXTINF:-1 xui-id="649" tvg-id="" tvg-name="TPF HD 4 Test" tvg-logo="http://bananatv.org:25461/images/6Uuj9KM6KWBw8Skj5Y5OusCimXkfv1h885xkrWGV2QTa81y4eAxIiXvNChbWSa3fcXMp0WBR3491MmNC85MezaYgui9OSQ2T3tzSEKBEUxD4-bZvplKy4tzStFvs7mWE.png" group-title="test",TPF HD 4 Test
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXnd-6aTpvsprii98VJxht4/ts
+#EXTINF:-1 xui-id="648" tvg-id="" tvg-name="TPF HD 5 Test" tvg-logo="http://bananatv.org:25461/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-MEGErPw4VyJ6MV-PmL5D4hEBn1Gm8tq0x-OW-01O8WFokN5wiMbP8xbWQP5hf_5tvP7nARqhT-CqKFrn8yS8K.png" group-title="test",TPF HD 5 Test
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdGDDE6g57nGKv7RQwqSOeY/ts
 #EXTINF:-1 xui-id="590" tvg-id="" tvg-name="BBTV CH 7" tvg-logo="https://www.dropbox.com/scl/fi/1w37mkcv4ls5ovy8wldsk/20230805_180155_0000.jpg?rlkey=2r3o334n5bb1ew7131ml4gbu5&dl=1" group-title="Thai & Truevisions",BBTV CH 7
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfMO1sF82rAt6Oy8bXyvjiQ/ts
 #EXTINF:-1 xui-id="645" tvg-id="" tvg-name="Canal+ Sport 1" tvg-logo="http://bananatv.org:25461/images/10YnP16-IRHnuyUj8Kv9by_wgYmqbz_Tx1k1bTiWuUXZYj6_ugTEYJ7ascT4e0B6vc7de0PRwrNvXKWBERdOniHn7Of_EaBhNgtPmTgMQJptyzeHRIJFC-eyw5XIEo06R5ArXmCpbQo7kc6n5c7I8-1Sw6b1GFUDCePR0tvhAz9c_QyQaleXBv8FGJhv4oJ8GUsrpx7gZl89L8Pwy35p0lH3seDY5WepE5ZuNgiORys.png" group-title="Football",Canal+ Sport 1
@@ -596,7 +602,7 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYWCDrwniSR9ixtkEZ4sz-A/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSRpVikJmGrl0Q1tpZjP0MA/ts
 #EXTINF:-1 xui-id="627" tvg-id="" tvg-name="Beinsport 7 AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97hu9-6fqZhQUdQO30rqY6eyQDIH2mYwomSWhetcv8Ozrib-qHhIeSzzeeblE1jE92A&usqp=CAU" group-title="Football",Beinsport 7 AR
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYzN3JovoXF0DStjhgfIOqs/ts
-#EXTINF:-1 xui-id="654" tvg-id="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sport",Real Madrid TV
+#EXTINF:-1 xui-id="654" tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://bananatv.org:25461/images/MJokfpwM-JIKeW6uSTjp6xoxNPhcOaDJ3AVzy18En-QuKghAgGq2s25Hd5EE0demAAwkytEgxDMZ9cg1NPLHCj188UHNgzzaLD2oa3FSVwx9HrF_ACk_qQq8huT4VEMH.jpg" group-title="Sport",Real Madrid TV
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSDI1FvrjLb775wrljiraZo/ts
 #EXTINF:-1 xui-id="656" tvg-id="" tvg-name="IBC Comedy" tvg-logo="http://bananatv.org:25461/images/6DJcH9So8dma-2vFaUXP2Tn0WGIBcM9yzNABkxPEtjABgWCrymKcfgkHA3exaOKM8WEYyW7OkytcgC0TPSwb8fdrUY2s3e9b_bgj2E8X774.jpg" group-title="Tamil",IBC Comedy
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJZgzdkjw7BSGU5E1A8Bl6hw/ts
@@ -1686,6 +1692,104 @@ http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6z7Z4z5sIoRts4xVw87BDvU#.mp4
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61JMVFwxY9Rx_Sq_4ZaVAlw#.mp4
 #EXTINF:-1 xui-id="945" tvg-name="Fast X (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYLlMQsVCZ7T5XAjgkCQidrbDQeRrt1l3Ht-RkSpuE9c.jpg" group-title="Action 2023",Fast X (2023)
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69J1T8SwKFhIQ2bNdv9HX2g#.mp4
+#EXTINF:-1 xui-id="946" tvg-name="Assassination Games (2011)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlrdc60j_VD_U6VZU0KgihCqzaK-WfSVVKL9akLTUlRU.jpg" group-title="Action",Assassination Games (2011)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6ykDf4Z8QnLCRrfA8DhpTJo#.mp4
+#EXTINF:-1 xui-id="947" tvg-name="Bloodsport (1988)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2JKX7IUkjKAJ2smj6nRBBWm1Uof89Xrw47oxaAtC2RA.jpg" group-title="Action",Bloodsport (1988)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wxYN_ejV7JXjqBOjoTB7bE#.mp4
+#EXTINF:-1 xui-id="948" tvg-name="Cyborg (1989)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaykbQcvMNCp8xjTfyi4X9Yx_F6LxwywPPD-J-AOur1U.jpg" group-title="Action",Cyborg (1989)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64kdciZPSl0jQuo2Ba01l5Y#.mp4
+#EXTINF:-1 xui-id="949" tvg-name="Death Warrant (1990)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLt54iAA3ZqxqJkvri03JTEUFoWE4EJFvUyv4UiKT3Dv0.jpg" group-title="Action",Death Warrant (1990)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67asXw8CrLpOWgoqj9B_8dQ#.mp4
+#EXTINF:-1 xui-id="950" tvg-name="Double Impact (1991)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrLVUxGAO81HX6To4rrDh9BbtDazS_NWzFTSTX7Le8aE.jpg" group-title="Action",Double Impact (1991)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60AUdJ49-HHTIA5pw6ob2_s#.mp4
+#EXTINF:-1 xui-id="951" tvg-name="In Hell (2003)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9OwfEqI_ixDVPd4dDjl1N_iW6Xi2oeic50Wq-2hRhaI.jpg" group-title="Action",In Hell (2003)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E642MfUIgMEtdqFAYCD7ZiAU#.mp4
+#EXTINF:-1 xui-id="952" tvg-name="Inferno (1999)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGXnTpAchq3IEzspTLMv9qp31zVwL1R4YZUlK9uM1Gew.jpg" group-title="Action",Inferno (1999)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6ysc-NLhl4tjuO4YskfHXJw#.mp4
+#EXTINF:-1 xui-id="953" tvg-name="Kickboxer (1989)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxpiPBN3qrWnAMxrzIw6wo8FsIXTY1Tcdvv9-g1rGHjw.jpg" group-title="Action",Kickboxer (1989)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yvU4dnBzrBOXd70IbB14Zw#.mp4
+#EXTINF:-1 xui-id="954" tvg-name="Kill 'em All (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLd4Oeu_6ACeFrCRoKEU7mOsk6H9hkpUiiJCvhf4UmhXM.jpg" group-title="Action",Kill 'em All (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61hq45_LJOJHJWM956EnRT8#.mp4
+#EXTINF:-1 xui-id="955" tvg-name="Knock Off (1998)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVG78gxwDevxI18Bc8BLV2I4rhEnfXSVFr1e36pqC_nE.jpg" group-title="Action",Knock Off (1998)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wuTXZqrATCwhldjBrG7vps#.mp4
+#EXTINF:-1 xui-id="956" tvg-name="Legionnaire (1998)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe_lg-HPgkMqlBEkDzr1HB51nu_e35gWzY4j9lu-2yQc.jpg" group-title="Action",Legionnaire (1998)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E63J32lGh1FhNa0iLo95UBP8#.mp4
+#EXTINF:-1 xui-id="957" tvg-name="Lionheart (1990)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtjOxytW1sp8UB_hfJxO0EZ4rlOBYV45RpeYTNX5sWoA.jpg" group-title="Action",Lionheart (1990)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66v1EUNd1xkxp4l0GaebvKY#.mp4
+#EXTINF:-1 xui-id="958" tvg-name="Maximum Risk (1996)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_HfdOUG5yKkJtVFp-DEZc2EgFhgXNCgX88_fgZSZcKo.jpg" group-title="Action",Maximum Risk (1996)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65zPWPrcw4Z25qFn_qLfMMY#.mp4
+#EXTINF:-1 xui-id="959" tvg-name="Nowhere to Run (1993)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4MeaIJLwfv2SuUnRGOByVzfE3OK5DCPVeyuwExWATEw.jpg" group-title="Action",Nowhere to Run (1993)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61nDAqYDP43xpW2rPvbKFzg#.mp4
+#EXTINF:-1 xui-id="960" tvg-name="Replicant (2001)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe4IiLgE52viS0tfmCc7-uxVB1pGm3rUM800I0PGH1m4.jpg" group-title="Action",Replicant (2001)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68H0laXFrfqTDv-wEjmt02A#.mp4
+#EXTINF:-1 xui-id="961" tvg-name="6 Bullets (2012)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTN5k6b9X9P-Z9jTqVIk7bJ--0-XRpNow9qECoyJvwMw.jpg" group-title="Action",6 Bullets (2012)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69GBULKhEtXnk5U8teavBRU#.mp4
+#EXTINF:-1 xui-id="962" tvg-name="Street Fighter (1994)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqcQFI_Zg6TyntYipify4fUR_6kEuXgv99l-57NGIUDs.jpg" group-title="Action",Street Fighter (1994)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60itiN6PiiIA5lG-ynW7mVM#.mp4
+#EXTINF:-1 xui-id="963" tvg-name="Sudden Death (1995)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLt-mNic-WrpnbbG647ufzfLrvnXII_DYUCX0jdd39Rb8.jpg" group-title="Action",Sudden Death (1995)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66aG21FGFZ2HXII1xqU_34o#.mp4
+#EXTINF:-1 xui-id="964" tvg-name="The Quest (1996)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAlqHmhVeSgqMhwFNg17yUV1hyCbAcPdX7DHL-tpRIE8.jpg" group-title="Action",The Quest (1996)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67cOSnYgY4rQ_bxKTU-g0RM#.mp4
+#EXTINF:-1 xui-id="965" tvg-name="Timecop (1994)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmZmEiPdkt7FlqMzQhe3SbsQuvdtbYzHlt4XaiHUKU_o.jpg" group-title="Action",Timecop (1994)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yGqEnLu26M2DiNFNOmWG_c#.mp4
+#EXTINF:-1 xui-id="966" tvg-name="Universal Soldier (1992)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuaYiSUCV4TsuZlKysKSROIqPb_nLvO6q7Y2Vq6Ih9LE.jpg" group-title="Action",Universal Soldier (1992)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yH2wQMBHhUVHnspFu2k718#.mp4
+#EXTINF:-1 xui-id="967" tvg-name="Universal Soldier: The Return (1999)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLN_7xoPzTf2FHEsoSn8HRz-QddZKB6pPXYzqG6rVX4TU.jpg" group-title="Action",Universal Soldier: The Return (1999)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6ylzEHAkSkyd4kSvuNymrsI#.mp4
+#EXTINF:-1 xui-id="968" tvg-name="Wake of Death (2004)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJe0enzbah-9OIt6iCIVsY_RNgxHP5CtPkCvRx1ZaRko.jpg" group-title="Action",Wake of Death (2004)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68l5J3H5fhXKViABagCUBdg#.mp4
+#EXTINF:-1 xui-id="977" tvg-name="A Man Apart (2003)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvCW941kHl1zew6H-e9RveJsLLPUldNrLtFArTTSrOkk.jpg" group-title="Action",A Man Apart (2003)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_WjSt5p3bekWPFb4-CQ-3k#.mp4
+#EXTINF:-1 xui-id="978" tvg-name="Babylon A.D. (2008)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiiLA6BKHikLM9gOTqHwdzWAoVxU8K99Lfuce3EVkk34.jpg" group-title="Action",Babylon A.D. (2008)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65ELLXU6Klq1gq2AAFc7K8g#.mp4
+#EXTINF:-1 xui-id="979" tvg-name="Bloodshot (2020)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCmbqxf2dehsWhkNzIyOxmh2D4-zbbEPPh-jW_ST5XeU.jpg" group-title="Action",Bloodshot (2020)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61B1Zv7-q68JnqZ73NPVK-A#.mp4
+#EXTINF:-1 xui-id="980" tvg-name="The Fast and the Furious (2001)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj3jWo_Ondlww7bcVS9hZ5V49un_MJI6uC8COw6PI9RA.jpg" group-title="Action",The Fast and the Furious (2001)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64o_J8aEAYNZFUCZtXBrWw4#.mkv
+#EXTINF:-1 xui-id="981" tvg-name="2 Fast 2 Furious (2003)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjrKkUKi0sd_tM5iu9tT8HwQYNz7MOP8dpt5Tt-HRfBs.jpg" group-title="Action",2 Fast 2 Furious (2003)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yZnirNbqEoQjqeajDzkqGY#.mkv
+#EXTINF:-1 xui-id="982" tvg-name="The Fast and the Furious: Tokyo Drift (2006)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxxSIeVMD8pFrWXgb2J5BErHOSiQ3MujdAV8GgqQUztE.jpg" group-title="Action",The Fast and the Furious: Tokyo Drift (2006)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E615vfeVFs75CE9AKCfSJkoo#.mkv
+#EXTINF:-1 xui-id="983" tvg-name="Fast & Furious (2009)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3xeZiiJsj6JujIh2oLeFUJK1toT6PpkEA6E6bVP91-4.jpg" group-title="Action",Fast & Furious (2009)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xZyMRBPzC7bEzBQF3N6Mr4#.mkv
+#EXTINF:-1 xui-id="984" tvg-name="Fast Five (2015)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoof8uQkg9eX-P8neNoJ5Qf2j_NhHixFvOR5gvFqKxIA.jpg" group-title="Action",Fast Five (2015)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6z6nXLqgbtd0nP6l9Y0_tso#.mkv
+#EXTINF:-1 xui-id="985" tvg-name="Fast & Furious 6 (2013)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2Mq3OuDj4rYPzaTusQS-IP6vbSvLiOPgtwTxYuX4-Us.jpg" group-title="Action",Fast & Furious 6 (2013)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68A5ss0YvAnGhlOIVk_rX8Q#.mkv
+#EXTINF:-1 xui-id="986" tvg-name="The Fate of the Furious (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKQgWYgqRjaTD2_YuK0KtF5XRaJClkyTboNS_YoqQ0t0.jpg" group-title="Action",The Fate of the Furious (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68K-YBOPf6QSU33LRGoGo4Q#.mp4
+#EXTINF:-1 xui-id="987" tvg-name="F9 (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxvaiIOgaItGGQ2Mxdfys8D_1VHNihP8PJVMP8boeD6w.jpg" group-title="Action",F9 (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_qKpjSW00MPSVg1SLlaeUM#.mp4
+#EXTINF:-1 xui-id="988" tvg-name="Fast & Furious Presents: Hobbs & Shaw (2019)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzBWpJlCaYHo185aCnggbPDrUCrg9d_FNwtra62F95Ks.jpg" group-title="Action",Fast & Furious Presents: Hobbs & Shaw (2019)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69ib1DV5gq7o3-gMl-4ByaQ#.mkv
+#EXTINF:-1 xui-id="989" tvg-name="Furious 7 (2015)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4Lbx2RCVr1VWh2Gb2caRK87PotmSklPfh3MjM5BNOe0.jpg" group-title="Action",Furious 7 (2015)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wD7LfjwOZ5LoD-R1lMx2BM#.mkv
+#EXTINF:-1 xui-id="990" tvg-name="Pitch Black (2000)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLg2Z2yKTCRlnGveNAB8B-BW6RKBKVSwFo_4m0hn7Tm9Q.jpg" group-title="Action",Pitch Black (2000)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66yjGrhevGawYYCEd_MZyRQ#.mp4
+#EXTINF:-1 xui-id="991" tvg-name="Riddick (2013)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-_F1VFPVQGZJh0FG2rZ5Km8uBK6kbjnaPguWuBAv5Fg.jpg" group-title="Action",Riddick (2013)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E62hxWKcBEW2QoQuYjtC5hNI#.mp4
+#EXTINF:-1 xui-id="992" tvg-name="Saving Private Ryan (1998)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmT1n8yrv9yKJeyXQPj7Koh927lKh13_DHkl3s72rKWw.jpg" group-title="Action",Saving Private Ryan (1998)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xgOEgMmd9lDfY3NShSzaUk#.mp4
+#EXTINF:-1 xui-id="993" tvg-name="The Chronicles of Riddick (2004)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmvvIWuNZj4spxEgSnjWh5vV2pdaWyV2yztmaccZ6TUg.jpg" group-title="Action",The Chronicles of Riddick (2004)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68Ju7QRiJasGl04s00DOIf0#.mp4
+#EXTINF:-1 xui-id="994" tvg-name="The Last Witch Hunter (2015)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaZG6GlBsvn-4xO_ZTJFDHMBa-8YYKNHMAYwuSQLpHDU.jpg" group-title="Action",The Last Witch Hunter (2015)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xTNQCKZivORD0TF6xa6aGw#.mp4
+#EXTINF:-1 xui-id="995" tvg-name="xXx (2002)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsoNpWtpk1r-0cCSjdNaXjrqFSHEJ1dWXqNtkZ03nQzw.jpg" group-title="Action",xXx (2002)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wwJuD_cAf6YSKDPG_aGf60#.mkv
+#EXTINF:-1 xui-id="996" tvg-name="xXx: Return of Xander Cage (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL058jCysNfhGI6XPLzWz6VDaagdHPWt1Uvafgu20GRqg.jpg" group-title="Action",xXx: Return of Xander Cage (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64tSgWL2HmpmJd0nKk9qoeQ#.mkv
+#EXTINF:-1 xui-id="997" tvg-name="The Wave (2015)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa6jkevfOmnN8aELt--XTaJO1I84GHtM_nodtx6qhwJ0.jpg" group-title="Action",The Wave (2015)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64_CrTcMM0N3o6ZrBnz6bs0#.mp4
+#EXTINF:-1 xui-id="998" tvg-name="Hard Hit (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGUGhb4tdKqBtq6n3WBn7Z2yB8CLUyurvwnTJiLbHqoE.jpg" group-title="Asian",Hard Hit (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61GX63URe_lODn-ukc5QNnM#.mp4
+#EXTINF:-1 xui-id="999" tvg-name="Slum Dog Husband (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6cJkV32iDo2irER84_r0Xwy4MKruJeLQHYkf5ZiAec0.jpg" group-title="Bollywood 2023",Slum Dog Husband (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E671P52y2hf1v6fqpDsR3a2A#.mp4
+#EXTINF:-1 xui-id="1046" tvg-name="The White Storm 3: Heaven or Hell (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Action 2023",The White Storm 3: Heaven or Hell (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60d6UBw5P9g1ihXsuiXq7UgUEPq6RickMOyn8FqRdUGK#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Thailand Drama",The Betrayal S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Thailand Drama",The Betrayal S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
 #EXTINF:-1 xui-id="377" tvg-name="Crime Stories: India Detectives S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBXLB-ryLU_SlfyXGw0W6sCdCy0zYR0q4pdmNGWFuneM.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E02
@@ -1784,3 +1888,63 @@ http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2nhee2gduBVYkj1aUjiMgvIBYss4
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6VLkce-OE07pK3Ip-yIKxNj75G99fk0bkNHhnomX3kX#.mp4
 #EXTINF:-1 xui-id="412" tvg-name="Farzi S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCvxrVRanwR1GeOG8AGNb89LOpH3jeByoAO2GLOl4Ycw.jpg" group-title="Netflix Bollywood",Farzi S01E08
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6DoMNvZQi8OjglhrlaIcG-Uc1xoJzGCwLoOIl0-xy3p#.mp4
+#EXTINF:-1 xui-id="969" tvg-name="Dayaa S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdtEk2sAeGTtR2XEOn8FnXB38txSY0z62N4GwfyEvQmU.jpg" group-title="Netflix Bollywood",Dayaa S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwX3PfxCRGtAlhA-JC_DV6YS7oYGvsHs8pSDfOQrz_Ou#.mp4
+#EXTINF:-1 xui-id="970" tvg-name="Dayaa S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa1Fx7GpdZ92Zm5bU-9P-8DGn6QRy7zzaBLeESvN08iE.jpg" group-title="Netflix Bollywood",Dayaa S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwKNB4Fj5z2fA2eniMphJFwXP7zfGchpbGD8YCAAF_m7#.mp4
+#EXTINF:-1 xui-id="971" tvg-name="Dayaa S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNaq8-jRmUzIgcT-E4A0Aq6P6bm32295YdZ4Eo1qKK1Q.jpg" group-title="Netflix Bollywood",Dayaa S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzyFrG9pA_AqGjyJc9F1CG2kXfs756jPcKqX4G5NrKpl#.mp4
+#EXTINF:-1 xui-id="972" tvg-name="Dayaa S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLOnhOFi-Zy9z-lJ8rzA6j8b3SEbd2XwoXFBryrJ_cOFA.jpg" group-title="Netflix Bollywood",Dayaa S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n847-nBVyA9QI7aAFMnTaHELG28j5dNntf4A-LSI38K6#.mp4
+#EXTINF:-1 xui-id="973" tvg-name="Dayaa S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5FKLJgyGgkAhe4QAyOE4OYtoJKcuneU9YX3F_2UJyKE.jpg" group-title="Netflix Bollywood",Dayaa S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0R9uyvKMcODoo0HyRhtBpCA45b_rE2aeE7ziztvWUBo#.mp4
+#EXTINF:-1 xui-id="974" tvg-name="Dayaa S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuG2rnAqLQXKYrjIfYtn9zGOX_W90Fiw193YLVEodPLI.jpg" group-title="Netflix Bollywood",Dayaa S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7XekWm8_2SLbJ6yqRSSd0uCrphJULYqphDi9VBl5ymz#.mp4
+#EXTINF:-1 xui-id="975" tvg-name="Dayaa S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLs4cZ9jGvqjoZIH3leXERRaw8gxuBkQe5UqNFdE0YFk.jpg" group-title="Netflix Bollywood",Dayaa S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2Nl4CltuR9V3P_CrlXXkxRNisDd80VlzRZsdI2RNVw5#.mp4
+#EXTINF:-1 xui-id="976" tvg-name="Dayaa S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Netflix Bollywood",Dayaa S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9-Z1vxe-0B71L6y-dlX-i9nDyqbE4sMaMrDWIljM6Z5#.mp4
+#EXTINF:-1 xui-id="1022" tvg-name="The Coroner from Longcheng S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8XJ0OkAE18S77mh2tKt1EYykwEUwZlcXZjJQK989H_L#.mp4
+#EXTINF:-1 xui-id="1023" tvg-name="The Coroner from Longcheng S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0ElhUxr5I96fjgeissDAhgRJxe2_iZ0PH86fCOnUQuQ#.mp4
+#EXTINF:-1 xui-id="1024" tvg-name="The Coroner from Longcheng S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3ny8R9orv9tfl77-qaxdYeBstLay20vYjW12Ck2AS-ubB#.mp4
+#EXTINF:-1 xui-id="1025" tvg-name="The Coroner from Longcheng S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5eWdRqHHzrReW-CQmcgpzx1VwAJ1cTk6keiultYCyaC#.mp4
+#EXTINF:-1 xui-id="1026" tvg-name="The Coroner from Longcheng S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1HOz6otz06I3fM4sEdZ0d28jF2JB4WKKkOR4vg6ML0a#.mp4
+#EXTINF:-1 xui-id="1027" tvg-name="The Coroner from Longcheng S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3_PffD_DjACvzYCg1NKCmDjVyWPdRoG5ZWofA6hjUce#.mp4
+#EXTINF:-1 xui-id="1028" tvg-name="The Coroner from Longcheng S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6hQhiduyFwJ1h9-kijlonbpwRs9-61PQvUIflD95IaI#.mp4
+#EXTINF:-1 xui-id="1029" tvg-name="The Coroner from Longcheng S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3BZMSgtNzDdcPNiM520r5AFQYphw6QUdxU9jypkj9EQ#.mp4
+#EXTINF:-1 xui-id="1030" tvg-name="The Coroner from Longcheng S01E11" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E11
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6UiTYvqxnGpMCye0kGowrO18PrnNknBWZLlZ2m7izGi#.mp4
+#EXTINF:-1 xui-id="1031" tvg-name="The Coroner from Longcheng S01E12" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E12
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwypNi9aN5-f6TtjdAXxE7vc1TgOcR1pBbbwLXxk86Ei#.mp4
+#EXTINF:-1 xui-id="1032" tvg-name="The Coroner from Longcheng S01E13" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E13
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzQRx7kc4nudTbdlyEhRkDtSTj_sdTTD0iZGPxpd8ply#.mp4
+#EXTINF:-1 xui-id="1033" tvg-name="The Coroner from Longcheng S01E14" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E14
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-HlMclzdqKdUzA74dMt6Lmp-MlJe3bnLxzRfphD1Ntl#.mp4
+#EXTINF:-1 xui-id="1034" tvg-name="The Coroner from Longcheng S01E15" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E15
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-KuxDdhW9mRt_aZ9spciajLrXVwheQ5m-OwJI2W3tr_#.mp4
+#EXTINF:-1 xui-id="1035" tvg-name="The Coroner from Longcheng S01E16" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E16
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8uR67579LUuGGuwmjhlkSB4jsSNRV2MSfHx4A_mfSop#.mp4
+#EXTINF:-1 xui-id="1036" tvg-name="The Coroner from Longcheng S01E17" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E17
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3jjCAB_MI6uz05ZucQbFVEz7D-2QD2eD99EpBu54K6g#.mp4
+#EXTINF:-1 xui-id="1037" tvg-name="The Coroner from Longcheng S01E18" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E18
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-SKAM2nFqje3evyllN2fFfN4Y0OUK60L8prpsTl19sb#.mp4
+#EXTINF:-1 xui-id="1038" tvg-name="The Coroner from Longcheng S01E19" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E19
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2PwGUG2PrAseAiVkJ_QooPDdGH7IGz28wJpIZnoGWFq#.mp4
+#EXTINF:-1 xui-id="1039" tvg-name="The Coroner from Longcheng S01E20" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E20
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-6pplkkPmi3B_W0-idFftW-8xCJ9hADC5LWUOkzWKTs#.mp4
+#EXTINF:-1 xui-id="1040" tvg-name="The Coroner from Longcheng S01E21" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E21
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4CU_vsySiAuGiDH9KEPq30GPqWun326E6H18EKEM1FJ#.mp4
+#EXTINF:-1 xui-id="1041" tvg-name="The Coroner from Longcheng S01E22" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E22
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3hXo94snKXANEPE6KNMa6V1E0E2paYJTW35RHh0d4Cf#.mp4
+#EXTINF:-1 xui-id="1042" tvg-name="The Coroner from Longcheng S01E23" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E23
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_-knWSutQ2MaUdc8kaJrHzVwkzcM2nzIx-xjw0AyRaW#.mp4
+#EXTINF:-1 xui-id="1043" tvg-name="The Coroner from Longcheng S01E24" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E24
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-1ioITrS0FavQiSYROOHNrbzhW0nfFES_TBcn0pQ8IS#.mp4
