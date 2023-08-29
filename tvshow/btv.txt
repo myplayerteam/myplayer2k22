@@ -1784,11 +1784,81 @@ http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64_CrTcMM0N3o6ZrBnz6bs0#.mp4
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61GX63URe_lODn-ukc5QNnM#.mp4
 #EXTINF:-1 xui-id="999" tvg-name="Slum Dog Husband (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6cJkV32iDo2irER84_r0Xwy4MKruJeLQHYkf5ZiAec0.jpg" group-title="Bollywood 2023",Slum Dog Husband (2023)
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E671P52y2hf1v6fqpDsR3a2A#.mp4
-#EXTINF:-1 xui-id="1046" tvg-name="The White Storm 3: Heaven or Hell (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Action 2023",The White Storm 3: Heaven or Hell (2023)
+#EXTINF:-1 xui-id="1046" tvg-name="The White Storm 3: Heaven or Hell (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Asian",The White Storm 3: Heaven or Hell (2023)
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60d6UBw5P9g1ihXsuiXq7UgUEPq6RickMOyn8FqRdUGK#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1047" tvg-name="Murder Mystery 2 (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwQFRaVs7UqNUQHBA5rIRkKN1q73HAZOGrG9a_yQzrdw.jpg" group-title="Asian",Murder Mystery 2 (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60Z8PoExl42a6qBYLH5lX8vIkqP61f99UNyp6_sooHuG#.mp4
+#EXTINF:-1 xui-id="1048" tvg-name="Nobody (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlouncPpRmXtZZbd4ftptOvRzaaRVlO1hrrdf3iV-ne8.jpg" group-title="Asian",Nobody (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yYWh2LsWO_8OktEX4bskXxAtVglZLcMwNHUoWbVzYgA#.mp4
+#EXTINF:-1 xui-id="1049" tvg-name="The Moon (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKSyXRjMRGJkt_-Xf9WxxPbcF-8HM4hIOBNglWhOedlI.jpg" group-title="Asian",The Moon (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_smmwuTyChZdrLn5RxlvgAJmVlzVASzS1nDTzQKzrSI#.mp4
+#EXTINF:-1 xui-id="1050" tvg-name="Lost in the Stars (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmwKXO_YoYbBTFHVsCLty8jgVaU9KuvtqpTx89cpoGMQ.jpg" group-title="Asian",Lost in the Stars (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67pY60-6HnBsFDRkRK2vNBvJsy-GFRhmHvh-lWPrv_Le#.mp4
+#EXTINF:-1 xui-id="1051" tvg-name="Edge of Tomorrow (2014)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdq332IFSEVpE-dO8jLnioNJHzWWI5gTjYRDIaPoNTts.jpg" group-title="Action",Edge of Tomorrow (2014)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E681lk09XN7WUxSb90NIYAKUMMgEnRrnh6mrI6Nb15pQX#.mp4
+#EXTINF:-1 xui-id="1052" tvg-name="Jack Reacher (2012)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZ5QLgdsyWvZkqskI_XJnU1YeIO7mrToOhml2fUtZ-qE.jpg" group-title="Action",Jack Reacher (2012)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67KSTbwM06cxCPkO3diWXwJwXrmCxTClBaEgwo1vR_qE#.mp4
+#EXTINF:-1 xui-id="1053" tvg-name="Oblivion (2013)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjXY5Y40amyMbEVyIZ9YwfvVHkFLllXm8jFTEC-PlKp8.jpg" group-title="Action",Oblivion (2013)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67TrH6htpmoL1EzQ3booCEBPWv6aXyNTEOREUGbaf4r1#.mp4
+#EXTINF:-1 xui-id="1054" tvg-name="Mission: Impossible - Rogue Nation (2015)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLci1hjx_HoxwYLmdLAOv0OKnr4nzLsriWpj-Csy_MF2M.jpg" group-title="Action",Mission: Impossible - Rogue Nation (2015)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_BZvvm3MDA89bkUoBhckONQKdeBvr-884DMm3O1OUd8#.mp4
+#EXTINF:-1 xui-id="1055" tvg-name="Knight and Day (2010)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvz2807zVYrgUO4j7nVbVbqLKn5rmyfSufqvb8UyrVl4.jpg" group-title="Action",Knight and Day (2010)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67zoEh9ASRYjCXQnfs4h5m1SXdoOy4gTYCSAowJ8YVSh#.mp4
+#EXTINF:-1 xui-id="1056" tvg-name="Mission: Impossible - Ghost Protocol (2011)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdYtsCtAjqa4Q76qEVmdJd20tVEtq9-qBd9ffkjOakd4.jpg" group-title="Action",Mission: Impossible - Ghost Protocol (2011)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yUtHPbcncgI3Jek2iWsMpOLo2m7pdVRRbTNHqnvFFoB#.mp4
+#EXTINF:-1 xui-id="1057" tvg-name="Minority Report (2002)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyQgrGx138AjxIOHVPCX899sgRya6lDmTx_rRwe0We1M.jpg" group-title="Action",Minority Report (2002)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6y4YAIYgxebboAc3F6NGeYVZPUUHm51D1RYDtSxMoIN6#.mp4
+#EXTINF:-1 xui-id="1058" tvg-name="War of the Worlds (2005)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbeCczwC4hNH-Xshws1CcDVTD7jGthOCFcNn1nPfI4eU.jpg" group-title="Action",War of the Worlds (2005)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6z8Jby_YRlBMdAh5sZcGWizL1KFY3gK5TisCjWgZPT96#.mp4
+#EXTINF:-1 xui-id="1059" tvg-name="Interview with the Vampire (1994)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhqwtnFFIW9rgCZf_KjKz_U-Tqa6VZ_zogEhC7LfgBPI.jpg" group-title="Action",Interview with the Vampire (1994)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6y9RovfBWQmV7NL6-D0n8chF7OmYceLFclIg7XicVKad#.mp4
+#EXTINF:-1 xui-id="1060" tvg-name="Valkyrie (2008)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5uOlguuKPMh99x2WCF1_vu69roWlUaSdjIRuABTSK4I.jpg" group-title="Action",Valkyrie (2008)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69B53ZK5L2acRpf8eVwyTD7WUsLKpp9oIzPu-Ss7Ln4-#.mp4
+#EXTINF:-1 xui-id="1061" tvg-name="Mission: Impossible (1996)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLcrPCOtUSVRpY4aCzJ3ZCjENmKhIB1iLC1dzszUueo7o.jpg" group-title="Action",Mission: Impossible (1996)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61Ak7_a1YXgnjkWgvAAeqrcC-eMk7eFROLUooCqd0pjg#.mp4
+#EXTINF:-1 xui-id="1062" tvg-name="Mission: Impossible II (2000)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSKi3zLH8ZyeYvotoEn--B14E_bEV8ICZfKL-ueAgS7I.jpg" group-title="Action",Mission: Impossible II (2000)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64MgqPxrlKkHJlnLW4xJwpWTgqz3A9nOQ6bmR214lG4f#.mp4
+#EXTINF:-1 xui-id="1063" tvg-name="Mission: Impossible III (2006)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLOMvyFvBwtQG7xo5-MLohh-1fx7jeIvKcWg31mWWaG-8.jpg" group-title="Action",Mission: Impossible III (2006)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wtL31Bzn7JgAijZhIEY3MSnzU-aq2JAr0Q1eGZ2FWcV#.mp4
+#EXTINF:-1 xui-id="1064" tvg-name="Vanilla Sky (2001)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL339AnBLfdOkC3G3gHkr9wL0mXjHYChxoHKIFyVal_XI.jpg" group-title="Action",Vanilla Sky (2001)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60gl7njzRwFyDdi3NIpUFHCWJ9qPkJCTiqgj1d_r-tHa#.mp4
+#EXTINF:-1 xui-id="1065" tvg-name="A Few Good Men (1992)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4BCsfFNiKI1hC_JxdUSpKtsTjih6y4dJy2CR3hPPyaE.jpg" group-title="Action",A Few Good Men (1992)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61v7RqZt40MJoPirpnbRApJL6mCXILwGre6PtP3QlKRu#.mp4
+#EXTINF:-1 xui-id="1066" tvg-name="Mission: Impossible - Fallout (2018)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPQSfb2F34OLwh8ayi7fu5ka1beDEcxJVgFYRLprbXWo.jpg" group-title="Action",Mission: Impossible - Fallout (2018)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E624Uff4yIEltuIEr9Jdjv76_KfwrCZlAZtyNw4x-ul6W#.mp4
+#EXTINF:-1 xui-id="1067" tvg-name="Jack Reacher: Never Go Back (2016)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTH0nMDBbTJWSlRs34Fy1d6v-bZACAKFXDvamxWXzCgc.jpg" group-title="Action",Jack Reacher: Never Go Back (2016)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-1MYei6VeX7ev6nxc5HlOhWFr7s2iNlS1OOTDO-4KO8#.mp4
+#EXTINF:-1 xui-id="1068" tvg-name="The Mummy (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61CECNZmK2xIlF916v3b9gNmGvzXyTCgxWNqjrggNRV4#.mp4
+#EXTINF:-1 xui-id="1069" tvg-name="The Last Samurai (2003)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkwco8aWcUBt3fPDlYeY0lHoUII8NMltEMmWHN8EjUAQ.jpg" group-title="Action",The Last Samurai (2003)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E62EkAtRtQNhsQscBcFepq7cT2QWmox6xf5Dk1jCr4STM#.mp4
+#EXTINF:-1 xui-id="1070" tvg-name="Jerry Maguire (1996)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLakqr7w3DysssC21zOMVYi87moL6pQnex8srwikusBoA.jpg" group-title="Action",Jerry Maguire (1996)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xRd3D7vQZ1Go7Es8GtbOBPW9-c_DUFwKtTb3OybtT47#.mp4
+#EXTINF:-1 xui-id="1071" tvg-name="Top Gun (1986)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs3jlvfcyHUqafi9X4uekcMBLYRdRM9cQgAaRlZdZbMs.jpg" group-title="Action",Top Gun (1986)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69GP8TqETr3lYMc38U49X12Fcdhk56FFYtrctdSkgnh0#.mp4
+#EXTINF:-1 xui-id="1072" tvg-name="Risky Business (1983)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbN7Dw9-_AGV5njCzganKojYXOo_wzQ8dSLhZv4H2ODo.jpg" group-title="Action",Risky Business (1983)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68j24rrRheAE3OGH2pKacKrFuJRO39NCPUlaPba4ikbl#.mp4
+#EXTINF:-1 xui-id="1073" tvg-name="Collateral (2004)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKwIwsconJYJjLfXvJA3Qu4kTAWbRqmlLW199RfoBhYI.jpg" group-title="Action",Collateral (2004)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yJJuFRucktaRsYPOf2tOZ2XkC3hGG1osYy4kl0nUI22#.mp4
+#EXTINF:-1 xui-id="1074" tvg-name="Eyes Wide Shut (1999)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLodBcWGwcqeltsAZ4PzOkdXLYZiB3RFRTV7kVhEhifSE.jpg" group-title="Action",Eyes Wide Shut (1999)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60joJ-DAPKF752MWRZ4liMBA7YgUcgfhAPrLKKdh3MkX#.mp4
+#EXTINF:-1 xui-id="1075" tvg-name="The Big Boss (1971)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGi3NrFGqKN3f1ehNFc4TP2LLxJoKBKkQ-NeTpYHz9DI.jpg" group-title="Asian",The Big Boss (1971)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65T_Bk9Ki349XyVS-Z_5PvNd9pFA1IcOANgpjEFiO2e2#.mp4
+#EXTINF:-1 xui-id="1076" tvg-name="Enter the Dragon (1973)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQubbKaYhaLra8sucDriTvPU_qsyIJYixTGLmN9MLIQU.jpg" group-title="Asian",Enter the Dragon (1973)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E680YKkB9rIjv0hghi9EjPw3IjJbHS8dZb8URjDcVAE_H#.mp4
+#EXTINF:-1 xui-id="1077" tvg-name="Wolves of the City: First to Fight (1971)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLo9S-C_jTpcP5qhtkGVzBOxm491VorESnj-f9oTSiKKc.jpg" group-title="Asian",Wolves of the City: First to Fight (1971)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-npF6136x7q8-90FOwxJHfslRT5U8k_EWbPrGfCBjk5#.mp4
+#EXTINF:-1 xui-id="1078" tvg-name="Game of Death (1978)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtopIlVTD_-k2U-HGhlhhY9LovWghlZ4IGO2PZiou_RE.jpg" group-title="Asian",Game of Death (1978)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_uz1zozqDzM1BP3yyRGxUgXeTVXd-EIpGK0VeLWOIQi#.mp4
+#EXTINF:-1 xui-id="1079" tvg-name="Game of Death II (1981)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS37isc-_pwDybPUhwIR9O3XdAW8gtiRDyFyvNVkUdXk.jpg" group-title="Asian",Game of Death II (1981)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66OXb0rNxVfQjiZgp3oalCSQzG_XElprUuxzhV1F-edb#.mp4
+#EXTINF:-1 xui-id="1080" tvg-name="Fist of Fury (1972)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJUcIyvyrbn5q_Dkkx4gyxuq2QXxFYQ57QjHmAkxfzBM.jpg" group-title="Asian",Fist of Fury (1972)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69oqdGyfiGW1nRJra-d_KMuZPS72tGlEjCsHJSDu1nZl#.mp4
+#EXTINF:-1 xui-id="1081" tvg-name="The Way of the Dragon (1972)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhEJdQcv5Jeuk2MS-Gx-K90Ny6qgk6Eab0__LUyAV3vk.jpg" group-title="Asian",The Way of the Dragon (1972)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69ZZywXynzanEmVaLsqngBEIXEJPp_3GOlEdw4IEqa2v#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhEJdQcv5Jeuk2MS-Gx-K90Ny6qgk6Eab0__LUyAV3vk.jpg" group-title="Thailand Drama",The Betrayal S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtkY_ST96R69A3r8X86nu7U2ix0V8J5jalyx9iC60vC4.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhEJdQcv5Jeuk2MS-Gx-K90Ny6qgk6Eab0__LUyAV3vk.jpg" group-title="Thailand Drama",The Betrayal S01E02
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
