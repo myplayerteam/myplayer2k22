@@ -1,1 +1,100 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="5 Plus (480p)" tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="Myanmar (Burma)",5 Plus (480p)
+http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Angel TV Far East (720p)" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Myanmar (Burma)",Angel TV Far East (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Animax Asia (Vietnamese Subs) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Myanmar (Burma)",Animax Asia (Vietnamese Subs) (720p)
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Earth (Vietnamese dub) (1080p)" tvg-logo="https://i.imgur.com/xXM60fa.png" group-title="Myanmar (Burma)",BBC Earth (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV Asia (576p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Myanmar (Burma)",Bloomberg TV Asia (576p)
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV Asia Live Event (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Myanmar (Burma)",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBeebies Asia (Vietnamese dub) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Myanmar (Burma)",CBeebies Asia (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV-4 Asia (576p)" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="Myanmar (Burma)",CCTV-4 Asia (576p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Myanmar (Burma)",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 7 (480p)" tvg-logo="https://i.imgur.com/7xHSikv.png" group-title="Myanmar (Burma)",Channel 7 (480p)
+http://183.89.246.119:8881/play/a07v/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 9 (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" group-title="Myanmar (Burma)",Channel 9 (480p)
+http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Channel K (480p)" tvg-logo="https://i.imgur.com/6PqxuhF.png" group-title="Myanmar (Burma)",Channel K (480p)
+http://183.89.246.119:8881/play/a080/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CinemaWorld (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Myanmar (Burma)",CinemaWorld (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax Asia (720p)" tvg-logo="https://i.imgur.com/8p8LO79.png" group-title="Myanmar (Burma)",Cinemax Asia (720p)
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC Asia (720p)" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Myanmar (Burma)",CNBC Asia (720p)
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTi Asia (中天亞洲台) (720p)" tvg-logo="https://i.imgur.com/U8zCAxt.png" group-title="Myanmar (Burma)",CTi Asia (中天亞洲台) (720p)
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1 tvg-ID="" tvg-name="Da Vinci Asia (1080p)" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Myanmar (Burma)",Da Vinci Asia (1080p)
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dreamworks Channel Asia (Vietnamese dub) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Myanmar (Burma)",Dreamworks Channel Asia (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Education Channel (480p)" tvg-logo="https://i.imgur.com/p5TGUjo.png" group-title="Myanmar (Burma)",Education Channel (480p)
+http://183.89.246.119:8881/play/a07s/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EWTN Asia-Pacific (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Myanmar (Burma)",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fortune TV (480p)" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Myanmar (Burma)",Fortune TV (480p)
+http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Myanmar (Burma)",HBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family Asia (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Myanmar (Burma)",HBO Family Asia (720p)
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-ID="" tvg-name="HITS (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Myanmar (Burma)",HITS (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal 10 Asia (540p)" tvg-logo="https://i.imgur.com/tY7IJva.png" group-title="Myanmar (Burma)",Kanal 10 Asia (540p)
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kix (Indonesian Subtitle) (576p)" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Myanmar (Burma)",Kix (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Mahar Bawdi TV (480p)" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="Myanmar (Burma)",Mahar Bawdi TV (480p)
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Mahar TV (720p)" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="Myanmar (Burma)",Mahar TV (720p)
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MCS (720p)" tvg-logo="" group-title="Myanmar (Burma)",MCS (720p)
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MN TV (480p)" tvg-logo="https://i.imgur.com/nssm7QK.png" group-title="Myanmar (Burma)",MN TV (480p)
+http://183.89.246.119:8881/play/a07x/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV 4 (480p)" tvg-logo="https://i.imgur.com/J4i1VBb.png" group-title="Myanmar (Burma)",MRTV 4 (480p)
+http://183.89.246.119:8881/play/a07u/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV (1080p)" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar (Burma)",MRTV (1080p)
+http://183.89.246.119:8881/play/a07l/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV Entertainment (480p)" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Myanmar (Burma)",MRTV Entertainment (480p)
+http://183.89.246.119:8881/play/a07t/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV Farmers (480p)" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Myanmar (Burma)",MRTV Farmers (480p)
+http://183.89.246.119:8881/play/a07p/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV News (1080p)" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="Myanmar (Burma)",MRTV News (1080p)
+http://183.89.246.119:8881/play/a07m/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV NRC (480p)" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Myanmar (Burma)",MRTV NRC (480p)
+http://183.89.246.119:8881/play/a07o/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV Parliament (480p)" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="Myanmar (Burma)",MRTV Parliament (480p)
+http://183.89.246.119:8881/play/a07n/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV Sports (480p)" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Myanmar (Burma)",MRTV Sports (480p)
+http://183.89.246.119:8881/play/a07q/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MWD (480p)" tvg-logo="https://i.imgur.com/zyTQG9F.png" group-title="Myanmar (Burma)",MWD (480p)
+http://183.89.246.119:8881/play/a07z/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ONE TV Asia (720p)" tvg-logo="https://i.imgur.com/ea0iGfA.png" group-title="Myanmar (Burma)",ONE TV Asia (720p)
+http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
+#EXTINF:-1 tvg-ID="" tvg-name="RAI Italia Asia (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Myanmar (Burma)",RAI Italia Asia (576p)
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ROCK Action (576p) [Geo-blocked]" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Myanmar (Burma)",ROCK Action (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ROCK Entertainment (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Myanmar (Burma)",ROCK Entertainment (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rock Extreme (1080p)" tvg-logo="https://i.imgur.com/3U1JpHm.png" group-title="Myanmar (Burma)",Rock Extreme (1080p)
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP Internacional Asia (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Myanmar (Burma)",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Thrill (576p)" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Myanmar (Burma)",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV5Monde Pacifique (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Myanmar (Burma)",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVE Internacional Asia-Oceania (576p)" tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="Myanmar (Burma)",TVE Internacional Asia-Oceania (576p)
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="YTV (480p)" tvg-logo="https://i.imgur.com/uqrXcWB.png" group-title="Myanmar (Burma)",YTV (480p)
+http://183.89.246.119:8881/play/a081/index.m3u8
 
