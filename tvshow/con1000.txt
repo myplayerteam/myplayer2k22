@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sports News FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sports News FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114309
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sports News" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0NvzOOcBiBUWBwbiPOxvPuCcZx0WA0Ci5KopcqyvCogw.jpg" group-title="VIP ALL Sport",DE: Sky Sports News
