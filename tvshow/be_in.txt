@@ -373,3 +373,285 @@ http://kuchini.site:8080/9ba1ba9e/c9c903ce23/280249
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/290037
 #EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="Qatar ➾ Sports",QA: beIN Sports Xtra 2
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/283294
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png" group-title="Philippines",PH: beIN Sports 3
+http://faucontv.live:8080/@messie12/b5HS41z/35294
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0f7e4fa00f68aa1f55a75298247ab794.jpg" group-title="Philippines",PH: beIN Sports 2
+http://faucontv.live:8080/@messie12/b5HS41z/35293
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 3" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMaIKYnwJnmUhcyuPxm5zInbeUZZX86wYjK1FIc_CymfUtoyh3K2lFReVvnswfn4UE.png" group-title="Australia",AU: beIN Sports 3
+http://faucontv.live:8080/@messie12/b5HS41z/35144
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 2" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOyHCyJdsqrz2QTt89NcFLn86tB5VbrslnvHkI1RFkv1P4UKkpgV33RPZ1S5GtDeOE.png" group-title="Australia",AU: beIN Sports 2
+http://faucontv.live:8080/@messie12/b5HS41z/35143
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" group-title="Australia",AU: beIN Sports 1
+http://faucontv.live:8080/@messie12/b5HS41z/35142
+#EXTINF:-1 tvg-ID="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Malaysia",MY: beIN Sports
+http://faucontv.live:8080/@messie12/b5HS41z/34907
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS NEWS  FHD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1PW1M9stb4emTxS6rDdGCJfr-KcLsz3QClymwqEqNBDzPEDz2KqLvpThbbpEfyGTsQaHWJX2HKje36IIO-bylttLlU8ovHQOYqphNgMKZpEDLIPNBhnv7wIy5wY4cKeKBKZsyaF8XEJzxDXSAw8NxYPTD3GHbHD0gHUQo7GJS_g.png" group-title="Arabe FHD",AR: BEIN SPORTS NEWS  FHD
+http://faucontv.live:8080/@messie12/b5HS41z/33137
+#EXTINF:-1 tvg-ID="" tvg-name="beIN AMC HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKilf26JnrBp36SSm-PxxDawH8ijEd-vfufFtOrtkQJnvLNtP3v9QEklW0A0RUhLjpsc_Yex6ZRNGHfTFJOmlEB9DsGj8WG37HhLWuyLD3-JVm1c45ECLfMFZvaZGF7d9cPk1ORB9KIGjjIqTUu89ZPWaiIY0yx18KdFgxhg2o9frg.png" group-title="BEIN ENTERTAIMENT",beIN AMC HD
+http://faucontv.live:8080/@messie12/b5HS41z/3551
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Animal Planet HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhzHA5Vp6ue2zVqVoxAML2AMhLdueXklwolYsT0l6hbe1z4hsSu6eInOV5Vqd7ZI83RX4gJJTcDme3WXgUZRwkKZAb8EwLVLiF6bPdMDYV8LB_mQSa8YCjqdqcT1q_LZbBli0xNlGEXx8tv7-PbIUbY.png" group-title="BEIN ENTERTAIMENT",beIN Animal Planet HD
+http://faucontv.live:8080/@messie12/b5HS41z/3559
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Baraem HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjdgCMsRhYs3VBSqi5IR1M8dIjUw1wYFH4DM5XS5mt4vxNGnUNAh7_hM3C06qsa7EzffCTR4lV-oAkTYQoFmYkWcBkjGOmfHYVoqA1-ynuGjA.png" group-title="BEIN ENTERTAIMENT",beIN Baraem HD
+http://faucontv.live:8080/@messie12/b5HS41z/3548
+#EXTINF:-1 tvg-ID="" tvg-name="beIN BBC Earth HD" tvg-logo="http://live.phenixiptv.com:8080/images/fxX0SPPPLvvHYcfv-ogiWoxroIrlr_dzDwrdYkOxJfsLhZQDpIypq_RQNUBo-hfVroIIX3VKuR3s9wxFKBUVdw.png" group-title="BEIN ENTERTAIMENT",beIN BBC Earth HD
+http://faucontv.live:8080/@messie12/b5HS41z/3555
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Cartoon Network HD" tvg-logo="http://live.phenixiptv.com:8080/images/fIzDxy20Jzun0OGQ1jfjnmlradUB32bQ-9SESzKO_dU07Wh-hDuzElflI7BxxuR5zJKJqyRYJ7Yty31Q1eNi4A.png" group-title="BEIN ENTERTAIMENT",beIN Cartoon Network HD
+http://faucontv.live:8080/@messie12/b5HS41z/3542
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Drama HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKilf26JnrBp36SSm-PxxDawXPCKncTcnKnJZVwwz66sv5kYW65ANo2eCyRNj9Am2maGkPjid35rRHgb1OJqZjGGjQCbIN4bdK7i7zKze8sUAcaCr7AEG1Xxc5Og1jeY-vLuNmX3b5HDYz0qVJG0JbMdwOwdelpX8g2ggDG4zKNw7g.png" group-title="BEIN ENTERTAIMENT",Bein Drama HD
+http://faucontv.live:8080/@messie12/b5HS41z/3533
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Fatafeat HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhzHA5Vp6ue2zVqVoxAML2AMhLdueXklwolYsT0l6hbe1z4hsSu6eInOV5Vqd7ZI83eT0NlRTMuU1xAA63VLW2HZkZz_sbbvQN2H6pdACmCwRqTq172Uk4lCnyoFELNn5owYzaoYpN9oKJF32Gl2hGG.png" group-title="BEIN ENTERTAIMENT",beIN Fatafeat HD
+http://faucontv.live:8080/@messie12/b5HS41z/3553
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Food Network HD" tvg-logo="http://live.phenixiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjHRH_SJ_NNs2t-n2XcOfK8FftOGLGFoyf62QDFtxFIaBn7kyVnZ8IzwQsW0nwzXzAZSbN5HEs46OWfCro03kUd3FIzxvlDeh37jwuRSqicEI.png" group-title="BEIN ENTERTAIMENT",beIN Food Network HD
+http://faucontv.live:8080/@messie12/b5HS41z/3554
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Fox Action Movies HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjELXmg4YZRCp3yFSGuLC7IT6cAwjFbs4rVnC18w9JGIj-1xUir5-2DF5IVTtg8mubBKgHb0dbd38tIiAFHDmgbCj3gRNWlexlG8iJllPP5r0o7OAHqGySMXlyj3Pnkx6eitPXtrUy0LZhrxRDPcL0S-Yn-L2fGelGc3lFFra3sRw.png" group-title="BEIN ENTERTAIMENT",beIN Fox Action Movies HD
+http://faucontv.live:8080/@messie12/b5HS41z/3549
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Crime HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhJ31W8Og2nSIYB8sLlp00vSAzA4ctmkYoTcc2enBbVCszAeXXbiWPYwY6dZd2FiEclgkYiuX2tTOUtGPNSjszK.jpg" group-title="BEIN ENTERTAIMENT",Bein Fox Crime HD
+http://faucontv.live:8080/@messie12/b5HS41z/3547
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Life HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhJ31W8Og2nSIYB8sLlp00v6OlVPaZcqIkpE80zmgbViRV8bmrPPAgcyY1_p1knYXwYuV0KAZYL8WlgN8y__cUO.jpg" group-title="BEIN ENTERTAIMENT",Bein Fox Life HD
+http://faucontv.live:8080/@messie12/b5HS41z/3546
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Gourmet HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjNDcmCtx1rsmuLj_IDaodg5My7rGABE065-4AmdEEd4pYYYFy2d3-8mdeGAYgvXbhlsBMrXABSZDpkKjbJUJZYJOtyI9h5rH5TBr1xMC1_LQ.png" group-title="BEIN ENTERTAIMENT",beIN Gourmet HD
+http://faucontv.live:8080/@messie12/b5HS41z/3552
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Groummet HD" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4ysB6aBObZdqAi86KF9iNH73-cWgA6CLo415FkFuPx-fIAupVzfRSdqofK1yd4jH1A.png" group-title="BEIN ENTERTAIMENT",Bein Groummet HD
+http://faucontv.live:8080/@messie12/b5HS41z/3534
+#EXTINF:-1 tvg-ID="" tvg-name="beIN History HD" tvg-logo="" group-title="BEIN ENTERTAIMENT",beIN History HD
+http://faucontv.live:8080/@messie12/b5HS41z/3557
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Jeem HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjdgCMsRhYs3VBSqi5IR1M8dIjUw1wYFH4DM5XS5mt4vxNGnUNAh7_hM3C06qsa7Ex3msSE8RbbIDN-absJeM5Auz0LZY9H2RctQWsmTNwRQg.png" group-title="BEIN ENTERTAIMENT",Bein Jeem HD
+http://faucontv.live:8080/@messie12/b5HS41z/3535
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies Action 2 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1PW1M9stb4emTxS6rDdGCJfr-KcLsz3QClymwqEqNBDzPEDz2KqLvpThbbpEfyGTuOxThHquO6XsD14hXo5KkDl7eND5Q85SwhtM0wxPAVjWHXP34j1Kl1OqEBWTabkL3quzkWTnoRsR0dAeoi8CaacYkXaZjtY1K4Dz5z95Gng.png" group-title="BEIN ENTERTAIMENT",beIN Movies Action 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/3538
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Movies Drama 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthbg7ZWcYeigKRANIrJgi4RwSdObQuC4h757magEC20FXFPKWlPlXsQe5wevXF8kJ8.png" group-title="BEIN ENTERTAIMENT",Bein Movies Drama 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/3537
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Movies Family 4 HD" tvg-logo="http://live.phenixiptv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiVJYollVLTew8rb9Zdky2HEA5fK0VxT7hf6MtYr36QqfUeRL5TeO71gi5Q6h_RoS0.png" group-title="BEIN ENTERTAIMENT",Bein Movies Family 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/3536
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies Premiere 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/4bv4i5atndbbSfNbaV6XwWKXKi3pVNClc7Oa0yFhMgudXbDyLjUFTXlPJeLsVjxYn0-MYbYH4CFZiEr3NbTKFnp2PKpiy6BDgCCoJ01a0-M.png" group-title="BEIN ENTERTAIMENT",beIN Movies Premiere 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/3539
+#EXTINF:-1 tvg-ID="" tvg-name="beIN National Geographic HD" tvg-logo="http://live.phenixiptv.com:8080/images/fIzDxy20Jzun0OGQ1jfjnmlradUB32bQ-9SESzKO_dUm_wiiUbn0-z55odHX2QdS.png" group-title="BEIN ENTERTAIMENT",beIN National Geographic HD
+http://faucontv.live:8080/@messie12/b5HS41z/3558
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Outdoor" tvg-logo="http://live.phenixiptv.com:8080/images/mg9e4VnU5MiobcDarwnBsf-27l2ZB3NzTXb_wauPvbI.png" group-title="BEIN ENTERTAIMENT",beIN Outdoor
+http://faucontv.live:8080/@messie12/b5HS41z/3545
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Series HD 1" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjELXmg4YZRCp3yFSGuLC7IT6cAwjFbs4rVnC18w9JGIj-1xUir5-2DF5IVTtg8muaRSdMjp1N1fg5T34zt3jJ_VuGCWF5xDAMH2ljcFRXUjhL4gR971zOzpveEZyzY-n3UFVP28wnEVCaPVmBmjDOtSNI2KhWH5R7Rj67SE8eG3g.png" group-title="BEIN ENTERTAIMENT",Bein Series HD 1
+http://faucontv.live:8080/@messie12/b5HS41z/3541
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Series HD 2" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhzHA5Vp6ue2zVqVoxAML2AMhLdueXklwolYsT0l6hbe1z4hsSu6eInOV5Vqd7ZI82B7IxZmfS6tHXqJRxRNWye90ScgEDV40wsC9N7KKLt2BIDbVBPRxJLNbly3-hm5f6x_ucINCQ_9wS6QN5cPIuL.png" group-title="BEIN ENTERTAIMENT",Bein Series HD 2
+http://faucontv.live:8080/@messie12/b5HS41z/3540
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Star World HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjELXmg4YZRCp3yFSGuLC7IT6cAwjFbs4rVnC18w9JGIj-1xUir5-2DF5IVTtg8mubVov0TwbQ8ARJBKC5OdP6AHxf15fVg4Hj3waZItsAt9BW075Dp-inN-SKdy7OUzDbVkbRAkymQ6aUDMBuCqCVl1pxCGVNU_S0UM8bm1EFJ6Q.png" group-title="BEIN ENTERTAIMENT",beIN Star World HD
+http://faucontv.live:8080/@messie12/b5HS41z/3550
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Travel HD" tvg-logo="http://live.phenixiptv.com:8080/images/fIzDxy20Jzun0OGQ1jfjnmlradUB32bQ-9SESzKO_dU0HdMzr1_xxY3ik0JCjFbD.png" group-title="BEIN ENTERTAIMENT",beIN Travel HD
+http://faucontv.live:8080/@messie12/b5HS41z/3556
+#EXTINF:-1 tvg-ID="" tvg-name="CA: beIN Sports" tvg-logo="http://live.phenixiptv.com:8080/images/eZ1cwmJFUj3u5Y2qCEROZXO3Eedov-3z5Jnvwcq9f2y8anbav8hczLhjKD6OAhQ7p036V4a_22xtv_tP1s0zPNHjM6vF4G9yCtyL2KCI3OJMGZrfIdspF8uwk1fIJW8SHKyyGhvQpHrct2kguKPAOg.png" group-title="Canada",CA: beIN Sports
+http://faucontv.live:8080/@messie12/b5HS41z/15072
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BEIN SPORTS" tvg-logo="http://live.phenixiptv.com:8080/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEr7kgA89m4L3a8pw66TYPGcOt6LK1ehHIcOofqd5zguVw.png" group-title="Canada",CA: BEIN SPORTS
+http://faucontv.live:8080/@messie12/b5HS41z/15142
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 1 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbkapiaAm0vIi3exKNKEJ-2jfW3l-Qlid5G3Sy5pwsdSIg.png" group-title="France FHD",FR| BEIN SPORTS 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/13666
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbkapiaAm0vIi3exKNKEJ-2jfW3l-Qlid5G3Sy5pwsdSIg.png" group-title="France HD",FR| BEIN SPORTS 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/13579
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 1 HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U__pTeq8T0ZF04XFwWDQQPZmoQt9WHvahqqHuxRIUgykQ.png" group-title="France Hevc",FR| BEIN SPORTS 1 HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13724
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 1 SD" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-poSauxTfk1k_m5b5tUN-Txz.png" group-title="France SD",FR| BEIN SPORTS 1 SD
+http://faucontv.live:8080/@messie12/b5HS41z/13778
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 2 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmgMh3ilVIC_JkTLaWoeZIYKwtCsLcaQ4tM5aHKkEkq8A.png" group-title="France FHD",FR| BEIN SPORTS 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/13667
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-pqv5DX8huZK_BMnDJWSP0ho.png" group-title="France HD",FR| BEIN SPORTS 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/13580
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 2 HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U8AvOcLk5e2cZgj_kRxHrDEElJe71sXoRTi2fs7h6tqVA.png" group-title="France Hevc",FR| BEIN SPORTS 2 HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13725
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 2 SD" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-pqv5DX8huZK_BMnDJWSP0ho.png" group-title="France SD",FR| BEIN SPORTS 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/13779
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 3 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmmG3BjwD_W0Dbppfvf-2NciqwlTkwRoO008voeHHz8rw.png" group-title="France FHD",FR| BEIN SPORTS 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/13668
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-pp3GWj_3IUBWJr4IQNHkTGW.png" group-title="France HD",FR| BEIN SPORTS 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/13581
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 3 HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U_lBva9cw7q8PbWPUV4LaYKHu6mUVlIJXe8XUwzwBqT5g.png" group-title="France Hevc",FR| BEIN SPORTS 3 HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13726
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS 3 SD" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-pp3GWj_3IUBWJr4IQNHkTGW.png" group-title="France SD",FR| BEIN SPORTS 3 SD
+http://faucontv.live:8080/@messie12/b5HS41z/13780
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbk7Iv0sIaRMnAP0LvKlbqgjKs3jJ2K0XnIm_dFHSD5Nug.png" group-title="France FHD",FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13675
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX10 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-po_ayggTRVjRDMWnDb2WdlT.png" group-title="France HD",FR| BEIN SPORTS MAX10 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13588
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX10 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9aofhm3S995NXdNrq_ymLcQWibjKLDmVoNJ1_tjfmKFQ.png" group-title="France Hevc",FR| BEIN SPORTS MAX10 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13733
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX10 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbk7Iv0sIaRMnAP0LvKlbqgjKs3jJ2K0XnIm_dFHSD5Nug.png" group-title="France SD",FR| BEIN SPORTS MAX10 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13787
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbkV0d1taLf9tZV4fG5GrgTkuaf3Ug5rrpHy3qKOYnvD1A.png" group-title="France FHD",FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13669
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX4 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-pqK1ZwZCCXuzuEddHe68tpW.png" group-title="France HD",FR| BEIN SPORTS MAX4 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13582
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX4 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9HgB7CeFoV-imtxdfOk2eLVk28JzM7nC3FPv7NoO6AJg.png" group-title="France Hevc",FR| BEIN SPORTS MAX4 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13727
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX4 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbkV0d1taLf9tZV4fG5GrgTkuaf3Ug5rrpHy3qKOYnvD1A.png" group-title="France SD",FR| BEIN SPORTS MAX4 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13781
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmVTUIwD9UVb8ulM83DpxjefuXdY5bbjDWTbl2B956pCA.png" group-title="France FHD",FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13670
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX5 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmVTUIwD9UVb8ulM83DpxjefuXdY5bbjDWTbl2B956pCA.png" group-title="France HD",FR| BEIN SPORTS MAX5 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13583
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX5 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U8rSLHD4f_QqBlxgEvKNl6OchA06Wk0tFTbVYb2gofaHQ.png" group-title="France Hevc",FR| BEIN SPORTS MAX5 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13728
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX5 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-pqChhiBsF7co1aUBwfJ4io1.png" group-title="France SD",FR| BEIN SPORTS MAX5 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13782
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbk--hAY7LGWMuu2ynEpBEuRefAfLdjJnYB5e4u34M49yg.png" group-title="France FHD",FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13671
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX6 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-prvYth-MXBzhCMzpLEkjWVP.png" group-title="France HD",FR| BEIN SPORTS MAX6 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13584
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX6 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U-mKq7sPCTzlq8ftJbjsyNfg-EBJ-6-YYmRsU-DgQNzlA.png" group-title="France Hevc",FR| BEIN SPORTS MAX6 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13729
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX6 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbk--hAY7LGWMuu2ynEpBEuRefAfLdjJnYB5e4u34M49yg.png" group-title="France SD",FR| BEIN SPORTS MAX6 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13783
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmAe3PcFQN2VTa9D2FYWrSY6bOib8Zv7Yzuygx_eJ4thg.png" group-title="France FHD",FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13672
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX7 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmAe3PcFQN2VTa9D2FYWrSY6bOib8Zv7Yzuygx_eJ4thg.png" group-title="France HD",FR| BEIN SPORTS MAX7 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13585
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX7 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U-gbJl7A0FkWkSLm2vc7r-Wuh22aHU_Pmb3oh4gzH1_Ig.png" group-title="France Hevc",FR| BEIN SPORTS MAX7 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13730
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX7 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmAe3PcFQN2VTa9D2FYWrSY6bOib8Zv7Yzuygx_eJ4thg.png" group-title="France SD",FR| BEIN SPORTS MAX7 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13784
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmWi6UdtM6EbcPnnEYWiCqxnsZVx9vVHjLtIlUjiecnIA.png" group-title="France FHD",FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13673
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX8 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmWi6UdtM6EbcPnnEYWiCqxnsZVx9vVHjLtIlUjiecnIA.png" group-title="France HD",FR| BEIN SPORTS MAX8 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13586
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX8 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9XD1tZ2kHzNSlYS3yOJetMBZ5mwPpGkIOz3Gao1D7UDw.png" group-title="France Hevc",FR| BEIN SPORTS MAX8 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13731
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX8 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-ppqBzma-tzDehv2-KHy6J6h.png" group-title="France SD",FR| BEIN SPORTS MAX8 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13785
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZ-s8Ee3HATkRJIoxWaO1b5UUw-KEgGD5p914-H1rgZbmipaZF5QmvMGz0ed7MO9qlpqnjyoK0X9aaD8ns8zHLYQ.png" group-title="France FHD",FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13674
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX9 HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-ppMIdj-fyrDii8Oh6ux8rut.png" group-title="France HD",FR| BEIN SPORTS MAX9 HD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13587
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX9 HEVC (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U_ZePS_BQg56EfFsv2y55n1UDsWTZhpoT9ihrgY2434MA.png" group-title="France Hevc",FR| BEIN SPORTS MAX9 HEVC (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13732
+#EXTINF:-1 tvg-ID="" tvg-name="FR| BEIN SPORTS MAX9 SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/MkgDhKLuN3fI08UcYDLyGxhtDvzqfxyBhzWYD5WV-ppMIdj-fyrDii8Oh6ux8rut.png" group-title="France SD",FR| BEIN SPORTS MAX9 SD (EVENT ONLY)
+http://faucontv.live:8080/@messie12/b5HS41z/13786
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Box Office 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2nqntNnF8G846VEEUfkSng2HSgKkO3DqkhsbavJ9ttRZ8IB11tBir8j7NtKgT4UZH.png" group-title="Turk",TR : beIN  Box Office 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9514
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Box Office 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2y-5FCy5bfe44u_WM68s7cdNa2uQiK7EYjJTrjwBqr_b6xLbWHbIPkMAt6mfBHzn4.png" group-title="Turk",TR : beIN  Box Office 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9515
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Box Office 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON25iEVtOxj5XF_Nhqwx9JtLZLEZBnsOYbj0-zM-fDLa_zV9xKdjLdlEjHqSj7qlmBG6hqdU3GL5HC09Y1SPvZvnw.png" group-title="Turk",TR : beIN  Box Office 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9516
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 1 FullHD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3nKByGcV2y8wGUQdUepMW1UvwfqqUZfzh0qyw5CT5htu9K1wj-SfmqfH0viP_oOxP.png" group-title="Turk",TR : beIN  Sports 1 FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9308
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 1 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3nKByGcV2y8wGUQdUepMW1UvwfqqUZfzh0qyw5CT5htu9K1wj-SfmqfH0viP_oOxP.png" group-title="Turk",TR : beIN  Sports 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9315
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 2 FullHD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO37R3PdaJOYMRDp7fWejnDFTHVEoK0REmF-GgaJo7PFsi6in4kzI6VQvsfxqkdDxBe.png" group-title="Turk",TR : beIN  Sports 2 FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9309
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO37R3PdaJOYMRDp7fWejnDFTHVEoK0REmF-GgaJo7PFsi6in4kzI6VQvsfxqkdDxBe.png" group-title="Turk",TR : beIN  Sports 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9316
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 3 FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/3le2N7tRE72s9RnwlSKUzqCQrkL_IBjq5J0izRfRQxO7Y3zR07SeB_JvESrGuQ-vdTC8MQdkPOHobfF-URucuA.png" group-title="Turk",TR : beIN  Sports 3 FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9310
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 4 FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVPehMMIB2sefVUFCbfFfO4rRBlAbAsJ7g8jVOuvBRH1aT_O2accNhrWFSEE8Ov6nvjNgM95xa1Kc9iY9w30pD-3a-XrvPQ0oNCNJTb7-nEw4P0P-brepyQHQ-QXE5kJcs72I0xfIRloNBfVpGsGzQ1c.png" group-title="Turk",TR : beIN  Sports 4 FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9311
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports 4 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3rOXHW7aWbmRDfEujx9rI2yBFs3GcI7KcUxqzagPhqmc3o1P6SIc9LC9I7xw6tUky.png" group-title="Turk",TR : beIN  Sports 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9318
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports Haber FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3bF5F7eYq3l3gNFsoZCf4q2gBebdOv5a96E96MQkFnPeHVDZVmVlwm0T_c3WxfKYo.png" group-title="Turk",TR : beIN  Sports Haber FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9307
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports Haber HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3bF5F7eYq3l3gNFsoZCf4q2gBebdOv5a96E96MQkFnPeHVDZVmVlwm0T_c3WxfKYo.png" group-title="Turk",TR : beIN  Sports Haber HD
+http://faucontv.live:8080/@messie12/b5HS41z/9314
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports Max 1 FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Cn85zvhYblp4tclSfg2HI70wNvPYflNM6l8kqnUjsGIIuPLsrMInh67gqW1cSsyE.png" group-title="Turk",TR : beIN  Sports Max 1 FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9312
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports Max 1 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Cn85zvhYblp4tclSfg2HI70wNvPYflNM6l8kqnUjsGIIuPLsrMInh67gqW1cSsyE.png" group-title="Turk",TR : beIN  Sports Max 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9319
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Sports Max 2 FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Ztnd0uW6k7vNiHLSbIRplJFjid_cFH4nm9ymy0JLpwEXYHeqpazQhY-j4k8JttdH.png" group-title="Turk",TR : beIN Sports Max 2 FullHD
+http://faucontv.live:8080/@messie12/b5HS41z/9313
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN  Sports Max 2 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Ztnd0uW6k7vNiHLSbIRplJFjid_cFH4nm9ymy0JLpwEXYHeqpazQhY-j4k8JttdH.png" group-title="Turk",TR : beIN  Sports Max 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9320
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beiN Gurme HD" tvg-logo="http://live.phenixiptv.com:8080/images/3le2N7tRE72s9RnwlSKUzqCQrkL_IBjq5J0izRfRQxPPzS6oFYwzDzmTGMhcqLimJAoaGi9GFnuIZJoLrYAKSQ.png" group-title="Turk",TR : beiN Gurme HD
+http://faucontv.live:8080/@messie12/b5HS41z/9524
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN IZ TV HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY793BRizEQZUpCYA7T0jJn7Udytijf1ksAxvFJtHTaULCXsfj64T3HH9cdPZL2If3pQ-vunIaubfHZK_DYooCH6S.png" group-title="Turk",TR : beIN IZ TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/9375
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Movies Action 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2VDhP6Rjoaza-8jLmJBt_W0n-Jq738YYL30W6ahxH7Du25ZN-iFJ6SYMdnzt26NMr.png" group-title="Turk",TR : beIN Movies Action 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9512
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Movies Action HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2Jx2CFCsyTTE-ut_-K7LSuYGNFYtmXxP-p9hYIbxyYO8B9N6XNtYC1HbDWtFG0wy7.png" group-title="Turk",TR : beIN Movies Action HD
+http://faucontv.live:8080/@messie12/b5HS41z/9511
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Movies Family HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2DjV-Cy6aWPQSjnSrRUQKhPV7lmpykJwurv_O-mLymgXbwHczIrqz-fcNc4I9p0JHh9YykAaxo5gQ6qSvtRa9Aw.png" group-title="Turk",TR : beIN Movies Family HD
+http://faucontv.live:8080/@messie12/b5HS41z/9518
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beiN Movies Premiere" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2StvweLhA0wvqLhpPbcsFjH0wAsTdBMEV9D3u7oEU1vdoNTBiwNW-ehyfBtgeeU85.png" group-title="Turk",TR : beiN Movies Premiere
+http://faucontv.live:8080/@messie12/b5HS41z/9507
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beiN Movies Premiere 2" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2u7zpUyRQaH7E4I4vDx3WlnEgp9SjLFYoPbaUKLaj6kA6hwyxcNYo4gHj7h7szoMM.png" group-title="Turk",TR : beiN Movies Premiere 2
+http://faucontv.live:8080/@messie12/b5HS41z/9508
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN MOVIES PREMIERE 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2u7zpUyRQaH7E4I4vDx3WlnEgp9SjLFYoPbaUKLaj6kA6hwyxcNYo4gHj7h7szoMM.png" group-title="Turk",TR : beIN MOVIES PREMIERE 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/9510
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN MOVIES PREMIERE HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2StvweLhA0wvqLhpPbcsFjH0wAsTdBMEV9D3u7oEU1vdoNTBiwNW-ehyfBtgeeU85.png" group-title="Turk",TR : beIN MOVIES PREMIERE HD
+http://faucontv.live:8080/@messie12/b5HS41z/9509
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Movies Stars" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2kKz12ZYyEhK3uDxo26WDnUDLjYAASK1GYs4vFrT35KhfhlDYfUBjJk_tFRQ4Td9j.png" group-title="Turk",TR : beIN Movies Stars
+http://faucontv.live:8080/@messie12/b5HS41z/9517
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Movies Türk" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2hMC5U4NDBj4w5_QOwyscEErTuAv5y_1kd160x53SVvlUo0LLGdUI8MkB--8xjOPg.png" group-title="Turk",TR : beIN Movies Türk
+http://faucontv.live:8080/@messie12/b5HS41z/9513
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beiN Movies Türk HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2ZPHr4nqgMQvgm9fwZlZ0pM7UQ1AhzmkxAOKgUCNeQcn4fczdd89tdawLCb2U5U9M.png" group-title="Turk",TR : beiN Movies Türk HD
+http://faucontv.live:8080/@messie12/b5HS41z/9506
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Series Comedy" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2lnBkZZ3EAkuqzrN6uS_5lxr6Gm-gzAP1tw4TA9JFNvvGXD6EjJ3FjVIwiwGhE_pjFzLHPnCffg3bFRfUYc-tOw.png" group-title="Turk",TR : beIN Series Comedy
+http://faucontv.live:8080/@messie12/b5HS41z/9519
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Series Drama" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2kLJ1Vh_K_uevGYmiCXJP7PkRCP8eIj7rwNdAP7HtN5skSvvmnLQzjrE9deKMbKOpNnqNOtrXEsO93My_QiCLzw.png" group-title="Turk",TR : beIN Series Drama
+http://faucontv.live:8080/@messie12/b5HS41z/9520
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Series Sci-Fi" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2WHsYJNv9iqC7wYuoNg9JduBq2v0Bg9nW0An3yYSEDrM-I5yBhbGfpv5j0FgHiKfFasyb7Dd0z0C-kXxmOSmBfQ.png" group-title="Turk",TR : beIN Series Sci-Fi
+http://faucontv.live:8080/@messie12/b5HS41z/9522
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Series Vice" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-zKfxsWfamsKsjddXSZON2TaiTkdo3Iay_ZK_dAnGyJPaBpyyrBcYcu7JyIjwfOy6srfFed8oWZYPjSRNeoJy_.png" group-title="Turk",TR : beIN Series Vice
+http://faucontv.live:8080/@messie12/b5HS41z/9521
+#EXTINF:-1 tvg-ID="" tvg-name="TR : beIN Sports 1 SD 480p" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3nKByGcV2y8wGUQdUepMW1UvwfqqUZfzh0qyw5CT5htu9K1wj-SfmqfH0viP_oOxP.png" group-title="Turk",TR : beIN Sports 1 SD 480p
+http://faucontv.live:8080/@messie12/b5HS41z/9321
+#EXTINF:-1 tvg-ID="" tvg-name="FR:* Bein Sports 1 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Bein Sports 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114475
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 FHD2" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 1 FHD2
+http://faucontv.live:8080/@messie12/b5HS41z/114476
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0066Q9cn0ZM_XXwVHFJ3Jy7NaD5GX1jgedqOEhuZHNNY.jpg" group-title="VIP ALL Sport",FR: Bein Sports 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114477
+#EXTINF:-1 tvg-ID="" tvg-name="FR:* Bein Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Bein Sports 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114478
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0HUU785vuHBj0DXxSpqEP_IKqANen5z0WIZDf9-T927s.jpg" group-title="VIP ALL Sport",FR: Bein Sports 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114479
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 2
+http://faucontv.live:8080/@messie12/b5HS41z/114480
+#EXTINF:-1 tvg-ID="" tvg-name="FR:* Bein Sports 3 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Bein Sports 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114481
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 3 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114482
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 3" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 3
+http://faucontv.live:8080/@messie12/b5HS41z/114483
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 4 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114521
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 5 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 5 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114522
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 6 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 6 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114523
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 7 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 7 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114524
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 8 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 8 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114525
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 9 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 9 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114526
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports Haber HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports Haber HD
+http://faucontv.live:8080/@messie12/b5HS41z/114918
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 1 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114919
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 1 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114920
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 1" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 1
+http://faucontv.live:8080/@messie12/b5HS41z/114921
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114924
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 2 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114925
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 2" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 2
+http://faucontv.live:8080/@messie12/b5HS41z/114926
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 3 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114927
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 3 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114928
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 3" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 3
+http://faucontv.live:8080/@messie12/b5HS41z/114929
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 4 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 4 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114930
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 4 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114931
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 4" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 4
+http://faucontv.live:8080/@messie12/b5HS41z/114932
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports Max 1 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports Max 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114933
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Bein ",
+http://faucontv.live:8080/@messie12/b5HS41z/115009
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports FHD" tvg-logo="" group-title="VIP ALL Sport",US: beIN Sports FHD
+http://faucontv.live:8080/@messie12/b5HS41z/115010
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports Espagnol HD" tvg-logo="" group-title="VIP ALL Sport",US: beIN Sports Espagnol HD
+http://faucontv.live:8080/@messie12/b5HS41z/115011
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports 5 HD" tvg-logo="" group-title="VIP ALL Sport",US: beIN Sports 5 HD
+http://faucontv.live:8080/@messie12/b5HS41z/115087
+#EXTINF:-1 tvg-ID="" tvg-name="AU: Bein Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Bein Sports 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/115891
