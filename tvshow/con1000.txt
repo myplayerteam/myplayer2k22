@@ -1,4 +1,218 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ES: LALIGA TV BAR" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaErcuxMd6Y33cA1FAujTJyzPm3AgQ7Gs5uKE0ESYJravWA.png" group-title="Spain",ES: LALIGA TV BAR
+http://faucontv.live:8080/@messie12/b5HS41z/21660
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA 4K" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnCH4kffkX4hbWaq41kO7pjw.png" group-title="Spain",ES: MOVISTAR LALIGA 4K
+http://faucontv.live:8080/@messie12/b5HS41z/21741
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA FHD Backup 1" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA FHD Backup 1
+http://faucontv.live:8080/@messie12/b5HS41z/21742
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA FHD Backup 2" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA FHD Backup 2
+http://faucontv.live:8080/@messie12/b5HS41z/21743
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-laliga-es.png?raw=true" group-title="Spain",ES: MOVISTAR LALIGA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21744
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA MULTI 2 FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA MULTI 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21749
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA MULTI 2 HD" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA MULTI 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21750
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA MULTI 2 SD" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA MULTI 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21751
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA MULTI 3 FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA MULTI 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21752
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA MULTI 3 HD" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: MOVISTAR LALIGA MULTI 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21753
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA MULTI 3 SD" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA MULTI 3 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21754
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR LALIGA SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-laliga-es.png?raw=true" group-title="Spain",ES: MOVISTAR LALIGA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21761
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport LaLiga HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPBmlaD_WZyrokxll9g2VJqQAE-EPps2yA1KcZCYXgM0gacOGFj5YCzvxPb-sgSrkA.png" group-title="South Africa",ZA: SuperSport LaLiga HD
+http://faucontv.live:8080/@messie12/b5HS41z/31632
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 1" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XeP4eZAX8kvnJBkpYakO55dGyubcDkE3x5jMbs41PArUQ.png" group-title="Germany",DE :  sky Sport 1
+http://faucontv.live:8080/@messie12/b5HS41z/5246
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 1 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95jmxGIqMKFeiS2-nsV0zUYwuD8mnr3--OBCAySNNFkieBydrJT7KUKhPj0C9jyHy2Levu4ZVgXD2QLbdfnc60q4_zxUmr_ZmaeKaxmNjsIsmK5QDnD3U2-IkIzHm839v1.png" group-title="Germany",DE :  sky Sport 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5236
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 10" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_Xdcd3w5U4-dBAmuvsi6LeCQpCnMiocC0QoNOUKRG9196g.png" group-title="Germany",DE :  sky Sport 10
+http://faucontv.live:8080/@messie12/b5HS41z/5255
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 10 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_Xdcd3w5U4-dBAmuvsi6LeCQpCnMiocC0QoNOUKRG9196g.png" group-title="Germany",DE :  sky Sport 10 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5245
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 11" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95jmxGIqMKFeiS2-nsV0zUYwuD8mnr3--OBCAySNNFkidmFO9-s3QRJz8viqVh2bIS0chrH0kEaJbHqgkoAoVhWUprfE8GWW7ARQ8OhoTPCqtGuKe4qBckbmUyV5rB0nOR.png" group-title="Germany",DE :  sky Sport 11
+http://faucontv.live:8080/@messie12/b5HS41z/5256
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 2" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XfNBcvqBoL4YsWknOXs-Jl5ve7iA6yb7cSnFL7ZOCjoeA.png" group-title="Germany",DE :  sky Sport 2
+http://faucontv.live:8080/@messie12/b5HS41z/5247
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvlY7v6eFL0rShTOsk2gMgUkk3jywPxHx41Q08qW0ThHg.png" group-title="Germany",DE :  sky Sport 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5237
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 3" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_Xcskpx4wVMf0ZLqtZXU_tV2CuQ7osauuz4bvDy3x5aDAA.png" group-title="Germany",DE :  sky Sport 3
+http://faucontv.live:8080/@messie12/b5HS41z/5248
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDsfs-qUeT0_E7zZ67YdFGCuyBJly37tJEV9TfG9xEGz6Q.png" group-title="Germany",DE :  sky Sport 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5238
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 4" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XdonysZxa3s3FKdNGKzWcjicTDbTmu6vwTQJMM7RFdfMw.png" group-title="Germany",DE :  sky Sport 4
+http://faucontv.live:8080/@messie12/b5HS41z/5249
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 4 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDtD1qDugYpXi3zgOes-wz_tZJUlrJ9i-qEUQogI7Hr7Cg.png" group-title="Germany",DE :  sky Sport 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5239
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 5" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XeJEN7jLFGFZv5E8yMDig7AlVMAbu5s53XU-Q1fwzM_sg.png" group-title="Germany",DE :  sky Sport 5
+http://faucontv.live:8080/@messie12/b5HS41z/5250
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 5 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDuzxwB4pCp8sEAluo1Vw5H9PBO--MB-YADlxtLbK0PrtA.png" group-title="Germany",DE :  sky Sport 5 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5240
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 6" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_Xdr8r1bX0e6Fvni8Xpfv-YzCLVT9iY3pyDI6basoDvNLw.png" group-title="Germany",DE :  sky Sport 6
+http://faucontv.live:8080/@messie12/b5HS41z/5251
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 6 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDsQj8sYfd3aKFV2a1z-ihBhamcL0hJ4d2T3kyzLSPrNiQ.png" group-title="Germany",DE :  sky Sport 6 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5241
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 7" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XenZkiHGalrQPf6EQwBseGyD_nK25f9HNvRedijj97u6w.png" group-title="Germany",DE :  sky Sport 7
+http://faucontv.live:8080/@messie12/b5HS41z/5252
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 7 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95jmxGIqMKFeiS2-nsV0zUYwuD8mnr3--OBCAySNNFkieI-b9vUKj_gWvOxZwFb6fUhVPzRse2SxPE2ywXQ7H4RfJTF2F0FBF_NBh1CsHZBYcgyMNGAsZsMjMK1yPsjgXb.png" group-title="Germany",DE :  sky Sport 7 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5242
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 8" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XfqJsY48uiAfMJT9-B31LJ0KPiVAYp-KkJ1xqeKp53cYw.png" group-title="Germany",DE :  sky Sport 8
+http://faucontv.live:8080/@messie12/b5HS41z/5253
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 8 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDtD2Rad9YFlz51kOzkZyF3_BhxhgFF3EZrU7Alguw9I5g.png" group-title="Germany",DE :  sky Sport 8 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5243
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 9" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XfAfVb8Wu2sH-GVWUjcZMvkfFEJi81HVqy2SqPu5gYzLw.png" group-title="Germany",DE :  sky Sport 9
+http://faucontv.live:8080/@messie12/b5HS41z/5254
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport 9 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDtplrDwpMpKiMGXq4esEuuxp2tk1Ysdw_S1HGKyI4t7OQ.png" group-title="Germany",DE :  sky Sport 9 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5244
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_Xc0yAdqGXkbtz1DMZU1Gocsf9leNG5za2YuxOifv6aaQg.png" group-title="Germany",DE :  sky Sport Austria 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5257
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 2 HD (ONLY ON MATCH DAYS)" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEp3-qfPk7V1m6EW7aEGPPH1H9hEmoGsL-z8JRjn9wZElQ.png" group-title="Germany",DE :  sky Sport Austria 2 HD (ONLY ON MATCH DAYS)
+http://faucontv.live:8080/@messie12/b5HS41z/5258
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 3 HD (ONLY ON MATCH DAYS)" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEqHbwSHw679824MJA3mtZplB_Xf5rhYNXuRwc46sVbbgw.png" group-title="Germany",DE :  sky Sport Austria 3 HD (ONLY ON MATCH DAYS)
+http://faucontv.live:8080/@messie12/b5HS41z/5259
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 4 HD (ONLY ON MATCH DAYS)" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEqmv0Nzy5bazvmEXoJz1WWgqxZ9cnPCeYSMCiUgrLu3sg.png" group-title="Germany",DE :  sky Sport Austria 4 HD (ONLY ON MATCH DAYS)
+http://faucontv.live:8080/@messie12/b5HS41z/5260
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 5 HD (ONLY ON MATCH DAYS)" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpe6OTXeB6pUr4Q3F2XeS1-XysjBNcxMK-vUPr-BeyyFg.png" group-title="Germany",DE :  sky Sport Austria 5 HD (ONLY ON MATCH DAYS)
+http://faucontv.live:8080/@messie12/b5HS41z/5261
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 6 HD (ONLY ON MATCH DAYS)" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpVB8FIpZeTcfm9Us4BFTaOWnOLRA04Q97i6BfpDklqwA.png" group-title="Germany",DE :  sky Sport Austria 6 HD (ONLY ON MATCH DAYS)
+http://faucontv.live:8080/@messie12/b5HS41z/5262
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Austria 7 HD (ONLY ON MATCH DAYS)" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaErtrbvmRWMmclQwVwVHiceKY_aiMg6zmYtto1CQyB8pVg.png" group-title="Germany",DE :  sky Sport Austria 7 HD (ONLY ON MATCH DAYS)
+http://faucontv.live:8080/@messie12/b5HS41z/5263
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 1" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDsRjhP1o2BOUgzfU9LPgl2JedSLpxViGVhuMRroBF2-QQ.png" group-title="Germany",DE :  sky Sport Bundesliga 1
+http://faucontv.live:8080/@messie12/b5HS41z/4969
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 1 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke95jmxGIqMKFeiS2-nsV0zUYwuD8mnr3--OBCAySNNFkicMPOtSjgsonMAz7lORjMcqQvL-TE_ZJue_42yTs45F5ALuNfMPIQnnm5rqNXLV2cTl7sq-N89TlWg_FNoKkNEZ.png" group-title="Germany",DE :  sky Sport Bundesliga 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4959
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 10" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDsRjhP1o2BOUgzfU9LPgl2JFK8-shq0bIdBcCxYzKu9Jw.png" group-title="Germany",DE :  sky Sport Bundesliga 10
+http://faucontv.live:8080/@messie12/b5HS41z/4978
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 10 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHMhKnlqrCIzwxJJsIZL0Dy7A.png" group-title="Germany",DE :  sky Sport Bundesliga 10 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4968
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 2" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvUxRkwve0LJol1gwbZlILNxZZgZSOZYUsUVsCM0VTxTQ.png" group-title="Germany",DE :  sky Sport Bundesliga 2
+http://faucontv.live:8080/@messie12/b5HS41z/4970
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHMT2uWq7eViLVBziXi_Cdv0Q.png" group-title="Germany",DE :  sky Sport Bundesliga 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4960
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 3" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDsZ-0iIU2tw-v_5o0Z4oml-b9_2gVm3t8cRfA9iJURSWw.png" group-title="Germany",DE :  sky Sport Bundesliga 3
+http://faucontv.live:8080/@messie12/b5HS41z/4971
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHM-SR2FYQyRqQA_-VrGaYR6Q.png" group-title="Germany",DE :  sky Sport Bundesliga 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4961
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 4" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDun2W0rijSWtrzFFZf34aNE3Af0l48LEacTa4N4DAC2JA.png" group-title="Germany",DE :  sky Sport Bundesliga 4
+http://faucontv.live:8080/@messie12/b5HS41z/4972
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 4 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHM59U0H4dLEhGmkFHLJLQY6A.png" group-title="Germany",DE :  sky Sport Bundesliga 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4962
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 5" tvg-logo="http://live.phenixiptv.com:8080/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWfdfbyKDIiEYzZmV_ayAK17P1mDleS-KOJhILwdt1FgQ.png" group-title="Germany",DE :  sky Sport Bundesliga 5
+http://faucontv.live:8080/@messie12/b5HS41z/4973
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 5 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHMsw3d5RlF79cvyuuela98yQ.png" group-title="Germany",DE :  sky Sport Bundesliga 5 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4963
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 6" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDssWtjDylB5Y5_tZjEIrwe0Ip5TXhHA3AiVDKr9QFj5mg.png" group-title="Germany",DE :  sky Sport Bundesliga 6
+http://faucontv.live:8080/@messie12/b5HS41z/4974
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 6 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHM0axgaf6wo2ZtCz2Ua3D05Q.png" group-title="Germany",DE :  sky Sport Bundesliga 6 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4964
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 7" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDuMKXRT622q-XqvjnOFidqLBzykwEg0g83CKV-YKBCQlA.png" group-title="Germany",DE :  sky Sport Bundesliga 7
+http://faucontv.live:8080/@messie12/b5HS41z/4975
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 7 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHMmmRqRIVZ-PvZEAThdz71Gg.png" group-title="Germany",DE :  sky Sport Bundesliga 7 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4965
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 8" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDsRIpJ8brfyLQLd4lxTPDsmV0xcPIaLAfdy4N43AZTxvA.png" group-title="Germany",DE :  sky Sport Bundesliga 8
+http://faucontv.live:8080/@messie12/b5HS41z/4976
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 8 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHMjUB3HLjjDkNV3mIPJ1MlSw.png" group-title="Germany",DE :  sky Sport Bundesliga 8 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4966
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 9" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvTl8_uPH19w7UuYh8Hm6KTOzphT3hlcGyFaKHOTa_uww.png" group-title="Germany",DE :  sky Sport Bundesliga 9
+http://faucontv.live:8080/@messie12/b5HS41z/4977
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport Bundesliga 9 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDvLGnxCS8C_AwwS8-eMsTHMc4VIomPARQtuMPmTwqJplw.png" group-title="Germany",DE :  sky Sport Bundesliga 9 HD
+http://faucontv.live:8080/@messie12/b5HS41z/4967
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport F1" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDtdgwSV9aofOrf3abTGXhPsBaAvkKLOIBo2t3jmEvDEFw.png" group-title="Germany",DE :  sky Sport F1
+http://faucontv.live:8080/@messie12/b5HS41z/5222
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport F1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XhymxdSEb9OlpkLZrJ_MNDtdgwSV9aofOrf3abTGXhPsBaAvkKLOIBo2t3jmEvDEFw.png" group-title="Germany",DE :  sky Sport F1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/5217
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport News" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XevmdGM7lnTBRCVTxhebvk1K1sbD2SqqkbTxEMBl-URgg.png" group-title="Germany",DE :  sky Sport News
+http://faucontv.live:8080/@messie12/b5HS41z/5221
+#EXTINF:-1 tvg-ID="" tvg-name="DE :  sky Sport News HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik9shqWPKGc5zfW6GkyqP_XevmdGM7lnTBRCVTxhebvk1K1sbD2SqqkbTxEMBl-URgg.png" group-title="Germany",DE :  sky Sport News HD
+http://faucontv.live:8080/@messie12/b5HS41z/5216
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 24" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwQ-VH3_eT9RIn2yKHsvfQUT-IBSkgfVq2cSyxcVfwOpOw.png" group-title="Italy",IT: SKY SPORT 24
+http://faucontv.live:8080/@messie12/b5HS41z/13276
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT ARENA" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwRk8j8dI7Y6rBagtEo77WKR9VVvKqtZ50iUR_EStn9Tdi8jQyj9Tnv7LNkKETbuizMtiwrfzzLLEoACWrIsqe6q.png" group-title="Italy",IT: SKY SPORT ARENA
+http://faucontv.live:8080/@messie12/b5HS41z/13277
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT CALCIO" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKj6neAkIZMiGNUj3jUIz4Or_67137hK6IsS_y0gBzQdg__ux47b-SngPC7_cDKkpE_DOQw1fRC8JL2uTGD1uoviLAO2ma_rKjLvBejMT2uyng99hOThqGrLGa0dbncGf_c4uiYIVDAPjJulSVpx3_M57ApoHC6i1KyhKUbn3j8QPA.png" group-title="Italy",IT: SKY SPORT CALCIO
+http://faucontv.live:8080/@messie12/b5HS41z/13278
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport F1" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwQAUs4M1yqMHOnEf5I9TdnM-lAppotahsz1mNpAUv6t0g.png" group-title="Italy",IT: Sky Sport F1
+http://faucontv.live:8080/@messie12/b5HS41z/10924
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT FOOTBALL" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwTq26Jof8Y9_fVWQBX0xmNMMOFdb44PHT992H1CSLYY-K3EoC7Cm5nxE-NvJsBEf8YJ8PuvMitWniP6Np6n-fKC.png" group-title="Italy",IT: SKY SPORT FOOTBALL
+http://faucontv.live:8080/@messie12/b5HS41z/13280
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT GOLF" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwR-tRVxH6dFStkc7-A41rx8-ttUPyO2mhSO9rVSTq-glg.png" group-title="Italy",IT: SKY SPORT GOLF
+http://faucontv.live:8080/@messie12/b5HS41z/13281
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT MOTOGP" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwTlZX3nZy4OQbF9phS388op9i-cnJ7fq-RudMVGUs5oVYSCh3X8RB6a6yZ-LS4_0a63KXqgGqjiMLpCAG8EHM5R.png" group-title="Italy",IT: SKY SPORT MOTOGP
+http://faucontv.live:8080/@messie12/b5HS41z/13282
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT NBA" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwT4z85YQMy_ZJoq312R9-Z8kKMMxTQWXRzOEfMdeijfXQ.png" group-title="Italy",IT: SKY SPORT NBA
+http://faucontv.live:8080/@messie12/b5HS41z/13283
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Serie A" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwRbqKYWJhv8DY22wM4mDxIxhi7V7z5y2LDXY61wDgUJ98CHnDspDMqEoExf2N4DiDQcbGf6KaK4ylFEvebv8x00.png" group-title="Italy",IT: Sky Sport Serie A
+http://faucontv.live:8080/@messie12/b5HS41z/10923
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT UNO" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwSOZyuHvuuMbNsF24GqjHXUbuKuypfgI39BDxGf29HsfA.png" group-title="Italy",IT: SKY SPORT UNO
+http://faucontv.live:8080/@messie12/b5HS41z/13284
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Actionⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOBA8d6ejY2CWWGG_dTD6X88KYMb23f-JycZlD6kQJdOA.png" group-title="UK",UK : Sky Sports Actionⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20957
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Actionⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOBA8d6ejY2CWWGG_dTD6X88KYMb23f-JycZlD6kQJdOA.png" group-title="UK",UK : Sky Sports Actionⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20958
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Arenaⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOkI1m37YSjbSghd8hze3pz.png" group-title="UK",UK : Sky Sports Arenaⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21415
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Arenaⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOkI1m37YSjbSghd8hze3pz.png" group-title="UK",UK : Sky Sports Arenaⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20959
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Arenaⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOkI1m37YSjbSghd8hze3pz.png" group-title="UK",UK : Sky Sports Arenaⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/21446
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Cricketⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPy8OBg1YnedTPv-Xq28XDA78Yk6LmIXu_glDcQTwbzyw.png" group-title="UK",UK : Sky Sports Cricketⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20963
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Cricketⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPy8OBg1YnedTPv-Xq28XDA78Yk6LmIXu_glDcQTwbzyw.png" group-title="UK",UK : Sky Sports Cricketⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20964
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Cricketⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xp9GKON-cBi3_snmYLa87wQuAei8Rlb8RtxLP5dja-aJDq07e1JGOyddyY61eK4wXg.png" group-title="UK",UK : Sky Sports Cricketⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/21303
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports F1ⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK",UK : Sky Sports F1ⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20965
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports F1ⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK",UK : Sky Sports F1ⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20966
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports F1ⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK",UK : Sky Sports F1ⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/20967
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Footballⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPNAaxO8tfEPw07mDFAclTc5HmjgdAjiQtivmtG1F0fUw.png" group-title="UK",UK : Sky Sports Footballⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20968
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Footballⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPNAaxO8tfEPw07mDFAclTc5HmjgdAjiQtivmtG1F0fUw.png" group-title="UK",UK : Sky Sports Footballⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20969
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Footballⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPNAaxO8tfEPw07mDFAclTc5HmjgdAjiQtivmtG1F0fUw.png" group-title="UK",UK : Sky Sports Footballⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/20970
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Golfⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="UK",UK : Sky Sports Golfⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20971
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Golfⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="UK",UK : Sky Sports Golfⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20972
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Golfⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="UK",UK : Sky Sports Golfⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/20973
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Main Event ⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNUxw9ayBmLvz0pPAm7sdI4OmSEdTEwDfhmIP5QiHUGcg.png" group-title="UK",UK : Sky Sports Main Event ⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20975
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Main Eventⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNUxw9ayBmLvz0pPAm7sdI4OmSEdTEwDfhmIP5QiHUGcg.png" group-title="UK",UK : Sky Sports Main Eventⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20974
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Mixⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOJRusOH-c6A6cDCnxL-khB.png" group-title="UK",UK : Sky Sports Mixⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20977
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Mixⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOJRusOH-c6A6cDCnxL-khB.png" group-title="UK",UK : Sky Sports Mixⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/21412
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Mixⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOJRusOH-c6A6cDCnxL-khB.png" group-title="UK",UK : Sky Sports Mixⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/20976
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports News ⓧ HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnAI5e3iG-rTy7gVYhDgRCfY.png" group-title="UK",UK : Sky Sports News ⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/21280
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Newsⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="UK",UK : Sky Sports Newsⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20978
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Newsⓧ SD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnAI5e3iG-rTy7gVYhDgRCfY.png" group-title="UK",UK : Sky Sports Newsⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/21304
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports NFLⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK",UK : Sky Sports NFLⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21411
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Premier League ⓧ FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNe1MeOUaU-7r65f6MAc0gjOKbfiQs8iblfg4t74_sByQ.png" group-title="UK",UK : Sky Sports Premier League ⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20979
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Premier Leagueⓧ HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNe1MeOUaU-7r65f6MAc0gjOKbfiQs8iblfg4t74_sByQ.png" group-title="UK",UK : Sky Sports Premier Leagueⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/20980
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Premier Leagueⓧ SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNe1MeOUaU-7r65f6MAc0gjOKbfiQs8iblfg4t74_sByQ.png" group-title="UK",UK : Sky Sports Premier Leagueⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/21281
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Racingⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK",UK : Sky Sports Racingⓧ FHD
+http://faucontv.live:8080/@messie12/b5HS41z/20981
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Racingⓧ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK",UK : Sky Sports Racingⓧ HD
+http://faucontv.live:8080/@messie12/b5HS41z/21305
+#EXTINF:-1 tvg-ID="" tvg-name="UK : Sky Sports Racingⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK",UK : Sky Sports Racingⓧ SD
+http://faucontv.live:8080/@messie12/b5HS41z/21306
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sports News FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sports News FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114309
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sports News" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0NvzOOcBiBUWBwbiPOxvPuCcZx0WA0Ci5KopcqyvCogw.jpg" group-title="VIP ALL Sport",DE: Sky Sports News
@@ -15,20 +229,6 @@ http://faucontv.live:8080/@messie12/b5HS41z/114314
 http://faucontv.live:8080/@messie12/b5HS41z/114315
 #EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Sport F1 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Sport F1 FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114316
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Sky Bundesliga 1 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE]* Sky Bundesliga 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114317
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1slMqrhwXBuJxL8VgWeSW3Q.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114318
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 1" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Bundesliga 1
-http://faucontv.live:8080/@messie12/b5HS41z/114319
-#EXTINF:-1 tvg-ID="" tvg-name="DE:* DAZN 1 Bar FHD" tvg-logo="" group-title="VIP ALL Sport",DE:* DAZN 1 Bar FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114320
-#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="https://moneroiptv.net/logot/germany/dazn1.png" group-title="VIP ALL Sport",DE: DAZN 1 Bar HD
-http://faucontv.live:8080/@messie12/b5HS41z/114321
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* DAZN 2 Bar FHD" tvg-logo="" group-title="VIP ALL Sport",[DE]* DAZN 2 Bar FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114322
-#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="" group-title="VIP ALL Sport",DE: DAZN 2 Bar HD
-http://faucontv.live:8080/@messie12/b5HS41z/114323
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Premier League FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sport Premier League FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114324
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sport Premier League HD
@@ -49,10 +249,6 @@ http://faucontv.live:8080/@messie12/b5HS41z/114331
 http://faucontv.live:8080/@messie12/b5HS41z/114332
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sport Golf HD
 http://faucontv.live:8080/@messie12/b5HS41z/114333
-#EXTINF:-1 tvg-ID="" tvg-name="[AT]* ORF Sport+ FHD" tvg-logo="" group-title="VIP ALL Sport",[AT]* ORF Sport+ FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114335
-#EXTINF:-1 tvg-ID="" tvg-name="[AT] ORF Sport+" tvg-logo="" group-title="VIP ALL Sport",[AT] ORF Sport+
-http://faucontv.live:8080/@messie12/b5HS41z/114336
 #EXTINF:-1 tvg-ID="" tvg-name="[DE]* Sky Sport Austria 1 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE]* Sky Sport Austria 1 FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114337
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Austria HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0NvzOOcBiBUWBwbiPOxvPuOHm4N-nCbfKMs8LzQkxAss.jpg" group-title="VIP ALL Sport",DE: Sky Sport Austria HD
@@ -63,36 +259,6 @@ http://faucontv.live:8080/@messie12/b5HS41z/114339
 http://faucontv.live:8080/@messie12/b5HS41z/114340
 #EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Sport Austria 3 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Sport Austria 3 FHD (ONLY ON MATCHDAY)
 http://faucontv.live:8080/@messie12/b5HS41z/114341
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Sport1 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0nEFd_enpzfEpU6ja0HkoQVqvFoTLVfX-yWblb9jiAxw.jpg" group-title="VIP ALL Sport",[DE]* Sport1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114343
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Sport 1+ FHD" tvg-logo="" group-title="VIP ALL Sport",[DE]* Sport 1+ FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114344
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sport 1+ HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0eloSfVk5WWQOpdDgvngVPCjlWxLeuS-XnAGbFHxub54.jpg" group-title="VIP ALL Sport",DE: Sport 1+ HD
-http://faucontv.live:8080/@messie12/b5HS41z/114345
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Motorvision HD" tvg-logo="" group-title="VIP ALL Sport",[DE]* Motorvision HD
-http://faucontv.live:8080/@messie12/b5HS41z/114348
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Motorvision" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0gSBDJnW33al3pcC4e8jmJ2AAH6X_dn9cwHcfqxHuOec.jpg" group-title="VIP ALL Sport",DE: Motorvision
-http://faucontv.live:8080/@messie12/b5HS41z/114349
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Bayern FC TV" tvg-logo="" group-title="VIP ALL Sport",DE: Bayern FC TV
-http://faucontv.live:8080/@messie12/b5HS41z/114350
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Sportdigital FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0L3blCpMgWxb3OYDAgQXt6iVdEhBrscfMF7JetvC_HC8.jpg" group-title="VIP ALL Sport",[DE]* Sportdigital FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114352
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Eurosport 1 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0XHl-kAp16bGYaTJe3rM26Cvs5sf2dY7oc2t8__YCNSM.jpg" group-title="VIP ALL Sport",[DE]* Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114353
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="VIP ALL Sport",DE: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114354
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Eurosport 2 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0QdTiKXzjt2i55SX0GK0LaLVU1iTofEly81oahH9_HLE.jpg" group-title="VIP ALL Sport",[DE]* Eurosport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114355
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0QdTiKXzjt2i55SX0GK0LaLVU1iTofEly81oahH9_HLE.jpg" group-title="VIP ALL Sport",DE: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114356
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Eurosport 2 Xtra FHD" tvg-logo="" group-title="VIP ALL Sport",[DE]* Eurosport 2 Xtra FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114357
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 2 Xtra HD" tvg-logo="" group-title="VIP ALL Sport",DE: Eurosport 2 Xtra HD
-http://faucontv.live:8080/@messie12/b5HS41z/114358
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] eSports 1 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] eSports 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114360
-#EXTINF:-1 tvg-ID="" tvg-name="DE: eSports1 HD" tvg-logo="" group-title="VIP ALL Sport",DE: eSports1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114361
 #EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Sport 3 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0ZTi4QsvSevJwziVF-J0sDE70cyZY46R3_IkAfTAntyg.jpg" group-title="VIP ALL Sport",[DE] Sky Sport 3 FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114362
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sport 3 FHD
@@ -123,236 +289,128 @@ http://faucontv.live:8080/@messie12/b5HS41z/114374
 http://faucontv.live:8080/@messie12/b5HS41z/114375
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 10 FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Sport 10 FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114376
-#EXTINF:-1 tvg-ID="" tvg-name="[DE]* Sky Bundesliga 2 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE]* Sky Bundesliga 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114378
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1g_9qTUlv3cHseAm1TpL1X8.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114379
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 3 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Bundesliga 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114380
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 3 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1qWYM0jF-Qb7k8p4Kyw3NkI.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114381
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 4 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Bundesliga 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114382
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 4 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1oXXJ_9YV23I99b9Mnc37Wc.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114383
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 5 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Bundesliga 5 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114384
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 5 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1pbhunC8QyvbWODhMiwI-x4.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114385
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 6 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Bundesliga 6 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114386
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 6 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1uiL0h6QassUf43llE_poMM.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 6 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114387
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 7 FHD" tvg-logo="" group-title="VIP ALL Sport",[DE] Sky Bundesliga 7 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114388
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 7 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1hoPsvXM-mNK4dAZo6DflyA.jpg" group-title="VIP ALL Sport",DE: Sky Bundesliga 7 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114389
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 8 FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Sky Bundesliga 8 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114390
-#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 8 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0fToZm0MTo5YckhGsWdBM1hlzsUzyVO2Xl6ECdCgDci8.jpg" group-title="VIP ALL Sport",[DE] Sky Bundesliga 8 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114391
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 1 FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Telekom Basketball 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114395
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 2 FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Telekom Basketball 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114396
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 3 FHD" tvg-logo="" group-title="VIP ALL Sport",DE: Telekom Basketball 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114397
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 1 HD" tvg-logo="" group-title="VIP ALL Sport",DE: Telekom Basketball 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114413
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 2 HD" tvg-logo="" group-title="VIP ALL Sport",DE: Telekom Basketball 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114414
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 3 HD" tvg-logo="" group-title="VIP ALL Sport",DE: Telekom Basketball 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114415
-#EXTINF:-1 tvg-ID="" tvg-name="FR: L'Equipe TV FHD" tvg-logo="" group-title="VIP ALL Sport",FR: L'Equipe TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114456
-#EXTINF:-1 tvg-ID="" tvg-name="FR: L'equipe 21 HD" tvg-logo="" group-title="VIP ALL Sport",FR: L'equipe 21 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114457
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Infosport+" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv05Q3uefV3gVxak7m-QxfqsXiKYSvjA8vBwYdnEfO-Hub6tv8AA87qxXKejRL3wypp.jpg" group-title="VIP ALL Sport",FR: Infosport+
-http://faucontv.live:8080/@messie12/b5HS41z/114458
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Premiere League FHD" tvg-logo="" group-title="VIP ALL Sport",FR: Canal+ Premiere League FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114459
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ MotoGP FHD" tvg-logo="" group-title="VIP ALL Sport",FR: Canal+ MotoGP FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114462
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ MotoGP HD" tvg-logo="" group-title="VIP ALL Sport",FR: Canal+ MotoGP HD
-http://faucontv.live:8080/@messie12/b5HS41z/114463
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Sport FHD" tvg-logo="" group-title="VIP ALL Sport",FR: Canal+ Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114464
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Amazon Prime 1 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: Amazon Prime 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114467
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Amazon Prime 4 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: Amazon Prime 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114470
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Amazon Prime 8 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: Amazon Prime 8 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114474
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* Bein Sports 1 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Bein Sports 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114475
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 FHD2" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 1 FHD2
-http://faucontv.live:8080/@messie12/b5HS41z/114476
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0066Q9cn0ZM_XXwVHFJ3Jy7NaD5GX1jgedqOEhuZHNNY.jpg" group-title="VIP ALL Sport",FR: Bein Sports 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114477
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* Bein Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Bein Sports 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114478
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0HUU785vuHBj0DXxSpqEP_IKqANen5z0WIZDf9-T927s.jpg" group-title="VIP ALL Sport",FR: Bein Sports 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114479
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 2
-http://faucontv.live:8080/@messie12/b5HS41z/114480
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* Bein Sports 3 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Bein Sports 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114481
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 3 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114482
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 3" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports 3
-http://faucontv.live:8080/@messie12/b5HS41z/114483
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* Canal+ Sport FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* Canal+ Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114484
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Sport HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv05Q3uefV3gVxak7m-Qxfqsaz9q_KWD8bl9e718snHsgc.jpg" group-title="VIP ALL Sport",FR: Canal+ Sport HD
-http://faucontv.live:8080/@messie12/b5HS41z/114485
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* RMC Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* RMC Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114486
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 1 FHD2" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport 1 FHD2
-http://faucontv.live:8080/@messie12/b5HS41z/114487
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* RMC Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",FR:* RMC Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114488
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114489
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 5 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 5 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114490
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 6 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 6 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114491
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 7 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 7 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114492
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 8 FHD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 8 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114493
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 9 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114494
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 10 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114495
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 11 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114496
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 12 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114497
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport Live 13 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114498
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 1 Access FHD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport 1 Access FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114501
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 3 Access FHD" tvg-logo="" group-title="VIP ALL Sport",FR: RMC Sport 3 Access FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114503
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Foot+ 24" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0Kh3ei0eL78MxCeH5Bt8mg-GSfMhraYQWVhpW1Bmiur0.jpg" group-title="VIP ALL Sport",FR: Foot+ 24
-http://faucontv.live:8080/@messie12/b5HS41z/114510
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 FHD1" tvg-logo="" group-title="VIP ALL Sport",UK: Sky Sports F1 FHD1
+http://faucontv.live:8080/@messie12/b5HS41z/115585
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="" group-title="VIP ALL Sport",IT: Sky Sport Serie A HD
+http://faucontv.live:8080/@messie12/b5HS41z/116152
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Uno" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0NTMbyW0RLG7PByHMxnj-EblOvHpZSa0dWrRBSMxwR_M.jpg" group-title="VIP ALL Sport",IT: Sky Sport Uno
+http://faucontv.live:8080/@messie12/b5HS41z/116153
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="VIP ALL Sport",UK: Sky Sports Racing
+http://faucontv.live:8080/@messie12/b5HS41z/116157
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY Ten 1" tvg-logo="http://live.phenixiptv.com:8080/images/917f509cc3421adb36ee55392e595c20.png" group-title="India",IN: SONY Ten 1
+http://faucontv.live:8080/@messie12/b5HS41z/14820
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY Ten 2" tvg-logo="http://live.phenixiptv.com:8080/images/dad0acd6f68cde4305fa02bdeee24f1b.png" group-title="India",IN: SONY Ten 2
+http://faucontv.live:8080/@messie12/b5HS41z/14821
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY Ten 3" tvg-logo="http://live.phenixiptv.com:8080/images/319c1d969697e54f1a47df2e1a832682.png" group-title="India",IN: SONY Ten 3
+http://faucontv.live:8080/@messie12/b5HS41z/14822
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU :SPORT | Sport TV 1 (SLO)" tvg-logo="s:1:/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530BWm8wOsitogBuIkA5S9IssaehedvKyHNKs96MRaCisT.png" group-title="EXYU",EXYU :SPORT | Sport TV 1 (SLO)
+http://faucontv.live:8080/@messie12/b5HS41z/33322
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU :SPORT | Sport TV 3 (SLO)" tvg-logo="s:1:/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530BtcVrmed-4KBalwRWrC8tzfi9BHol_aUp1O80eDLEWB.png" group-title="EXYU",EXYU :SPORT | Sport TV 3 (SLO)
+http://faucontv.live:8080/@messie12/b5HS41z/33320
+#EXTINF:-1 tvg-ID="" tvg-name="PT :  SPORT TV + HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdTUmOWnFw0a9OkoobytpMhddIiDJj0kxQ7Q9h6KZZJ0bCfsKuywy7h7c330EzK-U0fA7bBHFHCseDi-BUZWyngZK7DsWRTI4nFoXw_Tidav5w.png" group-title="Portugal",PT :  SPORT TV + HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13243
+#EXTINF:-1 tvg-ID="" tvg-name="PT :  SPORT TV 2 HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeH6KIWmJ5enJckn6jA42TZRvhRdDsppG4CO8rRmEPXaKfjgRp116eMYKGzeMffr-hhUkEdA7F4r3zc_nEb2F23StqKvhhcdpZOZVT7oh1tWpMm4FENY24wh8k4rXKemhvtXzJ_klhxRDgBLZjLw_1Q.png" group-title="Portugal",PT :  SPORT TV 2 HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13249
+#EXTINF:-1 tvg-ID="" tvg-name="PT :  SPORT TV 3 HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPwoIxfHwzqHmb0TOhAy_Y_5l0HW8Ai-bwqedM66RzV4FuHfrP04C-Jeq3yoW0ZHUHVtOi7YGiQGq2__0v4tVqrmNFy4D53iuHah2p0knSA8Qg.png" group-title="Portugal",PT :  SPORT TV 3 HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13251
+#EXTINF:-1 tvg-ID="" tvg-name="PT :  SPORT TV 4 HD HEVC" tvg-logo="" group-title="Portugal",PT :  SPORT TV 4 HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13252
+#EXTINF:-1 tvg-ID="" tvg-name="PT :  SPORT TV NBA HD HEVC" tvg-logo="" group-title="Portugal",PT :  SPORT TV NBA HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13254
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV +" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="Portugal",PT : SPORT TV +
+http://faucontv.live:8080/@messie12/b5HS41z/12850
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV + FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV + FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13168
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV + LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV + LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13105
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV + ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="Portugal",PT : SPORT TV + ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12851
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1" tvg-logo="http://live.phenixiptv.com:8080/images/b06593295fc1585b84d8f20d4662d287.png" group-title="Portugal",PT : SPORT TV 1
+http://faucontv.live:8080/@messie12/b5HS41z/12852
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 4K UHD HEVC" tvg-logo="" group-title="Portugal",PT : SPORT TV 1 4K UHD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13244
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV 1 FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13142
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 FULHD HEVC" tvg-logo="" group-title="Portugal",PT : SPORT TV 1 FULHD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13245
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2mTSJvJpcSD23539K81MWsix6pdtDA6UDqYSIXayTZvqXAC_KE1m64eXTcq1xUaPDWbkIsvDc-vfv9ocbtPnar1rlfN3ZIaBYqf2P4tNtTBJ4uEtCsa9cDW4-0jrd9UNyQ_LXYkXs1VQndW3R66p-Q.png" group-title="Portugal",PT : SPORT TV 1 HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13246
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV 1 LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13106
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 UHD HEVC" tvg-logo="" group-title="Portugal",PT : SPORT TV 1 UHD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13247
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 ᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/145ab6f9e5c19d2bfa60ec2bcedf6195.png" group-title="Portugal",PT : SPORT TV 1 ᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12853
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 1 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/b06593295fc1585b84d8f20d4662d287.png" group-title="Portugal",PT : SPORT TV 1 ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12855
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="Portugal",PT : SPORT TV 2
+http://faucontv.live:8080/@messie12/b5HS41z/12856
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2 FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV 2 FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13143
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2 FULHD HEVC" tvg-logo="" group-title="Portugal",PT : SPORT TV 2 FULHD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13248
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/23fe70cb89bf6045f64295ef7c8b5b35.png" group-title="Portugal",PT : SPORT TV 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/12858
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2 LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV 2 LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13107
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2 ᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/23fe70cb89bf6045f64295ef7c8b5b35.png" group-title="Portugal",PT : SPORT TV 2 ᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12857
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 2 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="Portugal",PT : SPORT TV 2 ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12859
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="Portugal",PT : SPORT TV 3
+http://faucontv.live:8080/@messie12/b5HS41z/12860
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3 FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV 3 FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13144
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3 FHD HEVC" tvg-logo="" group-title="Portugal",PT : SPORT TV 3 FHD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13250
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/07c77245fa2e0e43c71eead6b873036e.png" group-title="Portugal",PT : SPORT TV 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/12862
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3 LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV 3 LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13108
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3 ᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="Portugal",PT : SPORT TV 3 ᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12861
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 3 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="Portugal",PT : SPORT TV 3 ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12863
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 4" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBFoQrbeelLMY8-Txy1a3ac.png" group-title="Portugal",PT : SPORT TV 4
+http://faucontv.live:8080/@messie12/b5HS41z/12864
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 4 720P LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV 4 720P LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13109
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 4 FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV 4 FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13145
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 4 HD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBFoQrbeelLMY8-Txy1a3ac.png" group-title="Portugal",PT : SPORT TV 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/12865
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 4 LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV 4 LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13110
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 4 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAR3vv3CG5FAvTYKy5wfCRcfEixv6mklokxEnzgukgtmg.png" group-title="Portugal",PT : SPORT TV 4 ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12866
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="Portugal",PT : SPORT TV 5
+http://faucontv.live:8080/@messie12/b5HS41z/12867
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5 720P" tvg-logo="" group-title="Portugal",PT : SPORT TV 5 720P
+http://faucontv.live:8080/@messie12/b5HS41z/13111
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5 FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV 5 FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13146
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5 HD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="Portugal",PT : SPORT TV 5 HD
+http://faucontv.live:8080/@messie12/b5HS41z/12868
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5 HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPzJYFqduJQy1IynrIi8m1qb0c8LynIk06AH7YJzX16r5EDkqFXYMtfHBQe9lxJP6QcQLmlHCdPNt8tocqztiHWbPZ4IKCYdX5HjTs0F5vPk0g.png" group-title="Portugal",PT : SPORT TV 5 HD HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/13253
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5 LOW" tvg-logo="" group-title="Portugal",PT : SPORT TV 5 LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13112
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 5 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="Portugal",PT : SPORT TV 5 ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12869
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 6" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jD-RQws7CAY7y7jNJEa63TH.png" group-title="Portugal",PT : SPORT TV 6
+http://faucontv.live:8080/@messie12/b5HS41z/12870
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 6 FHD 265" tvg-logo="" group-title="Portugal",PT : SPORT TV 6 FHD 265
+http://faucontv.live:8080/@messie12/b5HS41z/13176
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 6 HD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCwe_syK6zUHwcQfySMZGeH.png" group-title="Portugal",PT : SPORT TV 6 HD
+http://faucontv.live:8080/@messie12/b5HS41z/12871
+#EXTINF:-1 tvg-ID="" tvg-name="PT : Sport TV 6 LOW" tvg-logo="" group-title="Portugal",PT : Sport TV 6 LOW
+http://faucontv.live:8080/@messie12/b5HS41z/13125
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV 6 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCwe_syK6zUHwcQfySMZGeH.png" group-title="Portugal",PT : SPORT TV 6 ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12872
+#EXTINF:-1 tvg-ID="" tvg-name="PT : SPORT TV NBA ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jADle-rIf309wlhGvayOTVz.png" group-title="Portugal",PT : SPORT TV NBA ᶠᴴᴰ
+http://faucontv.live:8080/@messie12/b5HS41z/12873
 #EXTINF:-1 tvg-ID="" tvg-name="FR:* Motorsport TV HD" tvg-logo="" group-title="VIP ALL Sport",FR:* Motorsport TV HD
 http://faucontv.live:8080/@messie12/b5HS41z/114511
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 1 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114512
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0QdTiKXzjt2i55SX0GK0LaLVU1iTofEly81oahH9_HLE.jpg" group-title="VIP ALL Sport",FR: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114513
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* Equidia Live HD" tvg-logo="" group-title="VIP ALL Sport",FR:* Equidia Live HD
-http://faucontv.live:8080/@messie12/b5HS41z/114514
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Equidia Life HD" tvg-logo="" group-title="VIP ALL Sport",FR: Equidia Life HD
-http://faucontv.live:8080/@messie12/b5HS41z/114515
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Extreme Sports HD" tvg-logo="" group-title="VIP ALL Sport",FR: Extreme Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/114516
-#EXTINF:-1 tvg-ID="" tvg-name="FR:* Golf Channel HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv05Q3uefV3gVxak7m-QxfqsS-wb0ZNEUb9uFfMb8bhqBwIWH4n6BOsosSQ2Q8w9eMt.jpg" group-title="VIP ALL Sport",FR:* Golf Channel HD
-http://faucontv.live:8080/@messie12/b5HS41z/114519
-#EXTINF:-1 tvg-ID="" tvg-name="FR: OL TV" tvg-logo="" group-title="VIP ALL Sport",FR: OL TV
-http://faucontv.live:8080/@messie12/b5HS41z/114520
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 4 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114521
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 5 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114522
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 6 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 6 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114523
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 7 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 7 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114524
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 8 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 8 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114525
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 9 HD" tvg-logo="" group-title="VIP ALL Sport",FR: Bein Sports Max 9 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114526
-#EXTINF:-1 tvg-ID="" tvg-name="BE: Voo Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",BE: Voo Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114527
-#EXTINF:-1 tvg-ID="" tvg-name="BE: Voo Sport World 3 FHD" tvg-logo="" group-title="VIP ALL Sport",BE: Voo Sport World 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114542
-#EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS 1" tvg-logo="" group-title="VIP ALL Sport",BE: PLAY SPORTS 1
-http://faucontv.live:8080/@messie12/b5HS41z/114543
-#EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS 2" tvg-logo="" group-title="VIP ALL Sport",BE: PLAY SPORTS 2
-http://faucontv.live:8080/@messie12/b5HS41z/114544
-#EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS 3" tvg-logo="" group-title="VIP ALL Sport",BE: PLAY SPORTS 3
-http://faucontv.live:8080/@messie12/b5HS41z/114545
-#EXTINF:-1 tvg-ID="" tvg-name="ES: #Vamos FHD" tvg-logo="" group-title="VIP ALL Sport",ES: #Vamos FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114548
-#EXTINF:-1 tvg-ID="" tvg-name="ES: #Vamos" tvg-logo="" group-title="VIP ALL Sport",ES: #Vamos
-http://faucontv.live:8080/@messie12/b5HS41z/114549
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Vamos Bar" tvg-logo="" group-title="VIP ALL Sport",ES: Vamos Bar
-http://faucontv.live:8080/@messie12/b5HS41z/114550
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes FHD" tvg-logo="" group-title="VIP ALL Sport",ES: M. Deportes FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114551
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes" tvg-logo="" group-title="VIP ALL Sport",ES: M. Deportes
-http://faucontv.live:8080/@messie12/b5HS41z/114552
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: M. Deportes 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114553
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 1" tvg-logo="" group-title="VIP ALL Sport",ES: M. Deportes 1
-http://faucontv.live:8080/@messie12/b5HS41z/114554
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 2" tvg-logo="" group-title="VIP ALL Sport",ES: M. Deportes 2
-http://faucontv.live:8080/@messie12/b5HS41z/114555
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] M. Deportes 4" tvg-logo="" group-title="VIP ALL Sport",[ES] M. Deportes 4
-http://faucontv.live:8080/@messie12/b5HS41z/114556
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] M. Deportes 3" tvg-logo="" group-title="VIP ALL Sport",[ES] M. Deportes 3
-http://faucontv.live:8080/@messie12/b5HS41z/114557
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf FHD" tvg-logo="" group-title="VIP ALL Sport",ES: M. Golf FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114565
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf HD" tvg-logo="" group-title="VIP ALL Sport",ES: M. Golf HD
-http://faucontv.live:8080/@messie12/b5HS41z/114566
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="VIP ALL Sport",ES: M. Formula 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114567
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Formula 1 HD" tvg-logo="" group-title="VIP ALL Sport",ES: Formula 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114568
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dazn F1" tvg-logo="" group-title="VIP ALL Sport",ES: Dazn F1
-http://faucontv.live:8080/@messie12/b5HS41z/114569
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dazn 1 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Dazn 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114570
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dazn 2 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Dazn 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114571
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dazn 3 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Dazn 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114572
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dazn 4 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Dazn 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114573
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga TV BAR FHD" tvg-logo="" group-title="VIP ALL Sport",ES: La Liga TV BAR FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114574
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga TV Bar HD" tvg-logo="" group-title="VIP ALL Sport",ES: La Liga TV Bar HD
-http://faucontv.live:8080/@messie12/b5HS41z/114575
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Toros FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Toros FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114576
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",[ES] Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114577
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 1 HD" tvg-logo="" group-title="VIP ALL Sport",ES: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114578
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 2" tvg-logo="" group-title="VIP ALL Sport",ES: Eurosport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114579
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Teledeporte" tvg-logo="" group-title="VIP ALL Sport",ES: Teledeporte
-http://faucontv.live:8080/@messie12/b5HS41z/114580
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte" tvg-logo="" group-title="VIP ALL Sport",ES: Multideporte
-http://faucontv.live:8080/@messie12/b5HS41z/114581
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] Real Madrid TV" tvg-logo="" group-title="VIP ALL Sport",[ES] Real Madrid TV
-http://faucontv.live:8080/@messie12/b5HS41z/114582
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Barca TV" tvg-logo="" group-title="VIP ALL Sport",ES: Barca TV
-http://faucontv.live:8080/@messie12/b5HS41z/114583
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Gol TV" tvg-logo="" group-title="VIP ALL Sport",ES: Gol TV
-http://faucontv.live:8080/@messie12/b5HS41z/114585
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] Sevilla FC" tvg-logo="" group-title="VIP ALL Sport",[ES] Sevilla FC
-http://faucontv.live:8080/@messie12/b5HS41z/114586
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] M. Liga De Campeones HD" tvg-logo="" group-title="VIP ALL Sport",[ES] M. Liga De Campeones HD
-http://faucontv.live:8080/@messie12/b5HS41z/114587
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 1 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Liga De Campeones 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114588
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 2 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Liga De Campeones 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114589
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 3 HD" tvg-logo="" group-title="VIP ALL Sport",ES: Liga De Campeones 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114590
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 4 HD" tvg-logo="" group-title="VIP ALL Sport",ES: Liga De Campeones 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114591
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 5" tvg-logo="[" group-title="VIP ALL Sport",ES: Liga De Campeones 5
-http://faucontv.live:8080/@messie12/b5HS41z/114592
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 6" tvg-logo="" group-title="VIP ALL Sport",ES: Liga De Campeones 6
-http://faucontv.live:8080/@messie12/b5HS41z/114593
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Liga De Campeones 8" tvg-logo="" group-title="VIP ALL Sport",ES: Liga De Campeones 8
-http://faucontv.live:8080/@messie12/b5HS41z/114595
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Sport TV 1 FHD
 http://faucontv.live:8080/@messie12/b5HS41z/114598
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 HD" tvg-logo="" group-title="VIP ALL Sport",PT: Sport TV 1 HD
@@ -379,754 +437,20 @@ http://faucontv.live:8080/@messie12/b5HS41z/114608
 http://faucontv.live:8080/@messie12/b5HS41z/114609
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV+" tvg-logo="" group-title="VIP ALL Sport",PT: Sport TV+
 http://faucontv.live:8080/@messie12/b5HS41z/114610
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Benfica TV FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Benfica TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114611
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Benfica TV HD" tvg-logo="" group-title="VIP ALL Sport",PT: Benfica TV HD
-http://faucontv.live:8080/@messie12/b5HS41z/114612
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Benfica TV 1" tvg-logo="" group-title="VIP ALL Sport",PT: Benfica TV 1
-http://faucontv.live:8080/@messie12/b5HS41z/114613
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="VIP ALL Sport",PT: ELEVEN SPORTS 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114614
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="VIP ALL Sport",PT: ELEVEN SPORTS 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114615
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="VIP ALL Sport",PT: ELEVEN SPORTS 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114616
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="VIP ALL Sport",PT: ELEVEN SPORTS 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114617
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="VIP ALL Sport",PT: ELEVEN SPORTS 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114618
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="VIP ALL Sport",PT: ELEVEN SPORTS 6 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114619
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Porto Canal FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Porto Canal FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114620
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Porto Canal" tvg-logo="" group-title="VIP ALL Sport",PT: Porto Canal
-http://faucontv.live:8080/@messie12/b5HS41z/114621
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Sporting TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114622
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Sporting TV" tvg-logo="" group-title="VIP ALL Sport",PT: Sporting TV
-http://faucontv.live:8080/@messie12/b5HS41z/114623
-#EXTINF:-1 tvg-ID="" tvg-name="PT: A Bola TV FHD" tvg-logo="" group-title="VIP ALL Sport",PT: A Bola TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114624
-#EXTINF:-1 tvg-ID="" tvg-name="PT: A Bola TV" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0jYdP010rWUHUFT-vVoNgW5Owfd2fCrMUUNCBN5XLjtQ.jpg" group-title="VIP ALL Sport",PT: A Bola TV
-http://faucontv.live:8080/@messie12/b5HS41z/114625
-#EXTINF:-1 tvg-ID="" tvg-name="PT: PFC" tvg-logo="" group-title="VIP ALL Sport",PT: PFC
-http://faucontv.live:8080/@messie12/b5HS41z/114626
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Fuel TV FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Fuel TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114627
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Fuel TV" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0Zuj5yHzUA5bo3xQO9Q_UqPscO1XKteuCdE5mJ1e0UdI.jpg" group-title="VIP ALL Sport",PT: Fuel TV
-http://faucontv.live:8080/@messie12/b5HS41z/114628
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Motorvision" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0gSBDJnW33al3pcC4e8jmJ2AAH6X_dn9cwHcfqxHuOec.jpg" group-title="VIP ALL Sport",PT: Motorvision
-http://faucontv.live:8080/@messie12/b5HS41z/114629
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Canal 11 FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Canal 11 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114630
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Canal 11" tvg-logo="" group-title="VIP ALL Sport",PT: Canal 11
-http://faucontv.live:8080/@messie12/b5HS41z/114631
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114632
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport HD" tvg-logo="" group-title="VIP ALL Sport",PT: Eurosport HD
-http://faucontv.live:8080/@messie12/b5HS41z/114633
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 2" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0K8ZQmmDINOvPjQDsqtIwUlE1y2QnMnKjUs9NeUpJn0U.jpg" group-title="VIP ALL Sport",PT: Eurosport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114634
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Toros TV" tvg-logo="" group-title="VIP ALL Sport",PT: Toros TV
-http://faucontv.live:8080/@messie12/b5HS41z/114635
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Combate FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Combate FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114636
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Fightox FHD" tvg-logo="" group-title="VIP ALL Sport",PT: Fightox FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114637
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Fightbox HD" tvg-logo="" group-title="VIP ALL Sport",PL: Fightbox HD
-http://faucontv.live:8080/@messie12/b5HS41z/114638
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fight Network HD" tvg-logo="" group-title="VIP ALL Sport",US: Fight Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/114641
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fight Network" tvg-logo="" group-title="VIP ALL Sport",US: Fight Network
-http://faucontv.live:8080/@messie12/b5HS41z/114648
-#EXTINF:-1 tvg-ID="" tvg-name="US: WWE FHD" tvg-logo="" group-title="VIP ALL Sport",US: WWE FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114649
-#EXTINF:-1 tvg-ID="" tvg-name="US: Bellator MMA HD" tvg-logo="" group-title="VIP ALL Sport",US: Bellator MMA HD
-http://faucontv.live:8080/@messie12/b5HS41z/114651
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Fightbox HD" tvg-logo="http://myserveriptv.com:2082/images/c704848d4a3d3928cc23076075737c30.png" group-title="VIP ALL Sport",CZ: Fightbox HD
-http://faucontv.live:8080/@messie12/b5HS41z/114653
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Formule 1 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Formule 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114659
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 1 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114665
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 3 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114667
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 4 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114668
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 5 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114669
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 7 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 7 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114671
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 8 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 8 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114672
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ViaPlay Xtra 11 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ViaPlay Xtra 11 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114675
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* ESPN 1 FHD" tvg-logo="" group-title="VIP ALL Sport",NL:* ESPN 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114714
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* ESPN 2 FHD" tvg-logo="" group-title="VIP ALL Sport",NL:* ESPN 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114715
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* ESPN 3 FHD" tvg-logo="" group-title="VIP ALL Sport",NL:* ESPN 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114716
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* ESPN 4 FHD" tvg-logo="" group-title="VIP ALL Sport",NL:* ESPN 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114717
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* Ziggo Sport Select FHD" tvg-logo="" group-title="VIP ALL Sport",NL:* Ziggo Sport Select FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114718
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* Ziggo Sport Voetbal" tvg-logo="" group-title="VIP ALL Sport",NL:* Ziggo Sport Voetbal
-http://faucontv.live:8080/@messie12/b5HS41z/114719
-#EXTINF:-1 tvg-ID="" tvg-name="NL:* Ziggo Sport Golf" tvg-logo="" group-title="VIP ALL Sport",NL:* Ziggo Sport Golf
-http://faucontv.live:8080/@messie12/b5HS41z/114720
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Voetbal FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Voetbal FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114721
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Racing FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Racing FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114722
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Docu FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Docu FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114723
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Tennis FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Tennis FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114724
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Eurosport 1 HD" tvg-logo="" group-title="VIP ALL Sport",NL: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114725
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Eurosport 2 HD" tvg-logo="" group-title="VIP ALL Sport",NL: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114726
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 1 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ESPN 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114732
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 2 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ESPN 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114733
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 3 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ESPN 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114734
-#EXTINF:-1 tvg-ID="" tvg-name="NL: ESPN 4 HD" tvg-logo="" group-title="VIP ALL Sport",NL: ESPN 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114735
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Select HD
-http://faucontv.live:8080/@messie12/b5HS41z/114736
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Golf FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Golf FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114737
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Racing" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Racing
-http://faucontv.live:8080/@messie12/b5HS41z/114738
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo Sport Docu" tvg-logo="" group-title="VIP ALL Sport",NL: Ziggo Sport Docu
-http://faucontv.live:8080/@messie12/b5HS41z/114739
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Horse & Country FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Horse & Country FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114740
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Edge Sport FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Edge Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114741
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Extreme Sports" tvg-logo="" group-title="VIP ALL Sport",NL: Extreme Sports
-http://faucontv.live:8080/@messie12/b5HS41z/114742
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",NL: Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114743
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Eurosport 2" tvg-logo="" group-title="VIP ALL Sport",NL: Eurosport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114744
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* C More Fotboll HD" tvg-logo="" group-title="VIP ALL Sport",SE:* C More Fotboll HD
-http://faucontv.live:8080/@messie12/b5HS41z/114747
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Fotboll" tvg-logo="" group-title="VIP ALL Sport",SE: C More Fotboll
-http://faucontv.live:8080/@messie12/b5HS41z/114748
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* C More Live HD" tvg-logo="" group-title="VIP ALL Sport",SE:* C More Live HD
-http://faucontv.live:8080/@messie12/b5HS41z/114749
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Live" tvg-logo="" group-title="VIP ALL Sport",SE: C More Live
-http://faucontv.live:8080/@messie12/b5HS41z/114750
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Live 2" tvg-logo="" group-title="VIP ALL Sport",SE: C More Live 2
-http://faucontv.live:8080/@messie12/b5HS41z/114751
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Live 3 HD" tvg-logo="" group-title="VIP ALL Sport",SE: C More Live 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114752
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Live 4" tvg-logo="" group-title="VIP ALL Sport",SE: C More Live 4
-http://faucontv.live:8080/@messie12/b5HS41z/114753
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Live 5" tvg-logo="" group-title="VIP ALL Sport",SE: C More Live 5
-http://faucontv.live:8080/@messie12/b5HS41z/114754
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* C More Hockey HD" tvg-logo="" group-title="VIP ALL Sport",SE:* C More Hockey HD
-http://faucontv.live:8080/@messie12/b5HS41z/114755
-#EXTINF:-1 tvg-ID="" tvg-name="SE: C More Hockey" tvg-logo="" group-title="VIP ALL Sport",SE: C More Hockey
-http://faucontv.live:8080/@messie12/b5HS41z/114756
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* C More Golf HD" tvg-logo="" group-title="VIP ALL Sport",SE:* C More Golf HD
-http://faucontv.live:8080/@messie12/b5HS41z/114757
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* Viasat Fotboll" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="VIP ALL Sport",SE:* Viasat Fotboll
-http://faucontv.live:8080/@messie12/b5HS41z/114759
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* Viasat Sport FHD" tvg-logo="" group-title="VIP ALL Sport",SE:* Viasat Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114760
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* Viasat Sport Premium FHD" tvg-logo="" group-title="VIP ALL Sport",SE:* Viasat Sport Premium FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114762
-#EXTINF:-1 tvg-ID="" tvg-name="SE: Viasat Sport Premium" tvg-logo="" group-title="VIP ALL Sport",SE: Viasat Sport Premium
-http://faucontv.live:8080/@messie12/b5HS41z/114763
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* Viasat Ultra HD" tvg-logo="" group-title="VIP ALL Sport",SE:* Viasat Ultra HD
-http://faucontv.live:8080/@messie12/b5HS41z/114764
-#EXTINF:-1 tvg-ID="" tvg-name="SE: Sportkanalen" tvg-logo="http://myserveriptv.com:2082/images/8c129feca4aa59631f6dc83c6c7e0651.png" group-title="VIP ALL Sport",SE: Sportkanalen
-http://faucontv.live:8080/@messie12/b5HS41z/114767
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* Viasat Motor HD" tvg-logo="" group-title="VIP ALL Sport",SE:* Viasat Motor HD
-http://faucontv.live:8080/@messie12/b5HS41z/114777
-#EXTINF:-1 tvg-ID="" tvg-name="SE: Viasat Hockey" tvg-logo="" group-title="VIP ALL Sport",SE: Viasat Hockey
-http://faucontv.live:8080/@messie12/b5HS41z/114778
-#EXTINF:-1 tvg-ID="" tvg-name="SE:* Viasat Golf FHD" tvg-logo="" group-title="VIP ALL Sport",SE:* Viasat Golf FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114780
-#EXTINF:-1 tvg-ID="" tvg-name="SE: Eurosport 2 HD" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="VIP ALL Sport",SE: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114783
-#EXTINF:-1 tvg-ID="" tvg-name="DK: Sport Live HD" tvg-logo="" group-title="VIP ALL Sport",DK: Sport Live HD
-http://faucontv.live:8080/@messie12/b5HS41z/114790
-#EXTINF:-1 tvg-ID="" tvg-name="DK: TV2 Sport FHD" tvg-logo="" group-title="VIP ALL Sport",DK: TV2 Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114791
-#EXTINF:-1 tvg-ID="" tvg-name="DK: TV2 Sport" tvg-logo="" group-title="VIP ALL Sport",DK: TV2 Sport
-http://faucontv.live:8080/@messie12/b5HS41z/114792
-#EXTINF:-1 tvg-ID="" tvg-name="DK: TV2 Sport X FHD" tvg-logo="" group-title="VIP ALL Sport",DK: TV2 Sport X FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114793
-#EXTINF:-1 tvg-ID="" tvg-name="DK: TV3 Sport 2" tvg-logo="" group-title="VIP ALL Sport",DK: TV3 Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114796
-#EXTINF:-1 tvg-ID="" tvg-name="DK: Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",DK: Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114797
-#EXTINF:-1 tvg-ID="" tvg-name="NO: TV2 Sport 2" tvg-logo="https://asiagrandiptv.us/logo/tv2sport2.png" group-title="VIP ALL Sport",NO: TV2 Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114805
-#EXTINF:-1 tvg-ID="" tvg-name="[NO] TV2 Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",[NO] TV2 Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114806
-#EXTINF:-1 tvg-ID="" tvg-name="NO: Viasat Golf FHD" tvg-logo="" group-title="VIP ALL Sport",NO: Viasat Golf FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114812
-#EXTINF:-1 tvg-ID="" tvg-name="[NO] Eurosport 1 FHD" tvg-logo="http://starsat123.com:8080/images/7dcbc955cefb93e082bc3905cad5c8a1.png" group-title="VIP ALL Sport",[NO] Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114813
-#EXTINF:-1 tvg-ID="" tvg-name="NO: Eurosport Pluss 2" tvg-logo="" group-title="VIP ALL Sport",NO: Eurosport Pluss 2
-http://faucontv.live:8080/@messie12/b5HS41z/114818
-#EXTINF:-1 tvg-ID="" tvg-name="FI: C More Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",FI: C More Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114823
-#EXTINF:-1 tvg-ID="" tvg-name="FI: C More Sport 1 HD" tvg-logo="" group-title="VIP ALL Sport",FI: C More Sport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114824
-#EXTINF:-1 tvg-ID="" tvg-name="FI: C More Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",FI: C More Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114825
-#EXTINF:-1 tvg-ID="" tvg-name="FI: C More Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",FI: C More Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114826
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport News FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport News FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114828
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Sport FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114829
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114830
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Sport 3 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Sport 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114831
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Sport 3 HD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Sport 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114832
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Sport 4 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Sport 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114833
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Sport 4 HD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Sport 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114834
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Now FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Canal+ Now FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114835
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114836
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Extra FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Extra FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114837
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Premium 1 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Premium 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114838
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Premium 2 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Premium 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114839
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Premium PPV 3 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Premium PPV 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114840
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Premium 4 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Premium 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114841
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Premium 5 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Premium 5 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114842
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Premium 6 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Premium 6 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114843
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP Sport FHD" tvg-logo="" group-title="VIP ALL Sport",PL: TVP Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114844
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Sport Klub FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Sport Klub FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114845
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Golf Channel FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Golf Channel FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114846
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP Sport HD" tvg-logo="" group-title="VIP ALL Sport",PL: TVP Sport HD
-http://faucontv.live:8080/@messie12/b5HS41z/114847
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Extreme Sports HD" tvg-logo="" group-title="VIP ALL Sport",PL: Extreme Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/114848
-#EXTINF:-1 tvg-ID="" tvg-name="PL: nSport" tvg-logo="" group-title="VIP ALL Sport",PL: nSport
-http://faucontv.live:8080/@messie12/b5HS41z/114849
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eleven HD" tvg-logo="" group-title="VIP ALL Sport",PL: Eleven HD
-http://faucontv.live:8080/@messie12/b5HS41z/114850
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eleven Sports 1 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Eleven Sports 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114852
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eleven Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Eleven Sports 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114853
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eleven Sports 3 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Eleven Sports 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114854
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eleven Sports 4 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Eleven Sports 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114855
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport Fight FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Polsat Sport Fight FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114856
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Fight Klub FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Fight Klub FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114857
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114858
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eurosport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: Eurosport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114859
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Eurosport 2 HD" tvg-logo="" group-title="VIP ALL Sport",PL: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114860
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ViaPlay Xtra 1 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: ViaPlay Xtra 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114861
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ViaPlay Xtra 2 FHD" tvg-logo="" group-title="VIP ALL Sport",PL: ViaPlay Xtra 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114862
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport Highlights FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport Highlights FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114878
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114879
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114880
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 3 FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114881
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 4 FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114882
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 5 HD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114883
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 6 FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 6 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114884
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Cosmote Sport 7 FHD" tvg-logo="" group-title="VIP ALL Sport",GR:* Cosmote Sport 7 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114885
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 8 FHD" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 8 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114886
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 9 FHD" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 9 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114887
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 1" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/114888
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 2" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114889
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 3" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/114890
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 4" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 4
-http://faucontv.live:8080/@messie12/b5HS41z/114891
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 5" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 5
-http://faucontv.live:8080/@messie12/b5HS41z/114892
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 6" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 6
-http://faucontv.live:8080/@messie12/b5HS41z/114893
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 7" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 7
-http://faucontv.live:8080/@messie12/b5HS41z/114894
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cosmote Sport 8" tvg-logo="" group-title="VIP ALL Sport",GR: Cosmote Sport 8
-http://faucontv.live:8080/@messie12/b5HS41z/114895
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Nova Sports 1 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnGNbzEVFByBedShNBnmb8MY.jpg" group-title="VIP ALL Sport",GR:* Nova Sports 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114897
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Nova Sports 2 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnK-ApAe7jV8RAOuFynMlh-U.jpg" group-title="VIP ALL Sport",GR:* Nova Sports 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114898
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Nova Sports 3 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnDLb_kkAtSsoo5o4B8SH8oU.jpg" group-title="VIP ALL Sport",GR:* Nova Sports 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114899
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Nova Sports 4 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnHwsgSt_inPC5Hg9CCJ2h74.jpg" group-title="VIP ALL Sport",GR:* Nova Sports 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114900
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Nova Sports 5 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnCumSuZyYHN03yOyOBpcnu8.jpg" group-title="VIP ALL Sport",GR:* Nova Sports 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114901
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sports 6 HD" tvg-logo="" group-title="VIP ALL Sport",GR: Nova Sports 6 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114902
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Nova Sports Prime HD" tvg-logo="" group-title="VIP ALL Sport",GR:* Nova Sports Prime HD
-http://faucontv.live:8080/@messie12/b5HS41z/114904
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sports 1 HD (BACKUP)" tvg-logo="" group-title="VIP ALL Sport",GR: Nova Sports 1 HD (BACKUP)
-http://faucontv.live:8080/@messie12/b5HS41z/114905
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sports 3 HD (BACKUP)" tvg-logo="" group-title="VIP ALL Sport",GR: Nova Sports 3 HD (BACKUP)
-http://faucontv.live:8080/@messie12/b5HS41z/114907
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sports 4 HD (BACKUP)" tvg-logo="" group-title="VIP ALL Sport",GR: Nova Sports 4 HD (BACKUP)
-http://faucontv.live:8080/@messie12/b5HS41z/114908
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Paok TV" tvg-logo="" group-title="VIP ALL Sport",GR: Paok TV
-http://faucontv.live:8080/@messie12/b5HS41z/114909
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Eurosport 1 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnI2cKJgKntKHBnS_fu30bGM.jpg" group-title="VIP ALL Sport",GR:* Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114912
-#EXTINF:-1 tvg-ID="" tvg-name="GR:* Eurosport 2 HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnCxEFKnd2ZQW3BMj9APtMJI.jpg" group-title="VIP ALL Sport",GR:* Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114913
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Exxen Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",TR: Exxen Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114915
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Exxen Sport 4 HD" tvg-logo="" group-title="VIP ALL Sport",TR: Exxen Sport 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114917
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports Haber HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports Haber HD
-http://faucontv.live:8080/@messie12/b5HS41z/114918
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 1 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114919
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 1 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114920
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 1" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 1
-http://faucontv.live:8080/@messie12/b5HS41z/114921
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114924
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 2 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114925
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 2" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 2
-http://faucontv.live:8080/@messie12/b5HS41z/114926
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 3 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114927
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 3 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114928
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 3" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 3
-http://faucontv.live:8080/@messie12/b5HS41z/114929
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 4 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114930
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 4 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114931
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 4" tvg-logo="" group-title="VIP ALL Sport",TR: Bein Sports 4
-http://faucontv.live:8080/@messie12/b5HS41z/114932
-#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports Max 1 HD" tvg-logo="" group-title="VIP ALL Sport",TR: beIN Sports Max 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114933
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 1 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: Tivibu Spor 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114934
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 1" tvg-logo="" group-title="VIP ALL Sport",TR: Tivibu Spor 1
-http://faucontv.live:8080/@messie12/b5HS41z/114935
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 2" tvg-logo="" group-title="VIP ALL Sport",TR: Tivibu Spor 2
-http://faucontv.live:8080/@messie12/b5HS41z/114936
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 2 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: Tivibu Spor 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114937
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 3 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: Tivibu Spor 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114938
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 4 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: Tivibu Spor 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114939
-#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor FHD" tvg-logo="" group-title="VIP ALL Sport",TR: A Spor FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114940
-#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor HD" tvg-logo="" group-title="VIP ALL Sport",TR: A Spor HD
-http://faucontv.live:8080/@messie12/b5HS41z/114941
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Sports TV HD" tvg-logo="" group-title="VIP ALL Sport",TR: Sports TV HD
-http://faucontv.live:8080/@messie12/b5HS41z/114942
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Sports TV" tvg-logo="" group-title="VIP ALL Sport",TR: Sports TV
-http://faucontv.live:8080/@messie12/b5HS41z/114943
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Spor Smart  FHD" tvg-logo="" group-title="VIP ALL Sport",TR: Spor Smart  FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114944
-#EXTINF:-1 tvg-ID="" tvg-name="TR: S Sport HD" tvg-logo="" group-title="VIP ALL Sport",TR: S Sport HD
-http://faucontv.live:8080/@messie12/b5HS41z/114945
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] TRT Spor FHD" tvg-logo="" group-title="VIP ALL Sport",[TR] TRT Spor FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114947
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] TRT Spor" tvg-logo="" group-title="VIP ALL Sport",[TR] TRT Spor
-http://faucontv.live:8080/@messie12/b5HS41z/114948
-#EXTINF:-1 tvg-ID="" tvg-name="TR: NBA TV FHD" tvg-logo="" group-title="VIP ALL Sport",TR: NBA TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114951
-#EXTINF:-1 tvg-ID="" tvg-name="TR: GS TV" tvg-logo="" group-title="VIP ALL Sport",TR: GS TV
-http://faucontv.live:8080/@messie12/b5HS41z/114953
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] FB TV" tvg-logo="" group-title="VIP ALL Sport",[TR] FB TV
-http://faucontv.live:8080/@messie12/b5HS41z/114954
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Sports TV" tvg-logo="" group-title="VIP ALL Sport",[TR] Sports TV
-http://faucontv.live:8080/@messie12/b5HS41z/114955
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",TR: Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114956
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Eurosport 2 HD" tvg-logo="" group-title="VIP ALL Sport",TR: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114957
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Match! HD" tvg-logo="" group-title="VIP ALL Sport",RU: Match! HD
-http://faucontv.live:8080/@messie12/b5HS41z/114958
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Match! Arena HD" tvg-logo="" group-title="VIP ALL Sport",RU: Match! Arena HD
-http://faucontv.live:8080/@messie12/b5HS41z/114959
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Match! Igra FHD" tvg-logo="" group-title="VIP ALL Sport",RU: Match! Igra FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114961
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RU: Match Futbol 1 HD" tvg-logo="" group-title="VIP ALL Sport",VIP RU: Match Futbol 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114963
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RU: Match Futbol 2 HD" tvg-logo="" group-title="VIP ALL Sport",VIP RU: Match Futbol 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114964
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RU: Match Futbol 3 HD" tvg-logo="" group-title="VIP ALL Sport",VIP RU: Match Futbol 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114965
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Match! Premiere FHD" tvg-logo="" group-title="VIP ALL Sport",RU: Match! Premiere FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114966
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Viasat Sport FHD" tvg-logo="" group-title="VIP ALL Sport",RU: Viasat Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114967
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Eurosport 1 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0NNa3fVDWPcisA-GPbHVEdqiG2WoRNmYjpcYbaBBLHTc.jpg" group-title="VIP ALL Sport",RU: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/114970
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Eurosport 2" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0K8ZQmmDINOvPjQDsqtIwUlE1y2QnMnKjUs9NeUpJn0U.jpg" group-title="VIP ALL Sport",RU: Eurosport 2
-http://faucontv.live:8080/@messie12/b5HS41z/114971
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Network FHD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Network FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114993
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Network HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/114994
-#EXTINF:-1 tvg-ID="" tvg-name="US: CBS Sports Network FHD" tvg-logo="" group-title="VIP ALL Sport",US: CBS Sports Network FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114995
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN News FHD" tvg-logo="" group-title="VIP ALL Sport",US: ESPN News FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114996
-#EXTINF:-1 tvg-ID="" tvg-name="US:* ESPN HD" tvg-logo="" group-title="VIP ALL Sport",US:* ESPN HD
-http://faucontv.live:8080/@messie12/b5HS41z/114997
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN FHD" tvg-logo="" group-title="VIP ALL Sport",US: ESPN FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114998
-#EXTINF:-1 tvg-ID="" tvg-name="US:* ESPN 2 FHD" tvg-logo="" group-title="VIP ALL Sport",US:* ESPN 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/114999
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN U HD" tvg-logo="" group-title="VIP ALL Sport",US: ESPN U HD
-http://faucontv.live:8080/@messie12/b5HS41z/115000
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN Sec Network HD" tvg-logo="" group-title="VIP ALL Sport",US: ESPN Sec Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/115001
-#EXTINF:-1 tvg-ID="" tvg-name="US: NESN HD" tvg-logo="" group-title="VIP ALL Sport",US: NESN HD
-http://faucontv.live:8080/@messie12/b5HS41z/115002
-#EXTINF:-1 tvg-ID="" tvg-name="US: NESN+ HD" tvg-logo="" group-title="VIP ALL Sport",US: NESN+ HD
-http://faucontv.live:8080/@messie12/b5HS41z/115003
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports 1" tvg-logo="" group-title="VIP ALL Sport",US: Fox Sports 1
-http://faucontv.live:8080/@messie12/b5HS41z/115004
-#EXTINF:-1 tvg-ID="" tvg-name="US:* Fox Sports 1 HD" tvg-logo="" group-title="VIP ALL Sport",US:* Fox Sports 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115005
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports 2" tvg-logo="" group-title="VIP ALL Sport",US: Fox Sports 2
-http://faucontv.live:8080/@messie12/b5HS41z/115006
-#EXTINF:-1 tvg-ID="" tvg-name="US:* Fox Sports 2 HD" tvg-logo="http://starsat123.com:8080/images/883a15994e1ae9f3f034bc9f2e20b663.jpg" group-title="VIP ALL Sport",US:* Fox Sports 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115007
-#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports FHD" tvg-logo="" group-title="VIP ALL Sport",US: beIN Sports FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115010
-#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports Espagnol HD" tvg-logo="" group-title="VIP ALL Sport",US: beIN Sports Espagnol HD
-http://faucontv.live:8080/@messie12/b5HS41z/115011
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Deportes HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox Deportes HD
-http://faucontv.live:8080/@messie12/b5HS41z/115012
-#EXTINF:-1 tvg-ID="" tvg-name="US: Gol TV HD" tvg-logo="" group-title="VIP ALL Sport",US: Gol TV HD
-http://faucontv.live:8080/@messie12/b5HS41z/115013
-#EXTINF:-1 tvg-ID="" tvg-name="US: Big Ten Network HD" tvg-logo="" group-title="VIP ALL Sport",US: Big Ten Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/115014
-#EXTINF:-1 tvg-ID="" tvg-name="US: BTN Sports HD" tvg-logo="" group-title="VIP ALL Sport",US: BTN Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/115017
-#EXTINF:-1 tvg-ID="" tvg-name="US: NHL Network HD" tvg-logo="" group-title="VIP ALL Sport",US: NHL Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/115023
-#EXTINF:-1 tvg-ID="" tvg-name="US: NFL Network FHD" tvg-logo="" group-title="VIP ALL Sport",US: NFL Network FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115024
-#EXTINF:-1 tvg-ID="" tvg-name="US: NFL Now HD" tvg-logo="" group-title="VIP ALL Sport",US: NFL Now HD
-http://faucontv.live:8080/@messie12/b5HS41z/115025
-#EXTINF:-1 tvg-ID="" tvg-name="US: GSN HD" tvg-logo="" group-title="VIP ALL Sport",US: GSN HD
-http://faucontv.live:8080/@messie12/b5HS41z/115027
-#EXTINF:-1 tvg-ID="" tvg-name="US: MSG HD" tvg-logo="" group-title="VIP ALL Sport",US: MSG HD
-http://faucontv.live:8080/@messie12/b5HS41z/115029
-#EXTINF:-1 tvg-ID="" tvg-name="US: Spectrum Sportsnet Lakers HD" tvg-logo="" group-title="VIP ALL Sport",US: Spectrum Sportsnet Lakers HD
-http://faucontv.live:8080/@messie12/b5HS41z/115033
-#EXTINF:-1 tvg-ID="" tvg-name="US: Spectrum Sportsnet LA Dodgers HD" tvg-logo="" group-title="VIP ALL Sport",US: Spectrum Sportsnet LA Dodgers HD
-http://faucontv.live:8080/@messie12/b5HS41z/115034
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA TV FHD" tvg-logo="" group-title="VIP ALL Sport",US: NBA TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115035
-#EXTINF:-1 tvg-ID="" tvg-name="US: MAV TV HD" tvg-logo="" group-title="VIP ALL Sport",US: MAV TV HD
-http://faucontv.live:8080/@messie12/b5HS41z/115036
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Network HD" tvg-logo="" group-title="VIP ALL Sport",US: MLB Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/115037
-#EXTINF:-1 tvg-ID="" tvg-name="US: Tennis Channel HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv09-VNtetspvMkRmfR2k29ZK4OcfNFWOoHgq0mTIynVdc.jpg" group-title="VIP ALL Sport",US: Tennis Channel HD
-http://faucontv.live:8080/@messie12/b5HS41z/115038
-#EXTINF:-1 tvg-ID="" tvg-name="US: Tennis Plus 1 HD" tvg-logo="" group-title="VIP ALL Sport",US: Tennis Plus 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115039
-#EXTINF:-1 tvg-ID="" tvg-name="US: Tennis Plus 3" tvg-logo="" group-title="VIP ALL Sport",US: Tennis Plus 3
-http://faucontv.live:8080/@messie12/b5HS41z/115041
-#EXTINF:-1 tvg-ID="" tvg-name="US: The Golf Channel FHD" tvg-logo="" group-title="VIP ALL Sport",US: The Golf Channel FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115042
-#EXTINF:-1 tvg-ID="" tvg-name="US: The Golf Channel HD" tvg-logo="" group-title="VIP ALL Sport",US: The Golf Channel HD
-http://faucontv.live:8080/@messie12/b5HS41z/115043
-#EXTINF:-1 tvg-ID="" tvg-name="US: Eleven Sports HD" tvg-logo="" group-title="VIP ALL Sport",US: Eleven Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/115044
-#EXTINF:-1 tvg-ID="" tvg-name="US: Motortrend HD" tvg-logo="" group-title="VIP ALL Sport",US: Motortrend HD
-http://faucontv.live:8080/@messie12/b5HS41z/115046
-#EXTINF:-1 tvg-ID="" tvg-name="US: Yes Network HD" tvg-logo="" group-title="VIP ALL Sport",US: Yes Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/115047
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fuel TV FHD" tvg-logo="" group-title="VIP ALL Sport",US: Fuel TV FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115048
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBCSN Bay Area HD" tvg-logo="" group-title="VIP ALL Sport",US: NBCSN Bay Area HD
-http://faucontv.live:8080/@messie12/b5HS41z/115049
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Boston HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Boston HD
-http://faucontv.live:8080/@messie12/b5HS41z/115050
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports California HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports California HD
-http://faucontv.live:8080/@messie12/b5HS41z/115051
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Chicago HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Chicago HD
-http://faucontv.live:8080/@messie12/b5HS41z/115052
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Plus Chicago HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Plus Chicago HD
-http://faucontv.live:8080/@messie12/b5HS41z/115053
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Northwest HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/49f616709c22d823323cc193714dcd91.png" group-title="VIP ALL Sport",US: NBC Sports Northwest HD
-http://faucontv.live:8080/@messie12/b5HS41z/115054
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Philadelphia HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Philadelphia HD
-http://faucontv.live:8080/@messie12/b5HS41z/115055
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Philadelphia Plus HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Philadelphia Plus HD
-http://faucontv.live:8080/@messie12/b5HS41z/115056
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Washington HD" tvg-logo="" group-title="VIP ALL Sport",US: NBC Sports Washington HD
-http://faucontv.live:8080/@messie12/b5HS41z/115057
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox College Sports Atlantic HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox College Sports Atlantic HD
-http://faucontv.live:8080/@messie12/b5HS41z/115058
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox College Sports Central HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox College Sports Central HD
-http://faucontv.live:8080/@messie12/b5HS41z/115059
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports Carolina HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox Sports Carolina HD
-http://faucontv.live:8080/@messie12/b5HS41z/115061
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports Midwest HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox Sports Midwest HD
-http://faucontv.live:8080/@messie12/b5HS41z/115064
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports Ohio HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox Sports Ohio HD
-http://faucontv.live:8080/@messie12/b5HS41z/115066
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports Prime Ticket HD" tvg-logo="" group-title="VIP ALL Sport",US: Fox Sports Prime Ticket HD
-http://faucontv.live:8080/@messie12/b5HS41z/115068
-#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports 5 HD" tvg-logo="" group-title="VIP ALL Sport",US: beIN Sports 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115087
-#EXTINF:-1 tvg-ID="" tvg-name="US: Pac12 Bay Area HD" tvg-logo="" group-title="VIP ALL Sport",US: Pac12 Bay Area HD
-http://faucontv.live:8080/@messie12/b5HS41z/115093
-#EXTINF:-1 tvg-ID="" tvg-name="US: Pac12 Arizona HD" tvg-logo="" group-title="VIP ALL Sport",US: Pac12 Arizona HD
-http://faucontv.live:8080/@messie12/b5HS41z/115094
-#EXTINF:-1 tvg-ID="" tvg-name="US: Pac12 Network HD" tvg-logo="" group-title="VIP ALL Sport",US: Pac12 Network HD
-http://faucontv.live:8080/@messie12/b5HS41z/115097
-#EXTINF:-1 tvg-ID="" tvg-name="US: Willow Cricket Extra FHD" tvg-logo="" group-title="VIP ALL Sport",US: Willow Cricket Extra FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115098
-#EXTINF:-1 tvg-ID="" tvg-name="US: Willow Cricket FHD" tvg-logo="" group-title="VIP ALL Sport",US: Willow Cricket FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115099
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 1" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 1
-http://faucontv.live:8080/@messie12/b5HS41z/115114
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 2" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 2
-http://faucontv.live:8080/@messie12/b5HS41z/115115
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 3" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 3
-http://faucontv.live:8080/@messie12/b5HS41z/115116
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 4" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 4
-http://faucontv.live:8080/@messie12/b5HS41z/115117
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 5" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 5
-http://faucontv.live:8080/@messie12/b5HS41z/115118
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 6" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 6
-http://faucontv.live:8080/@messie12/b5HS41z/115119
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 7" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 7
-http://faucontv.live:8080/@messie12/b5HS41z/115120
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 9" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 9
-http://faucontv.live:8080/@messie12/b5HS41z/115122
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 10" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 10
-http://faucontv.live:8080/@messie12/b5HS41z/115123
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 11" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 11
-http://faucontv.live:8080/@messie12/b5HS41z/115124
-#EXTINF:-1 tvg-ID="" tvg-name="US: NBA LEAGUE PASS LIVE 12" tvg-logo="" group-title="VIP ALL Sport",US: NBA LEAGUE PASS LIVE 12
-http://faucontv.live:8080/@messie12/b5HS41z/115125
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] TSN 1 FHD" tvg-logo="https://asiagrandiptv.us/logo/tsn1.png" group-title="VIP ALL Sport",[CA] TSN 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115293
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 1 HD" tvg-logo="" group-title="VIP ALL Sport",CA: TSN 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115294
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] TSN 2 FHD" tvg-logo="" group-title="VIP ALL Sport",[CA] TSN 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115295
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 2 FHD" tvg-logo="" group-title="VIP ALL Sport",CA: TSN 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115296
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] TSN 3 FHD" tvg-logo="" group-title="VIP ALL Sport",[CA] TSN 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115297
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 3 FHD" tvg-logo="https://asiagrandiptv.us/logo/tsn3.png" group-title="VIP ALL Sport",CA: TSN 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115298
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] TSN 4 FHD" tvg-logo="https://asiagrandiptv.us/logo/tsn4.png" group-title="VIP ALL Sport",[CA] TSN 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115299
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 4 FHD" tvg-logo="" group-title="VIP ALL Sport",CA: TSN 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115300
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] TSN 5 FHD" tvg-logo="" group-title="VIP ALL Sport",[CA] TSN 5 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115301
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 5 FHD" tvg-logo="" group-title="VIP ALL Sport",CA: TSN 5 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115302
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] Sportsnet 360 FHD" tvg-logo="" group-title="VIP ALL Sport",[CA] Sportsnet 360 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115303
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet East FHD" tvg-logo="" group-title="VIP ALL Sport",CA: Sportsnet East FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115304
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] Sportsnet One FHD" tvg-logo="" group-title="VIP ALL Sport",[CA] Sportsnet One FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115305
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="VIP ALL Sport",CA: Sportsnet Ontario
-http://faucontv.live:8080/@messie12/b5HS41z/115306
-#EXTINF:-1 tvg-ID="" tvg-name="[CA] Sportsnet Pacific FHD" tvg-logo="" group-title="VIP ALL Sport",[CA] Sportsnet Pacific FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115307
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet West FHD" tvg-logo="" group-title="VIP ALL Sport",CA: Sportsnet West FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115308
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet One HD" tvg-logo="" group-title="VIP ALL Sport",CA: Sportsnet One HD
-http://faucontv.live:8080/@messie12/b5HS41z/115309
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet 360 HD" tvg-logo="" group-title="VIP ALL Sport",CA: Sportsnet 360 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115311
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet West HD" tvg-logo="https://asiagrandiptv.us/logo/sportsnetwest.png" group-title="VIP ALL Sport",CA: Sportsnet West HD
-http://faucontv.live:8080/@messie12/b5HS41z/115312
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Fox Sports Racing HD" tvg-logo="" group-title="VIP ALL Sport",CA: Fox Sports Racing HD
-http://faucontv.live:8080/@messie12/b5HS41z/115313
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA Sports FHD" tvg-logo="" group-title="VIP ALL Sport",CA: TVA Sports FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115314
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA Sports HD" tvg-logo="" group-title="VIP ALL Sport",CA: TVA Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/115315
-#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA Sports 2 HD" tvg-logo="" group-title="VIP ALL Sport",CA: TVA Sports 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115316
-#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS FHD" tvg-logo="" group-title="VIP ALL Sport",CA: RDS FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115317
-#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS" tvg-logo="" group-title="VIP ALL Sport",CA: RDS
-http://faucontv.live:8080/@messie12/b5HS41z/115318
-#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS 2 HD" tvg-logo="" group-title="VIP ALL Sport",CA: RDS 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115319
-#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS 2" tvg-logo="https://asiagrandiptv.us/logo/rds2.png" group-title="VIP ALL Sport",CA: RDS 2
-http://faucontv.live:8080/@messie12/b5HS41z/115320
-#EXTINF:-1 tvg-ID="" tvg-name="US: NHL 01" tvg-logo="" group-title="VIP ALL Sport",US: NHL 01
-http://faucontv.live:8080/@messie12/b5HS41z/115341
-#EXTINF:-1 tvg-ID="" tvg-name="US: NHL 02" tvg-logo="" group-title="VIP ALL Sport",US: NHL 02
-http://faucontv.live:8080/@messie12/b5HS41z/115342
-#EXTINF:-1 tvg-ID="" tvg-name="US: NFL Redzone HD" tvg-logo="" group-title="VIP ALL Sport",US: NFL Redzone HD
-http://faucontv.live:8080/@messie12/b5HS41z/115356
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 1" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 1
-http://faucontv.live:8080/@messie12/b5HS41z/115473
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 3" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 3
-http://faucontv.live:8080/@messie12/b5HS41z/115475
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 6" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 6
-http://faucontv.live:8080/@messie12/b5HS41z/115478
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 7" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 7
-http://faucontv.live:8080/@messie12/b5HS41z/115479
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 9" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 9
-http://faucontv.live:8080/@messie12/b5HS41z/115481
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 10" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 10
-http://faucontv.live:8080/@messie12/b5HS41z/115482
-#EXTINF:-1 tvg-ID="" tvg-name="US: MLB Arena 15" tvg-logo="" group-title="VIP ALL Sport",US: MLB Arena 15
-http://faucontv.live:8080/@messie12/b5HS41z/115487
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN HD USA HD" tvg-logo="" group-title="VIP ALL Sport",US: ESPN HD USA HD
-http://faucontv.live:8080/@messie12/b5HS41z/115512
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN U HD HD" tvg-logo="" group-title="VIP ALL Sport",US: ESPN U HD HD
-http://faucontv.live:8080/@messie12/b5HS41z/115513
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 FHD1" tvg-logo="" group-title="VIP ALL Sport",UK: Sky Sports F1 FHD1
-http://faucontv.live:8080/@messie12/b5HS41z/115585
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dazn F1 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Dazn F1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115586
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Formula 1 FHD" tvg-logo="" group-title="VIP ALL Sport",ES: Movistar Formula 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115587
-#EXTINF:-1 tvg-ID="" tvg-name="BG: Diema Sport 3 HD" tvg-logo="" group-title="VIP ALL Sport",BG: Diema Sport 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115615
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Digi Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Digi Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115631
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Digi Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Digi Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115633
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Digi Sport 2" tvg-logo="" group-title="VIP ALL Sport",RO: Digi Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115634
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Digi Sport 3 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Digi Sport 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115635
-#EXTINF:-1 tvg-ID="" tvg-name="[RO] Digi Sport 3" tvg-logo="" group-title="VIP ALL Sport",[RO] Digi Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/115636
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Digi Sport 4 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Digi Sport 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115637
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Digi Sport 4" tvg-logo="" group-title="VIP ALL Sport",RO: Digi Sport 4
-http://faucontv.live:8080/@messie12/b5HS41z/115638
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115639
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 1 HD" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115640
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 2" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115641
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115642
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 3" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/115643
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 3 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115644
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 4" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 4
-http://faucontv.live:8080/@messie12/b5HS41z/115645
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Telekom Sport 4 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Telekom Sport 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115646
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Look Sport FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Look Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115651
-#EXTINF:-1 tvg-ID="" tvg-name="[RO] Look Sport" tvg-logo="" group-title="VIP ALL Sport",[RO] Look Sport
-http://faucontv.live:8080/@messie12/b5HS41z/115652
-#EXTINF:-1 tvg-ID="" tvg-name="[RO] Look Sport 2" tvg-logo="" group-title="VIP ALL Sport",[RO] Look Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115653
-#EXTINF:-1 tvg-ID="" tvg-name="[RO] Look Sport 3" tvg-logo="" group-title="VIP ALL Sport",[RO] Look Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/115654
-#EXTINF:-1 tvg-ID="" tvg-name="RO: PRO-X FHD" tvg-logo="" group-title="VIP ALL Sport",RO: PRO-X FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115655
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Pro X" tvg-logo="" group-title="VIP ALL Sport",RO: Pro X
-http://faucontv.live:8080/@messie12/b5HS41z/115656
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Eurosport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Eurosport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115657
-#EXTINF:-1 tvg-ID="" tvg-name="[RO] Eurosport 1" tvg-logo="" group-title="VIP ALL Sport",[RO] Eurosport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115658
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Eurosport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",RO: Eurosport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115659
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Eurosport 2" tvg-logo="" group-title="VIP ALL Sport",RO: Eurosport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115660
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Arena Sport 1 HD" tvg-logo="" group-title="VIP ALL Sport",CZ: Arena Sport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115661
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Nova Sport 1 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0P79DK3JNG-iZu-tOhrY5SXgXyX6OEOLTnjoCdmbJulI.jpg" group-title="VIP ALL Sport",CZ: Nova Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115664
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Nova Sport 2 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0P79DK3JNG-iZu-tOhrY5SXgXyX6OEOLTnjoCdmbJulI.jpg" group-title="VIP ALL Sport",CZ: Nova Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115665
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Eurosport 1 HD" tvg-logo="" group-title="VIP ALL Sport",CZ: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115666
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Sport 1 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0JUgURSKbJmvcYk4WfbXrfXLLeswWb9b0DuMyOiSCzQo.jpg" group-title="VIP ALL Sport",CZ: Sport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115668
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Sport 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0Wyy53nFww-WI_RBRjI9D7KNMwOmLeHV2Vo3MHnHdfMU.jpg" group-title="VIP ALL Sport",CZ: Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115669
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: Auto Motor HD" tvg-logo="http://myserveriptv.com:2082/images/9ac4fdfdbfcfd924b54f537eaacc87bb.png" group-title="VIP ALL Sport",CZ: Auto Motor HD
-http://faucontv.live:8080/@messie12/b5HS41z/115670
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Digi Sport 1" tvg-logo="" group-title="VIP ALL Sport",HU: Digi Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115672
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Digi Sport 2" tvg-logo="" group-title="VIP ALL Sport",HU: Digi Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115673
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Digi Sport 3" tvg-logo="" group-title="VIP ALL Sport",HU: Digi Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/115674
-#EXTINF:-1 tvg-ID="" tvg-name="HU: M4 Sport FHD" tvg-logo="" group-title="VIP ALL Sport",HU: M4 Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115675
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Sport 1" tvg-logo="" group-title="VIP ALL Sport",HU: Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115677
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Sport 2" tvg-logo="" group-title="VIP ALL Sport",HU: Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115678
-#EXTINF:-1 tvg-ID="" tvg-name="HU: M4 Sport" tvg-logo="" group-title="VIP ALL Sport",HU: M4 Sport
-http://faucontv.live:8080/@messie12/b5HS41z/115679
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Sport M" tvg-logo="" group-title="VIP ALL Sport",HU: Sport M
-http://faucontv.live:8080/@messie12/b5HS41z/115680
-#EXTINF:-1 tvg-ID="" tvg-name="HU: Eurosport" tvg-logo="" group-title="VIP ALL Sport",HU: Eurosport
-http://faucontv.live:8080/@messie12/b5HS41z/115681
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo Super" tvg-logo="" group-title="VIP ALL Sport",PK: Geo Super
-http://faucontv.live:8080/@messie12/b5HS41z/115685
-#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV Sports" tvg-logo="" group-title="VIP ALL Sport",PK: PTV Sports
-http://faucontv.live:8080/@messie12/b5HS41z/115686
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ten Sports HD" tvg-logo="" group-title="VIP ALL Sport",PK: Ten Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/115687
-#EXTINF:-1 tvg-ID="" tvg-name="[IN] DD Sports HD" tvg-logo="" group-title="VIP ALL Sport",[IN] DD Sports HD
-http://faucontv.live:8080/@messie12/b5HS41z/115689
+#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORT TV 1 HD" tvg-logo="" group-title="VIP ALL Sport",SLO: SPORT TV 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/115798
+#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORT TV 3 HD" tvg-logo="" group-title="VIP ALL Sport",SLO: SPORT TV 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/115800
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORT 3" tvg-logo="http://live.phenixiptv.com:8080/images/8a4d31fe0a1093012d6089be90321420.png" group-title="India",IN: STAR SPORT 3
+http://faucontv.live:8080/@messie12/b5HS41z/14840
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/cd6da9f505b7fd1657c34f13528356af.png" group-title="India",IN: Star Sports 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/14841
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORTS 2" tvg-logo="http://live.phenixiptv.com:8080/images/41baffea8fc6e0460a827e4814c557f9.png" group-title="India",IN: STAR SPORTS 2
+http://faucontv.live:8080/@messie12/b5HS41z/14842
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="http://live.phenixiptv.com:8080/images/0525e722dc252e66f4c0b3f8f4b79c26.png" group-title="India",IN: STAR SPORTS SELECT 1
+http://faucontv.live:8080/@messie12/b5HS41z/14843
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="http://live.phenixiptv.com:8080/images/8cb1c13e71c6c15e2d06a93bf1bd7b41.png" group-title="India",IN: STAR SPORTS SELECT 2
+http://faucontv.live:8080/@messie12/b5HS41z/14844
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 1 HD Hindi" tvg-logo="" group-title="VIP ALL Sport",IN: Star Sports 1 HD Hindi
 http://faucontv.live:8080/@messie12/b5HS41z/115691
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 2 HD" tvg-logo="" group-title="VIP ALL Sport",IN: Star Sports 2 HD
@@ -1137,18 +461,6 @@ http://faucontv.live:8080/@messie12/b5HS41z/115693
 http://faucontv.live:8080/@messie12/b5HS41z/115694
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports Select 2 HD" tvg-logo="" group-title="VIP ALL Sport",IN: Star Sports Select 2 HD
 http://faucontv.live:8080/@messie12/b5HS41z/115695
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Six HD" tvg-logo="" group-title="VIP ALL Sport",IN: Sony Six HD
-http://faucontv.live:8080/@messie12/b5HS41z/115697
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Six" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-six-hd-in.png" group-title="VIP ALL Sport",IN: Sony Six
-http://faucontv.live:8080/@messie12/b5HS41z/115698
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Ten 1 HD" tvg-logo="" group-title="VIP ALL Sport",IN: Ten 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115699
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Ten 2 HD" tvg-logo="" group-title="VIP ALL Sport",IN: Ten 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115700
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Ten 3 HD" tvg-logo="" group-title="VIP ALL Sport",IN: Ten 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115701
-#EXTINF:-1 tvg-ID="" tvg-name="[IN] Willow Cricket HD" tvg-logo="" group-title="VIP ALL Sport",[IN] Willow Cricket HD
-http://faucontv.live:8080/@messie12/b5HS41z/115702
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport News FHD" tvg-logo="" group-title="VIP ALL Sport",AL: Super Sport News FHD
 http://faucontv.live:8080/@messie12/b5HS41z/115704
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="VIP ALL Sport",AL: Super Sport News HD
@@ -1179,184 +491,31 @@ http://faucontv.live:8080/@messie12/b5HS41z/115716
 http://faucontv.live:8080/@messie12/b5HS41z/115717
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 7 HD" tvg-logo="" group-title="VIP ALL Sport",AL: Super Sport 7 HD
 http://faucontv.live:8080/@messie12/b5HS41z/115718
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport News FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0EK-cqk7evg8UjuBmYv3wnNSSXpMUEDUljsa2LEDhDJ8.jpg" group-title="VIP ALL Sport",AL: Tring Sport News FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115723
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport News HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0EK-cqk7evg8UjuBmYv3wnNSSXpMUEDUljsa2LEDhDJ8.jpg" group-title="VIP ALL Sport",AL: Tring Sport News HD
-http://faucontv.live:8080/@messie12/b5HS41z/115724
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0X3XhyHYGlbwpNJT8h83ofVpaMXWcdPM9ZvvBTzwB8iE.jpg" group-title="VIP ALL Sport",AL: Tring Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115725
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="VIP ALL Sport",AL: Tring Sport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115726
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0R-UYgmb4I6YtEvlBZ7z4kYFiQpXAVZHBLx--0tmr0Xk.jpg" group-title="VIP ALL Sport",AL: Tring Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115727
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0R-UYgmb4I6YtEvlBZ7z4kYFiQpXAVZHBLx--0tmr0Xk.jpg" group-title="VIP ALL Sport",AL: Tring Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115728
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0WfrxEWJfzL8OQ6C474eMvWTPNmJ-6HS5Igxeh9p-2_I.jpg" group-title="VIP ALL Sport",AL: Tring Sport 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115729
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 3 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0WfrxEWJfzL8OQ6C474eMvWTPNmJ-6HS5Igxeh9p-2_I.jpg" group-title="VIP ALL Sport",AL: Tring Sport 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115730
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 4 FHD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0wXXfXKaBiZ1fetGx0ghyCNAvZTwfah_bjOfWptrYgqM.jpg" group-title="VIP ALL Sport",AL: Tring Sport 4 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115731
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 4 HD" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0wXXfXKaBiZ1fetGx0ghyCNAvZTwfah_bjOfWptrYgqM.jpg" group-title="VIP ALL Sport",AL: Tring Sport 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115732
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport Kosova HD 1" tvg-logo="" group-title="VIP ALL Sport",AL: Super Sport Kosova HD 1
 http://faucontv.live:8080/@messie12/b5HS41z/115733
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport Kosova HD 2" tvg-logo="" group-title="VIP ALL Sport",AL: Super Sport Kosova HD 2
 http://faucontv.live:8080/@messie12/b5HS41z/115734
-#EXTINF:-1 tvg-ID="" tvg-name="AL: K Sport 1" tvg-logo="" group-title="VIP ALL Sport",AL: K Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115735
-#EXTINF:-1 tvg-ID="" tvg-name="AL: K Sport 2" tvg-logo="" group-title="VIP ALL Sport",AL: K Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115736
-#EXTINF:-1 tvg-ID="" tvg-name="AL: K Sport 3" tvg-logo="" group-title="VIP ALL Sport",AL: K Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/115737
-#EXTINF:-1 tvg-ID="" tvg-name="AL: K Sport 4" tvg-logo="" group-title="VIP ALL Sport",AL: K Sport 4
-http://faucontv.live:8080/@messie12/b5HS41z/115738
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Art Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",AL: Art Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115740
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Art Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",AL: Art Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115741
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Art Sport 3 FHD" tvg-logo="" group-title="VIP ALL Sport",AL: Art Sport 3 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115742
-#EXTINF:-1 tvg-ID="" tvg-name="AL: RTSH Sport FHD" tvg-logo="" group-title="VIP ALL Sport",AL: RTSH Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115743
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Eurosport 1 HD" tvg-logo="" group-title="VIP ALL Sport",AL: Eurosport 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115744
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Eurosport 2 HD" tvg-logo="" group-title="VIP ALL Sport",AL: Eurosport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115745
-#EXTINF:-1 tvg-ID="" tvg-name="SR: SOS Kanal" tvg-logo="" group-title="VIP ALL Sport",SR: SOS Kanal
-http://faucontv.live:8080/@messie12/b5HS41z/115746
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Sport Klub 1 HD" tvg-logo="" group-title="VIP ALL Sport",SR: Sport Klub 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115752
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Sport Klub 1" tvg-logo="" group-title="VIP ALL Sport",SR: Sport Klub 1
-http://faucontv.live:8080/@messie12/b5HS41z/115753
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Sport Klub HD 2" tvg-logo="" group-title="VIP ALL Sport",SR: Sport Klub HD 2
-http://faucontv.live:8080/@messie12/b5HS41z/115755
-#EXTINF:-1 tvg-ID="" tvg-name="SR: SPORT KLUB 3 HD" tvg-logo="" group-title="VIP ALL Sport",SR: SPORT KLUB 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115756
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Sport Klub HD 3 Srb" tvg-logo="" group-title="VIP ALL Sport",SR: Sport Klub HD 3 Srb
-http://faucontv.live:8080/@messie12/b5HS41z/115757
-#EXTINF:-1 tvg-ID="" tvg-name="SR: SPORT KLUB 4" tvg-logo="" group-title="VIP ALL Sport",SR: SPORT KLUB 4
-http://faucontv.live:8080/@messie12/b5HS41z/115758
-#EXTINF:-1 tvg-ID="" tvg-name="SR: SPORT KLUB 5" tvg-logo="" group-title="VIP ALL Sport",SR: SPORT KLUB 5
-http://faucontv.live:8080/@messie12/b5HS41z/115759
-#EXTINF:-1 tvg-ID="" tvg-name="SR: SPORT KLUB 6" tvg-logo="" group-title="VIP ALL Sport",SR: SPORT KLUB 6
-http://faucontv.live:8080/@messie12/b5HS41z/115760
-#EXTINF:-1 tvg-ID="" tvg-name="SR Arena Sport 1" tvg-logo="" group-title="VIP ALL Sport",SR Arena Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115765
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 1" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115766
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115767
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 2" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115768
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 3 HD" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115769
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 3" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 3
-http://faucontv.live:8080/@messie12/b5HS41z/115770
-#EXTINF:-1 tvg-ID="" tvg-name="[SR] Arena Sport 4" tvg-logo="" group-title="VIP ALL Sport",[SR] Arena Sport 4
-http://faucontv.live:8080/@messie12/b5HS41z/115771
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 4" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 4
-http://faucontv.live:8080/@messie12/b5HS41z/115772
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Arena Sport 5 HD" tvg-logo="" group-title="VIP ALL Sport",SR: Arena Sport 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115773
-#EXTINF:-1 tvg-ID="" tvg-name="[SR] Arena Sport 5" tvg-logo="" group-title="VIP ALL Sport",[SR] Arena Sport 5
-http://faucontv.live:8080/@messie12/b5HS41z/115774
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 1 FHD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115778
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 1" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115779
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 2 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115780
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 3 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115781
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 4 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 4 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115782
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 5 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 5 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115783
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 6 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 6 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115784
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Sport Klub 1 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Sport Klub 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115788
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Sport Klub 2 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Sport Klub 2 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115789
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Sport Klub 3 HD" tvg-logo="" group-title="VIP ALL Sport",HR: Sport Klub 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115790
-#EXTINF:-1 tvg-ID="" tvg-name="SR: HN TV" tvg-logo="" group-title="VIP ALL Sport",SR: HN TV
-http://faucontv.live:8080/@messie12/b5HS41z/115791
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Partizan HD" tvg-logo="" group-title="VIP ALL Sport",SR: Partizan HD
-http://faucontv.live:8080/@messie12/b5HS41z/115792
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Sportska TV" tvg-logo="" group-title="VIP ALL Sport",SR: Sportska TV
-http://faucontv.live:8080/@messie12/b5HS41z/115793
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Eurosport 1" tvg-logo="" group-title="VIP ALL Sport",SR: Eurosport 1
-http://faucontv.live:8080/@messie12/b5HS41z/115794
-#EXTINF:-1 tvg-ID="" tvg-name="SR: Eurosport 2" tvg-logo="" group-title="VIP ALL Sport",SR: Eurosport 2
-http://faucontv.live:8080/@messie12/b5HS41z/115795
-#EXTINF:-1 tvg-ID="" tvg-name="HR: Arena Sport 2 FHD" tvg-logo="" group-title="VIP ALL Sport",HR: Arena Sport 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115797
-#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORT TV 1 HD" tvg-logo="" group-title="VIP ALL Sport",SLO: SPORT TV 1 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115798
-#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORT TV 3 HD" tvg-logo="" group-title="VIP ALL Sport",SLO: SPORT TV 3 HD
-http://faucontv.live:8080/@messie12/b5HS41z/115800
-#EXTINF:-1 tvg-ID="" tvg-name="LAT: Univision Deportes FHD" tvg-logo="" group-title="VIP ALL Sport",LAT: Univision Deportes FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115815
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Sky News Extra 1" tvg-logo="" group-title="VIP ALL Sport",AU: Sky News Extra 1
-http://faucontv.live:8080/@messie12/b5HS41z/115852
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Sky News Extra 2" tvg-logo="" group-title="VIP ALL Sport",AU: Sky News Extra 2
-http://faucontv.live:8080/@messie12/b5HS41z/115853
-#EXTINF:-1 tvg-ID="" tvg-name="AU: SBS World Movies" tvg-logo="" group-title="VIP ALL Sport",AU: SBS World Movies
-http://faucontv.live:8080/@messie12/b5HS41z/115860
-#EXTINF:-1 tvg-ID="" tvg-name="AU: SBS Food HD" tvg-logo="http://coveriptv.net:8080/images/86c17daa53b21d1b54431dfbff32775d.png" group-title="VIP ALL Sport",AU: SBS Food HD
-http://faucontv.live:8080/@messie12/b5HS41z/115861
-#EXTINF:-1 tvg-ID="" tvg-name="AU: SBS Viceland" tvg-logo="http://iptv-tn.com:8080/images/100175c074bcb933dfd2f8c1d734943b.png" group-title="VIP ALL Sport",AU: SBS Viceland
-http://faucontv.live:8080/@messie12/b5HS41z/115862
-#EXTINF:-1 tvg-ID="" tvg-name="AU: 7 Flix" tvg-logo="" group-title="VIP ALL Sport",AU: 7 Flix
-http://faucontv.live:8080/@messie12/b5HS41z/115863
-#EXTINF:-1 tvg-ID="" tvg-name="AU: ausbiz TV" tvg-logo="" group-title="VIP ALL Sport",AU: ausbiz TV
-http://faucontv.live:8080/@messie12/b5HS41z/115880
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Bein Sports 2 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Bein Sports 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115891
-#EXTINF:-1 tvg-ID="" tvg-name="AU: ESPN 1 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: ESPN 1 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115893
-#EXTINF:-1 tvg-ID="" tvg-name="AU: ESPN 2 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: ESPN 2 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115894
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports News HD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports News HD
-http://faucontv.live:8080/@messie12/b5HS41z/115895
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 501 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 501 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115896
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 502 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 502 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115897
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 503 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 503 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115898
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 504 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 504 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115899
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 505 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 505 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115900
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 506 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 506 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115901
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 507 FHD" tvg-logo="" group-title="VIP ALL Sport",AU: Fox Sports 507 FHD
-http://faucontv.live:8080/@messie12/b5HS41z/115902
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Racing.com" tvg-logo="" group-title="VIP ALL Sport",AU: Racing.com
-http://faucontv.live:8080/@messie12/b5HS41z/115905
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Sky Racing 1" tvg-logo="" group-title="VIP ALL Sport",AU: Sky Racing 1
-http://faucontv.live:8080/@messie12/b5HS41z/115906
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Sky Racing 2" tvg-logo="" group-title="VIP ALL Sport",AU: Sky Racing 2
-http://faucontv.live:8080/@messie12/b5HS41z/115907
-#EXTINF:-1 tvg-ID="" tvg-name="CAR: NOS TV" tvg-logo="" group-title="VIP ALL Sport",CAR: NOS TV
-http://faucontv.live:8080/@messie12/b5HS41z/116063
-#EXTINF:-1 tvg-ID="" tvg-name="CAR: TELENORD 8" tvg-logo="" group-title="VIP ALL Sport",CAR: TELENORD 8
-http://faucontv.live:8080/@messie12/b5HS41z/116096
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia",MY: Astro SuperSport 3
+http://faucontv.live:8080/@messie12/b5HS41z/34898
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Blitz HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOp8QBVEqEh9_j6ZtsMWy84h9iyXSMGhVxYBA4l3usJo0YysgsxUL_SfUIIIbfz_DI.jpg" group-title="South Africa",ZA: SuperSport Blitz HD
+http://faucontv.live:8080/@messie12/b5HS41z/31622
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Cricket HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPkMdu9Q2g5dVjUfds9GbU7NfihAejejM9_No2vkfrFIa2G-E4hLu3miywoNrpxvdo.png" group-title="South Africa",ZA: SuperSport Cricket HD
+http://faucontv.live:8080/@messie12/b5HS41z/31624
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Football HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qP-25DZr63wx-lGZAv5JnkgaOPI1QkHVL_310YVd8chD2Yshkl_GGsUeowiITGPSOs.png" group-title="South Africa",ZA: SuperSport Football HD
+http://faucontv.live:8080/@messie12/b5HS41z/31626
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport LaLiga HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPBmlaD_WZyrokxll9g2VJqQAE-EPps2yA1KcZCYXgM0gacOGFj5YCzvxPb-sgSrkA.png" group-title="South Africa",ZA: SuperSport LaLiga HD
+http://faucontv.live:8080/@messie12/b5HS41z/31632
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Maximo 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qNLADdnz1FemBDj71cSv3Wa3eXPlx9edu7HKYbpswjrrQA0yIgr5VXpWbI-ZlGJKNE.png" group-title="South Africa",ZA: SuperSport Maximo 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/31634
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Motorsport HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qM47GO0Roxjwnw7f7zv79OMk1BV8qQh3xqsSmcdbRBGK7e0q0c2c0KNvGHIQfvSsyg.png" group-title="South Africa",ZA: SuperSport Motorsport HD
+http://faucontv.live:8080/@messie12/b5HS41z/31636
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Premier League HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qM3WAfmpykODbInMFVOLHnDPz5TaZsJC_mVfAFH077Z2-_Uo7GZEOtAt6EbFtsezXM.png" group-title="South Africa",ZA: SuperSport Premier League HD
+http://faucontv.live:8080/@messie12/b5HS41z/31638
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport PSL HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMBfQdrNvAjzrlG5QGcgioA34uYMwLejNNUIXwsNC7laacjt4JSnWpf849Y_lAkE48.png" group-title="South Africa",ZA: SuperSport PSL HD
+http://faucontv.live:8080/@messie12/b5HS41z/31640
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Rugby HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="South Africa",ZA: SuperSport Rugby HD
+http://faucontv.live:8080/@messie12/b5HS41z/31642
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Variety 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOWZy7IqdaH6SzPKTB_bitLdSLni0b8b5LDHnIOSHYn42BS8eV3YSfCdZNVwB2mD_0.png" group-title="South Africa",ZA: SuperSport Variety 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/31646
 #EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Supersport 4 FHD" tvg-logo="" group-title="VIP ALL Sport",MY: Astro Supersport 4 FHD
 http://faucontv.live:8080/@messie12/b5HS41z/116132
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] Rai Sport FHD" tvg-logo="" group-title="VIP ALL Sport",[IT] Rai Sport FHD
-http://faucontv.live:8080/@messie12/b5HS41z/116150
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="" group-title="VIP ALL Sport",IT: Sky Sport Serie A HD
-http://faucontv.live:8080/@messie12/b5HS41z/116152
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Uno" tvg-logo="s:1:/images/aXLVngstgpQeOnRu4FmmvVnBRgCcXiBTT3_hGqECqjO1AFlVAVARSA5ZKTjFxBv0NTMbyW0RLG7PByHMxnj-EblOvHpZSa0dWrRBSMxwR_M.jpg" group-title="VIP ALL Sport",IT: Sky Sport Uno
-http://faucontv.live:8080/@messie12/b5HS41z/116153
-#EXTINF:-1 tvg-ID="" tvg-name="[UK] Nautical Channel FHD" tvg-logo="" group-title="VIP ALL Sport",[UK] Nautical Channel FHD
-http://faucontv.live:8080/@messie12/b5HS41z/116155
-#EXTINF:-1 tvg-ID="" tvg-name="[UK]* Free Sports FHD" tvg-logo="" group-title="VIP ALL Sport",[UK]* Free Sports FHD
-http://faucontv.live:8080/@messie12/b5HS41z/116156
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="VIP ALL Sport",UK: Sky Sports Racing
-http://faucontv.live:8080/@messie12/b5HS41z/116157
-
