@@ -120,9 +120,9 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSyDAgjIwRAl0QeQAMfgsTk/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJZpTszp-e3qdkYh7bKtTrow/ts
 #EXTINF:-1 xui-id="140" tvg-id="" tvg-name="My Cinema Asia" tvg-logo="http://bananatv.org:25461/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch9-B1sxgCYLG-BYD5ERZIBVB2iy1yxBcncLmLtxlAkO8Q.jpg" group-title="Movie",My Cinema Asia
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJe8KlLDs2qEoGwQHLK8pka0/ts
-#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="Indonesia",MNC TV
+#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="MNC TV" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjjx5zp_kCma6Q769jqwvb07Tps0v1dNzBAiit3upcj21LyUeYmik8nf_lyCMWmanYGePAuRIoOnKB4vdU7kARSQ.png" group-title="Indonesia",MNC TV
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJZlvpvv-7fgpVDgdanyfG6E/ts
-#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="GTV INDO" tvg-logo="" group-title="Indonesia",GTV INDO
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="GTV INDO" tvg-logo="http://bananatv.org:25461/images/A1jxd8REQKvxo3zHsKL0vyBPi2CTj9uGLVGfV1GRiUvB8pKP4ttKw1cA1le5V5OoJT_vPg1TYTWiW6AlEJmlxvIU0heVvg_jnvwsHX-i2Ju_yM-p0mva-ZzX37mOTz49nDXtj88Pu76qAZPYccTdP11g39Y90ANy4eYYRayUaLFgm9qniL39GCrhhzj_wOR4RZta1kKvnWwb6V8knjCC6A.jpg" group-title="Indonesia",GTV INDO
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVSHuLIg0BB-mzC3dRjdo2A/ts
 #EXTINF:-1 xui-id="33" tvg-id="" tvg-name="Cinema World" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj" group-title="Movie",Cinema World
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYdn3XUtjGFqcmVAV7FQZjA/ts
@@ -174,8 +174,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdVLT38ZGeIEf6BV6CPVVKM/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXtHNwoeHW8FS-7YegdmPck/ts
 #EXTINF:-1 xui-id="110" tvg-id="" tvg-name="Nature Time" tvg-logo="" group-title="Documentry",Nature Time
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUaa6dodIdnmO5Ai4sbqCUw/ts
-#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="MBC 2" tvg-logo="" group-title="Arabic",MBC 2
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbO6QC236vSVT81mpJfVATc/ts
 #EXTINF:-1 xui-id="111" tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://bananatv.org:25461/images/g3PRZpggT1jXC1tOVOHoBBhLvKOl_nBrqap69P1BTIGIwira_w7gCJ-iwcBIf-wp.png" group-title="Documentry",Love Nature 4K
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJcajkQ3hQukDp-YqjlLC2ow/ts
 #EXTINF:-1 xui-id="118" tvg-id="" tvg-name="Loupe 4K" tvg-logo="http://bananatv.org:25461/images/hBlpvMV0SEOl3BP5xLtVsvphhAiUcBJ4-AA1LAvoCQqTDc5Y1_2PdgU6JgvubAN1.png" group-title="Documentry",Loupe 4K
@@ -194,16 +192,10 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJRgcfQ0v05Y6xvE0lyvDHFY/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfafMZexUfwHeabdqZUMha4/ts
 #EXTINF:-1 xui-id="131" tvg-id="" tvg-name="Star Utsav" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Hindi",Star Utsav
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTx1jSIzF4cMhFwO5qYtXs4/ts
-#EXTINF:-1 xui-id="134" tvg-id="" tvg-name="&TV HD Tplay" tvg-logo="http://bananatv.org:25461/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQQ3msX8JRlgjIYBQnLbZYELaNRX96r1XlqFwK4xFRteA.png" group-title="Hindi",&TV HD Tplay
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVy8hq1mXVzJsPBbItqI2Gw/ts
-#EXTINF:-1 xui-id="132" tvg-id="" tvg-name="Star Utsav Gold UK (Eng Sub)" tvg-logo="http://bananatv.org:25461/images/dsAt8cMDBjbP3mVNdeYR4f5JupRTFsumVjplNHWfqaB9VWlI_dg6cnSHxzVHlcdD.png" group-title="Hindi",Star Utsav Gold UK (Eng Sub)
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJRM-q39cBpTS5z7Q7PGeiQ8/ts
 #EXTINF:-1 xui-id="145" tvg-id="" tvg-name="SAB HD" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWURzDAbEH6mr0URIulJ3faBfItjuO3BR6Uv6dyv5Qa7Rw.png" group-title="Hindi",SAB HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbbL6WaYnNxCGwzU9yCJngo/ts
 #EXTINF:-1 xui-id="130" tvg-id="" tvg-name="AATH HD" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXO6zya7b1v74eWOjJlHYqMrAISImVMB9d-1JSLbR6EoDfxUR5BVjPMRkGx3X1tD74.png" group-title="Hindi",AATH HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQuvFC2t4u7TYj8PDiKhIoM/ts
-#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="Star Gold" tvg-logo="http://bananatv.org:25461/images/n7sRxEiXa0bgV1VC9zT1MwBUtII9x9_eFWlVxEIkKbCX6pkzWj-srLV9OVdSKpZ650HefN12X4SReTzhKhNzhw.jpg" group-title="Hindi",Star Gold
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbXro6DfMh60l9AG9o1jLHA/ts
 #EXTINF:-1 xui-id="122" tvg-id="" tvg-name="TPF HD 2" tvg-logo="http://bananatv.org:25461/images/dJQGixVJxvDz0Po424fK0YkOeci5jwT6_VlJpe14T5reC47zS8AcOv-Yw7xQYjdn30TN9Shju4iZ95ivwQQJ2KFnPvgMRCxwDLh435m3-80.jpg" group-title="Thai & Truevisions",TPF HD 2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYFLKaUh6UVaYSil_u-gkcQ/ts
 #EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Star Gold HD Tplay" tvg-logo="http://bananatv.org:25461/images/8QYbcp0UzkidJPymSoJRlOJOm64BN15i885LQffdSCdTSkJNN6s-Qi2JkO90Q9MQg_69KqkersduaxvF02XXaw.png" group-title="Hindi",Star Gold HD Tplay
@@ -212,8 +204,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJazreAdgMiecp7dYzu62f6s/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJegH4uf27NG4VDSENt84LW4/ts
 #EXTINF:-1 xui-id="125" tvg-id="" tvg-name="MAX 2 HD" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXFS2GX6xHENMYTeGtJiXLrqNUQg41odKRqtjZxQ3nSgaOTZpZTv4ZrqCeEm06SL2s.png" group-title="Hindi",MAX 2 HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSBzwLtAmkHSEpBWyMnXtyM/ts
-#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="B4u Movie" tvg-logo="http://bananatv.org:25461/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dSYiU_qIaowtCddFrMUtYh-iRXVEdCpYsbAoP_oTgaPsA.png" group-title="Hindi",B4u Movie
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJaJziyh_AtYhfdshx_hKB9I/ts
 #EXTINF:-1 xui-id="128" tvg-id="" tvg-name="&pictures HD" tvg-logo="http://bananatv.org:25461/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dSCbljW9FrJdGTnF4AI0QWUdO8KceWbno0DqwcsS7EAvA.png" group-title="Hindi",&pictures HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJejtvGngl_gW-CDwHPSZ4Fw/ts
 #EXTINF:-1 xui-id="127" tvg-id="" tvg-name="MBC Bollywood" tvg-logo="http://bananatv.org:25461/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQtS30vaRuGZfMArrOiEGPEDqdDzHWbI82cjUVCCBHBMw.png" group-title="Hindi",MBC Bollywood
@@ -304,12 +294,14 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJcXKlg6-Y4xhpVzyGHagFps/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJS6XO_4OEqyvT4tIQPQ1LvM/ts
 #EXTINF:-1 xui-id="97" tvg-id="" tvg-name="TRT 3 SPOR" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjtcx3q4imB79zvLQ48urPH4CsD7uIV4R9uJrJKOGfceSIDZcR6Vf8CWTSVKEbFu15jHogY9otEsWNcYjkSvc9TzfJy5uoKfBZYOkoGehFEk2gHuliNrjn-HhGfzKkLGOH.png" group-title="Sport",TRT 3 SPOR
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJe2UQYnRvp9BLrrR7S4FMHk/ts
+#EXTINF:-1 xui-id="349" tvg-id="" tvg-name="Match Futbol 1" tvg-logo="http://bananatv.org:25461/images/ggDdQGJ_AWiFrQzkgTQMcmIkEJigY9b-SV52bq6eNyTOyd3c966a8tIss1H2T_Cl.png" group-title="Sport",Match Futbol 1
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJb_ds7ZZBUs7di5q6CNsPqQ/ts
+#EXTINF:-1 xui-id="1337" tvg-id="" tvg-name="Match Futbol 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6XEGfIiSj8EysrtwowgI_dzdPGqJJ97wxdeDiUlhu8rAZiZpziUA2WoCBMyARUK-Rw8&usqp=CAU" group-title="Sport",Match Futbol 2
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQUo61xWVomQFWUDJUKRCxM/ts
 #EXTINF:-1 xui-id="344" tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://bananatv.org:25461/images/Z9P7BwxXlTl-k8RLQ286tHkSzMxdyLRCit8ZcVkxj1rQNIWb2F1UXY_ms8st-nx_GFpg2BQfYvpJD6vAMEof1NSQ8yZLMflqNyZssDAE_pWZ8kmOgRDZ8WDsqECfd3_KLhlZRd7LJtZLV4r3EQlVqrgwyqtONm0xC5o2chc0xmA81kzJdrUvRDGjvC9g4azc.png" group-title="Sport",Eurosport 1
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUQhlaB-YC3ejC7TI-KsaGw/ts
 #EXTINF:-1 xui-id="114" tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://bananatv.org:25461/images/mOnS2LqWYQSHzfVVy4eyjCw5p9bKZMtL7MuMp1DW4n_3XCasKuOG4O6U9iBTeH4aoCk6C-ImvRkBaVFJTpx3T0VUqNN5GrmSMzlsOKfcwi6Ge_i98Hrbbe93z0SdyEAH.png" group-title="Sport",Eurosport 2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTkncYPacgmMmiB2p5Wdj7U/ts
-#EXTINF:-1 xui-id="349" tvg-id="" tvg-name="Match Futbol 1" tvg-logo="http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8" group-title="Sport",Match Futbol 1
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJb_ds7ZZBUs7di5q6CNsPqQ/ts
 #EXTINF:-1 xui-id="236" tvg-id="" tvg-name="Soccer Channel" tvg-logo="http://bananatv.org:25461/images/MuJ8fbAi_MkdxEgTx4Ih-1gLaqcgSkbejhA1LVB8e8ukTkzUhrsjswTPB9d3zJRinYdGflw6-xb7J8h4VNlG5KPU2XMDSjkB1g4NKJTNMII.png" group-title="Sport",Soccer Channel
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdMHvbVhzP8QjZ3VG-VPggw/ts
 #EXTINF:-1 xui-id="167" tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/sites/2/2022/03/SPOTV_LOGO-01-w-2.png?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=768&h=282" group-title="Sport",SPOTV 1
@@ -446,7 +438,7 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbG4oK-SscocwmaSnseUsf4/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTMKM1OJRhCUPk3XtWIw3rI/ts
 #EXTINF:-1 xui-id="520" tvg-id="" tvg-name="Gemini TV HD" tvg-logo="" group-title="Telugu",Gemini TV HD
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfoJ6P5VDlV4vCD-hOoO0as/ts
-#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="MBC 1" tvg-logo="" group-title="Arabic",MBC 1
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="MTV" tvg-logo="http://bananatv.org:25461/images/Bp-vRtZEje6kFpdMZzWxZxmOATnN-cD8RdT6JYdHQQfdFZSBtaF7yekIzt56pm5FT5BreWeJHskz0s0w0AgllTbiRA2bkpv4BodvK9eXrXl2vmQF_RTaMLAe22SYbWlH.png" group-title="test",MTV
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUkw8nV9gkrp_sTK6QpeXTg/ts
 #EXTINF:-1 xui-id="521" tvg-id="" tvg-name="Sun News" tvg-logo="http://bananatv.org:25461/images/Z9P7BwxXlTl-k8RLQ286tBrdIQ7oWjwrIUBWOve60BuLphNp4L7iCb-ycjRPlK7OQz36qoskr1exHxcH1KBOk-B6Zv5KWgFVvIS8vBDfTE4v8UFM-Gi8UaRtQmC0epiIsZ64cnCe-26R-5dYC3yGSccSX3B6aLLXqERW0r3UQoy0-7PnJAlSWlY6bk5wnAOq5q3_Z_4ub-KtPZKtx3zLNw.png" group-title="Tamil",Sun News
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbLK0hiBhEa0im8NR-tcNsI/ts
@@ -490,16 +482,8 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdpV38ckfCuLmriAoR5Mtw4/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdIUtqlFTz7EOOf0r8GWRwQ/ts
 #EXTINF:-1 xui-id="605" tvg-id="" tvg-name="EPL 7" tvg-logo="https://www.dropbox.com/scl/fi/nc1prud3qiiyujuhcwjbv/20230815_182237_0000.jpg?rlkey=3qtfabuu2sez2sja4wtwa09c6&dl=1" group-title="Football",EPL 7
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJa7ZRqGocwx04K-3BXXfPJM/ts
-#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="TPF HD 1 Test" tvg-logo="http://bananatv.org:25461/images/6Uuj9KM6KWBw8Skj5Y5OusCimXkfv1h885xkrWGV2QTa81y4eAxIiXvNChbWSa3fcXMp0WBR3491MmNC85MezYd_iST0o9S12Jgh38oSwxtKrrsU6bVpRiNGMm9xStH8.png" group-title="Thai & Truevisions",TPF HD 1 Test
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWn6ZbV6pAC_zgekeP1tydU/ts
-#EXTINF:-1 xui-id="646" tvg-id="" tvg-name="TPF HD 2" tvg-logo="http://bananatv.org:25461/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET_DY7yqd19liyQQGzBmIXtb5DAEI_dPvm9yPt6kThpWMfjMRI3KwfjSMJ6gCFj5IKA0OM39pijFH7UViP6CnxQN.png" group-title="Thai & Truevisions",TPF HD 2
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXq5cBTVUPp5mMcLm2WxZjc/ts
 #EXTINF:-1 xui-id="650" tvg-id="" tvg-name="TPF HD 3 Test" tvg-logo="http://bananatv.org:25461/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-UYcGpNNIzUxxH4GN5vOEybbaa-Dnuwrrl9bP8cDo0A_DP56TcbL5qZgHeS0t3djBY-roPrAqxSixj5DENkMij.png" group-title="Thai & Truevisions",TPF HD 3 Test
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWXcWmpmRusZcGRYJ1HpTlY/ts
-#EXTINF:-1 xui-id="649" tvg-id="" tvg-name="TPF HD 4 Test" tvg-logo="http://bananatv.org:25461/images/6Uuj9KM6KWBw8Skj5Y5OusCimXkfv1h885xkrWGV2QTa81y4eAxIiXvNChbWSa3fcXMp0WBR3491MmNC85MezaYgui9OSQ2T3tzSEKBEUxD4-bZvplKy4tzStFvs7mWE.png" group-title="Thai & Truevisions",TPF HD 4 Test
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXnd-6aTpvsprii98VJxht4/ts
-#EXTINF:-1 xui-id="648" tvg-id="" tvg-name="TPF HD 5 Test" tvg-logo="http://bananatv.org:25461/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-MEGErPw4VyJ6MV-PmL5D4hEBn1Gm8tq0x-OW-01O8WFokN5wiMbP8xbWQP5hf_5tvP7nARqhT-CqKFrn8yS8K.png" group-title="Thai & Truevisions",TPF HD 5 Test
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdGDDE6g57nGKv7RQwqSOeY/ts
 #EXTINF:-1 xui-id="162" tvg-id="" tvg-name="Arenasport 1 Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwjzXuyugyspc0B29lQreX9aMJXnDLaiAFsHIFznKDQ&s" group-title="Football",Arenasport 1 Premium
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdKkOS1gQvWoSO0BoB4XVsY/ts
 #EXTINF:-1 xui-id="586" tvg-id="" tvg-name="Arena Sport 2 Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr5FWvUtri3yF6gY09ZEhSwo-3TPKAGxvSDguWmE8An3I3GPk50H4MgXbzauyq231w7g&usqp=CAU" group-title="Football",Arena Sport 2 Premium
@@ -554,8 +538,20 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfMO1sF82rAt6Oy8bXyvjiQ/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJe-QzUcW-wr5I5_FGtX82r0/ts
 #EXTINF:-1 xui-id="647" tvg-id="" tvg-name="Canal+ Sport 2" tvg-logo="http://bananatv.org:25461/images/10YnP16-IRHnuyUj8Kv9by_wgYmqbz_Tx1k1bTiWuUXZYj6_ugTEYJ7ascT4e0B6vc7de0PRwrNvXKWBERdOniHn7Of_EaBhNgtPmTgMQJptyzeHRIJFC-eyw5XIEo06R5ArXmCpbQo7kc6n5c7I85n3uzM7I60cKH_1eyvTtbqIV_uiy88-2g0YDoS1fT6P7y4ImpAoAgOO0laFmOf6IPMQ74ZWceT-H5qOzKhg0t4.png" group-title="Football",Canal+ Sport 2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJRVOy-OB8JHpzU1m6qOkJWk/ts
+#EXTINF:-1 xui-id="637" tvg-id="" tvg-name="Beinsport 1 Premium HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMTEjSrllMj0L7OzJHHbPrTQkjPCNFEHY7JG5sDfGZ75UM-EMwjgK50jGb7N1RphodA&usqp=CAU" group-title="beIN SPORTS and Other",Beinsport 1 Premium HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJZ3azWVCG_jZtCG9uJ5SAo8/ts
+#EXTINF:-1 xui-id="622" tvg-id="" tvg-name="beIN SPORTS PREMIUM HD 2" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwAtJSEKqzq18FAcBM71qU3dPl3jVyXSLmu9j4HB0Rn-OQ.png" group-title="beIN SPORTS and Other",beIN SPORTS PREMIUM HD 2
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSjeyanwyan1JMtsTO1Q3QU/ts
+#EXTINF:-1 xui-id="624" tvg-id="" tvg-name="beIN SPORTS PREMIUM HD 3" tvg-logo="http://bananatv.org:25461/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWkbA0-eeXpIfXXXFz5S2XlYIDDRSrwRji72lU5_OBlDnPGEBhUF41WsuHbXLGz9Mo.jpg" group-title="beIN SPORTS and Other",beIN SPORTS PREMIUM HD 3
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTRit_rngFrwS2izmVqujQc/ts
+#EXTINF:-1 xui-id="625" tvg-id="" tvg-name="BEIN 1 [MOBIL]" tvg-logo="http://bananatv.org:25461/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5ZDSG959g-pK-lcaiUmDsA-jm8y86-LisZUIiDAs4aABw.png" group-title="beIN SPORTS and Other",BEIN 1 [MOBIL]
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJR133DtUxkmlyy_h5LVVlu4/ts
+#EXTINF:-1 xui-id="626" tvg-id="" tvg-name="BEIN SPORT 6" tvg-logo="http://bananatv.org:25461/images/-7oKEATgI6CdWxwKW-B7i7bk520bvskjJL9ltsLonf5nuVDv8BtEwJWdL1FsztZV-tJTTTntdTwMGWDh-ZVPg4swGQy1EKV7xmH3HK23Jzc.png" group-title="beIN SPORTS and Other",BEIN SPORT 6
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYWCDrwniSR9ixtkEZ4sz-A/ts
 #EXTINF:-1 xui-id="636" tvg-id="" tvg-name="NBC GOLF" tvg-logo="http://bananatv.org:25461/images/KGt1rsBao6tUkbmU1PPxMPVHR61OGu0uu6leLlf7ZSzEbXuyU9dc6VKWI4tWp1qdx39SB9tvetFJf8nAl9cXt5Oc9M9IAGdnODG053qWsvw.jpg" group-title="Tennis/Golf/Fight & Other",NBC GOLF
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSRpVikJmGrl0Q1tpZjP0MA/ts
+#EXTINF:-1 xui-id="627" tvg-id="" tvg-name="BEIN SPORT 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97hu9-6fqZhQUdQO30rqY6eyQDIH2mYwomSWhetcv8Ozrib-qHhIeSzzeeblE1jE92A&usqp=CAU" group-title="beIN SPORTS and Other",BEIN SPORT 7
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYzN3JovoXF0DStjhgfIOqs/ts
 #EXTINF:-1 xui-id="654" tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://bananatv.org:25461/images/MJokfpwM-JIKeW6uSTjp6xoxNPhcOaDJ3AVzy18En-QuKghAgGq2s25Hd5EE0demAAwkytEgxDMZ9cg1NPLHCj188UHNgzzaLD2oa3FSVwx9HrF_ACk_qQq8huT4VEMH.jpg" group-title="Sport",Real Madrid TV
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSDI1FvrjLb775wrljiraZo/ts
 #EXTINF:-1 xui-id="656" tvg-id="" tvg-name="IBC Comedy" tvg-logo="http://bananatv.org:25461/images/6DJcH9So8dma-2vFaUXP2Tn0WGIBcM9yzNABkxPEtjABgWCrymKcfgkHA3exaOKM8WEYyW7OkytcgC0TPSwb8fdrUY2s3e9b_bgj2E8X774.jpg" group-title="Tamil",IBC Comedy
@@ -566,8 +562,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJelsMtBOQ5gtaPyObv1_ADI/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWQZoQ4HXKAkVOkR1xxaezs/ts
 #EXTINF:-1 xui-id="660" tvg-id="" tvg-name="UFC TEST EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlKB1XUyWh-BvUw61vPJD-kxeckUKN7gvD3Z3doBe&s" group-title="Tennis/Golf/Fight & Other",UFC TEST EVENT
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJYt_K0a1Ioc9K8cMd_jRVqE/ts
-#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="buddha" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="Free Channels (MM)",buddha
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJRJ7xoqGUQaegFerV60Sow4/ts
 #EXTINF:-1 xui-id="1082" tvg-id="" tvg-name="Kuwait TV 1" tvg-logo="" group-title="Arabic",Kuwait TV 1
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfvwvrugZBzvx8yRRaHRNQc/ts
 #EXTINF:-1 xui-id="1083" tvg-id="" tvg-name="Kuwait TV 2" tvg-logo="" group-title="Arabic",Kuwait TV 2
@@ -598,6 +592,44 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfomr2pRwUhUtvueNQpbvp8/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSrQugvNaVIfqCQjDsp1qIY/ts
 #EXTINF:-1 xui-id="1093" tvg-id="" tvg-name="Skynews Arabic" tvg-logo="" group-title="Arabic",Skynews Arabic
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQbm-13VnnWn0C4GcfHQihM/ts
+#EXTINF:-1 xui-id="1236" tvg-id="" tvg-name="BEIN 1 [720p]" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="beIN SPORTS and Other",BEIN 1 [720p]
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVB-QUFKj-rcdVlGjbfwmUQ/ts
+#EXTINF:-1 xui-id="1277" tvg-id="" tvg-name="beIN Sports  3 FHD HEVC" tvg-logo="https://www.beinsports.com/images/bein_logo_social.webp" group-title="beIN SPORTS and Other",beIN Sports  3 FHD HEVC
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJW8s7ZcPCAI16v87ksl2sRg/ts
+#EXTINF:-1 xui-id="1278" tvg-id="" tvg-name="beIN Sports  4 FHD HEVC" tvg-logo="https://www.beinsports.com/images/bein_logo_social.webp" group-title="beIN SPORTS and Other",beIN Sports  4 FHD HEVC
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJctXdaHnN6n5vc5Y4cKBBhQ/ts
+#EXTINF:-1 xui-id="1279" tvg-id="" tvg-name="beIN Sports  5 FHD HEVC" tvg-logo="https://www.beinsports.com/images/bein_logo_social.webp" group-title="beIN SPORTS and Other",beIN Sports  5 FHD HEVC
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJY6dXqnOQR83Vd3H_SasC-s/ts
+#EXTINF:-1 xui-id="1280" tvg-id="" tvg-name="beIN Sports  6 FHD HEVC" tvg-logo="https://www.beinsports.com/images/bein_logo_social.webp" group-title="beIN SPORTS and Other",beIN Sports  6 FHD HEVC
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbl94QGV-6XkcBpHqCOTp_s/ts
+#EXTINF:-1 xui-id="1281" tvg-id="" tvg-name="beIN Sports  7 FHD HEVC" tvg-logo="https://www.beinsports.com/images/bein_logo_social.webp" group-title="beIN SPORTS and Other",beIN Sports  7 FHD HEVC
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJY8vwnBA8IPSa0M3x5Qlank/ts
+#EXTINF:-1 xui-id="1282" tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://bananatv.org:25461/images/gauhRM69Feaezysrc6w-GgHVi2u4lRb4f9ADFzvl-TwFLki2oCFSrETj87dmPSZTXn7rYbpjbLVcvN2EGNrzndOMHbkyJZcSyq1Z7IaJgrI.png" group-title="beIN SPORTS and Other",ELEVEN SPORTS 1
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQ6HAT9M8SAK0Qdexswoa5k/ts
+#EXTINF:-1 xui-id="1283" tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/b/b7/Eleven_Sports_2_2017-18.png/revision/latest/scale-to-width-down/2646?cb=20211229173828&path-prefix=pl" group-title="beIN SPORTS and Other",ELEVEN SPORTS 2
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJeWksJvU_c-hItl7T8aNlOU/ts
+#EXTINF:-1 xui-id="1284" tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://bananatv.org:25461/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F-Jp_y_H5cHfAOhdYh0nvlkiXnlvoiLn1f-3oOqTmFxvvNkfC557Heijjiem_qjdX8.png" group-title="beIN SPORTS and Other",ELEVEN SPORTS 3
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJV-OCJ0cItv-Y8vpPlAKjL0/ts
+#EXTINF:-1 xui-id="1285" tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://bananatv.org:25461/images/OuWFe--u0Xq-dfJl4BjgwH8NSW8u0yrsQ6vLiyl7gHjFgD97O7XCeAYK_n30okgbZHX2ZttBB3EL65-1P_-eOA.png" group-title="beIN SPORTS and Other",ELEVEN SPORTS 4
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQo4SrqMMtLJaFxNN8SUwIY/ts
+#EXTINF:-1 xui-id="1286" tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://bananatv.org:25461/images/OuWFe--u0Xq-dfJl4BjgwH8NSW8u0yrsQ6vLiyl7gHjFgD97O7XCeAYK_n30okgbZHX2ZttBB3EL65-1P_-eOA.png" group-title="beIN SPORTS and Other",ELEVEN SPORTS 5 HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXseJollb8vSKlNYn1PaKrs/ts
+#EXTINF:-1 xui-id="1287" tvg-id="" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://bananatv.org:25461/images/OuWFe--u0Xq-dfJl4BjgwH8NSW8u0yrsQ6vLiyl7gHjFgD97O7XCeAYK_n30okgbZHX2ZttBB3EL65-1P_-eOA.png" group-title="beIN SPORTS and Other",ELEVEN SPORTS 6 HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJU4Bazu22LSO_TelUS3TY7U/ts
+#EXTINF:-1 xui-id="1331" tvg-id="" tvg-name="ESPN 1 HD" tvg-logo="http://bananatv.org:25461/images/19zyEDjJytA8u9XgnxTsleEOu5d1Bn7cumIkn_isZzvIKwHjENNpadDW69EwivkR.png" group-title="beIN SPORTS and Other",ESPN 1 HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJY6JPLHqXxxASWC19nwa4Og/ts
+#EXTINF:-1 xui-id="1332" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://bananatv.org:25461/images/19zyEDjJytA8u9XgnxTsleEOu5d1Bn7cumIkn_isZzvIKwHjENNpadDW69EwivkR.png" group-title="beIN SPORTS and Other",ESPN 2 HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWHhnqoAMxIMOmoN1JBkVYA/ts
+#EXTINF:-1 xui-id="1333" tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://bananatv.org:25461/images/19zyEDjJytA8u9XgnxTsleEOu5d1Bn7cumIkn_isZzvIKwHjENNpadDW69EwivkR.png" group-title="beIN SPORTS and Other",ESPN 3 HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJX0--tTQ1HeYXx2HpKWU7Bs/ts
+#EXTINF:-1 xui-id="1334" tvg-id="" tvg-name="ESPN4 HD" tvg-logo="http://bananatv.org:25461/images/19zyEDjJytA8u9XgnxTsleEOu5d1Bn7cumIkn_isZzvIKwHjENNpadDW69EwivkR.png" group-title="beIN SPORTS and Other",ESPN4 HD
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJa9XH0dvbLUDsY31Z66Innk/ts
+#EXTINF:-1 xui-id="1335" tvg-id="" tvg-name="Tokyo MX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/JOMX-TV14_%281998%29.svg/revision/latest/scale-to-width-down/250?cb=20210606171525" group-title="Japan",Tokyo MX 2
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTaaSWIOZ0FgFp4yRLDQeYg/ts
+#EXTINF:-1 xui-id="1336" tvg-id="" tvg-name="SSC Sport (Saudi League)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSystReNjqgx4BhN0iYXiV--ytFDza_qSxo8mvVivSL0QGmfXcJYrcfQtG9NFaI7zL-HOE&usqp=CAU" group-title="test",SSC Sport (Saudi League)
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdtceynYo6VS6rGehKDdWl4/ts
+#EXTINF:-1 xui-id="1338" tvg-id="" tvg-name="Jaya Movie Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUJmn-eIPluaXlt7fLBhOOjWT8DO91y1YtMbSCxqh&s" group-title="Tamil",Jaya Movie Test
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVzJ3X26-pH1VrCp8s14g4Y/ts
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
 #EXTINF:-1 xui-id="1" tvg-name="The Mummy (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
@@ -2116,9 +2148,95 @@ http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-MFu9qpIFcrHH1wZE21vr9kb-caI
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60i3amLDcWCdClLHU2xwVt0yIRtx8oLmSyA6DxJw5xrI#.mp4
 #EXTINF:-1 xui-id="1235" tvg-name="Jailer (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5Okb85ZijnbhkdKnn3JnpVzmFkFQuSaufNpFDxB_-_E.jpg" group-title="Bollywood 2023",Jailer (2023)
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68fLB5ivzxxvAsVzsHP1W_2KSd9HXI0pVFhrKBKEioZU#.mkv
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5Okb85ZijnbhkdKnn3JnpVzmFkFQuSaufNpFDxB_-_E.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1288" tvg-name="Chasing the Dragon (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfpA6Q7XuM-PmhdCFoCMNlDrcXEpiZIGNDJxU1YTk3Ec.jpg" group-title="Asian",Chasing the Dragon (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60zwENIPCuJRSf1bBo_DxsbxD-hlqRio3nq7K5xg7kj-#.mp4
+#EXTINF:-1 xui-id="1289" tvg-name="Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiGHWevSDnm9at1cGjSFx8kOO4g7vGS6BfV6hZulMNfE.jpg" group-title="Asian",Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-Uvzyp9tW63GrEnWEzCuPptxIOuLRdjeOCF-lvRL2_J#.mp4
+#EXTINF:-1 xui-id="1290" tvg-name="The Monkey King (2014)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLucAJ_fMkVRJwfdWl2NbuXH5RA6xCOplY4SxmztDNYJ0.jpg" group-title="Asian",The Monkey King (2014)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60PCrXAQ75c2Pgyy1J58Wf0-RCrU2PFSmLqpskS3Clke#.mp4
+#EXTINF:-1 xui-id="1291" tvg-name="Special ID (2013)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDjPIUFBNW3I-92dtRiNO8Wn6tRWAHuK5meBt3iaOTts.jpg" group-title="Asian",Special ID (2013)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65Mb44C39LPSXWr7ArbPAyI8LZWhAnQC40QFmUtMjrDo#.mp4
+#EXTINF:-1 xui-id="1292" tvg-name="Ip Man (2008)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7X_dUjgk2-OOXdZ4pkDV8BShy3f1ftUQPXSEB7g_ynw.jpg" group-title="Asian",Ip Man (2008)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65-A19u2ke-Eudtzt9JcXaxSX1rEBvtFuZ2UaWMVMXlX#.mp4
+#EXTINF:-1 xui-id="1293" tvg-name="Dragon (2011)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlqe6vsM5JRJvJDmtzTLGFIEjhaSmACaXH2GtbHEetEE.jpg" group-title="Asian",Dragon (2011)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60aoXfniBmDEnBXd1YkZCmRelqabt8UpxuGVPhZLFxd3#.avi
+#EXTINF:-1 xui-id="1294" tvg-name="HERO" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJq8e1OJ-Akir1dIsM3pEdAYmIfnfiy-8dnBxiYnrtmc.jpg" group-title="Asian",HERO
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E629uD2-ZgHLzXXuDaOGNt8wXeqsrtMD-Eg0LXqPQf_in#.mp4
+#EXTINF:-1 xui-id="1295" tvg-name="Dragon Tiger Gate (2006)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3xo4KtC9H45D1jDqjGHUUEfcneQPoVVBwY-3RCPuTCA.jpg" group-title="Asian",Dragon Tiger Gate (2006)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E651jOMx4RUKHtT6hwSmWAZev060kUY8i3wq4z3_8LV5e#.mp4
+#EXTINF:-1 xui-id="1296" tvg-name="Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiGHWevSDnm9at1cGjSFx8kOO4g7vGS6BfV6hZulMNfE.jpg" group-title="Asian",Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E63KidnWEjzbWWzTTJs3B4XZVjn9jGOHeLYZRgsZq9kqo#.mp4
+#EXTINF:-1 xui-id="1297" tvg-name="Ip Man 3 (2015)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLI--q9qA8_-6ZHSRpM15nOO4RP-yAklGRqMjafGtFd18.jpg" group-title="Asian",Ip Man 3 (2015)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E665kSURq6QcVgRJMNR0S2rXMnDfUShDtAmXUDwrZxNTv#.mp4
+#EXTINF:-1 xui-id="1298" tvg-name="In the Line of Duty 4 Witness (1989)" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC246uOrwX5mHifyzuxO6qc_lUDMb_unsZu98Ii6YCIiIbcIQq" group-title="Asian",In the Line of Duty 4 Witness (1989)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64mYnrayc1H_hNAmP2FsCbIGrd5mTWHIDmOxsPe39W_s#.mp4
+#EXTINF:-1 xui-id="1299" tvg-name="Legend of the Fist: The Return of Chen Zhen (2010)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvwv2t-h7DT5t0LzJL_Wi-gFY63RftWVfjiSq73cETCY.jpg" group-title="Asian",Legend of the Fist: The Return of Chen Zhen (2010)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65vAxVmvICkCRJiJTJnoSYwqw9NtX_xulibcwgNaXx_M#.mp4
+#EXTINF:-1 xui-id="1300" tvg-name="SPL: Kill Zone (2005)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLljCKof7lF2Ogmzh2JG7IZa72KwbV0QRRZyeIQUkL_54.jpg" group-title="Asian",SPL: Kill Zone (2005)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yMfe2-G057quc3F-HSDj2XZ76iVwX7y9QrzpK6j29pe#.mp4
+#EXTINF:-1 xui-id="1301" tvg-name="Blade II (2002)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL44wuQgepHIL-yim5H_mcBDcqh5isMKWiDF5uOIBY9qc.jpg" group-title="Asian",Blade II (2002)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6y3RDaxq_G7F9X8vTp-U2KJfm_G6-EMAoJpMvuX-o7v7#.mp4
+#EXTINF:-1 xui-id="1302" tvg-name="Bodyguards and Assassins (2009)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2Fa-rHxxXS1f0_7hmV_6DkSAHdQeq_c2m4bglp9v_2E.jpg" group-title="Asian",Bodyguards and Assassins (2009)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xb7iUyUdT9UwDpPS6pTS6gDfgeQKK2AngXxmJCGMl1_#.mp4
+#EXTINF:-1 xui-id="1303" tvg-name="Flash Point (2007)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBeu7BpX3_9oUqhydqt_OAPqSw5rUs6hPYyoCsMnMwuE.jpg" group-title="Asian",Flash Point (2007)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wvw6BuOVwCsAw0byd_dqTGmDmrL96lJd9sSOHnPPZZC#.mp4
+#EXTINF:-1 xui-id="1304" tvg-name="Once Upon a Time in China II (1992)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb6-sGnNgkY46jzcF-TZUoTl1rIWwvCTbV66Efw_lWzI.jpg" group-title="Asian",Once Upon a Time in China II (1992)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69PpNsZGZueZ4bcZIO7eoMfxDrpwd1mKzxTtksyahK0i#.mp4
+#EXTINF:-1 xui-id="1305" tvg-name="Iron Monkey (1993)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmOGhSyLU9X8u3gQ-uzkqyyui6jgXOsSWAJsyI76ahX8.jpg" group-title="Asian",Iron Monkey (1993)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60i_WkmYIpzlmncbIW_OtrbtodZEsOsqMU0iloJNMGFI#.mp4
+#EXTINF:-1 xui-id="1306" tvg-name="Iron Monkey 2 (1996)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY6tOtIroTmhiq9EQTf-Ri4yImZwCJtk1RuNtwfJR1fc.jpg" group-title="Asian",Iron Monkey 2 (1996)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E62M5t60vqqCsSiiZoaLtNoRlF7KUtqSaaBI2C5H7_PWD#.mp4
+#EXTINF:-1 xui-id="1307" tvg-name="The Founding of a Republic (2009)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUdo796ISxRPU8VJZjfoE3zJRW3u36nkKGhQlv8ltHZE.jpg" group-title="Asian",The Founding of a Republic (2009)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E686q7dCKI1bp7HiTviEavI4wyE3lK6Pkl9A29E04aYxr#.mp4
+#EXTINF:-1 xui-id="1308" tvg-name="xXx: Return of Xander Cage (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL058jCysNfhGI6XPLzWz6VDaagdHPWt1Uvafgu20GRqg.jpg" group-title="Asian",xXx: Return of Xander Cage (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E63WKekhz7J8qTCVxAuQECceOyPKffZ9Jbtz_29IkYg_n#.mp4
+#EXTINF:-1 xui-id="1309" tvg-name="Kung Fu Jungle (2014)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8kHFYh7_76y97nxWaWtAFkDGjY5JSwDqCupjS11WdJ4.jpg" group-title="Asian",Kung Fu Jungle (2014)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69MPK55n1S1Edux1VsCngXU3A5mnFw8WiQGwEUrB3nrw#.mkv
+#EXTINF:-1 xui-id="1310" tvg-name="Ip Man 2 (2010)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhE5SJVFrnbWmUpR28RmbeNxeSGwrHw4Nx6zQevDKHAU.jpg" group-title="Asian",Ip Man 2 (2010)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60TENQI1t6F3UUQqtM8tktyGL-8khzcOSih7JiuX9GfE#.mp4
+#EXTINF:-1 xui-id="1311" tvg-name="The Lost Bladesman (2011)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAvQjdXeVQ_vhccWZZ7tpvo1dAwApyBl6lHIiaH2-o54.jpg" group-title="Asian",The Lost Bladesman (2011)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E61rhJuMHFiX6mwwKSH0NW0JSH-C-KAX8OaA3ZAep8bzG#.mp4
+#EXTINF:-1 xui-id="1312" tvg-name="Seven Swords (2005)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9ScOaLCit7F-bE6n46Cc_NpZStdtcTY7C9RnYIcqEJk.jpg" group-title="Asian",Seven Swords (2005)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60FOT-Q67C4Gtqcv-YrYybOvdtVIfPJMKZyUY3Fxbwt-#.mp4
+#EXTINF:-1 xui-id="1313" tvg-name="14 Blades (2010)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqbVKPO5Y5MoJRavk-AVgqy5_UOwpgHWRGnijSUPcHOc.jpg" group-title="Asian",14 Blades (2010)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68cIea0JPfvjrhSzX4AEvWnKEk_h9qc5E78bDmIxLTVN#.mp4
+#EXTINF:-1 xui-id="1314" tvg-name="Iceman (2014)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLffuAaxizJpwTT4iwQ1-NstjYXFej42JiYqHiYVuR20.jpg" group-title="Asian",Iceman (2014)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-GSUQRK3c13eYmvPhzDVrQengCdxqYIalkdYL5KMef4#.mp4
+#EXTINF:-1 xui-id="1315" tvg-name="Big Brother (2018)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrLT2z6jJTBckn0yZufnAENQbpWKpfVQuY3ihHIDElno.jpg" group-title="Asian",Big Brother (2018)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64V34GvLJ7xxl4g2QQz-pPKdh-KzbofofbnhbfEv1R38#.mp4
+#EXTINF:-1 xui-id="1316" tvg-name="Enter the Fat Dragon (2020)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBBXvD4Gco8oTV-KpbFfWupR_8qVBIK2iQIkq3c56_7Q.jpg" group-title="Asian",Enter the Fat Dragon (2020)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_Rq1JYIrMQbA97Gw42WbtOrOwZw-0ERkpqXDz7oPooF#.mp4
+#EXTINF:-1 xui-id="1317" tvg-name="Guardians of Martial Arts (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKkN6UOw3MvMj0skmLiNBgescNfvwEI3mSdO5EQs7XB0.jpg" group-title="Asian",Guardians of Martial Arts (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wZCR0THEVkbA18v9bZGnCZyccTFWQB6k1-4y9LTwJB0#.mp4
+#EXTINF:-1 xui-id="1318" tvg-name="Iceman: The Time Traveler (2018)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaZKx3zDUGbc-PTEVvGYJZCDGdF2vg_-jgd-MSDUnwDo.jpg" group-title="Asian",Iceman: The Time Traveler (2018)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_wfkKMSpGlfwjjA2G0xnd97c0478tuyCzIt54qKzrIM#.mp4
+#EXTINF:-1 xui-id="1319" tvg-name="Ip Man 4: The Finale (2019)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbbJ13c4ZXDmOZFUscrV8wfx55YUlxjSBM5aRNr9I98w.jpg" group-title="Asian",Ip Man 4: The Finale (2019)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_S6fN5_5fKrJhkXL4QNk4-ei2NsSCDLoMvjJiQhFis1#.mp4
+#EXTINF:-1 xui-id="1320" tvg-name="Legend Of The Wolf (1997)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWhW7tiaL_dV0JDZNNNgI8XVd6cWtbdLiFHdCYPxro6Q.jpg" group-title="Asian",Legend Of The Wolf (1997)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wejzxCnLYnhxaQX6R96uA4DUr_NnnlJ_Mv1dHvaMSIz#.mp4
+#EXTINF:-1 xui-id="1321" tvg-name="Mulan (2020)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-CXTI-dQXkkikTCOPdryAVDc1SwbtpGa1FjFj-_ucPo.jpg" group-title="Asian",Mulan (2020)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6w6LRDPya67rark-usTHtv_CVy8CVyJmv4MHiAtdPMK8#.mp4
+#EXTINF:-1 xui-id="1322" tvg-name="Dragon Inn (1992)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqd90dq_KS7PfdQqT6AvFTu6SrL2EuEdZ15MTXP4giWs.jpg" group-title="Asian",Dragon Inn (1992)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E64JeCrV6HWspSFq3-DetPBi83-X4mnxsTtgtELU1LB0i#.mp4
+#EXTINF:-1 xui-id="1323" tvg-name="New Kung Fu Cult Master (2022)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFaCRUNk3C9nJ4zqkUCJKd8LiRV0TA0V-8_R0WmN4F0E.jpg" group-title="Asian",New Kung Fu Cult Master (2022)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E651zZ13jkkUlSfs1YoXRdqAoR4Zo9_7khGocY48xHCHQ#.mp4
+#EXTINF:-1 xui-id="1324" tvg-name="Painted Skin (2008)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNKfLYC-IxBOeXKTNXRwA1BWaq-qPtlafj_rjcFCX5os.jpg" group-title="Asian",Painted Skin (2008)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68MRKBDYLvK3-AYZDSLyBaJe3jcXevrkmZRALbv6Zybo#.mkv
+#EXTINF:-1 xui-id="1325" tvg-name="Raging Fire (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaQyQNW_LSWVYD0rCXFlYG_LAC4gv2F1C_lnm7QWQVlw.jpg" group-title="Asian",Raging Fire (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6y-fuqksi3UyHM1RxUsUhxGa5zRQnYJQS2WiGLkGXkKt#.mp4
+#EXTINF:-1 xui-id="1326" tvg-name="Rogue One: A Star Wars Story (2016)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRhUDgaoiYuI1J1O9VQ2lzWSW_wta1nC5GSYOhtOQwFE.jpg" group-title="Asian",Rogue One: A Star Wars Story (2016)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6zFIWWrmWZX03XwqpaJI7wqfnjucXrqe9Ksbp1q23EYS#.mp4
+#EXTINF:-1 xui-id="1327" tvg-name="Shanghai Knights (2003)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLruoCX0Yp6y6mCa6_nSdYqQwNncuUl8JLi5UfxXtupVM.jpg" group-title="Asian",Shanghai Knights (2003)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-fKjdTM85qUaFO86do148lTA1lrJDiSPS913bL2F3O1#.mp4
+#EXTINF:-1 xui-id="1328" tvg-name="The Twins Effect (2003)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrxvd8oFeNqwXzhIeSbS-i9-HDmGeiAQjK8BbIjcGPNg.jpg" group-title="Asian",The Twins Effect (2003)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66_QFG18zh4G5mPgDIZIN-djkrYY5eiXpcWxclLmIH6n#.mp4
+#EXTINF:-1 xui-id="1329" tvg-name="Tiger Cage (1988)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLje4GlXt6XkAr1gKnVcELr8ss801hjIx-XYaVyOXs63Y.jpg" group-title="Asian",Tiger Cage (1988)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-BSrJcA2OHi03F2cGi9GrnA9gplJtabaiAkcahopcBy#.mp4
+#EXTINF:-1 xui-id="1330" tvg-name="Tiger Cage II (1990)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYRoCp8nyIvfGZqdHykLLd_oV2hxvVhnq9fO9JkdVHgM.jpg" group-title="Asian",Tiger Cage II (1990)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68GnqX3M6Dtw4mSaCDkx_fvSllq8NhztBN7Awk8yaI6e#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYRoCp8nyIvfGZqdHykLLd_oV2hxvVhnq9fO9JkdVHgM.jpg" group-title="Thailand Drama",The Betrayal S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5Okb85ZijnbhkdKnn3JnpVzmFkFQuSaufNpFDxB_-_E.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYRoCp8nyIvfGZqdHykLLd_oV2hxvVhnq9fO9JkdVHgM.jpg" group-title="Thailand Drama",The Betrayal S01E02
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
@@ -2278,3 +2396,83 @@ http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3hXo94snKXANEPE6KNMa6V1E0E2p
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_-knWSutQ2MaUdc8kaJrHzVwkzcM2nzIx-xjw0AyRaW#.mp4
 #EXTINF:-1 xui-id="1043" tvg-name="The Coroner from Longcheng S01E24" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The Coroner from Longcheng S01E24
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-1ioITrS0FavQiSYROOHNrbzhW0nfFES_TBcn0pQ8IS#.mp4
+#EXTINF:-1 xui-id="1237" tvg-name="The New Heavenly Sword and Dragon Sabre S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxWDoxPG8EqRdJFNDx-bAq5xNIFXI_zLpKdxmKZWoUNG#.mp4
+#EXTINF:-1 xui-id="1238" tvg-name="The New Heavenly Sword and Dragon Sabre S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwT0y-EQHj-RSR27hDBRpF8CYFER3g-2cWBPmdwRR8bL#.mp4
+#EXTINF:-1 xui-id="1239" tvg-name="The New Heavenly Sword and Dragon Sabre S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n963JoGTTWlgSZRuVrWMhvivDLz3PrCO8Fphd0zuuozZ#.mp4
+#EXTINF:-1 xui-id="1240" tvg-name="The New Heavenly Sword and Dragon Sabre S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3ny6Cnf4KG7-qIdGx9IoU4eZGPqniTm7ykUAXhGSx15i2#.mp4
+#EXTINF:-1 xui-id="1241" tvg-name="The New Heavenly Sword and Dragon Sabre S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxFaCyhXJj4RcJvvNAjh-_p3ha9CgUfBlcheOaaMRfaH#.mp4
+#EXTINF:-1 xui-id="1242" tvg-name="The New Heavenly Sword and Dragon Sabre S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4W-WhOww9x_QmRvUIfLBdocyHbW7V9AZUfUjw20JD8M#.mp4
+#EXTINF:-1 xui-id="1243" tvg-name="The New Heavenly Sword and Dragon Sabre S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2QAzMGeIHsnylZgvhJg4Pd0PYxqY3fAq63b1BWSaL4p#.mp4
+#EXTINF:-1 xui-id="1244" tvg-name="The New Heavenly Sword and Dragon Sabre S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyO_NbNctdEExGNiDBP2JyNaKnzFkfE6yW-hOFk7JHFH#.mp4
+#EXTINF:-1 xui-id="1245" tvg-name="The New Heavenly Sword and Dragon Sabre S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n54KvLI0X-U9UEz4dLay44KZ581BX_WTY17KI-pMB2nH#.mp4
+#EXTINF:-1 xui-id="1246" tvg-name="The New Heavenly Sword and Dragon Sabre S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwSJibe_bXzPOWU_FyNQC2WacZLVkydGebGSLbtxZyxq#.mp4
+#EXTINF:-1 xui-id="1247" tvg-name="The New Heavenly Sword and Dragon Sabre S01E11" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E11
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2ZLvXmLj1c_KeubFd5HRSc659Z-QWLC7l-1clfVy5Kn#.mp4
+#EXTINF:-1 xui-id="1248" tvg-name="The New Heavenly Sword and Dragon Sabre S01E12" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E12
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5aa9CcQrSVrjGgTdJEBjqkkFl7QplOaQQRL7DHdHrEz#.mp4
+#EXTINF:-1 xui-id="1249" tvg-name="The New Heavenly Sword and Dragon Sabre S01E13" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E13
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3b3gzCVb7HBd2GVrWyoHbBzfJGFjPR6kd14SRdQINqG#.mp4
+#EXTINF:-1 xui-id="1250" tvg-name="The New Heavenly Sword and Dragon Sabre S01E14" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E14
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_4D03bjZ8MJGi8le0Kiu-q_JRvY9rRxYqMb0bWeXoqy#.mp4
+#EXTINF:-1 xui-id="1251" tvg-name="The New Heavenly Sword and Dragon Sabre S01E15" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E15
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-W4ISSDLBSuTpERmBhaKa5z7zRryHXIb6oAPJLgoOb2#.mp4
+#EXTINF:-1 xui-id="1252" tvg-name="The New Heavenly Sword and Dragon Sabre S01E16" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E16
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4awKSuIXVSZhGWEHjjGmHRvIJ8FUGp5L35y6YQcfJZp#.mp4
+#EXTINF:-1 xui-id="1253" tvg-name="The New Heavenly Sword and Dragon Sabre S01E17" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E17
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2kCqAwuFre2SOmxjSXXyqpkh0Wm9ADsfzQrZ1pX7Bvm#.mp4
+#EXTINF:-1 xui-id="1254" tvg-name="The New Heavenly Sword and Dragon Sabre S01E18" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E18
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6PfXTD_9I-LgXwq-60ec7NA44lKtKHgHoiln1VhMCwT#.mp4
+#EXTINF:-1 xui-id="1255" tvg-name="The New Heavenly Sword and Dragon Sabre S01E19" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E19
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n35YNCUbRJmf0h6j87VgqFC_LRwWXYip2LuYny2H0cmf#.mp4
+#EXTINF:-1 xui-id="1256" tvg-name="The New Heavenly Sword and Dragon Sabre S01E20" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E20
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1cS5vtdpN8SiMDxIonkaW8QbNSEf41sW6NLOU6FWj8W#.mp4
+#EXTINF:-1 xui-id="1257" tvg-name="The New Heavenly Sword and Dragon Sabre S01E21" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E21
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9gLjNoGLe-fkkbFzzL0kS3aZBRpjsYaDS-yRMPRrfyr#.mp4
+#EXTINF:-1 xui-id="1258" tvg-name="The New Heavenly Sword and Dragon Sabre S01E22" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E22
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwRoT32TYPs2vS4msCSfwUMuia5gnxlkUPTQq4n6xKrZ#.mp4
+#EXTINF:-1 xui-id="1259" tvg-name="The New Heavenly Sword and Dragon Sabre S01E23" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E23
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5O9rDYxPRWozba5sIO4f_ti8kc2qhglmQK6xDMi8Iaw#.mp4
+#EXTINF:-1 xui-id="1260" tvg-name="The New Heavenly Sword and Dragon Sabre S01E24" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E24
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzer5Nus6OcZov-Vdra3vteDqDBYi5S7X0LyK_Fon-bB#.mp4
+#EXTINF:-1 xui-id="1261" tvg-name="The New Heavenly Sword and Dragon Sabre S01E25" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E25
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nz0IHsGLBSoy4E3sPBb94MQbJve9c8qIAGVOv9cwzp4v#.mp4
+#EXTINF:-1 xui-id="1262" tvg-name="The New Heavenly Sword and Dragon Sabre S01E26" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E26
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5nbBkAX1bC86mN5NIS12qx0ts-QF1SASrcfViY5IoSL#.mp4
+#EXTINF:-1 xui-id="1263" tvg-name="The New Heavenly Sword and Dragon Sabre S01E27" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E27
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwTAlSPQhsSdPrsdlGuUeBOz9XDLo-ZI1JzQXVHf7czG#.mp4
+#EXTINF:-1 xui-id="1264" tvg-name="The New Heavenly Sword and Dragon Sabre S01E28" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E28
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4PZQf7C3OTrJlxtuYWoGAVTSeb8g1eOMfgMR3vzKDFb#.mp4
+#EXTINF:-1 xui-id="1265" tvg-name="The New Heavenly Sword and Dragon Sabre S01E29" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E29
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nysG5LZJ4l7Rk4SZV0dhgRrMDIfthURAFlySp2Q5fdan#.mp4
+#EXTINF:-1 xui-id="1266" tvg-name="The New Heavenly Sword and Dragon Sabre S01E30" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E30
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n95BQnol6hr0vEDTLiOAueBfjJTVLUGxFO8BxRwuWmx6#.mp4
+#EXTINF:-1 xui-id="1267" tvg-name="The New Heavenly Sword and Dragon Sabre S01E31" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E31
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6_-ZmpEpZT_5-zCXdv4tOhbeBO2F0atqrEymuscJqqW#.mp4
+#EXTINF:-1 xui-id="1268" tvg-name="The New Heavenly Sword and Dragon Sabre S01E32" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E32
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_jFsU9VOSjot0YgElrzbQq4MgZbgmZLVOkP4KTXtWRe#.mp4
+#EXTINF:-1 xui-id="1269" tvg-name="The New Heavenly Sword and Dragon Sabre S01E33" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E33
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-7XmpEUbBNuF9CVTzpkUCC1CT921EMXc3L1IXO_eXam#.mp4
+#EXTINF:-1 xui-id="1270" tvg-name="The New Heavenly Sword and Dragon Sabre S01E34" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E34
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2_n3xQGIqXvtYvqFldflvYomvLPd90MhrrBquEmlMt5#.mp4
+#EXTINF:-1 xui-id="1271" tvg-name="The New Heavenly Sword and Dragon Sabre S01E35" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E35
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4lNibvBLiiQYoXbTTqPeXVDxJrxitZfJ9I3FHc3hAZZ#.mp4
+#EXTINF:-1 xui-id="1272" tvg-name="The New Heavenly Sword and Dragon Sabre S01E36" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E36
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxJ76lqwRBlT70ddZAViq3tdV6-C3WyMA8lUHpZIbELe#.mp4
+#EXTINF:-1 xui-id="1273" tvg-name="The New Heavenly Sword and Dragon Sabre S01E37" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E37
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-xNsrDy4Xm8mC5SMpKNmUDfZOk4v9feTrQk04FejX3v#.mp4
+#EXTINF:-1 xui-id="1274" tvg-name="The New Heavenly Sword and Dragon Sabre S01E38" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E38
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7hzbf7aMSV7NBx95kRsZPJIe0ToMJ6Qw912ewMt8gPG#.mp4
+#EXTINF:-1 xui-id="1275" tvg-name="The New Heavenly Sword and Dragon Sabre S01E39" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E39
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4eVx7yooc6yn3BT7hp55yaXj3j1b_6LoR4jiApYnCBh#.mp4
+#EXTINF:-1 xui-id="1276" tvg-name="The New Heavenly Sword and Dragon Sabre S01E40" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E40
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1usGRTqLLW0DNvnobZXluy4EpWDJ9JcT7Cu1CpLSKYh#.mp4
