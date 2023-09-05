@@ -628,6 +628,8 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTaaSWIOZ0FgFp4yRLDQeYg/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdtceynYo6VS6rGehKDdWl4/ts
 #EXTINF:-1 xui-id="1338" tvg-id="" tvg-name="Jaya Movie Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUJmn-eIPluaXlt7fLBhOOjWT8DO91y1YtMbSCxqh&s" group-title="Tamil",Jaya Movie Test
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVzJ3X26-pH1VrCp8s14g4Y/ts
+#EXTINF:-1 xui-id="1368" tvg-id="" tvg-name="Susann" tvg-logo="" group-title="test1",Susann
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZhFrRaOWguup0RTeyy83dU/ts
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
 #EXTINF:-1 xui-id="1" tvg-name="The Mummy (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
@@ -2278,9 +2280,21 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6-Bvq-R-cesSyX6WY46etY1zTQLf4G
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6-Q7oirZRJQk3vVaZGy9JUnJVyU8aMelisyrKzedU468#.mp4
 #EXTINF:-1 xui-id="1361" tvg-name="The Monkey King (2014)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLucAJ_fMkVRJwfdWl2NbuXH5RA6xCOplY4SxmztDNYJ0.jpg" group-title="Asian",The Monkey King (2014)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68KDYRMHJOKwSSujLgSgqiLI3Iy8n_rOxpPhFGY8oEXG#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLucAJ_fMkVRJwfdWl2NbuXH5RA6xCOplY4SxmztDNYJ0.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1362" tvg-name="Infinity (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFL-yFVGEDIZWBx2pBLCkmPg1CCVwQ9ew2kTAy-3qP2c.jpg" group-title="Bollywood 2023",Infinity (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E696d7R_x4eKASGQVpna5CJEY3FwGHROpIqi-nqiQ2ZNb#.mp4
+#EXTINF:-1 xui-id="1363" tvg-name="Taxi (1998)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpHz3YsI7UzncO9tPF_MBiQMWg7eTc41P_4AnQCZR3_Y.jpg" group-title="Action",Taxi (1998)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6zWSpXMCBt5ny760qxi-cR3xxKC3lGkC18h8AIjsa9Kh#.mp4
+#EXTINF:-1 xui-id="1364" tvg-name="Taxi 2 (2000)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuHnrzbtbZ8mVatMsKge_XuLuGv3SIxhGV1clJ7Bg_Lg.jpg" group-title="Action",Taxi 2 (2000)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6ycOrsBqaUMI30-3A6PEW97JD0FROC6KsRgE2W4TZLD8#.mp4
+#EXTINF:-1 xui-id="1365" tvg-name="Taxi 3 (2003)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXmSm2U0O4dEicclAVzN0ETfhgKI30AjWaizZjtIAjtA.jpg" group-title="Action",Taxi 3 (2003)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65aaS1q7qj5xRY9HlCBluWLiWMvIYvB2XkqQg_ZpuHD0#.mp4
+#EXTINF:-1 xui-id="1366" tvg-name="Taxi 4 (2007)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKCeJU3jJKPAHLpx2_kS3dz5nylFJDpDuzDr-u8mKrRY.jpg" group-title="Action",Taxi 4 (2007)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69C1peQQaV_GifIHviDHfVaRlk1kSVaDd8rbTZoteNAj#.mp4
+#EXTINF:-1 xui-id="1367" tvg-name="Taxi 5 (2018)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJWYxwwMTqx2XrpniToHfkzORM_KG0W8XK01SnUl2iH4.jpg" group-title="Action",Taxi 5 (2018)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E67Fz2C8S85rIJ54WvvDS3qKCj6HcQX8OWuKWLsGfVSSL#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJWYxwwMTqx2XrpniToHfkzORM_KG0W8XK01SnUl2iH4.jpg" group-title="Thailand Drama",The Betrayal S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLucAJ_fMkVRJwfdWl2NbuXH5RA6xCOplY4SxmztDNYJ0.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJWYxwwMTqx2XrpniToHfkzORM_KG0W8XK01SnUl2iH4.jpg" group-title="Thailand Drama",The Betrayal S01E02
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
