@@ -628,7 +628,7 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTaaSWIOZ0FgFp4yRLDQeYg/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdtceynYo6VS6rGehKDdWl4/ts
 #EXTINF:-1 xui-id="1338" tvg-id="" tvg-name="Jaya Movie Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUJmn-eIPluaXlt7fLBhOOjWT8DO91y1YtMbSCxqh&s" group-title="Tamil",Jaya Movie Test
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVzJ3X26-pH1VrCp8s14g4Y/ts
-#EXTINF:-1 xui-id="1368" tvg-id="" tvg-name="Susann" tvg-logo="" group-title="test1",Susann
+#EXTINF:-1 xui-id="1368" tvg-id="" tvg-name="Discovery" tvg-logo="https://bananatv.org:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjz_6WFqkEK_w2SWudUAffg9VqO3U4x_GMJsLNaVdoOp0pUSjwQhi7ve2dBKwcp2CvrVfmABsJa8fvVt0F2vNlsD59d8z9703yYFFXLu8_tAIecedmjMKcM9TsCK4RMUOD.png" group-title="Free Channels (MM)",Discovery
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZhFrRaOWguup0RTeyy83dU/ts
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
@@ -1950,7 +1950,7 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61FHNG8bK_7QVuP1BBUpmV_xhHf7V7
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69Cj6SzXPchlfMac-MqoIVF53gyeSPlv4cQK_m4PZ8qU#.mp4
 #EXTINF:-1 xui-id="1136" tvg-name="Redemption (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9-oKx5xsr4Kl1VacjS5oUikazoq4YVEoQg9O3hekpTA.jpg" group-title="Action",Redemption (2013)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xelvpQg3GPvGsHQxlw_FxT6_JvkneRH8yr63tTDN4gm#.mp4
-#EXTINF:-1 xui-id="1137" tvg-name="Redemption (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9-oKx5xsr4Kl1VacjS5oUikazoq4YVEoQg9O3hekpTA.jpg" group-title="Action",Redemption (2013)
+#EXTINF:-1 xui-id="1137" tvg-name="Iron Man (2008)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7GLrYoGQ2eeqQBSXRdQ-LYHw6JH6BAeUzySqWT-hf_k.jpg" group-title="Action",Iron Man (2008)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69vH8Mwjc6WwlNrCk7TxxXyP5g2uASJnd4QUYkwJlora#.mp4
 #EXTINF:-1 xui-id="1138" tvg-name="Snatch (2000)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZvcePRLLBuQP4I6t8ZCZvVAkXc5oH6ESauPTKu40Y4E.jpg" group-title="Action",Snatch (2000)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68KSciGPnfY-yFc766w5QlVvSEsXgDurBwHjAHcShHIP#.mp4
@@ -2292,9 +2292,81 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65aaS1q7qj5xRY9HlCBluWLiWMvIYv
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69C1peQQaV_GifIHviDHfVaRlk1kSVaDd8rbTZoteNAj#.mp4
 #EXTINF:-1 xui-id="1367" tvg-name="Taxi 5 (2018)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJWYxwwMTqx2XrpniToHfkzORM_KG0W8XK01SnUl2iH4.jpg" group-title="Action",Taxi 5 (2018)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E67Fz2C8S85rIJ54WvvDS3qKCj6HcQX8OWuKWLsGfVSSL#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJWYxwwMTqx2XrpniToHfkzORM_KG0W8XK01SnUl2iH4.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1369" tvg-name="Awakenings (1990)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSYMKsbXEKk6xAOXa1t3KKiA2Xx0NdGVYY8fXyzHLivY.jpg" group-title="Action",Awakenings (1990)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64aiAsbV1JXSTbHaiCXAGTDNoKO7lSbOHuF3P02GusPO#.mp4
+#EXTINF:-1 xui-id="1370" tvg-name="Casino (1995)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLcbuT0yFiUNfqUnIrI9nYPMNjRoeac7hutPfZcQ9WJJ4.jpg" group-title="Action",Casino (1995)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69uGdOWSYyFC3H5JJ9WlhqPiD_Xr-ySWdg7qb74E5zSC#.mp4
+#EXTINF:-1 xui-id="1371" tvg-name="Dirty Grandpa (2016)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEdlXSDrsCtbl2EwTpXm8BRS6YrH6rWcAXe_GLttp52M.jpg" group-title="Action",Dirty Grandpa (2016)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69Ngt8VgTdcp8c7R1lWiXeFTxjLREjNen17DoKVV3GbY#.mp4
+#EXTINF:-1 xui-id="1372" tvg-name="GoodFellas (1990)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEkABkwlgUxJkBiEXniz4BiGT1jkIaTngbefLmaAEyTU.jpg" group-title="Action",GoodFellas (1990)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69pwyAb_oGHIJw0kRchho0hRqc3YGaYqTilC1wVwBra-#.mp4
+#EXTINF:-1 xui-id="1373" tvg-name="Grudge Match (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCU8ZDeK4o5w9ecprTo4JtWLNy5vwLKBSuexxGCME9Fo.jpg" group-title="Action",Grudge Match (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E687mJNPJzoDmK9NJQyQcMqT6OpbJ_QU6DiI2UjbraS0V#.mp4
+#EXTINF:-1 xui-id="1374" tvg-name="Heat (1995)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdBI5mjm9DNRN85uv0oxqHPnvhQgkZycNyornNiuQvwU.jpg" group-title="Action",Heat (1995)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_BySriDLL7FbOGee48IMYKfs2kEZhfRNE-8nnXeJMWQ#.mp4
+#EXTINF:-1 xui-id="1375" tvg-name="Heist (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4_H2MLaJcOzc3rxFrmTpjq1tzOb4O6AcmyEy-4RYL2k.jpg" group-title="Action",Heist (2015)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61HTJNbMsHvIAmxXY-GvBW2TN1k3YF9sPCqXyH7w653o#.mp4
+#EXTINF:-1 xui-id="1376" tvg-name="Hide and Seek (2005)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWYD0tOfHa_af1cXu-Z6AgZJ0DC1GrvdEJ4lW5lvefbc.jpg" group-title="Action",Hide and Seek (2005)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_SZYfGM8wkmP-CBKMAn4oNJppmjtqOVLB-Bmw00hyIu#.mp4
+#EXTINF:-1 xui-id="1377" tvg-name="Jackie Brown (1997)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3RdsDiv7mSjMaI4iN9cqR4hVafIgp6fq-5dBDE8tvbo.jpg" group-title="Action",Jackie Brown (1997)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E62FJ8C7oYv8INUjWieWAnKnuEI0BBuFyISQ_bUPmySRQ#.mp4
+#EXTINF:-1 xui-id="1378" tvg-name="Joker (2019)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6Ig78pjaSem2i10jmDWzLclkTEgfrJhsgKAFekI5VyQ.jpg" group-title="Action",Joker (2019)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xuE-E1jVc6g30GxHpGJKJyUPn4tYdW8vt2JXe_VcrVn#.mp4
+#EXTINF:-1 xui-id="1379" tvg-name="Joy (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFjIbDiLf8aHRy6OQVSaUuoABooEJOrWij-hlLPYAHfY.jpg" group-title="Action",Joy (2015)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_nLvwf8ni_xhbQpm-K4U8lK0IFA0W6OnfumLceek6ee#.mp4
+#EXTINF:-1 xui-id="1380" tvg-name="Last Vegas (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa7sWXaGP-MDvlDVsZ1070lTQWeiIsxHO5ExQaaEL8fI.jpg" group-title="Action",Last Vegas (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64d_0nHI7AJs3MF9XYTe-qWqn5-sCEheimOVD3ipEnmA#.mp4
+#EXTINF:-1 xui-id="1381" tvg-name="Limitless (2011)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLN-NP8kzqm8GpE3rFxruqElXcTaIXEHPWxL5vecAeIn4.jpg" group-title="Action",Limitless (2011)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64DG7ekxdesQg9T7x502XPha4UiNhV8IpLDYBEOsf5s6#.mp4
+#EXTINF:-1 xui-id="1382" tvg-name="Little Fockers (2010)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJy79rbjQ3jpXNXuN9yBpM5o4DsdQKkWhITRMtD2a9Y0.jpg" group-title="Action",Little Fockers (2010)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E671_-21l2w_MuFUOT6scGo2XbOLvln0enLQXK2eSXztI#.mp4
+#EXTINF:-1 xui-id="1383" tvg-name="Machete (2010)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGOFERQYMSUP1JGp5n348fevJBvscw71pIaAoLna3Yhs.jpg" group-title="Action",Machete (2010)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68NGEKfVtZ2GlfQSzhnXKXYzo1ytrhee5lxW-Broivrf#.mp4
+#EXTINF:-1 xui-id="1384" tvg-name="Meet the Fockers (2004)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLweM8-lirYvzrpRxu1VtHcD5W5xmTjS_PKaADlxRMaJA.jpg" group-title="Action",Meet the Fockers (2004)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E67eIkqYEbBvjoBDh43ZZQ4eg5X-CPYfmOdoDwAHMHASk#.mkv
+#EXTINF:-1 xui-id="1385" tvg-name="Meet the Parents (2000)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLk54VHRCxuKekDpFNtjRiG53KZJGOpMi-v6qk3SoHB7Q.jpg" group-title="Action",Meet the Parents (2000)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63PILkE3ZCqpZolMTzEtJ9eMLW8C-_ANtQXSvPU2iygW#.mp4
+#EXTINF:-1 xui-id="1386" tvg-name="Men of Honor (2000)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2VAXIOpjL8mxnmgSYRNq2t6JdmgIWBpGwAic7AhMtuk.jpg" group-title="Action",Men of Honor (2000)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E60t3NWbMdAH0vyC99H-dauFmnsRJUOPXYFNVvcjWjNwq#.mp4
+#EXTINF:-1 xui-id="1387" tvg-name="New Year's Eve (2011)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxxjgHZcw_vtLZKTY8I6A-qVIl84f7ANHVZdxSTJ1h88.jpg" group-title="Action",New Year's Eve (2011)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65BWIIiOhYt5auq-mLzdbJH2decKQyevUhOfOH-scLT-#.mp4
+#EXTINF:-1 xui-id="1388" tvg-name="Once Upon a Time in America (1984)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLeT0onznv-7m_2v5BVDm_pNzIuNRlUQzLNXWLRMP6Nck.jpg" group-title="Action",Once Upon a Time in America (1984)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65QMPtkGfr106C6R5aBK_hY5Q5CipMfkWpya11kpWXUB#.mkv
+#EXTINF:-1 xui-id="1389" tvg-name="Once Upon a Time in China and America (1997)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqo3szQz-P4mVXk7I3dugG3Cu3XVMJGrIzPeCyRQYM6s.jpg" group-title="Action",Once Upon a Time in China and America (1997)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6326e0DxnswBWh4cxI6q8KiN0QxGDe2UhVGctoL_K_qp#.mkv
+#EXTINF:-1 xui-id="1390" tvg-name="Raging Bull (1980)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSBEvEI5mVL1SJIVuj4h6hh1Sc3vuJTyET-dcAiwP6pc.jpg" group-title="Action",Raging Bull (1980)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6x0nRkHY9IH5lk2fgoAIjtWhG0rjw6kafzkRhKGusrS-#.mp4
+#EXTINF:-1 xui-id="1391" tvg-name="Ronin (1998)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiHqTrPSVaAHv0Td2FZbZQ8nN8FEUvTA10Y5npnE5Prk.jpg" group-title="Action",Ronin (1998)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6woJDd27BlXJZXgIfEY1motM0PS13BeM78QL9VGjTdOu#.mp4
+#EXTINF:-1 xui-id="1392" tvg-name="Silver Linings Playbook (2012)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLu_jLH9Nq2rrAL4tP-gPTGUgZFvi6r7JZYFuvEKTuJYc.jpg" group-title="Action",Silver Linings Playbook (2012)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xGz37JeH9hqN4XlHauSpIT3IvxHUUFCmCWROplhm9fq#.mp4
+#EXTINF:-1 xui-id="1393" tvg-name="Stardust (2007)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsBmjlFsUFeo5HJ65zZC2DqR2kUTb3Ro0THeNh9ODR6A.jpg" group-title="Action",Stardust (2007)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64LaKm5r2H4oS-HC4XUnM9q2NvyY5DvxOT0OQ2cHxHgD#.mp4
+#EXTINF:-1 xui-id="1394" tvg-name="Taxi Driver (1976)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkjVHRuPq6_3OXjA7GYq1-mM5VztI1w2-tjp69_LOaIY.jpg" group-title="Action",Taxi Driver (1976)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6yWuLWjhBBs9e6y4Ig1mZ9YKoVRZwi1YaaBHao3d8gnM#.mp4
+#EXTINF:-1 xui-id="1395" tvg-name="The Family (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxwQcjAiDIJhyqfAPyKtFkw92h7ruMv-B1-qamk7Qq2M.jpg" group-title="Action",The Family (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63XreYLAnmmqIBkf3MiYrMjHbLgJOXJMG6hZ_q8sUGGq#.mp4
+#EXTINF:-1 xui-id="1396" tvg-name="The Fan (1996)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLp__49L-zCHnQ_Y6ykjc51n5O1akQUJENEDcGBhf1rYI.jpg" group-title="Action",The Fan (1996)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66il5dR_A7Lleb7krLyNrFBNkwdt2_7DDPYu5xs1GwUJ#.mp4
+#EXTINF:-1 xui-id="1397" tvg-name="The Godfather Part II (1974)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrq3XPpljw3r4KRU4nqnj3IgobJ9T42cUD3mRvrOypA8.jpg" group-title="Action",The Godfather Part II (1974)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E67TKzLiubVo_70RJZgRrAAHypnSf5vn3CYk67sjXO4nb#.mp4
+#EXTINF:-1 xui-id="1398" tvg-name="The Intern (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO5Qxv3VUxnFqupiwPceunzp3aIvn_1IOTbuAW7oHzCc.jpg" group-title="Action",The Intern (2015)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xyb6KSaDHQh_Lc7iCcfBnKqhFCoDKV_baFmQ8kswKA3#.mp4
+#EXTINF:-1 xui-id="1399" tvg-name="The Irishman (2019)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLL82xKzVdpwjNS6QVuicuky72d-Cm9HzhHKQXkvBFc3w.jpg" group-title="Action",The Irishman (2019)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6y9ZnxVVQc3qprL0c8wycFlzzsn5WQtWoAaaGZ7Fm_u-#.mp4
+#EXTINF:-1 xui-id="1400" tvg-name="The King of Comedy (1982)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLD1xbfP2qFVZUelESF24JpozjEFAXd8m4SZ7TliZdmRw.jpg" group-title="Action",The King of Comedy (1982)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66WrVuJZ4w9w29RwLQjVwxZcYiTuAJ-2DP56H54jvI39#.mp4
+#EXTINF:-1 xui-id="1401" tvg-name="The Score (2001)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXguitzjixQKpRAvjitbYFAjoD7Gkb7OVkGJfG3900_k.jpg" group-title="Action",The Score (2001)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E60B0u3hw7HgLydfbJqOoXNVLSEdKabOPpn5Z_nTZrMxc#.mp4
+#EXTINF:-1 xui-id="1402" tvg-name="The Untouchables (1987)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCW0p3d-DRU0ckGMijO5FaDsQrof9rsHc1jTTZ6gsOVE.jpg" group-title="Action",The Untouchables (1987)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69eoh7UM4TYFzXaIYJZC58xd_rC_GjA8dRV9Ka8MYzYm#.mp4
+#EXTINF:-1 xui-id="1403" tvg-name="Iron Man 2 (2010)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFPHaNDOanK5maPe3t7xeLr0oAqRV6Pd642OOUk3xEyQ.jpg" group-title="Action",Iron Man 2 (2010)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xEWgVd5E5zbH515l4sQ5G4ohTdevjGeDXB7XZcwV9Ef#.mkv
+#EXTINF:-1 xui-id="1404" tvg-name="Iron Man 3 (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQYGAo36iwjXs5D0r0Bu6Z22OX98GWCA_IVpNaY0JJYY.jpg" group-title="Action",Iron Man 3 (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69Rn_EMSUZaovFv_xhllAN4omPrF703v0P4LIpxdMXKY#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQYGAo36iwjXs5D0r0Bu6Z22OX98GWCA_IVpNaY0JJYY.jpg" group-title="Thailand Drama",The Betrayal S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJWYxwwMTqx2XrpniToHfkzORM_KG0W8XK01SnUl2iH4.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQYGAo36iwjXs5D0r0Bu6Z22OX98GWCA_IVpNaY0JJYY.jpg" group-title="Thailand Drama",The Betrayal S01E02
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
