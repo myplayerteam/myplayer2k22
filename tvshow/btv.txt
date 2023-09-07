@@ -194,6 +194,8 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTx1jSIzF4cMhFwO5qYtXs4/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJbbL6WaYnNxCGwzU9yCJngo/ts
 #EXTINF:-1 xui-id="130" tvg-id="" tvg-name="AATH HD" tvg-logo="https://bananatv.org:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXO6zya7b1v74eWOjJlHYqMrAISImVMB9d-1JSLbR6EoDfxUR5BVjPMRkGx3X1tD74.png" group-title="Hindi",AATH HD
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJQuvFC2t4u7TYj8PDiKhIoM/ts
+#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="Adithya tv" tvg-logo="https://bananatv.org:443/images/M1cl6jSOwv1T5BZZZCI1AoqVWWghydFxDRuOVbsQic_eYEl2U8NJU7fkc2gDNTzeI_bUioEomVZLr6_wbj-iVXl0FkHKlvZfQJ9q2jHxDCyQp3uA0-ttUl6DL3XU2iFBRz_fOMB_LV3cCY2ydtLwAz7ZVhBMksfkfibXOMVVGqA.jpg" group-title="Tamil",Adithya tv
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJbXro6DfMh60l9AG9o1jLHA/ts
 #EXTINF:-1 xui-id="122" tvg-id="" tvg-name="TPF HD 2" tvg-logo="https://bananatv.org:443/images/dJQGixVJxvDz0Po424fK0YkOeci5jwT6_VlJpe14T5reC47zS8AcOv-Yw7xQYjdn30TN9Shju4iZ95ivwQQJ2KFnPvgMRCxwDLh435m3-80.jpg" group-title="Thai & Truevisions",TPF HD 2
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJYFLKaUh6UVaYSil_u-gkcQ/ts
 #EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Star Gold HD Tplay" tvg-logo="https://bananatv.org:443/images/8QYbcp0UzkidJPymSoJRlOJOm64BN15i885LQffdSCdTSkJNN6s-Qi2JkO90Q9MQg_69KqkersduaxvF02XXaw.png" group-title="Hindi",Star Gold HD Tplay
@@ -478,6 +480,8 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdpV38ckfCuLmriAoR5Mtw4/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdIUtqlFTz7EOOf0r8GWRwQ/ts
 #EXTINF:-1 xui-id="605" tvg-id="" tvg-name="EPL 7" tvg-logo="https://www.dropbox.com/scl/fi/nc1prud3qiiyujuhcwjbv/20230815_182237_0000.jpg?rlkey=3qtfabuu2sez2sja4wtwa09c6&dl=1" group-title="Football",EPL 7
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJa7ZRqGocwx04K-3BXXfPJM/ts
+#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="Test" tvg-logo="" group-title="test",Test
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWn6ZbV6pAC_zgekeP1tydU/ts
 #EXTINF:-1 xui-id="646" tvg-id="" tvg-name="Bollywood HD" tvg-logo="" group-title="Hindi",Bollywood HD
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXq5cBTVUPp5mMcLm2WxZjc/ts
 #EXTINF:-1 xui-id="650" tvg-id="" tvg-name="TPF HD 3 Test" tvg-logo="https://bananatv.org:443/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-UYcGpNNIzUxxH4GN5vOEybbaa-Dnuwrrl9bP8cDo0A_DP56TcbL5qZgHeS0t3djBY-roPrAqxSixj5DENkMij.png" group-title="Thai & Truevisions",TPF HD 3 Test
@@ -2364,9 +2368,19 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69eoh7UM4TYFzXaIYJZC58xd_rC_Gj
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xEWgVd5E5zbH515l4sQ5G4ohTdevjGeDXB7XZcwV9Ef#.mkv
 #EXTINF:-1 xui-id="1404" tvg-name="Iron Man 3 (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQYGAo36iwjXs5D0r0Bu6Z22OX98GWCA_IVpNaY0JJYY.jpg" group-title="Action",Iron Man 3 (2013)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69Rn_EMSUZaovFv_xhllAN4omPrF703v0P4LIpxdMXKY#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQYGAo36iwjXs5D0r0Bu6Z22OX98GWCA_IVpNaY0JJYY.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1405" tvg-name="Die Hard (1988)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRWSFxn7_SXfsgM-zyC6Op-WL00jhmr_sSeJOUvZhnck.jpg" group-title="Action",Die Hard (1988)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E601XcWaT_Q-4nQC6kjKi5lt_ZD0gpuYnEODBSHL0xOT9#.mp4
+#EXTINF:-1 xui-id="1406" tvg-name="Die Hard 2 (1990)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAZXfBqR0s_p8TwqvNVNPm9ifdz65jGx1UtSedgQmozo.jpg" group-title="Action",Die Hard 2 (1990)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64Z9g-Ly5ztVejd3bV8IdjCu5QY8J-T5bLF-doV2SBkn#.mp4
+#EXTINF:-1 xui-id="1407" tvg-name="Die Hard: With a Vengeance (1995)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrtKimP-FIaDigavoaXhwQWlt8_gew2n21kUIWzbQ5PM.jpg" group-title="Action",Die Hard: With a Vengeance (1995)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68IcuqMcLwCJskF-fjKRK7rqKD6G4z70TK29LBAvHo_v#.mp4
+#EXTINF:-1 xui-id="1408" tvg-name="Live Free or Die Hard (2007)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvx4V3HLedtrLhNFTB6xTb4n0D-Pt3ePyiYUjmY0DVMY.jpg" group-title="Action",Live Free or Die Hard (2007)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66IWp8xmC0FV_AujUCA8psLgVABKZrGugQ9zMIJYuuTo#.mp4
+#EXTINF:-1 xui-id="1409" tvg-name="A Good Day to Die Hard (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLchiUEBDnuoEonxfFSZP0QkMF9Lv4ATwlTvlCRCo3YD8.jpg" group-title="Action",A Good Day to Die Hard (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6y426Pon524D4Of6bQFVVPZNTVvZ4p9fJTWCJDplRKy_#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLchiUEBDnuoEonxfFSZP0QkMF9Lv4ATwlTvlCRCo3YD8.jpg" group-title="Thailand Drama",The Betrayal S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQYGAo36iwjXs5D0r0Bu6Z22OX98GWCA_IVpNaY0JJYY.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLchiUEBDnuoEonxfFSZP0QkMF9Lv4ATwlTvlCRCo3YD8.jpg" group-title="Thailand Drama",The Betrayal S01E02
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
@@ -2606,3 +2620,11 @@ https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n7hzbf7aMSV7NBx95kRsZPJIe0ToMJ
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n4eVx7yooc6yn3BT7hp55yaXj3j1b_6LoR4jiApYnCBh#.mp4
 #EXTINF:-1 xui-id="1276" tvg-name="The New Heavenly Sword and Dragon Sabre S01E40" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="Chinese Drama",The New Heavenly Sword and Dragon Sabre S01E40
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n1usGRTqLLW0DNvnobZXluy4EpWDJ9JcT7Cu1CpLSKYh#.mp4
+#EXTINF:-1 xui-id="1410" tvg-name="The Freelancer S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLz49eh0avKT9kM770UGsSWSpD5SFCGyUe6HcgrloY_Mg.jpg" group-title="Netflix Bollywood",The Freelancer S01E01
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n4c6d5PoHrWakKRBAvqHpbcRuNmEinGsAnxqxC_lECZ3#.mp4
+#EXTINF:-1 xui-id="1411" tvg-name="The Freelancer S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLIBSgENp3w5JJvSm35nozOBXWY6WLN20wK15PHnolP8A.jpg" group-title="Netflix Bollywood",The Freelancer S01E02
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxb_NQuo0OhAQaSZ-B1l5bAQamx7Ckrl_LRWeLMawSn2#.mp4
+#EXTINF:-1 xui-id="1412" tvg-name="The Freelancer S01E03" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXvWx2a625XbZM8qi1UyPXEqy0LSXGYJ7PAldlb0-VDY.jpg" group-title="Netflix Bollywood",The Freelancer S01E03
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n5ZOkFuGO5pKca9UII14yaWHvFDC99D4UB2K1pBP-e45#.mp4
+#EXTINF:-1 xui-id="1413" tvg-name="The Freelancer S01E04" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDJ93tMphXSHJkjWJOI58HFn40vQun1n9NnNh5yKwMZ4.jpg" group-title="Netflix Bollywood",The Freelancer S01E04
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n-e-HN1DLeAWwlMZMAszap__Y7Fq1ucdPCVee-TLyJeC#.mp4
