@@ -634,6 +634,34 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdtceynYo6VS6rGehKDdWl4/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVzJ3X26-pH1VrCp8s14g4Y/ts
 #EXTINF:-1 xui-id="1368" tvg-id="" tvg-name="Discovery" tvg-logo="https://bananatv.org:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjz_6WFqkEK_w2SWudUAffg9VqO3U4x_GMJsLNaVdoOp0pUSjwQhi7ve2dBKwcp2CvrVfmABsJa8fvVt0F2vNlsD59d8z9703yYFFXLu8_tAIecedmjMKcM9TsCK4RMUOD.png" group-title="Free Channels (MM)",Discovery
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZhFrRaOWguup0RTeyy83dU/ts
+#EXTINF:-1 xui-id="1583" tvg-id="" tvg-name="Anhui TV / 安徽卫视" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY95i0XcY8C9rd2m_jkutH9zGycq29gN-n_f5q5SA_fDcy--uhADenz_AsijXb9DRG5Cs&usqp=CAU" group-title="China",Anhui TV / 安徽卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXaEY_feHbW-IGTMqGRmFEA/ts
+#EXTINF:-1 xui-id="1584" tvg-id="" tvg-name="BTV 1 / 北京卫视" tvg-logo="" group-title="China",BTV 1 / 北京卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJSgjYI0zP5z48cQNLNysyAA/ts
+#EXTINF:-1 xui-id="1585" tvg-id="" tvg-name="CETV 1" tvg-logo="" group-title="China",CETV 1
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZdv8rJ80Wfy67E84DeHjhM/ts
+#EXTINF:-1 xui-id="1586" tvg-id="" tvg-name="CETV 2" tvg-logo="" group-title="China",CETV 2
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXiBbzboFFe3uGCDaonU_LM/ts
+#EXTINF:-1 xui-id="1587" tvg-id="" tvg-name="CQTV / 重庆卫视" tvg-logo="" group-title="China",CQTV / 重庆卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJRYMUDEcmdqnsp51S7tIFjM/ts
+#EXTINF:-1 xui-id="1588" tvg-id="" tvg-name="Dongfang TV / 东方卫视" tvg-logo="" group-title="China",Dongfang TV / 东方卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJbZNQMCDx4OL9zXgzbKkV9A/ts
+#EXTINF:-1 xui-id="1589" tvg-id="" tvg-name="Dongnang / 东南卫视" tvg-logo="" group-title="China",Dongnang / 东南卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTkgGyFYlb0Uc4-bsMn-tmM/ts
+#EXTINF:-1 xui-id="1590" tvg-id="" tvg-name="Dongnan / 甘肃卫视" tvg-logo="" group-title="China",Dongnan / 甘肃卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJfsz-xrLIW0NTV3IfEl_Xh4/ts
+#EXTINF:-1 xui-id="1591" tvg-id="" tvg-name="Gansu / 甘肃卫视" tvg-logo="" group-title="China",Gansu / 甘肃卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJaqH8wnD2V1z2y76Gqd7K-s/ts
+#EXTINF:-1 xui-id="1592" tvg-id="" tvg-name="Guangdong / 广东卫视" tvg-logo="" group-title="China",Guangdong / 广东卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVZsiNWZvUQ8BS6V59Nq0MU/ts
+#EXTINF:-1 xui-id="1593" tvg-id="" tvg-name="Guangxi / 广西卫视" tvg-logo="" group-title="China",Guangxi / 广西卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJX0Sr1ooy4UqGRKN6THgAoE/ts
+#EXTINF:-1 xui-id="1594" tvg-id="" tvg-name="Guizhou / 贵州卫视" tvg-logo="" group-title="China",Guizhou / 贵州卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJcykNjlUd_wew_Jyr-mykOM/ts
+#EXTINF:-1 xui-id="1595" tvg-id="" tvg-name="Hebei / 河北卫视" tvg-logo="" group-title="China",Hebei / 河北卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdFGVypZtLna8sZGAfc0vfE/ts
+#EXTINF:-1 xui-id="1596" tvg-id="" tvg-name="Heilongjiang / 黑龙江卫视" tvg-logo="" group-title="China",Heilongjiang / 黑龙江卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJduu_HaqpceTUXpXzRBgngk/ts
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
 #EXTINF:-1 xui-id="1" tvg-name="The Mummy (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
@@ -2010,7 +2038,7 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6-8FQGgNPaATORdWTU77U-8Cia79GP
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xCfoVX3wwoTGp8jCHQb83JPfQLmzjBTKTBnwoyGYZxd#.mp4
 #EXTINF:-1 xui-id="1164" tvg-name="Dil Dhadakne Do (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUmgl6sxm_ML1_yLaQv9N_0DXjOhWoxjZ6WaXagwhSMI.jpg" group-title="Bollywood",Dil Dhadakne Do (2015)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63CZ9TcypUjLpzKUkqCh1EWv356RLfezQCMdVAQOPxU9#.mp4
-#EXTINF:-1 xui-id="1165" tvg-name="Dil Dhadakne Do (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUmgl6sxm_ML1_yLaQv9N_0DXjOhWoxjZ6WaXagwhSMI.jpg" group-title="Bollywood",Dil Dhadakne Do (2015)
+#EXTINF:-1 xui-id="1165" tvg-name="2.0 (2019)" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/photogallery/201601/thumb_012316012233.jpg?VersionId=KTRyHS4oiPhpyY_KCkwVQN_MvrL88G9D" group-title="Bollywood",2.0 (2019)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_9hZaPhXU2XjpvwKnXf2zT1jeJ2aj--zeCL604Ffohd#.mp4
 #EXTINF:-1 xui-id="1166" tvg-name="Fanaa (2006)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHYAD2NUvGEqsVbH_E2PZJTgrx5UZjRznav8zrOciJE0.jpg" group-title="Bollywood",Fanaa (2006)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6yJZNT5hwibWgHNoCnbOcJYvUuXJjZJ7XBKAPopIyXwZ#.mp4
@@ -2626,9 +2654,71 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66HfOpNSZGgh0EmpNu_EDMNE3DePsB
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6wTaNEAeuudAMECOSc3BcrKu1TDDsYpwaR-mHhGJRyx5#.mp4
 #EXTINF:-1 xui-id="1551" tvg-name="Surongo (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrWDfI82zCPmdH2rwOtHOjtvZTFfRzeQPwuGizS8HFZ8.jpg" group-title="Bollywood 2023",Surongo (2023)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64OWiL-KtResvThKSmrT71htT2kGLuLqbuRXZ9d_D1ef#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrWDfI82zCPmdH2rwOtHOjtvZTFfRzeQPwuGizS8HFZ8.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1552" tvg-name="Haddi (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_mANgDHClFK9gxYHUgFaThjW7YuYcT3QrbXLYF6oGDQ.jpg" group-title="Bollywood 2023",Haddi (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61FI-YGVn5VsL9b1zLIKoLiZG9eGz9n_pkkyqCfF0_4_#.mp4
+#EXTINF:-1 xui-id="1553" tvg-name="30 Days Max (2020)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxpeiGcu_ygLfePwiYF2v2kutM_9RWMMpoQnkoyyqtgk.jpg" group-title="Action",30 Days Max (2020)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68FytUAexEEvc39DFeQloHJPkG0VG9zmAfWzkO6icnoP#.mp4
+#EXTINF:-1 xui-id="1554" tvg-name="Lop Nor Tomb (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLh-bL4J4_s1HwZGvliSQcA1XSDeD_Ce_aQ4u39wjw0xM.jpg" group-title="Asian",Lop Nor Tomb (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69zfYayXIpl-Wm_rnKCeokowP7pASYhZ4pnFQ_oz10IG#.mp4
+#EXTINF:-1 xui-id="1555" tvg-name="Catfish Murder (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNvAFSrsau9RHX_HeYu6pMN0HBr8QkUJ3q41hbGmCjuk.jpg" group-title="Action 2023",Catfish Murder (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E60AYfOYiup2ZYDclJKBkRxiWibPj_ZEFEMeyPBrmTRl7#.mp4
+#EXTINF:-1 xui-id="1556" tvg-name="Huang Miao Village's Tales of Mystery (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsukHqHuWgIoTKjpvPPyR24BdgFMSdyHoT3OIqEySM6E.jpg" group-title="Asian",Huang Miao Village's Tales of Mystery (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_1h06hqEKW1SKAKGTu3VkSib53GncRiCf_tYLYeyGN9#.mp4
+#EXTINF:-1 xui-id="1557" tvg-name="The Headless General Who Stole the Book of Heaven (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRRafGisamDknCOoVVO9Qt5sFDQSoBxYkiw6md1WxoRg.jpg" group-title="Asian",The Headless General Who Stole the Book of Heaven (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64PN4UHNejxno95aj7NcTGA5rPChyil6yCp0MNarIA-Y#.mp4
+#EXTINF:-1 xui-id="1558" tvg-name="Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLMowUJu-Rjs-JZ1x7xo0TExLXIcImG5AljENst4v5lVI.jpg" group-title="Action 2023",Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xQgpGsLEIuhdoumiEEZCkHw9BVUv1cxveg1OzH6H8N2#.mp4
+#EXTINF:-1 xui-id="1559" tvg-name="Queen of Triads 3 (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb3g-EiwYthO-r3Vn4DzsPmFqkoSaRhd8SFouzkYcsvI.jpg" group-title="Asian",Queen of Triads 3 (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6wtMIbVuIJ8WFycGhXPTZp4h_DMzkDRiGt5LFaJY5cQK#.mp4
+#EXTINF:-1 xui-id="1560" tvg-name="7 Khoon Maaf (2011)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLP8Ekrpyp2WGNgJbKJMjY_rNPCbpVMYeF5DuBX2tV3ME.jpg" group-title="Bollywood",7 Khoon Maaf (2011)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E62UiRv-5Xm-IHzUdeIh7k2M2-QdzuUsRw_AJGH3OHL3n#.mp4
+#EXTINF:-1 xui-id="1561" tvg-name="Blackmail (2018)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwv55IHuehc9X1sjaQf-n5zeom-CZq5-1iVj2f0r67sQ.jpg" group-title="Bollywood",Blackmail (2018)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_QwblNaFaqYQAdNpkE7fjoyIKqyBWFEbTVS5Rkw81-s#.mp4
+#EXTINF:-1 xui-id="1562" tvg-name="D-Day (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLavbxea33aY4x3j6XzR-vHthXlD_ocE_p7QVoIhXq7os.jpg" group-title="Bollywood",D-Day (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E67dVo4_cFWtG-8yoPDoD-UwNmy3UaB9iag9m759zlw4t#.mp4
+#EXTINF:-1 xui-id="1563" tvg-name="Last Man Speaking(English) (2020)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRe_zJX6oA8b9d2mua1N9_HFuFO86-ig9_iKpUQnIpZg.jpg" group-title="Bollywood",Last Man Speaking(English) (2020)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_5Qm8h3y9GhVaWvzWdVGVXUe5wF1n9D0Q2vlYArGAZk#.mp4
+#EXTINF:-1 xui-id="1564" tvg-name="Gunday (2014)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7MSmyM7npEj53EIX-TS5TmE6GuSrPSUWLcXqh81JJjE.jpg" group-title="Action",Gunday (2014)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xblKpP2swU47XJhIkXbNULUTj1APnJd_oovgLwqnU5P#.mp4
+#EXTINF:-1 xui-id="1565" tvg-name="Haider (2014)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfJI4XI_9RGpvt4tEw8LtRtyRMy7yA6uYbhJlOMFyQiw.jpg" group-title="Bollywood",Haider (2014)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63Kkod0uqrd40s1QRn_VFrq9W-NQhdmXbfcTa80miZSr#.mp4
+#EXTINF:-1 xui-id="1566" tvg-name="Hindi Medium (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7521Z3SyuREK1wukwQ3Ns-cHylZlr4tyKMNLDYATKz8.jpg" group-title="Bollywood",Hindi Medium (2017)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E60lOeJgBilETfAHYFGYrZpsJ7fzStnpoGVBRFSH2cC0w#.mp4
+#EXTINF:-1 xui-id="1567" tvg-name="Hisss (2010)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-mE3FLAHinh2j_ftVT_BQMNj4JuYMRp8umqDtBJbPCg.jpg" group-title="Bollywood",Hisss (2010)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63RGraIea0BYdYuEIwSKmtp2PGtwv6iy7UF0N8UTT7yg#.mp4
+#EXTINF:-1 xui-id="1568" tvg-name="Jazbaa (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKbtwGJU5MMvhyoNVzu7p26upVVzL_KuB29aqx_3520s.jpg" group-title="Bollywood",Jazbaa (2015)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xhA3Rz-0V5zomLBxV6dQaze62il9G1KfwHUAtQgyN0z#.mp4
+#EXTINF:-1 xui-id="1569" tvg-name="Karwaan (2018)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFtV_YXcJEZAw96SzEUkDZtt6E41g-STQ4z60vCD9DKk.jpg" group-title="Bollywood",Karwaan (2018)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6yg35RAWiJP9lsn-AciHlwhbMEoI3xhH3bqH2ulOy5f-#.mp4
+#EXTINF:-1 xui-id="1570" tvg-name="Knock Out (2010)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEh-N7fgnc5jFZV6ScvFbvLibPz-RjYnhQo5p9zhgJzA.jpg" group-title="Bollywood",Knock Out (2010)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6z6QhV5NgbDWXFb-1JX8LFOq3BMETfsAoTqwwFz4o7Yg#.mp4
+#EXTINF:-1 xui-id="1571" tvg-name="Life of Pi (2012)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLayqLDxLOKJOQ4un5K52jKrXXj-WCsEX7IL-1-bptkmg.jpg" group-title="Bollywood",Life of Pi (2012)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6y7slRFUVRJEeDjGB4zYPEgZiISNkmcf-N_iC1X_qygG#.mp4
+#EXTINF:-1 xui-id="1572" tvg-name="Madaari (2016)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKcSY4RPSdXFNhc5PC-W93_j6cyMSMTTkmdHCGRj7GGM.jpg" group-title="Action",Madaari (2016)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_42YKQe0vKs09J-anodDz2i-7LX3U_Qu-cA1_m4vUSs#.mp4
+#EXTINF:-1 xui-id="1573" tvg-name="New York (2009)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRewMMHfbYE7Xqcxa8fPZ2JgUHFzyZZgOus29xRFTsOM.jpg" group-title="Bollywood",New York (2009)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66Gfolu4HJzPoVuy_gKMjHwiMyttkkk1jwTE0qC7kgii#.mp4
+#EXTINF:-1 xui-id="1574" tvg-name="Paan Singh Tomar (2012)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTGTAgG3xbQi9uQpJA3XnMzjRQvP3GdVq2TyXY19zPsA.jpg" group-title="Bollywood",Paan Singh Tomar (2012)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68Zu7gjIzvf_zUk7_B2VWhFO0tww0Mfek2x168yzNY77#.mp4
+#EXTINF:-1 xui-id="1575" tvg-name="Piku (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLR5lLdfDO_BG9_5FjsM7ZPYgJ8krpbdEgCcQPgI23_ag.jpg" group-title="Bollywood",Piku (2015)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E644AYfm0se4eEXq3U_Io0He5tZZLeln2pfNu-WhjBK8_#.mp4
+#EXTINF:-1 xui-id="1576" tvg-name="Puzzle (2018)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3UZSJ76p2CXySpZXoewXBHOp_eT-WxLEw-Y5L88dW2s.jpg" group-title="Bollywood",Puzzle (2018)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66_DnUBrMHEUvbgZmyHwScpixuYT47biXmE0qvTgVgRR#.mp4
+#EXTINF:-1 xui-id="1577" tvg-name="Qarib Qarib Singlle (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoJM5OFnhhC5yjUw1mkcoVASmdERWBSkf6pRIZC_9ejg.jpg" group-title="Bollywood",Qarib Qarib Singlle (2017)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68DVN8HIz1W4BVUGxPeklG0lAlwKMZaz4nNtx5YypwpI#.mp4
+#EXTINF:-1 xui-id="1578" tvg-name="Slumdog Millionaire (2008)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfpTRDMQm6MnhvXpcILf0H2vNQNwWr-8hP0Jkm-CNLNA.jpg" group-title="Bollywood",Slumdog Millionaire (2008)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6waUwNKvH1WjeN6AvrgnrnYDxYraCedy6CkG72oRbr9t#.mp4
+#EXTINF:-1 xui-id="1579" tvg-name="Talvar (2015)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLgO107HZFrcvp-Nz8OegrAgBuJ1S6wb7FbR_UOxXrGg8.jpg" group-title="Bollywood",Talvar (2015)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61SiyjiIyfsNGVYg5ovOa1osIRSzoOLQdIbz6r3KlNKe#.mp4
+#EXTINF:-1 xui-id="1580" tvg-name="The Lunchbox (2013)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoJT5pr-CsaBmyukwHM_R12uoRCMDqZuas7QTWMSKEnc.jpg" group-title="Bollywood",The Lunchbox (2013)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6w1A3JtOBRMgTxETyEMPH4h_ceKjxZ70QFcBOX9rTJoK#.mp4
+#EXTINF:-1 xui-id="1581" tvg-name="Three Kings (1999)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyxqNGJ-S1bsnZ0qXJASbflw1DDQ-5yZ4iMymJB4zwa4.jpg" group-title="Action",Three Kings (1999)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6y65KWvTFoyQPa2qm7H6Lqr_ZRMKPUH5RMLT1Ax5sZjm#.mp4
+#EXTINF:-1 xui-id="1582" tvg-name="Barfi! (2012)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF1tpDRk6XAEgkeTplk_PfYq86ELeiYkbgSbNZzoHUjg.jpg" group-title="Bollywood",Barfi! (2012)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_-viinfAYV8O5U9Dkj9aovdaBsWQJhCLNq110FZiSJ9#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF1tpDRk6XAEgkeTplk_PfYq86ELeiYkbgSbNZzoHUjg.jpg" group-title="Thailand Drama",The Betrayal S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrWDfI82zCPmdH2rwOtHOjtvZTFfRzeQPwuGizS8HFZ8.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF1tpDRk6XAEgkeTplk_PfYq86ELeiYkbgSbNZzoHUjg.jpg" group-title="Thailand Drama",The Betrayal S01E02
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
