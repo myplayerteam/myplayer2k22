@@ -636,32 +636,40 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVzJ3X26-pH1VrCp8s14g4Y/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZhFrRaOWguup0RTeyy83dU/ts
 #EXTINF:-1 xui-id="1583" tvg-id="" tvg-name="Anhui TV / 安徽卫视" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY95i0XcY8C9rd2m_jkutH9zGycq29gN-n_f5q5SA_fDcy--uhADenz_AsijXb9DRG5Cs&usqp=CAU" group-title="China",Anhui TV / 安徽卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXaEY_feHbW-IGTMqGRmFEA/ts
-#EXTINF:-1 xui-id="1584" tvg-id="" tvg-name="BTV 1 / 北京卫视" tvg-logo="" group-title="China",BTV 1 / 北京卫视
+#EXTINF:-1 xui-id="1584" tvg-id="" tvg-name="BTV 1 / 北京卫视" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfG5DL7cAHU8DLcbgJgIPhkmffsrHVVHk7vCsMc8TUP7i0QyIqFpkQ4P_L1beUPcExpDU&usqp=CAU" group-title="China",BTV 1 / 北京卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJSgjYI0zP5z48cQNLNysyAA/ts
-#EXTINF:-1 xui-id="1585" tvg-id="" tvg-name="CETV 1" tvg-logo="" group-title="China",CETV 1
+#EXTINF:-1 xui-id="1585" tvg-id="" tvg-name="CETV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPk-sKCLnAsPLaEaGWAGDQ8ezkbGVOy8KWSthSE3fTcg&s" group-title="China",CETV 1
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZdv8rJ80Wfy67E84DeHjhM/ts
-#EXTINF:-1 xui-id="1586" tvg-id="" tvg-name="CETV 2" tvg-logo="" group-title="China",CETV 2
+#EXTINF:-1 xui-id="1586" tvg-id="" tvg-name="CETV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNOvTAAk_5h9-aGab_KMRltVa6REcUw_1BNiVG41skA&s" group-title="China",CETV 2
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXiBbzboFFe3uGCDaonU_LM/ts
-#EXTINF:-1 xui-id="1587" tvg-id="" tvg-name="CQTV / 重庆卫视" tvg-logo="" group-title="China",CQTV / 重庆卫视
+#EXTINF:-1 xui-id="1587" tvg-id="" tvg-name="CQTV / 重庆卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHCo77krgwkI_E_UJNqeIxMcg4Cn5pAa13hiaEteMmb9TA.jpg" group-title="China",CQTV / 重庆卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJRYMUDEcmdqnsp51S7tIFjM/ts
-#EXTINF:-1 xui-id="1588" tvg-id="" tvg-name="Dongfang TV / 东方卫视" tvg-logo="" group-title="China",Dongfang TV / 东方卫视
+#EXTINF:-1 xui-id="1588" tvg-id="" tvg-name="Dongfang TV / 东方卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHBt4efGJJWKFcejeCFepvWM0i1WrzMH69oNbJ5m8QxXfg.jpg" group-title="China",Dongfang TV / 东方卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJbZNQMCDx4OL9zXgzbKkV9A/ts
-#EXTINF:-1 xui-id="1589" tvg-id="" tvg-name="Dongnang / 东南卫视" tvg-logo="" group-title="China",Dongnang / 东南卫视
+#EXTINF:-1 xui-id="1589" tvg-id="" tvg-name="Dongnang / 东南卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHCflgPu8N-Ogy1NroazKGXo.jpg" group-title="China",Dongnang / 东南卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTkgGyFYlb0Uc4-bsMn-tmM/ts
-#EXTINF:-1 xui-id="1590" tvg-id="" tvg-name="Dongnan / 甘肃卫视" tvg-logo="" group-title="China",Dongnan / 甘肃卫视
+#EXTINF:-1 xui-id="1590" tvg-id="" tvg-name="Jiangsu / 江苏卫视" tvg-logo="https://bananatv.org:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXBXZHKG34KVkQm3YXlS0VFM8g31hWgNo3IDWV28Hes3uHG0MVSiY_rFc56yb8owyOMvUF-USFRcwBEPc4Kd-cK.png" group-title="China",Jiangsu / 江苏卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJfsz-xrLIW0NTV3IfEl_Xh4/ts
-#EXTINF:-1 xui-id="1591" tvg-id="" tvg-name="Gansu / 甘肃卫视" tvg-logo="" group-title="China",Gansu / 甘肃卫视
+#EXTINF:-1 xui-id="1591" tvg-id="" tvg-name="Gansu / 甘肃卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHBznMISGFoW4tc3yaw_fXiG.jpg" group-title="China",Gansu / 甘肃卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJaqH8wnD2V1z2y76Gqd7K-s/ts
-#EXTINF:-1 xui-id="1592" tvg-id="" tvg-name="Guangdong / 广东卫视" tvg-logo="" group-title="China",Guangdong / 广东卫视
+#EXTINF:-1 xui-id="1592" tvg-id="" tvg-name="Guangdong / 广东卫视" tvg-logo="https://static.wikia.nocookie.net/drama/images/3/31/Guangdong_TV_LOGO.jpg/revision/latest?cb=20190415201148&path-prefix=es" group-title="China",Guangdong / 广东卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVZsiNWZvUQ8BS6V59Nq0MU/ts
-#EXTINF:-1 xui-id="1593" tvg-id="" tvg-name="Guangxi / 广西卫视" tvg-logo="" group-title="China",Guangxi / 广西卫视
+#EXTINF:-1 xui-id="1593" tvg-id="" tvg-name="Guangxi / 广西卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHBqsBbI0W13m8i75fQDOi4US_1Qo4fQmx5WGKdZ2OcqdA.jpg" group-title="China",Guangxi / 广西卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJX0Sr1ooy4UqGRKN6THgAoE/ts
-#EXTINF:-1 xui-id="1594" tvg-id="" tvg-name="Guizhou / 贵州卫视" tvg-logo="" group-title="China",Guizhou / 贵州卫视
+#EXTINF:-1 xui-id="1594" tvg-id="" tvg-name="Guizhou / 贵州卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHCZsoGM4m2BPq7d1IC-3oO_lwzFLGzpOZ4dTTqdfl32Og.jpg" group-title="China",Guizhou / 贵州卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJcykNjlUd_wew_Jyr-mykOM/ts
-#EXTINF:-1 xui-id="1595" tvg-id="" tvg-name="Hebei / 河北卫视" tvg-logo="" group-title="China",Hebei / 河北卫视
+#EXTINF:-1 xui-id="1595" tvg-id="" tvg-name="Hebei / 河北卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHC4Dc-QfQsdLapRhZNfspxtfgvq1-iuEGTg2JTLXA6anA.jpg" group-title="China",Hebei / 河北卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdFGVypZtLna8sZGAfc0vfE/ts
-#EXTINF:-1 xui-id="1596" tvg-id="" tvg-name="Heilongjiang / 黑龙江卫视" tvg-logo="" group-title="China",Heilongjiang / 黑龙江卫视
+#EXTINF:-1 xui-id="1596" tvg-id="" tvg-name="Heilongjiang / 黑龙江卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHAKPSf4L2sx4Kps3RGpG1BvjkHcQmZDuTXsxtgmZ_N9Uw.jpg" group-title="China",Heilongjiang / 黑龙江卫视
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJduu_HaqpceTUXpXzRBgngk/ts
+#EXTINF:-1 xui-id="1597" tvg-id="" tvg-name="Henan TV / 河南卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHABAFEQuK2hKDgtpjWwg_lkbB5lpLEVbQiIm01qZy9KQA.jpg" group-title="China",Henan TV / 河南卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJRjVRTaFLlqfaIdN5ksBrb8/ts
+#EXTINF:-1 xui-id="1598" tvg-id="" tvg-name="Hubei /湖北卫视" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHDbGv4ATHSAQFk1Ij7JYUhU.jpg" group-title="China",Hubei /湖北卫视
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTJ37DGe-Ru0vAJdaUYcu9w/ts
+#EXTINF:-1 xui-id="1599" tvg-id="" tvg-name="Hunan TV /" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHBE31Q-yTt0EhudjLbiKeW9.jpg" group-title="China",Hunan TV /
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZAnTW1LWtYS1-x6TYF4v8Q/ts
+#EXTINF:-1 xui-id="1600" tvg-id="" tvg-name="TNT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUMiMF0KHnqVrpm-94gzy4pcL8x0OvTo3EGyWUVKCjQ&s" group-title="test",TNT Sport 1
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJYVhwb0B8TYuFRwyZT3v_bU/ts
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
 #EXTINF:-1 xui-id="1" tvg-name="The Mummy (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
