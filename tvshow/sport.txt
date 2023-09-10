@@ -1,452 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : MAV TV HD" tvg-logo="http://icons.tw:8080/images/49c8bb4c454ca82aaa089416fc8c3bb6.png" group-title="PREMIUM SPORTS",CAN : MAV TV HD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/161035.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : NBC GOLF" tvg-logo="http://icons.tw:8080/images/4bc9471c30ef35e30b49c15ea583fcb2.png" group-title="PREMIUM SPORTS",CAN : NBC GOLF
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55088.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/32ab6a97e8b17174268384dee81da3cd.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET 360
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55089.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET EAST
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55090.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/6066532be04ba136689bbc4b63b6ec7a.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET ONE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55091.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/20c9a350d0e9db7c8c77bef4ec9ea384.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET ONTARIO
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55092.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/c3f2764134bd331c10179c877aa73658.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET PACIFIC
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55093.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET WEST
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55094.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/f04d4760124da5111d441622fff5bdc2.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET WORLD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55095.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : SPORTSNET WWE" tvg-logo="https://stg.snnow.ca/wp-content/uploads/2021/09/wwe_on_snnow_black.png" group-title="PREMIUM SPORTS",CAN : SPORTSNET WWE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/265892.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAN : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/47005231a0ada3c025e8338fd5bc088a.png" group-title="PREMIUM SPORTS",CAN : TVA SPORTS HD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55096.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL: TNT SPORTS HD" tvg-logo="http://icons.tw:8080/images/9747d462a69ce562db43f065d323c39b.png" group-title="PREMIUM SPORTS",CL: TNT SPORTS HD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/137017.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : AFC BOURNEMOUTH" tvg-logo="http://icons.tw:8080/images/c5b6259c794adf1f6a5761ccfee3a47a.png" group-title="UK PREMIER LEAGUE",EPL : AFC BOURNEMOUTH
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : ARSENAL" tvg-logo="http://icons.tw:8080/images/bfe8b1027719c2853a51d7de1e0725a5.png" group-title="UK PREMIER LEAGUE",EPL : ARSENAL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : ASTON VILLA" tvg-logo="http://icons.tw:8080/images/76dc3b8905fe378977f96d2a36e22421.png" group-title="UK PREMIER LEAGUE",EPL : ASTON VILLA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : BRENTFORD" tvg-logo="http://icons.tw:8080/images/ce2b5559fcdf12aeb1d33c9245283a48.png" group-title="UK PREMIER LEAGUE",EPL : BRENTFORD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235763.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : BRIGHTON" tvg-logo="http://icons.tw:8080/images/8bf7981099c9c0a5c18ddd0b125167c5.png" group-title="UK PREMIER LEAGUE",EPL : BRIGHTON
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235764.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : BURNLEY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/300px-Burnley_FC_Logo.svg.png" group-title="UK PREMIER LEAGUE",EPL : BURNLEY
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : CHELSEA" tvg-logo="http://icons.tw:8080/images/7cd47654b0ea90a52b43a0ad1871a713.png" group-title="UK PREMIER LEAGUE",EPL : CHELSEA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : CRYSTAL PALACE" tvg-logo="http://icons.tw:8080/images/2facdc8aa035d298c209c7ad0cb5c0a8.png" group-title="UK PREMIER LEAGUE",EPL : CRYSTAL PALACE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235766.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : EVERTON" tvg-logo="http://icons.tw:8080/images/3ee46525bac1bc650926fd85c5cd7a7a.png" group-title="UK PREMIER LEAGUE",EPL : EVERTON
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235767.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : FULHAM" tvg-logo="http://icons.tw:8080/images/d78b3d35b0f86c3e2c97200f1aeb890b.png" group-title="UK PREMIER LEAGUE",EPL : FULHAM
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235768.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : LIVERPOOL" tvg-logo="http://icons.tw:8080/images/1202eeb1b4b7345fd903a41316b10500.png" group-title="UK PREMIER LEAGUE",EPL : LIVERPOOL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : LUTON TOWN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/LutonTownFC2009.png" group-title="UK PREMIER LEAGUE",EPL : LUTON TOWN
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235770.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : MANCHESTER CITY" tvg-logo="http://icons.tw:8080/images/42163ed4b4e8aa65f6a7044274373c62.png" group-title="UK PREMIER LEAGUE",EPL : MANCHESTER CITY
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235772.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : MANCHESTER UTD" tvg-logo="http://icons.tw:8080/images/4ecdc8c82b6cabe865f55b537f741467.png" group-title="UK PREMIER LEAGUE",EPL : MANCHESTER UTD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235773.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : NEWCASTLE UTD" tvg-logo="http://icons.tw:8080/images/329f4862e71ccab6f19503b25e9dc232.png" group-title="UK PREMIER LEAGUE",EPL : NEWCASTLE UTD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : NOTTINGHAM FOREST" tvg-logo="http://icons.tw:8080/images/11ab951227bc7dff82c183abe58f3c80.png" group-title="UK PREMIER LEAGUE",EPL : NOTTINGHAM FOREST
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : SHEFFIELD UNITED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/380px-Sheffield_United_FC_logo.svg.png" group-title="UK PREMIER LEAGUE",EPL : SHEFFIELD UNITED
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235769.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : TOTTENHAM HOTSPUR" tvg-logo="http://icons.tw:8080/images/20a4e6074448039ccf99db6461c3dd26.png" group-title="UK PREMIER LEAGUE",EPL : TOTTENHAM HOTSPUR
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235777.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : WEST HAM" tvg-logo="http://icons.tw:8080/images/9fef3752b717b731dea55bb0932eee73.png" group-title="UK PREMIER LEAGUE",EPL : WEST HAM
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235778.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL : WOLVERHAMPTON WANDERERS" tvg-logo="http://icons.tw:8080/images/15ba4addb5eecf61c6ee6e906be8b7b1.png" group-title="UK PREMIER LEAGUE",EPL : WOLVERHAMPTON WANDERERS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/235779.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : EUROSPORT ONE" tvg-logo="http://icons.tw:8080/images/18843637975f3f840eb803021c6b478b.png" group-title="PREMIUM SPORTS",GB : EUROSPORT ONE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : EUROSPORT TWO" tvg-logo="http://icons.tw:8080/images/63e9ebf73e60080c73ca5a68648959a9.png" group-title="PREMIUM SPORTS",GB : EUROSPORT TWO
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : LA LIGA TV" tvg-logo="http://icons.tw:8080/images/da9c81c849c384a4dba6b0cb6723dfe4.png" group-title="PREMIUM SPORTS",GB : LA LIGA TV
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53916.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : PDC DARTS 01 (EVENT TIME ONLY)" tvg-logo="http://icons.tw:8080/images/b8ca29227d21a1888b5e4db6afa16e26.png" group-title="PREMIUM SPORTS",GB : PDC DARTS 01 (EVENT TIME ONLY)
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204684.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : PDC DARTS 02 (EVENT TIME ONLY)" tvg-logo="http://icons.tw:8080/images/b8ca29227d21a1888b5e4db6afa16e26.png" group-title="PREMIUM SPORTS",GB : PDC DARTS 02 (EVENT TIME ONLY)
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204685.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS ARENA" tvg-logo="http://icons.tw:8080/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS ARENA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53977.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS CRICKET" tvg-logo="http://icons.tw:8080/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS CRICKET
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53978.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS F1" tvg-logo="http://icons.tw:8080/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS F1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53979.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS FOOTBALL" tvg-logo="http://icons.tw:8080/images/67593998f323465bbdf950fe0179275c.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS FOOTBALL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53980.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS GOLF" tvg-logo="http://icons.tw:8080/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS GOLF
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53981.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS MAIN EVENT" tvg-logo="http://icons.tw:8080/images/82bbaa7fad65436f05649cc9b904df80.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS MAIN EVENT
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53982.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS MIX" tvg-logo="http://icons.tw:8080/images/f2d64761853ea926420545a4d34eb361.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS MIX
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53983.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS NEWS" tvg-logo="http://icons.tw:8080/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS NEWS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53984.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS NFL" tvg-logo="http://icons.tw:8080/images/af168af5d45963061b09b1dd5b01473b.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS NFL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53985.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS PREMIER LEAGUE" tvg-logo="http://icons.tw:8080/images/fdeb5e06273c362896f5da6804d86295.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS PREMIER LEAGUE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53986.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SKY SPORTS RACING" tvg-logo="http://icons.tw:8080/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS RACING
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53987.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : SPORTYSTUFF TV" tvg-logo="http://icons.tw:8080/images/afb7346c5be8a0e5a6144cb38a9bbdd4.png" group-title="PREMIUM SPORTS",GB : SPORTYSTUFF TV
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204689.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53851.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 03" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 04" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 05" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 06" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 07" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports7_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 07
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 08" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports8_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 08
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 09" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports9_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 09
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53858.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS 10" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports10_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS 10
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : TNT SPORTS ULTIMATE 4K" tvg-logo="http://145.239.7.84/logos/TNT_Sports_Ultimate.png" group-title="PREMIUM SPORTS",GB : TNT SPORTS ULTIMATE 4K
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/224931.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : VIAPLAY SPORTS 1" tvg-logo="http://icons.tw:8080/images/b0462e40806648b77efd8aebbd4742d8.png" group-title="PREMIUM SPORTS",GB : VIAPLAY SPORTS 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53942.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : VIAPLAY SPORTS 2" tvg-logo="http://icons.tw:8080/images/b0462e40806648b77efd8aebbd4742d8.png" group-title="PREMIUM SPORTS",GB : VIAPLAY SPORTS 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53943.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GB : VIAPLAY XTRA" tvg-logo="http://icons.tw:8080/images/b0462e40806648b77efd8aebbd4742d8.png" group-title="PREMIUM SPORTS",GB : VIAPLAY XTRA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/53900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT ACTION" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT ACTION
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56759.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT BLITZ" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT BLITZ
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT CRICKET" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT CRICKET
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT ESPN" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT ESPN
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/199587.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT ESPN2" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT ESPN2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/199588.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT FOOTBALL" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT FOOTBALL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT GOLF" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT GOLF
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56763.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT GRANDSTAND" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT GRANDSTAND
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56764.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT LA LIGA" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT LA LIGA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT MAXIMO" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT MAXIMO
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56766.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT MOTORSPORT" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT MOTORSPORT
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56767.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 01" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 02" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225457.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 03" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 04" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225459.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 05" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225460.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 06" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225461.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 07" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 07
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225462.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT OTT 08" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT OTT 08
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225463.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT PLAY" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT PLAY
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/199589.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT PREMIER LEAGUE" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT PREMIER LEAGUE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56768.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT PSL" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT PSL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56769.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT RUGBY" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT RUGBY
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56770.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT TENNIS" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT TENNIS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT VARIETY 1" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT VARIETY 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56772.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT VARIETY 2" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT VARIETY 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56773.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT VARIETY 3" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT VARIETY 3
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT VARIETY 4" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT VARIETY 4
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AF SUPERSPORT WWE" tvg-logo="http://icons.tw:8080/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT WWE
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/199590.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ARENA SPORT 01" tvg-logo="http://icons.tw:8080/images/b9f411e0296d5917d52703e5840823bd.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225657.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ARENA SPORT 02" tvg-logo="http://icons.tw:8080/images/b9f411e0296d5917d52703e5840823bd.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225658.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ARENA SPORT 03" tvg-logo="http://icons.tw:8080/images/b9f411e0296d5917d52703e5840823bd.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225659.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ARENA SPORT 04" tvg-logo="http://icons.tw:8080/images/b9f411e0296d5917d52703e5840823bd.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225660.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ARENA SPORT 05" tvg-logo="http://icons.tw:8080/images/b9f411e0296d5917d52703e5840823bd.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225661.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ARENA SPORT 06" tvg-logo="http://icons.tw:8080/images/b9f411e0296d5917d52703e5840823bd.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225662.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ASTRO CRICKET" tvg-logo="http://icons.tw:8080/images/66e9ab2343a83474f605feace78811d2.png" group-title="WORLD SPORTS",SPORTS : ASTRO CRICKET
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/231004.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://icons.tw:8080/images/89070c9ce71361305d08f12e0ed32b6f.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/197514.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://icons.tw:8080/images/89070c9ce71361305d08f12e0ed32b6f.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/197515.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://icons.tw:8080/images/89070c9ce71361305d08f12e0ed32b6f.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 3
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/197516.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://icons.tw:8080/images/89070c9ce71361305d08f12e0ed32b6f.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 4
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/197517.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://icons.tw:8080/images/89070c9ce71361305d08f12e0ed32b6f.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 5
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/197518.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU BEIN SPORTS 1" tvg-logo="http://icons.tw:8080/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/112415.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU BEIN SPORTS 2" tvg-logo="http://icons.tw:8080/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/112416.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU BEIN SPORTS 3" tvg-logo="http://icons.tw:8080/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 3
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/112417.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU ESPN 1" tvg-logo="http://icons.tw:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="WORLD SPORTS",SPORTS : AU ESPN 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/181894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU ESPN 2" tvg-logo="http://icons.tw:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="WORLD SPORTS",SPORTS : AU ESPN 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/181895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 501" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 501
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57493.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 502" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 502
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57494.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 503" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 503
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57495.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 504" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 504
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57496.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 505" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 505
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57497.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 506" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 506
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57498.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : AU FOX SPORTS 507" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 507
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/57499.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BARCA TV" tvg-logo="http://icons.tw:8080/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="WORLD SPORTS",SPORTS : BARCA TV
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/130818.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS (ESP)" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS (ESP)
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56338.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 04" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56346.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 05" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56347.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 06" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56348.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 07" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 07
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56349.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS 08" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 08
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56350.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS ENGLISH 01" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56341.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS ENGLISH 02" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56342.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS ENGLISH 03" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS LA LIGA" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS LA LIGA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56352.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS PREMIUM 01" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56339.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS PREMIUM 02" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56344.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS PREMIUM 03" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56345.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS USA" tvg-logo="http://icons.tw:8080/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS USA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56353.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : BEIN SPORTS XTRA" tvg-logo="http://icons.tw:8080/images/731a3d7df838df35f90407dd812880c6.png" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS XTRA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/58290.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : CO  WINSPORTS 1" tvg-logo="http://icons.tw:8080/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="WORLD SPORTS",SPORTS : CO  WINSPORTS 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/160057.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : CO  WINSPORTS PLUS" tvg-logo="http://icons.tw:8080/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="WORLD SPORTS",SPORTS : CO  WINSPORTS PLUS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/160061.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 01" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204948.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 02" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204949.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 03" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204950.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 04" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204951.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 05" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204952.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 06" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204953.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 07" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 07
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204955.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 08" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 08
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204956.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 09" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 09
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204957.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : DE SKY SPORT BUNDESLIGA 10" tvg-logo="http://icons.tw:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png" group-title="WORLD SPORTS",SPORTS : DE SKY SPORT BUNDESLIGA 10
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204958.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : IN STAR SPORTS 1 HD" tvg-logo="http://icons.tw:8080/images/45ecbec2c6cb588b3287c4ca67d143a6.png" group-title="WORLD SPORTS",SPORTS : IN STAR SPORTS 1 HD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : IN STAR SPORTS SELECT 2 HD" tvg-logo="http://icons.tw:8080/images/45ecbec2c6cb588b3287c4ca67d143a6.png" group-title="WORLD SPORTS",SPORTS : IN STAR SPORTS SELECT 2 HD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56777.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 01" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204939.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 02" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204940.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 03" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204941.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 04" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204942.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 05" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204943.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 06" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204944.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 07" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 07
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204945.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 08" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 08
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204946.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : NZ SKY SPORT 09" tvg-logo="http://icons.tw:8080/images/51a566d7b222f45e0005523dd9b793ae.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 09
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/204947.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 01" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 01
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/158360.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 02" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 02
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/158361.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 03" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 03
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/158362.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 04" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 04
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/158363.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 05" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 05
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/158364.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 06" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 06
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/158365.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 07" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 07
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225653.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 08" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 08
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225654.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 09" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 09
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225655.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS : SPORT KLUB 10" tvg-logo="http://icons.tw:8080/images/a9bfe898d1822b5df75145f461096f44.png" group-title="WORLD SPORTS",SPORTS : SPORT KLUB 10
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/225656.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : ALTV" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : ALTV
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63411.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : ASTV NEWS 1" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : ASTV NEWS 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63418.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : CHANNEL 5" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : CHANNEL 5
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/127881.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : CHANNEL 8" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : CHANNEL 8
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63410.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : MVTV" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : MVTV
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63412.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : NEWS 1" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : NEWS 1
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63414.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : THAI PBS 3" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : THAI PBS 3
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63416.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : THAIRATH TV32" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : THAIRATH TV32
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/127882.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : TVB THAI" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : TVB THAI
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63419.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TH : WHITE CHANNEL" tvg-logo="http://icons.tw:8080/images/Thai.png" group-title="THAI TV",TH : WHITE CHANNEL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/63420.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ALTITUDE SPORTS" tvg-logo="http://icons.tw:8080/images/0d6019fb421104033588f3799671f740.png" group-title="PREMIUM SPORTS",US : ALTITUDE SPORTS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : AT&T SPORTSNET PITTSBURGH" tvg-logo="http://icons.tw:8080/images/65cb21a9aa95c70e09872b26a3aa85f6.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET PITTSBURGH
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : AT&T SPORTSNET ROCKY MOUNTAINS" tvg-logo="http://icons.tw:8080/images/65cb21a9aa95c70e09872b26a3aa85f6.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET ROCKY MOUNTAINS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55053.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : AT&T SPORTSNET SOUTHWEST" tvg-logo="http://icons.tw:8080/images/65cb21a9aa95c70e09872b26a3aa85f6.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET SOUTHWEST
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55054.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : BEIN SPORTS" tvg-logo="http://icons.tw:8080/images/cdac01407657cbfe2817641ae84e7fcd.png" group-title="PREMIUM SPORTS",US : BEIN SPORTS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55055.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : BIG TEN NETWORK" tvg-logo="http://icons.tw:8080/images/0100a733af1bb4f4467fc0f66b826e41.png" group-title="PREMIUM SPORTS",US : BIG TEN NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55056.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : BIG TEN NETWORK Overflow 2" tvg-logo="http://icons.tw:8080/images/0100a733af1bb4f4467fc0f66b826e41.png" group-title="PREMIUM SPORTS",US : BIG TEN NETWORK Overflow 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/227758.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : BIG TEN NETWORK Overflow 3" tvg-logo="http://icons.tw:8080/images/0100a733af1bb4f4467fc0f66b826e41.png" group-title="PREMIUM SPORTS",US : BIG TEN NETWORK Overflow 3
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/227759.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : BIG TEN NETWORK Overflow 4" tvg-logo="http://icons.tw:8080/images/0100a733af1bb4f4467fc0f66b826e41.png" group-title="PREMIUM SPORTS",US : BIG TEN NETWORK Overflow 4
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/227760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : CBS SPORTS HQ" tvg-logo="http://icons.tw:8080/images/b33779c739fa3627ea30ec86e75fd9b5.png" group-title="PREMIUM SPORTS",US : CBS SPORTS HQ
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55057.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : CBS SPORTS NETWORK" tvg-logo="http://icons.tw:8080/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="PREMIUM SPORTS",US : CBS SPORTS NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55058.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ELEVEN SPORTS NETWORK" tvg-logo="http://icons.tw:8080/images/67a39bc9c59a030af89c3ed9f34efe34.png" group-title="PREMIUM SPORTS",US : ELEVEN SPORTS NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55059.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ESPN" tvg-logo="http://icons.tw:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PREMIUM SPORTS",US : ESPN
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55060.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ESPN 2" tvg-logo="http://icons.tw:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PREMIUM SPORTS",US : ESPN 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55061.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ESPN NEWS" tvg-logo="http://icons.tw:8080/images/1e760a1cc204e39d03178e615c9cc0e0.png" group-title="PREMIUM SPORTS",US : ESPN NEWS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55062.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ESPN U" tvg-logo="http://icons.tw:8080/images/500b1f7cdad583f9d07c87427babe201.png" group-title="PREMIUM SPORTS",US : ESPN U
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55063.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : FANTASY SPORTS NETWORK" tvg-logo="http://icons.tw:8080/images/0882a6014040b8c19e3f6e7d42297ece.png" group-title="PREMIUM SPORTS",US : FANTASY SPORTS NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55064.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : FLORACING HD" tvg-logo="http://icons.tw:8080/images/e6ae73c1b818f67dc674f85ff313f2ed.png" group-title="PREMIUM SPORTS",US : FLORACING HD
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/227755.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : GOLF CHANNEL" tvg-logo="http://icons.tw:8080/images/c6cf642b8f1cac1101e23a06aa63600e.png" group-title="PREMIUM SPORTS",US : GOLF CHANNEL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55065.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : LONGHORN NETWORK" tvg-logo="http://icons.tw:8080/images/5c1fd0f31022cbc40af9f785847baaf9.png" group-title="PREMIUM SPORTS",US : LONGHORN NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55066.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MARQUEE SPORTS NETWORK" tvg-logo="http://icons.tw:8080/images/ed0635a905b9419ed3a8445a03443710.png" group-title="PREMIUM SPORTS",US : MARQUEE SPORTS NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55067.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MASN" tvg-logo="http://icons.tw:8080/images/871f04db53349544285b4e2877d734fe.png" group-title="PREMIUM SPORTS",US : MASN
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55068.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MASN 2" tvg-logo="http://icons.tw:8080/images/871f04db53349544285b4e2877d734fe.png" group-title="PREMIUM SPORTS",US : MASN 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55069.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MSG" tvg-logo="http://icons.tw:8080/images/6e2baaf3b97dbeef01c0043275f9a0e7.png" group-title="PREMIUM SPORTS",US : MSG
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55070.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MSG +" tvg-logo="http://icons.tw:8080/images/d9dd7dd44ebcfc4f306ad873759b25e9.png" group-title="PREMIUM SPORTS",US : MSG +
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55071.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MSG +2" tvg-logo="http://icons.tw:8080/images/d9dd7dd44ebcfc4f306ad873759b25e9.png" group-title="PREMIUM SPORTS",US : MSG +2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/178569.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : MSG 2" tvg-logo="http://icons.tw:8080/images/6e2baaf3b97dbeef01c0043275f9a0e7.png" group-title="PREMIUM SPORTS",US : MSG 2
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55072.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS BAY AREA" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS BAY AREA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/54429.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS BAY AREA PLUS" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS BAY AREA PLUS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/169996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS BOSTON" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS BOSTON
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/54430.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS CALIFORNIA" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS CALIFORNIA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/54431.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS CHICAGO" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS CHICAGO
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/54432.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS CHICAGO PLUS" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS CHICAGO PLUS
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/97033.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS PHILADELPHIA" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS PHILADELPHIA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/54434.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : NBC SPORTS WASHINGTON" tvg-logo="http://icons.tw:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS WASHINGTON
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/54435.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 ARIZONA" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 ARIZONA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55074.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 BAY AREA" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 BAY AREA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55075.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 LA" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 LA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55076.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 MOUNTAIN" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 MOUNTAIN
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55077.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 NATIONAL" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 NATIONAL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55078.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 OREGON" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 OREGON
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55079.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC 12 WASHINGTON" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC 12 WASHINGTON
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55080.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : PAC NETWORK" tvg-logo="http://icons.tw:8080/images/67961ea27b6ad9ee7bceab29a2554426.png" group-title="PREMIUM SPORTS",US : PAC NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55081.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : ROOT SPORTS NORTHWEST" tvg-logo="http://icons.tw:8080/images/72a77e5f0eac089a24c1fcf6a20e1d3e.png" group-title="PREMIUM SPORTS",US : ROOT SPORTS NORTHWEST
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55082.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : SEC NETWORK" tvg-logo="http://icons.tw:8080/images/cb742cc79dfb04821665e033b488e297.png" group-title="PREMIUM SPORTS",US : SEC NETWORK
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55083.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : SNY (SPORTSNET NEW YORK)" tvg-logo="http://icons.tw:8080/images/febb4fc203eba16c1169954b75669503.png" group-title="PREMIUM SPORTS",US : SNY (SPORTSNET NEW YORK)
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55084.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : SPECTRUM SPORTSNET" tvg-logo="http://icons.tw:8080/images/cf465fe6c573009856ea4dc8caebb617.png" group-title="PREMIUM SPORTS",US : SPECTRUM SPORTSNET
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55085.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : SPECTRUM SPORTSNET LA" tvg-logo="http://icons.tw:8080/images/503cf7dc5227fa18fdba31a1ccf9f663.png" group-title="PREMIUM SPORTS",US : SPECTRUM SPORTSNET LA
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55086.ts
-#EXTINF:-1 tvg-ID="" tvg-name="US : SPORTSMAN CHANNEL" tvg-logo="http://icons.tw:8080/images/97b0f30e6e508a4dc8a2fd90423feb55.png" group-title="PREMIUM SPORTS",US : SPORTSMAN CHANNEL
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/55087.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Box Nation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="UK ➾ Sports",UK: Box Nation
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/4719
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Edge Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="UK ➾ Sports",UK: Edge Sport
@@ -709,10 +261,54 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/23405
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/158801
 #EXTINF:-1 tvg-ID="" tvg-name="TH: Zabb Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6cec74cc58cd1641d2b2566e768d9191.jfif" group-title="Thailand",TH: Zabb Channel
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/158622
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: 1 Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/864b1c51e5dacc8086d5d6afcf69fcab.png" group-title="South Africa ➾ LifeStyle",ZA: 1 Magic
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297341
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: 1KZN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d4ed9a2feafef8f170ae323fc27e4b54.png" group-title="South Africa",ZA: 1KZN TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/146083
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic Epic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45998731228be50286ee4bb3f6015d2b.png" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic Epic
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38521
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/81b8d8be1f349847314b6790d2d2b541.png" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic Family
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/59275
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic Hausa" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/0abe87c8420a994fbd1c26a94ef96254.jpg" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic Hausa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297346
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic Igbo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/9539216f12772641e28c2dc8ca93cf7c.png" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic Igbo
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290389
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic Showcase" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/cd1f995b414e2110f844b70c885bfdd5.png" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic Showcase
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291193
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic URBAN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/38a1c8eacde498cdbde101ef3cc2a011.png" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic URBAN
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193270
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Africa Magic Yoruba" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0efcae6944fc84d6b81b377240976bfe.png" group-title="South Africa ➾ LifeStyle",ZA: Africa Magic Yoruba
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290390
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: BBC Brit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/de593b7651d0408e34d7e5a724f39086.png" group-title="South Africa ➾ LifeStyle",ZA: BBC Brit
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296269
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: BBC Earth South Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/a91d2beaf5fd0e89ed1dcdef195d9579.png" group-title="South Africa ➾ Nature",ZA: BBC Earth South Africa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193271
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: BBC First" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/16153335467e14f4922281b059c9aa2c.png" group-title="South Africa ➾ LifeStyle",ZA: BBC First
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297356
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: BBC Lifestyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c7696023d51c36b147859ec997db948a.png" group-title="South Africa ➾ LifeStyle",ZA: BBC Lifestyle
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295393
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: BET Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ac2aa3e8bc08e9b194de3c34029ec877.png" group-title="South Africa ➾ LifeStyle",ZA: BET Africa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/46621
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4914d213590c4a814cfb7b1bcfe6d773.png" group-title="South Africa ➾ Kids",ZA: Boomerang
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295391
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Business Day TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04f0ca8f0f1a63218f0be001e19ebe85.png" group-title="South Africa ➾ News",ZA: Business Day TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290393
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/14322a63056b0682864f44bc28a0dad1.png" group-title="South Africa ➾ Movie",ZA: Canal+ Action
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297366
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/736aff3a7b371468c4dd1df88a8b99af.png" group-title="South Africa ➾ Movie",ZA: Canal+ Cinema
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297367
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Elles" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2f4a40e4a57bcf3b63868760f38ef075.png" group-title="South Africa ➾ Movie",ZA: Canal+ Elles
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297369
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6a8462aec273df1fb331fa2134ee8353.png" group-title="South Africa ➾ Movie",ZA: CANAL+ Family
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1894
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Foot" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1ef307d2ff7e452d2d95f3d340717ed9.png" group-title="South Africa ➾ Sports",ZA: Canal+ Foot
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297372
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="South Africa ➾ Kids",ZA: CANAL+ Kids
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297373
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ MotoGP" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce0a68330a0fe567809cf0c405457c68.png" group-title="South Africa ➾ Sports",ZA: Canal+ MotoGP
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297424
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Canal+ Pop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0b7c91279726fdfdd6321722fe0fc113.png" group-title="South Africa ➾ Movie",ZA: Canal+ Pop
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297374
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Premier League
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297425
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1cd470ab600d9ad1f4a648294fd06a41.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 1
@@ -727,14 +323,164 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297380
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297383
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/802c45fdf3f60818630503f4e8d58246.png" group-title="South Africa ➾ Sports",ZA: CANAL+ Sport 360
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297379
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Cape Town TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3da28f7c97768d4c35af584d9a9152d4.png" group-title="South Africa ➾ Music",ZA: Cape Town TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38526
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/399f714a24c104eafd6c38bf31ada101.svg" group-title="South Africa ➾ Kids",ZA: Cartoon Network
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193273
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/692b9b198371ec1d5a614f6102de5315.svg" group-title="South Africa ➾ Kids",ZA: CBeebies
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297385
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CBS Justice" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/13e58d7056d00569b6834ebe8a963bb2.png" group-title="South Africa ➾ Documentary",ZA: CBS Justice
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295390
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Channel O" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2268d9781a5242221a7a7c7d02786fb7.png" group-title="South Africa ➾ Music",ZA: Channel O
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/90215
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: CNBC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5f423ed32cf591baf496b4e8811074c3.png" group-title="South Africa ➾ News",ZA: CNBC
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/174645
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/09c6e01a715e5d1089f53e02b898fe8a.png" group-title="South Africa ➾ Movie",ZA: Comedy Central
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297475
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Crime District" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4dfdb569985c1b55afe2ffcf11cb74d8.png" group-title="South Africa ➾ Documentary",ZA: Crime District
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298637
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Da Vinci Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/a23abaa742d512f83c02493867adef93.png" group-title="South Africa ➾ Kids",ZA: Da Vinci Kids
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297487
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Discovery Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/7b34d6a176a503fc18822e95dd170bdb.png" group-title="South Africa ➾ Documentary",ZA: Discovery Channel
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193274
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Discovery Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d00aca5dbaf4f7a3cc7ef2774894ddcf.png" group-title="South Africa ➾ LifeStyle",ZA: Discovery Family
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193275
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/de30766fbf4ff80bc040e952baf2ca18.svg" group-title="South Africa ➾ Documentary",ZA: Discovery Science
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297394
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/df0df5e15635e3e475bd858e385ce2c3.png" group-title="South Africa ➾ Kids",ZA: Disney Channel
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193277
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/715458d589da4093a61b02ed4d3dc36a.png" group-title="South Africa ➾ Kids",ZA: Disney Junior
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295392
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Dumisa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10a1fbddf79aa90625cf77b75e978d53.png" group-title="South Africa",ZA: Dumisa TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38520
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: E Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f394e8d339b4431b060ff682802fcf2b.png" group-title="South Africa ➾ Movie",ZA: E Movies
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/46686
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: E Movies Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/baecdd19768be68de46003f579e87573.png" group-title="South Africa ➾ Movie",ZA: E Movies Extra
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38525
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/390b6422355132f25230123be2c4d728.png" group-title="South Africa ➾ LifeStyle",ZA: E!
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295388
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: eNCA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/60005a9ed438a827195cce5aea4c2cd2.png" group-title="South Africa",ZA: eNCA
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197817
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: ESPN 2 Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/63d7ebf810808d4d7aa14d9ef29a37ee.png" group-title="South Africa ➾ Sports",ZA: ESPN 2 Africa
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295317
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Evasion" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4ab2046afaf1b9950451c56abe625411.png" group-title="South Africa ➾ LifeStyle",ZA: Evasion
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297399
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Gau TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/71bd02b543a587d27ad4159d164079a9.png" group-title="South Africa",ZA: Gau TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/59282
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a1da22a9dc27c0a62324853b85ac0660.png" group-title="South Africa ➾ LifeStyle",ZA: HGTV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38543
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Hilaal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8a59b5fdd4876ffe36001ac9e337afe0.png" group-title="South Africa ➾ LifeStyle",ZA: Hilaal TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297409
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1b39b0ee042687b09eda6f53a48fed67.png" group-title="South Africa ➾ Documentary",ZA: History
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193280
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Honey" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8ee2f7eecb4f69d284005b12d5158c62.png" group-title="South Africa",ZA: Honey
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297489
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: Ignition" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f179d158bdf42656fdd712466381da3a.png" group-title="South Africa ➾ Sports",ZA: Ignition
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38552
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Impact TV Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4c9cdb10f96fbf37b9806fd4fc25a423.png" group-title="South Africa",ZA: Impact TV Network
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/294556
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7153a0981e98a4fd0d6a3a586679fd63.png" group-title="South Africa ➾ Documentary",ZA: Investigation Discovery
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193281
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: ITV Networks" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6a298e11ad24c09cf16eadc23ac24618.png" group-title="South Africa",ZA: ITV Networks
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38530
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: KIX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c7ff8ee44975005ce1d1ce2081663c42.png" group-title="South Africa ➾ Movie",ZA: KIX
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297485
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Kruiskyk TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/93672f77ca1f3dafe3c320e7073b7591.png" group-title="South Africa",ZA: Kruiskyk TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296548
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: KykNet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c9ddf9aa48b8aa1d24b496389d32fd06.png" group-title="South Africa ➾ LifeStyle",ZA: KykNet
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/278762
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: KykNet & Kie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/153b89f4184a6f7b4fc5bd13a4b4935c.png" group-title="South Africa ➾ LifeStyle",ZA: KykNet & Kie
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/278763
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: KykNet Nou" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39763fbde596fc1a3227c2c0ee927cb9.png" group-title="South Africa ➾ Music",ZA: KykNet Nou
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/90214
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Lol" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/456ac74a6c1c3dae12b48ba97d670fe3.png" group-title="South Africa",ZA: Lol
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298438
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Love Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66d1f6bc433f9c3939572349bfa0460d.png" group-title="South Africa ➾ Nature",ZA: Love Nature
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297491
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: LoveWorld Sat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1d2f45c4473337cbcf587093cad195d5.png" group-title="South Africa ➾ LifeStyle",ZA: LoveWorld Sat
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/46623
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Ludikids" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/38f24c7f15d35130d672ffe072404e73.png" group-title="South Africa",ZA: Ludikids
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297414
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e16799d18cc19753f18b10d745e4063c.png" group-title="South Africa ➾ LifeStyle",ZA: M-Net
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197788
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net City" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f23d158ea116e5bbecda7c58ddea13c7.png" group-title="South Africa ➾ Movie",ZA: M-Net City
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38532
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net Movies 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/739bdaf1d13b2c9beb5faf1ce29c5173.jpg" group-title="South Africa ➾ Movie",ZA: M-Net Movies 1
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38545
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net Movies 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/174502bcec0def9e77692f2fd9fcd93a.png" group-title="South Africa ➾ Movie",ZA: M-Net Movies 2
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/146168
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="South Africa ➾ Movie",ZA: M-Net Movies 3
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38536
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net Movies 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c68b9ceec790a1422737c2e0fab9587e.png" group-title="South Africa ➾ Movie",ZA: M-Net Movies 4
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/278329
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: M-Net Terrestrial" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d656e88a6519d6d6769670a73c868374.png" group-title="South Africa ➾ Movie",ZA: M-Net Terrestrial
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38547
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Maisha Magic Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f87f095cf73d98d492e927503249468a.png" group-title="South Africa ➾ Movie",ZA: Maisha Magic Movies
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297415
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Me" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/b3a8f65e12dcc5888d1da2295dc2155f.png" group-title="South Africa ➾ LifeStyle",ZA: Me
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297484
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Mindset Learn" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f5f2badf1c2451368bd4cf53694d8b32.png" group-title="South Africa",ZA: Mindset Learn
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/146172
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Moja Love" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0a4f1d7790bc5c4ba62f9ad7f8da6897.png" group-title="South Africa ➾ Movie",ZA: Moja Love
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38542
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Mpuma Kapa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/a8d3d997a496674151d0ec037410abd0.png" group-title="South Africa",ZA: Mpuma Kapa TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297422
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: MTV Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0e7629dfbf60cfcaa6fcaa24953715b5.png" group-title="South Africa ➾ Music",ZA: MTV Africa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/59278
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Mzansi Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/bb14193d9cdc32caeeb0c1cf4836f249.png" group-title="South Africa ➾ LifeStyle",ZA: Mzansi Bioskop
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/90219
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Mzansi Magic Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b3159a422b648571b9ead5cf9c3c3ba1.png" group-title="South Africa ➾ Music",ZA: Mzansi Magic Music
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38544
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Mzansi Wethu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1165e1d2f7bffd4614461c411d5ccdaa.png" group-title="South Africa ➾ Movie",ZA: Mzansi Wethu
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/90222
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/02bb9fb2d10025cf97331d08788421a5.png" group-title="South Africa ➾ Documentary",ZA: NAT GEO
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193285
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/74547c99cef10aaa623adf2924688524.png" group-title="South Africa ➾ Nature",ZA: NAT GEO Wild
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193286
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/da22c2fc0f6ca42fa844ffeabb72e41d.jpg" group-title="South Africa ➾ Sports",ZA: NBA TV
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297426
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Newzroom Afrika" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3d3ade62833d125f99b964a7d811769.png" group-title="South Africa ➾ News",ZA: Newzroom Afrika
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38551
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/2f76a90aaec1773d8f69fbf26cd1493e.jpg" group-title="South Africa ➾ Kids",ZA: Nick Junior
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290391
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/422abe7bdc3b2ee19ff91b57cea2d7f9.png" group-title="South Africa ➾ Kids",ZA: nickelodeon
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38548
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: NickToons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/8b546d0061e50cfe6196f4cf5035abcf.png" group-title="South Africa ➾ Kids",ZA: NickToons
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281534
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Novelas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8c3c213082ec761e2e21323e16e4f278.png" group-title="South Africa",ZA: Novelas TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297434
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: One Gospel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ddeb8c2fc5e0338f2e82e9e845697f3a.jpg" group-title="South Africa ➾ Music",ZA: One Gospel
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281532
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Parliamentary Service" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4f72d5f0f5b09149bae9b05c37ff5bed.png" group-title="South Africa ➾ News",ZA: Parliamentary Service
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/146965
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: PBS Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/dfa4601bfa53c1a40aa3e4092005fb66.svg" group-title="South Africa ➾ Kids",ZA: PBS Kids
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297440
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Pearl Magic Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/71cb21b8da13851474d3d54f69ce8721.png" group-title="South Africa",ZA: Pearl Magic Prime
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298105
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Peoples Weather" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/58756663657963edca58b1d6179f6452.png" group-title="South Africa ➾ Nature",ZA: Peoples Weather
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38550
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Redemption TV Ministry" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/29c72c36c1d82f1100c0b34421dcd249.png" group-title="South Africa",ZA: Redemption TV Ministry
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/166038
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SABC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/603d9c1a0cbd2a9d1fba97aacfc583f2.png" group-title="South Africa ➾ LifeStyle",ZA: SABC 1
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38564
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SABC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/17d448043513f7e6615ba7f99b3b8527.jpg" group-title="South Africa ➾ LifeStyle",ZA: SABC 2
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38556
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SABC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4885ae1057a1c8e5498e39d67f317d61.jpg" group-title="South Africa ➾ LifeStyle",ZA: SABC 3
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281528
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: SABC News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/af31ff9d97a5070bd60752213eb00465.png" group-title="South Africa ➾ News",ZA: SABC News
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38566
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: SABC Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f5c15b702bf28f519a12bd0a9314bb8f.png" group-title="South Africa ➾ Sports",ZA: SABC Sport
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38555
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: sky News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/cd2760d186ee4d7b2909572f8e19543d.svg" group-title="South Africa ➾ News",ZA: sky News
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297478
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Soweto TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3f4bc24b140944213bef28bb24c77f0a.png" group-title="South Africa ➾ Music",ZA: Soweto TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38562
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Spice" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6363ce02f02bc2a89908f5e780f62a7d.png" group-title="South Africa ➾ LifeStyle",ZA: Spice
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193288
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Star Life" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0c416f13764f1723025abb077c129d1e.png" group-title="South Africa",ZA: Star Life
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297482
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Studio Universal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6890d7c5ffbe00386c6ecbbad20eecda.png" group-title="South Africa ➾ Movie",ZA: Studio Universal
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193290
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="South Africa ➾ Sports",ZA: SuperSport Action
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/194354
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Blitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="South Africa ➾ Sports",ZA: SuperSport Blitz
@@ -769,6 +515,38 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/11634
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/11635
 #EXTINF:-1 tvg-ID="" tvg-name="ZA: SuperSport Variety 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="South Africa ➾ Sports",ZA: SuperSport Variety 4
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/11636
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TLC Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/39086fba878a42fbd8f291868c47a704.jpg" group-title="South Africa ➾ LifeStyle",ZA: TLC Africa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290392
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TNT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/672bf477c17348c423dfaa40a245c12e.png" group-title="South Africa ➾ Movie",ZA: TNT
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281527
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TRACE Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2e6e3eff4ccf58273136f35782f634a9.png" group-title="South Africa ➾ Music",ZA: TRACE Africa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193508
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TRACE Gospel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0f6375025e11cd0813c7b81c0ea4e4be.png" group-title="South Africa ➾ Music",ZA: TRACE Gospel
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193509
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TRACE Kitoko" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/cad23ea423fc400b2c9758aae363cbbc.png" group-title="South Africa ➾ Music",ZA: TRACE Kitoko
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297462
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TRACE Mziki" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/ee9292ed973c66fe739ffceceb6b426d.png" group-title="South Africa ➾ Music",ZA: TRACE Mziki
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297463
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Trace Teranga" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/092dfc6a4f232411c1296aae9f266705.png" group-title="South Africa ➾ Music",ZA: Trace Teranga
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298114
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TRACE Toca" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/63ec951aff9b941fc17c1180a0252499.png" group-title="South Africa ➾ Music",ZA: TRACE Toca
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297464
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TRACE URBAN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png" group-title="South Africa ➾ Music",ZA: TRACE URBAN
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193510
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Travel Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/86659576797b8e521b2cc0857324fa7b.png" group-title="South Africa ➾ Nature",ZA: Travel Channel
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/146968
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Tshwane TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c22548c174e49e8f231b0bdc91a59ec6.png" group-title="South Africa ➾ Music",ZA: Tshwane TV
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38570
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: TV5 Monde Afrique" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8c0a64616dd61d5be751928ca6ea4251.svg" group-title="South Africa ➾ News",ZA: TV5 Monde Afrique
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/38577
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Universal TV Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/236302e46bbee60446d316e34a451e44.png" group-title="South Africa ➾ Movie",ZA: Universal TV Africa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/12007
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Via" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2e11dbf891701a9eac9cfec2f8d9fa62.png" group-title="South Africa ➾ LifeStyle",ZA: Via
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/90216
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: Wataaa" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b28b85a072310a2d3b1e6d79b60cfa50.png" group-title="South Africa",ZA: Wataaa
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297473
+#EXTINF:-1 tvg-ID="" tvg-name="ZA: WildEarth" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/597329ca6d46a2cd7db4e897d0b75e40.png" group-title="South Africa ➾ Nature",ZA: WildEarth
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286729
 #EXTINF:-1 tvg-ID="" tvg-name="QA: Al Kass Five" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8697f68b3c2bb7262c3e042b8e61355a.png" group-title="Qatar ➾ Sports",QA: Al Kass Five
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/11901
 #EXTINF:-1 tvg-ID="" tvg-name="QA: Al Kass Four" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b2665cf50ba59a4078dae3d96975e6ae.png" group-title="Qatar ➾ Sports",QA: Al Kass Four
