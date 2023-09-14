@@ -480,8 +480,6 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdpV38ckfCuLmriAoR5Mtw4/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdIUtqlFTz7EOOf0r8GWRwQ/ts
 #EXTINF:-1 xui-id="605" tvg-id="" tvg-name="EPL 7" tvg-logo="https://www.dropbox.com/scl/fi/nc1prud3qiiyujuhcwjbv/20230815_182237_0000.jpg?rlkey=3qtfabuu2sez2sja4wtwa09c6&dl=1" group-title="Football",EPL 7
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJa7ZRqGocwx04K-3BXXfPJM/ts
-#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="Test" tvg-logo="" group-title="test",Test
-https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWn6ZbV6pAC_zgekeP1tydU/ts
 #EXTINF:-1 xui-id="646" tvg-id="" tvg-name="Bollywood HD" tvg-logo="" group-title="Hindi",Bollywood HD
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXq5cBTVUPp5mMcLm2WxZjc/ts
 #EXTINF:-1 xui-id="650" tvg-id="" tvg-name="TPF HD 3 Test" tvg-logo="https://bananatv.org:443/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-UYcGpNNIzUxxH4GN5vOEybbaa-Dnuwrrl9bP8cDo0A_DP56TcbL5qZgHeS0t3djBY-roPrAqxSixj5DENkMij.png" group-title="Thai & Truevisions",TPF HD 3 Test
@@ -566,6 +564,10 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWQZoQ4HXKAkVOkR1xxaezs/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJYt_K0a1Ioc9K8cMd_jRVqE/ts
 #EXTINF:-1 xui-id="1082" tvg-id="" tvg-name="Kuwait TV 1" tvg-logo="" group-title="Arabic",Kuwait TV 1
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJfvwvrugZBzvx8yRRaHRNQc/ts
+#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="Vsport UHD" tvg-logo="" group-title="Football",Vsport UHD
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWn6ZbV6pAC_zgekeP1tydU/ts
+#EXTINF:-1 xui-id="1600" tvg-id="" tvg-name="TNT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUMiMF0KHnqVrpm-94gzy4pcL8x0OvTo3EGyWUVKCjQ&s" group-title="test",TNT Sport 1
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJYVhwb0B8TYuFRwyZT3v_bU/ts
 #EXTINF:-1 xui-id="1083" tvg-id="" tvg-name="Kuwait TV 2" tvg-logo="" group-title="Arabic",Kuwait TV 2
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZBfdqHGRKyLYXouOQYea9M/ts
 #EXTINF:-1 xui-id="1084" tvg-id="" tvg-name="Kuwait Sport" tvg-logo="" group-title="Arabic",Kuwait Sport
@@ -668,8 +670,6 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJRjVRTaFLlqfaIdN5ksBrb8/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJTJ37DGe-Ru0vAJdaUYcu9w/ts
 #EXTINF:-1 xui-id="1599" tvg-id="" tvg-name="Hunan TV /" tvg-logo="https://bananatv.org:443/images/IoXwc7ZTMao3gGYFp-XaG4w1Izf9PG71Cf8SrwUqjHBE31Q-yTt0EhudjLbiKeW9.jpg" group-title="China",Hunan TV /
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZAnTW1LWtYS1-x6TYF4v8Q/ts
-#EXTINF:-1 xui-id="1600" tvg-id="" tvg-name="TNT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUMiMF0KHnqVrpm-94gzy4pcL8x0OvTo3EGyWUVKCjQ&s" group-title="test",TNT Sport 1
-https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJYVhwb0B8TYuFRwyZT3v_bU/ts
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
 #EXTINF:-1 xui-id="1" tvg-name="The Mummy (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
@@ -2724,9 +2724,33 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6w1A3JtOBRMgTxETyEMPH4h_ceKjxZ
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6y65KWvTFoyQPa2qm7H6Lqr_ZRMKPUH5RMLT1Ax5sZjm#.mp4
 #EXTINF:-1 xui-id="1582" tvg-name="Barfi! (2012)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF1tpDRk6XAEgkeTplk_PfYq86ELeiYkbgSbNZzoHUjg.jpg" group-title="Bollywood",Barfi! (2012)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_-viinfAYV8O5U9Dkj9aovdaBsWQJhCLNq110FZiSJ9#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF1tpDRk6XAEgkeTplk_PfYq86ELeiYkbgSbNZzoHUjg.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1601" tvg-name="Sisu (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCw_Ah4bsaDqaRjp1fLZ1eKf76sQJ-QXAPlMx2YF0aas.jpg" group-title="Action 2023",Sisu (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65tQDBlHyoQ70MVuDX6JARd4-MIdrsP5GqPlBIxWivln#.mp4
+#EXTINF:-1 xui-id="1602" tvg-name="The Mother (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb1TLpZs9w1BzvE78aQXEDKlDyN5CYIkgi2O2jiiK-yQ.jpg" group-title="Action 2023",The Mother (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68hLQNfqVesv0HLx1OXeLUfkgbNc3XOmbaBgEenCau1X#.mp4
+#EXTINF:-1 xui-id="1603" tvg-name="Carry on Jatta 3 (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQANjuFp9BT1vIfHY610qdOvIj_MYnKB1Yj77x9MCl4o.jpg" group-title="Bollywood 2023",Carry on Jatta 3 (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61_zSPOWR38ZZd5Yr3zdZE3J47v_KI75Hp2YW4x0hK9m#.mp4
+#EXTINF:-1 xui-id="1604" tvg-name="One Cut Two Cut (2022)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbWGHIV2KQHw790Od4VXM3cIqLJyMv_wH1omQC3Z1vfs.jpg" group-title="Bollywood",One Cut Two Cut (2022)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xCp0MwDlQu2RPVjq6LK1ZsqENm-MG12G35E35D923NW#.mp4
+#EXTINF:-1 xui-id="1605" tvg-name="Those Who Wish Me Dead (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5bw1ch_jjB4hAnkU3YeC617wi45LoPbG5gi99cefqwg.jpg" group-title="Action",Those Who Wish Me Dead (2021)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63NRIaXN0kT87HtMZZ2-_IiyMxKiyMrrqDdpqgsRozeh#.mp4
+#EXTINF:-1 xui-id="1606" tvg-name="The Legend of Tarzan (2016)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYjvXEx_eSdZJ2YLdqASrfKIto0qYhy_CEteCv2a5jhg.jpg" group-title="Action",The Legend of Tarzan (2016)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E60Rszos2uOgRcs3-NxR8tqDxVUgBXXHrlOYbgBeOeN8t#.mp4
+#EXTINF:-1 xui-id="1607" tvg-name="The Specialist (1994)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzonbmrvD2KV7bdS6x2GLoLhqIctzdsRqTXaCXgCZF0k.jpg" group-title="Action",The Specialist (1994)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xeqNLch_OY9dTS-ZGFofUViw95w_Dz00P9TUW236oV1#.mp4
+#EXTINF:-1 xui-id="1608" tvg-name="Jawan (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4Gk75LpVNenCsuVYr8uBhvUMaR1jcfDtNWP44L5AfhE.jpg" group-title="Bollywood 2023",Jawan (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E644JvfLSkp00ExRzNbhANCPoSC-FDf2Vkl9v5zKj1ucX#.mp4
+#EXTINF:-1 xui-id="1609" tvg-name="Archana 31 Not Out (2022)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWTEQVa09XRzutRrQezFBBWmkobF9UGUXRmrpgR8D_Ko.jpg" group-title="Bollywood",Archana 31 Not Out (2022)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66L8XSqqY5KI4sfFJadnBHX3KhKmyTTAwXr5nJAAFdQE#.mp4
+#EXTINF:-1 xui-id="1610" tvg-name="Darkland: The Return (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-vkhKM1Yha2nA7ubydtfGm9N43p5KCXH-mQgKAvOLJc.jpg" group-title="Action 2023",Darkland: The Return (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68HydM2kDCdHh1uK-Jh98C_Q0oguM45CfkV9szqDTlLO#.mp4
+#EXTINF:-1 xui-id="1611" tvg-name="A Day and a Half (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzOGvwMN8MWjAfjaA-O-8cVVIbfz5bdrt1TJjJaDQuIQ.jpg" group-title="Action 2023",A Day and a Half (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64LSoodq22RJw86OWrhg4RrdL2ik8aQWAHN4ApvXzRGT#.mp4
+#EXTINF:-1 xui-id="1612" tvg-name="Detective Dee And Ghost Soldier Borrowed ( 2023 )" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNsqJYoQHXLDpHD6ePBDAsSOLn_Fiqg3mx07F5M30Gg6HtA.jpg" group-title="Asian",Detective Dee And Ghost Soldier Borrowed ( 2023 )
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6-gQ8Dp1CKIuVvHauyEI4fpB37tO0I-F8vooHIXmaeId#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNsqJYoQHXLDpHD6ePBDAsSOLn_Fiqg3mx07F5M30Gg6HtA.jpg" group-title="Thailand Drama",The Betrayal S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF1tpDRk6XAEgkeTplk_PfYq86ELeiYkbgSbNZzoHUjg.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNsqJYoQHXLDpHD6ePBDAsSOLn_Fiqg3mx07F5M30Gg6HtA.jpg" group-title="Thailand Drama",The Betrayal S01E02
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
@@ -3002,3 +3026,25 @@ https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nwxdM9uoaoLFxLJP7wmPzNRfaLpW4h
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n_kINUY_1p5Y2DS8aOD7MEvj99EdBJ4GPPTbjfOpLpOq#.mp4
 #EXTINF:-1 xui-id="1520" tvg-name="Mathagam S01E05" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9LEn5CKLMai0Gd6CULDI0VJw9MBfv1Iuo1BPLp7G0JY.jpg" group-title="Netflix Bollywood",Mathagam S01E05
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n6dKqyH_KaUj8mF9o3gtlINlA6tiM-Vwm_IjVaj0ix6G#.mp4
+#EXTINF:-1 xui-id="1617" tvg-name="The Jengaburu Curse S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsSkQibber9vhVgZVJKZ3o54_j2XwIigUwnyQXTf3SuA.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E01
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nyjwiW9tk3WXs7-eAxViSw4miXGSuvneEDLuiuDItAC7#.mp4
+#EXTINF:-1 xui-id="1618" tvg-name="The Jengaburu Curse S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLC6-GJDMp6lQDtX8KiBt_1Apb0uDQx4TKRc7KExUdDzY.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E02
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n7bhxyfUdYz5paKUMzJ59BmITyhJk-VeKvI3Ek2Pwx9T#.mp4
+#EXTINF:-1 xui-id="1619" tvg-name="The Jengaburu Curse S01E03" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNlwoacG0XasskaJFWlnHMQGjrU1cmO4_FlUUER0aEkA.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E03
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n9VORK523xbJ4ks4GC7sBq1FJmdVFBVs54QSqnhv5Mnp#.mp4
+#EXTINF:-1 xui-id="1620" tvg-name="The Jengaburu Curse S01E04" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwwWKIMsiiZsGuJpbnsou9OhW0uesHgnH7QkKWcWs_q4.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E04
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n6jaIQ2_Yj86GoL-R8DZYigD1LT27dyQBLij9ciZ_dNW#.mp4
+#EXTINF:-1 xui-id="1621" tvg-name="The Jengaburu Curse S01E05" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLznvqZazT9TxJnFtzDy8L7uZP-f8G6qFIPzwSb80NIks.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E05
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n7S8vZ9g5oHg2YvR1PADRl7bJlIGqC8O-zQExPfwA5bY#.mp4
+#EXTINF:-1 xui-id="1622" tvg-name="The Jengaburu Curse S01E06" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDWxuZEChMjKo8W6q6_-LVDGc56bhOKC_Spc4bS8f9z8.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E06
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxwOAp9jJBRKXY2c8ql_ValfOMPC8Un63is_P_Y9Hd_G#.mp4
+#EXTINF:-1 xui-id="1623" tvg-name="The Jengaburu Curse S01E07" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0gCrv3_SD_dX7C1F-gfyyHnCDqwawrkL1B8fwPlEAbk.jpg" group-title="Netflix Bollywood",The Jengaburu Curse S01E07
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n7RGqNK20G6o8JKuP6KVI8NcHRl4LAZiMKoX1piMMUyu#.mp4
+#EXTINF:-1 xui-id="1613" tvg-name="Aakhri Sach S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLn16BxZpDOh5Q-JtayMpr2--WAROE87Am611UvQ3yK3g.jpg" group-title="Netflix Bollywood",Aakhri Sach S01E01
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n5eNZfl3bsGB8119-TzudD0AGzpZpOk5WWlZbyKI6-9w#.mp4
+#EXTINF:-1 xui-id="1614" tvg-name="Aakhri Sach S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-oW5lxMsOIxGc_PZNZ54R-AVH_300jE6uTNPyHDJJks.jpg" group-title="Netflix Bollywood",Aakhri Sach S01E02
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nwkQW9Ll4IIUBSKpQhHfbhTLDDYN-H3mA8Nu2by7ag4W#.mp4
+#EXTINF:-1 xui-id="1615" tvg-name="Aakhri Sach S01E03" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Aakhri Sach S01E03
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3ny4QQdzV4cGAdSkyTTYdMCrf8WXS7D3bKxYIwl-6X6YH#.mp4
+#EXTINF:-1 xui-id="1616" tvg-name="Aakhri Sach S01E04" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Aakhri Sach S01E04
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2N55C6f6P0bve8TiG-7Bxsa4mM_I9luUCN3irniJTeB#.mp4
