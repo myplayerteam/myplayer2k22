@@ -482,8 +482,12 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdIUtqlFTz7EOOf0r8GWRwQ/ts
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJa7ZRqGocwx04K-3BXXfPJM/ts
 #EXTINF:-1 xui-id="646" tvg-id="" tvg-name="Bollywood HD" tvg-logo="" group-title="Hindi",Bollywood HD
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXq5cBTVUPp5mMcLm2WxZjc/ts
-#EXTINF:-1 xui-id="650" tvg-id="" tvg-name="TPF HD 3 Test" tvg-logo="https://bananatv.org:443/images/mpzMiDh1y0zfWomB6mQTCyJVuxeASVzjkx5no_b1ET-UYcGpNNIzUxxH4GN5vOEybbaa-Dnuwrrl9bP8cDo0A_DP56TcbL5qZgHeS0t3djBY-roPrAqxSixj5DENkMij.png" group-title="Thai & Truevisions",TPF HD 3 Test
+#EXTINF:-1 xui-id="650" tvg-id="" tvg-name="Play sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Play_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20180907182957" group-title="Sport",Play sports 1
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWXcWmpmRusZcGRYJ1HpTlY/ts
+#EXTINF:-1 xui-id="649" tvg-id="" tvg-name="Play Sports 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000&quality=70" group-title="Sport",Play Sports 2
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXnd-6aTpvsprii98VJxht4/ts
+#EXTINF:-1 xui-id="648" tvg-id="" tvg-name="Play Sports 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000&quality=70" group-title="Sport",Play Sports 3
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdGDDE6g57nGKv7RQwqSOeY/ts
 #EXTINF:-1 xui-id="162" tvg-id="" tvg-name="Arenasport 1 Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwjzXuyugyspc0B29lQreX9aMJXnDLaiAFsHIFznKDQ&s" group-title="Football",Arenasport 1 Premium
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJdKkOS1gQvWoSO0BoB4XVsY/ts
 #EXTINF:-1 xui-id="586" tvg-id="" tvg-name="Arena Sport 2 Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr5FWvUtri3yF6gY09ZEhSwo-3TPKAGxvSDguWmE8An3I3GPk50H4MgXbzauyq231w7g&usqp=CAU" group-title="Football",Arena Sport 2 Premium
@@ -2748,9 +2752,61 @@ https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68HydM2kDCdHh1uK-Jh98C_Q0oguM4
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64LSoodq22RJw86OWrhg4RrdL2ik8aQWAHN4ApvXzRGT#.mp4
 #EXTINF:-1 xui-id="1612" tvg-name="Detective Dee And Ghost Soldier Borrowed ( 2023 )" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNsqJYoQHXLDpHD6ePBDAsSOLn_Fiqg3mx07F5M30Gg6HtA.jpg" group-title="Asian",Detective Dee And Ghost Soldier Borrowed ( 2023 )
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6-gQ8Dp1CKIuVvHauyEI4fpB37tO0I-F8vooHIXmaeId#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNsqJYoQHXLDpHD6ePBDAsSOLn_Fiqg3mx07F5M30Gg6HtA.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="1658" tvg-name="Quarantine (2008)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_jcWPbqXcRLsXcPxq5lu9T0ylcSX855mbsEJ-kskzDU.jpg" group-title="Action",Quarantine (2008)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61Th6C6c2MQkcD8U8PjGFjHAXWFIAy5k3tKU6aAi-AuT#.mp4
+#EXTINF:-1 xui-id="1659" tvg-name="In the line of fire" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNspBz9Au25L6Akv2wXUP71J7N0oBmV5KkoKSYlOgU_A-Bg.jpg" group-title="Action",In the line of fire
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6wkoeMwDb4fcEoxz2NgVgrtVvLWTNh_AijVYdyNUDWFV#.mp4
+#EXTINF:-1 xui-id="1660" tvg-name="Francesca Quinn, PI (2022)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfS9vfXMxvcMvlsFr8iKdgmh6v26ePhk-PTxS9Cx7XhQ.jpg" group-title="Action",Francesca Quinn, PI (2022)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66D9wvAcbRhjiKC_-dihAEXCym9gWE8H2YL6CDnOV4BY#.mp4
+#EXTINF:-1 xui-id="1662" tvg-name="Sinkhole Hunting Dragon (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLogG0VMfnQwIiacH2qHHwTppi8y9dVu_Ajw781gQVYoQ.jpg" group-title="Asian",Sinkhole Hunting Dragon (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6wY_EXV9gXF771xtiR2LUNv9-p1nF4qvTiLFHvSr7L6c#.mp4
+#EXTINF:-1 xui-id="1663" tvg-name="Het Geheugenspel (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyigX5Ktc1_Etx5sIw_0xFztFj257b3OJF6wtBDuV6qg.jpg" group-title="Action 2023",Het Geheugenspel (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E61Fz7MfbzPd53lsQBGG01JOBvce1Jj3xlcIO8Mmavhzg#.mp4
+#EXTINF:-1 xui-id="1664" tvg-name="The Killer (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQCS0QNfiI4xCW-0GUk6V3gXsHIY9ghxpqO3j5VSANaw.jpg" group-title="Action",The Killer (2017)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E69BXf0wQbzFtuXOQQoZSmhgxedgW0a9tZFHiixiemmE8#.mp4
+#EXTINF:-1 xui-id="1665" tvg-name="Fugitive Pieces (2007)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXCg74K9Egk5vMFi51LWdnbZ-1ZhZSVB-dgbGjI-SuKs.jpg" group-title="Action",Fugitive Pieces (2007)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6_GoQLHqsh5NS4xV6cuv9FVUF6zJuMdTtY8tLSsuEyPq#.mp4
+#EXTINF:-1 xui-id="1666" tvg-name="Hosa Dinachari (2022)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnNLYZY-ERIIaj5QnzdWZKW-omWK7DU78YY3rqfAfpMM.jpg" group-title="Bollywood",Hosa Dinachari (2022)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65G1IGzn0bZNl64hWmweOnOYTJVmVf5V7TwEHTgbO6xD#.mp4
+#EXTINF:-1 xui-id="1669" tvg-name="Erotic Tutoring 2 (2019)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLd5uHw3URWMtJEtXbA48NR4BkWPBC0ZdIgHdUsik3JHc.jpg" group-title="Adult 21+",Erotic Tutoring 2 (2019)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E62AcKsaQqYeSizh6ckfNWPZnvLx4tx8RfllXksxiZuJ2#.mp4
+#EXTINF:-1 xui-id="1671" tvg-name="Music School (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL15FZb5tPYyr02-ktTEaizA9sImf2FiwzJttu7s1fDgE.jpg" group-title="Bollywood 2023",Music School (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6zDcQex8mYbSY9j0WhiqWQqyMejhwjj2oH8XuLDCNMkI#.mp4
+#EXTINF:-1 xui-id="1684" tvg-name="The Elderly (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTmtNhxcxYraZPnXSEmx9GcXigYFADlfW4ujtJKBNM14.jpg" group-title="Action 2023",The Elderly (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E60VzwmGx_GKlqzBTfwY7_TKbEIzShBKHkRDD08Rgr1dW#.mp4
+#EXTINF:-1 xui-id="1685" tvg-name="Coffee Wars (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNRrpf-zDNni6fo53pfPBAOBgPAcn70SL0hyq7iwtLRw.jpg" group-title="Action 2023",Coffee Wars (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E613HTcSzM889oNlJd7MACxqw5zwkvlf3APbcW6A_TXTv#.mp4
+#EXTINF:-1 xui-id="1686" tvg-name="Gammathu (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLx8oKfbz2rtNsJA6FkGKDtTARnmy-VyXO05lSxP9Oe3M.jpg" group-title="Bollywood 2023",Gammathu (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6xsSufcE1cYUd96r1Rc69CfpazCUTWsS693lUsWE0dhq#.mp4
+#EXTINF:-1 xui-id="1687" tvg-name="Bone Cold (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPCNsSHGhj2L3pmGSCxcvR2Kyi_GTybBiOsXj4ogYTcQ.jpg" group-title="Action 2023",Bone Cold (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6ys5ZGPzQu43FjQqf0ByrDsBhbX63fOBzBl-c_k81hRH#.mp4
+#EXTINF:-1 xui-id="1688" tvg-name="Ramabanam (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLIv5EBs5I6ieturYqMn6Xive_bGV5w9TvLequ11JOp1U.jpg" group-title="Bollywood 2023",Ramabanam (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E643811PUzuz2hyVtAQWiItFsHp7pTWGHnZK64t-MV2gw#.mp4
+#EXTINF:-1 xui-id="1690" tvg-name="Before the Devil Knows You're Dead (2007)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKRNuREzuPojAmANRUUhH__VTHA29XCieMJheVq-17ZU.jpg" group-title="Action",Before the Devil Knows You're Dead (2007)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68LHwqSCtXWI1DqLNnDUp172yd_rUSFBobR4wzXiU_UI#.mp4
+#EXTINF:-1 xui-id="1691" tvg-name="Count" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKRNuREzuPojAmANRUUhH__VTHA29XCieMJheVq-17ZU.jpg" group-title="Action 2023",Count
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E62bhOVuwMLFUE0zQnAWyvCN_n6G5hNcb5uoV_yzl3KL3#.mp4
+#EXTINF:-1 xui-id="1692" tvg-name="HER: Chapter 1 (2023)" tvg-logo="https://bananatv.org:443/images/je31kyk10cOhKxOpI48W2jZgM0YXKCpf3qBHUiIAqkU_M4MIdIOnLKPzKM5J0NVm55sC5cSi1vrKw7XI9Bn5kE_IAnvFeQ2OaX5W-Z99Vs4LE2Vkp7NndgHPborv3FOg.jpg" group-title="Bollywood 2023",HER: Chapter 1 (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E66ci1Qiqe0wM0E7ZEwJe3UiqzLr-zFYko5qnmMzn3UhN#.mp4
+#EXTINF:-1 xui-id="1696" tvg-name="Captive (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLu94ejK5hw1KyQXO-9YroqnNjmWoVSrOj8npS9ggg728.jpg" group-title="Action 2023",Captive (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6zJ0ynlq52KwY5py7Q3y7xdsmPR_vUxIceKjvQ7TLi9Z#.mp4
+#EXTINF:-1 xui-id="1697" tvg-name="Absentia (2011)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLV4zXOk5lqz86R3uhk2d-zScx5XElOwvIxieV60NMxhU.jpg" group-title="Action",Absentia (2011)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65b-ROhJbCWTDzszxR9G-joFCGhmGHAZK0XsvDqOvVAX#.mp4
+#EXTINF:-1 xui-id="1698" tvg-name="The Way Out (2022)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbun646MqVxI3aluPVd7OGiQqu2Fhxn71e_DzZ7bFuvk.jpg" group-title="Action",The Way Out (2022)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E65sSJVH2pzFo97F6_7nBVn4_ThKQTRyXhJERQpRyPZkK#.mp4
+#EXTINF:-1 xui-id="1699" tvg-name="Kaaval The Movie (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLq1HraGdTOox_am0lUyrTAE5gQpMQLr-XI9iw65Ej3d0.jpg" group-title="Bollywood 2023",Kaaval The Movie (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64I7OjMvTboMLHZ5gvE9iIjiJdzVMKYR8Kb-MulvfCp1#.mp4
+#EXTINF:-1 xui-id="1700" tvg-name="Khanzab (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnaZJO3pBNGLmcv6L6zSV1lGzwYT3frzYTiLX8piIOu8.jpg" group-title="Bollywood 2023",Khanzab (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68mHzpMynVLK88J7kRPxG_zG7wB77inBXOdr_sfAaEfi#.mp4
+#EXTINF:-1 xui-id="1701" tvg-name="Uncle Maoshan (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEdmLtMFPvgK2HU3HBmhpHPoKQ5ujVRi_w6vyl3mqRy4.jpg" group-title="Asian",Uncle Maoshan (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E63akPFDc3f0GMYCy5mw7I3jsbuo0QX8sZaET8xhvOi0y#.mp4
+#EXTINF:-1 xui-id="1702" tvg-name="King of Killers (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhauCePGTehnXR1QzKeksq02MWEgTXG4b4GbFi4WI2DE.jpg" group-title="Action 2023",King of Killers (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E6z2Aw41qqGelzzxs7qvbG9v0Lj1-8qzfWqagXvj1Divx#.mp4
+#EXTINF:-1 xui-id="1703" tvg-name="Surongo (2023)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrWDfI82zCPmdH2rwOtHOjtvZTFfRzeQPwuGizS8HFZ8.jpg" group-title="Bollywood 2023",Surongo (2023)
+https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E64rzEcU9jWFwPGJMYcVRKP1SHSmVLVbENsmxQjq2jGwC#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrWDfI82zCPmdH2rwOtHOjtvZTFfRzeQPwuGizS8HFZ8.jpg" group-title="Thailand Drama",The Betrayal S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkN4Vi0z8b1AZm_wU9BKdNsqJYoQHXLDpHD6ePBDAsSOLn_Fiqg3mx07F5M30Gg6HtA.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrWDfI82zCPmdH2rwOtHOjtvZTFfRzeQPwuGizS8HFZ8.jpg" group-title="Thailand Drama",The Betrayal S01E02
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="376" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="Netflix Bollywood",Crime Stories: India Detectives S01E01
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2Q4L_XOiY-UuvIyjlgwzSE097IdC7KFsNHKRlFbBfAY#.mp4
@@ -3048,3 +3104,11 @@ https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nwkQW9Ll4IIUBSKpQhHfbhTLDDYN-H
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3ny4QQdzV4cGAdSkyTTYdMCrf8WXS7D3bKxYIwl-6X6YH#.mp4
 #EXTINF:-1 xui-id="1616" tvg-name="Aakhri Sach S01E04" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Aakhri Sach S01E04
 https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n2N55C6f6P0bve8TiG-7Bxsa4mM_I9luUCN3irniJTeB#.mp4
+#EXTINF:-1 xui-id="1689" tvg-name="Aakhri Sach S01E05" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Aakhri Sach S01E05
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n0b1c5YLgGGifFi854HGeEneaS11uRmCkG8ZFjwDhqu3#.mp4
+#EXTINF:-1 xui-id="1693" tvg-name="Bambai Meri Jaan S01E01" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Bambai Meri Jaan S01E01
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3n1fJty6n-K1gQqKfSznOR1WZ06k_RNXu9uCjyoB4a0IW#.mp4
+#EXTINF:-1 xui-id="1694" tvg-name="Bambai Meri Jaan S01E02" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Bambai Meri Jaan S01E02
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nw5IpeS8x84sErExu3GgQ2qs1q2YuYrVJ4WbG-nfNdBj#.mp4
+#EXTINF:-1 xui-id="1695" tvg-name="Bambai Meri Jaan S01E03" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb4Tr9DpY3gOoTh8LEtFdX7aET8kOSggBkuM7AmG4y9k.jpg" group-title="Netflix Bollywood",Bambai Meri Jaan S01E03
+https://bananatv.org:443/play/n6AXuj5M-_fP_VXlFKb3nwL9NARFIDojh72NRF8mUfATFQRye5ApoICdEY12hZoA#.mp4
