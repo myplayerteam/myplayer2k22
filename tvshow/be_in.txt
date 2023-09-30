@@ -5,6 +5,10 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/144
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/145
 #EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="France ➾ Football",FR: beIN Sports 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="France",FR: beIN Sports Max 4
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3599
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="France",FR: beIN Sports Max 5
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/6083
 #EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="France ➾ Sports",FR: beIN Sports Max 6
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/4368
 #EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="France ➾ Sports",FR: beIN Sports Max 7
@@ -13,6 +17,8 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/4369
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/4370
 #EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" group-title="France ➾ Sports",FR: beIN Sports Max 9
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/4371
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/188bf35c841af13de45c2cf86e7438b5.png" group-title="France",FR: beIN Sports Max 10
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/6088
 #EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="USA ➾ Sports",US: beIN Sports
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/284530
 #EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="USA ➾ Sports",US: beIN Sports 2
@@ -37,6 +43,40 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296691
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285073
 #EXTINF:-1 tvg-ID="" tvg-name="CA: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="Canada ➾ Football",CA: beIN Sports
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/13239
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" group-title="Turkey ➾ Movie",TR: beIN Box Office 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/536
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" group-title="Turkey ➾ Movie",TR: beIN Box Office 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281863
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Box Office 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" group-title="Turkey ➾ Movie",TR: beIN Box Office 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/538
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Gurme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae6ed623d37a8ee71af209e2cc08d22e.png" group-title="Turkey ➾ Food",TR: beIN Gurme
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1807
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Iz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="Turkey ➾ LifeStyle",TR: beIN Iz
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1806
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" group-title="Turkey ➾ Movie",TR: beIN Movies Action
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1761
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" group-title="Turkey ➾ Movie",TR: beIN Movies Family
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1763
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" group-title="Turkey ➾ Movie",TR: beIN Movies Premiere
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1764
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" group-title="Turkey ➾ Movie",TR: beIN Movies Premiere 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1765
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" group-title="Turkey ➾ Movie",TR: beIN Movies Stars
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1766
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" group-title="Turkey ➾ Movie",TR: beIN Movies Turk
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1767
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Series 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d248d175de659f0813a02e9134d18b6b.png" group-title="Turkey ➾ Movie",TR: beIN Series 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298429
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Series 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b356d48dffa753ebf6b5ae6f31ff71c0.png" group-title="Turkey ➾ Movie",TR: beIN Series 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298427
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Series 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ad65c62b7bfe6448570dfe2996b17f04.png" group-title="Turkey ➾ Movie",TR: beIN Series 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298428
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Series 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9abe75f1c9ee476a5d033cf5ceca6cad.png" group-title="Turkey ➾ Movie",TR: beIN Series 4
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298430
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Series Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/adf92f2916a0009d7b4f31870656b093.png" group-title="Turkey ➾ Movie",TR: beIN Series Comedy
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1768
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Series Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e62d82be35a5c21cae0c62a78dbf8cd3.png" group-title="Turkey ➾ Movie",TR: beIN Series Drama
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1769
 #EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="Turkey ➾ Sports",TR: beIN Sports 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1735
 #EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="Turkey ➾ Sports",TR: beIN Sports 2
@@ -53,6 +93,46 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8224
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16878
 #EXTINF:-1 tvg-ID="" tvg-name="ES: beIN Sports Xtra en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png" group-title="Spain ➾ Football",ES: beIN Sports Xtra en Espanol
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281493
+#EXTINF:-1 tvg-ID="" tvg-name="LA: beIN Sports n" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/aea02a4b267193542fd66b9923f73861.png" group-title="Latino",LA: beIN Sports n
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299731
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BET Being Mary Jane" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: BET Being Mary Jane
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286070
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ce00f228299f7a77ffe57ac7ae2879d5.png" group-title="Australia",AU: beIN Sports
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281451
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" group-title="Australia",AU: beIN Sports 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/35347
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" group-title="Australia",AU: beIN Sports 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/35338
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="Australia",AU: beIN Sports 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/35340
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="Philippines",PH: beIN Sports 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/282772
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png" group-title="Philippines",PH: beIN Sports 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/266844
+#EXTINF:-1 tvg-ID="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Indonesia",ID: beIN Sports 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
+#EXTINF:-1 tvg-ID="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Indonesia",ID: beIN Sports 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a1785416ae7e6dbb932232bb1ad4e6cd.jpg" group-title="Qatar ➾ Movie",QA: beIN Box Office 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/225322
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/426ffd6c8884d86ebf2eab9424aec0c8.png" group-title="Qatar ➾ Movie",QA: beIN Box Office 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/225321
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="Qatar ➾ Movie",QA: beIN Drama 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2835
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3ed2da3eb57b68e64b3c86821ca6201e.png" group-title="Qatar ➾ LifeStyle",QA: beIN Gourmet
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2840
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f53fed0173cd3832fe7cda3ff10e106e.png" group-title="Qatar ➾ Movie",QA: beIN Movies Action 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1270
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14fdcdb04d6dedc02d4c5da6b8799ac9.png" group-title="Qatar ➾ Movie",QA: beIN Movies Drama 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3735
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Movies Family 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="Qatar ➾ Movie",QA: beIN Movies Family 4
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1268
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Movies Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5e38160e63541c3247432ad7cd12e674.jpg" group-title="Qatar ➾ Movie",QA: beIN Movies Premiere 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267063
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Series 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6306dcf5a1a9da5240d1a3952f822936.png" group-title="Qatar ➾ Movie",QA: beIN Series 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2833
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Series 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a1b0e8b1557f00883b0f6709d6d54e33.png" group-title="Qatar ➾ Movie",QA: beIN Series 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7619
 #EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8aff9f98a00e5859162fd8e3f8e13ff3.jpg" group-title="Qatar ➾ Sports",QA: beIN Sports
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280725
 #EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="Qatar ➾ Sports",QA: beIN Sports 1
