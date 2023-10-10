@@ -3052,9 +3052,103 @@ http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60f9N8Z38kvafnlYfmvJpCa0uy8jJ
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yuW2Fj9L5Ww0iuv60q-xulAFihaOpFCN0QNzpwLGBBH#.mp4
 #EXTINF:-1 xui-id="2022" tvg-name="Wheels on Meals (1984)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHM2zfSq0ScsTja47943OWQgzk2BSqRsyEeD9DjN6TFU.jpg" group-title="Action",Wheels on Meals (1984)
 http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xRYCmpTJNTe3hZJg5whVxKXLbQTXuvPmLy-ippW_nK6#.mp4
-#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHM2zfSq0ScsTja47943OWQgzk2BSqRsyEeD9DjN6TFU.jpg" group-title="Thailand Drama",The Betrayal S01E01
+#EXTINF:-1 xui-id="2685" tvg-name="13 Minutes (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLK6jHFfKa7EUt0prdqRhXYYKcfyrdWwO6OgjqnJ8D-sU.jpg" group-title="Action",13 Minutes (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yZTiEgDF0-RLnZx-k0jmNdEm1tQl4EyuebNWHE4gkmj#.mkv
+#EXTINF:-1 xui-id="2686" tvg-name="5 (2016)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEwhfPutfmemMe_t5QejtBiq8zi5X8hbVT6qJw0RvH-g.jpg" group-title="Action 2023",5 (2016)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wZQilFcgIVTjxXhCuvsvZiEnQ1QJWSKgmv6srPQEy0n#.mp4
+#EXTINF:-1 xui-id="2687" tvg-name="5G: The Reckoning (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-F383xsrv7px1Duw1eIY88-MXQDtBPuDkTQBmODCmhw.jpg" group-title="Action 2023",5G: The Reckoning (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E62TZmIk0OI5kknsqVlWlzMcMDvX9yT7rhInLSn9q-KLt#.mp4
+#EXTINF:-1 xui-id="2688" tvg-name="65 (2023)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxnukfufVJV1widtCMvZGfvsTluu1XGPsi9DnYSm2U9eWMFEwQ" group-title="Action 2023",65 (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6xf1L3ocW-aztjAHfIqtzqxQqydg64-ddvtZFrRaUFoa#.mp4
+#EXTINF:-1 xui-id="2689" tvg-name="8-Bit Christmas (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjHCIPC4woVHVLwBIYFzu4rVru1zta4rQ4e_DTA8xQ3w.jpg" group-title="Action",8-Bit Christmas (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_X-Y-cfvfc9ymn1Zc0uuEnVxrYSOwDZta328WI229I3#.mp4
+#EXTINF:-1 xui-id="2690" tvg-name="80 for Brady (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLgNQJZLtNJfVoP221fSfeIMwHb0LR9E2ijffIpM-c1ao.jpg" group-title="Action 2023",80 for Brady (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6x8iJG7f3xsbf7WG-tQnsmfuh8qauFo7z9wiiecco1Ui#.mp4
+#EXTINF:-1 xui-id="2691" tvg-name="97 Minutes (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZ_uxmg_uXVzA5cXAcdFwMBOhLUtPjgyPbGr5uxq-NJU.jpg" group-title="Action 2023",97 Minutes (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E63YW9GXjfLf4GHu3EpSdeezg8nVzpsJoZzxUKxFqU7WP#.mp4
+#EXTINF:-1 xui-id="2692" tvg-name="A Boy Called Christmas (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJ6tvsEOAIFATGyH8bjmQ8PwXiHphhIv1BW0yyKnbRDY.jpg" group-title="Action",A Boy Called Christmas (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69rSmD-4ePchjX_nVtHnOpD7NSEZ6MWMivvJ75TcbL16#.mp4
+#EXTINF:-1 xui-id="2693" tvg-name="A California Christmas: City Lights (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvOUJHHQtN5UdHTs2r3yt-e48CoHEpIpSu7f65vy5bFM.jpg" group-title="Action",A California Christmas: City Lights (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66oRooijLLEchn7bLpjf_69b9sIL5b7K5uLFl_m4pMM5#.mp4
+#EXTINF:-1 xui-id="2694" tvg-name="A Castle for Christmas (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxYwXJY4093uJOabzslt32jSPd35MetJ3ARfo-XU281c.jpg" group-title="Action",A Castle for Christmas (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E65VbDA6TanPJuhTJtCZ0j09bsPw4p80J7q2QLyOoh-eG#.mp4
+#EXTINF:-1 xui-id="2695" tvg-name="A Christmas Mystery (2022)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZIORBcDSfENRV0gMxQDuPj9Kb8On_XZnMQzuRXTokZY.jpg" group-title="Action",A Christmas Mystery (2022)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-mN7dLpzA9_KyYx-7Nykr0xlrS21m8RjnqmMzpOqndy#.mp4
+#EXTINF:-1 xui-id="2696" tvg-name="A Dog Named Palma (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL64PaIwY8w77vyp6wC8V0NHTab8pS0J9OCVtMkcZ1lvE.jpg" group-title="Action",A Dog Named Palma (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yEftm8uX2Es0VlK_1eXrpG_7lIgDCm6l8Kf0zyeAHWk#.mp4
+#EXTINF:-1 xui-id="2697" tvg-name="A Dog's Purpose (2017)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-bjZHzd1VcK_A4KCFcG5_Sl6GBNKBWBYzbWjFk-TyhU.jpg" group-title="Action 2023",A Dog's Purpose (2017)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6z9_FJoPqbAiVmn-BH2p5OndDRTUsVMUwMaPjl-d0MI2#.mp4
+#EXTINF:-1 xui-id="2698" tvg-name="A Good Person (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1iSOfkWpw9i7JshQS16LidFh3JSzOaFS76XlykFltj8.jpg" group-title="Action 2023",A Good Person (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E605TYBFEAg5pHYsKgHG_n2lLnSs56v2hUXqurKZkbUJM#.mp4
+#EXTINF:-1 xui-id="2699" tvg-name="A Little White Lie (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoakx2LhqhN34ROMTYYgA-1LpK0Z0WRSlTYMnkk408Q0.jpg" group-title="Action 2023",A Little White Lie (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_zF0L5-vaWktHLxvkQH22H3Q8Gd3nG0VyLBaHgCV5Da#.mp4
+#EXTINF:-1 xui-id="2700" tvg-name="A Man Called Otto (2022)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBBK_-S9A3cZgmeP6mVy_h_NZFg2_H7gCZRE11XC_xR0.jpg" group-title="Action",A Man Called Otto (2022)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60ogtl2tDwtuYl16CPRxIoEFviiIj8kJdW7lXQ13kMaq#.mp4
+#EXTINF:-1 xui-id="2701" tvg-name="A Nashville Legacy (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEnLKUXt3e-gwRwx2Ws1sBIvrp5Un0lF-NU4PXoFsIGU.jpg" group-title="Action 2023",A Nashville Legacy (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_-xt1ROKUSX8SzhWhIlI84Iuhsahl3TVuO7Wimc1hRK#.mp4
+#EXTINF:-1 xui-id="2702" tvg-name="A Paris Proposal (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmr4h2FcFCbpWFv38e2nUEmMRRBHqZlBz9m_IMei47oQ.jpg" group-title="Action 2023",A Paris Proposal (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E60Xrd7m9zoqiujH3Uo5VsSaZRxzS3B3bIl45pZ5PHlhC#.mp4
+#EXTINF:-1 xui-id="2703" tvg-name="A Place to Fight For (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1GGt0jWue0cjLsoSl5bPRkg3wPeDQHHgPSViUYAWmSM.jpg" group-title="Action 2023",A Place to Fight For (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69FhCF7Zy4jEnAwJ_tfHuvGXM7WACwOJcFNTdsQz4LLa#.mp4
+#EXTINF:-1 xui-id="2704" tvg-name="A Rose for Her Grave: The Randy Roth Story (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxcqTEiKFztxohlBwM4SYszV7m7jpo6oViteP0eyw434.jpg" group-title="Action 2023",A Rose for Her Grave: The Randy Roth Story (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6yzcPgc_sCNcxvDOsM2AgTXy8eWpOAEJrCqcXjs13w6g#.mp4
+#EXTINF:-1 xui-id="2705" tvg-name="A Safari Romance (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2XG65JW3sisP8P4j36nP_ncfr-92qEtMdxqC3NvlEtw.jpg" group-title="Action 2023",A Safari Romance (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_UJODwXiQEwCCrvRVB-8tGSy6fSTRFjLEfNK_B8Ibp_#.mp4
+#EXTINF:-1 xui-id="2706" tvg-name="A Savannah Haunting (2022)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkglwr3Xuesz1d0cvM5X2EjM18yMR8qt_TmhXZpIqJrY.jpg" group-title="Action",A Savannah Haunting (2022)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6w_CfhWg3XNudWSun1WrFuB2MKIkZY4M1zMXdZFGaoxX#.mp4
+#EXTINF:-1 xui-id="2707" tvg-name="A Snowy Day in Oakland (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEaYvwrxMLDhbhu_rK4n-6AH3AoFoFBWmS6laSylF-Bc.jpg" group-title="Action 2023",A Snowy Day in Oakland (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E66rGqqOYKZ2cJg6Dzw_g-G5p1k3pI0dVC9Vn5Df6QBEN#.mp4
+#EXTINF:-1 xui-id="2708" tvg-name="A Sunday Affair (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZSdwuHaiHPZTHTNzFBTnCyTm3uVXnbgzmdPhLQLWYTg.jpg" group-title="Action 2023",A Sunday Affair (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67A6NNIZwvTUgWfGjQBlGFMuRSIw-LD1GRU-E2tl7sVo#.mp4
+#EXTINF:-1 xui-id="2709" tvg-name="A Thousand and One (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKtpafZGc9PgnTcvw8YRQc2FCc8Kl9ObXRhkdWi1onxY.jpg" group-title="Action 2023",A Thousand and One (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-cSUQTtTOpDMD6FCZ2VD-3s0aHP7Lqa7DIii3BBXVok#.mp4
+#EXTINF:-1 xui-id="2710" tvg-name="A Tourist's Guide to Love (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS52swMDVu5iLR3An4GI_kr8DOB8oldRxPA6MLZ0NbHs.jpg" group-title="Action 2023",A Tourist's Guide to Love (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wgXXC2OhEzbFftkYI70UWoSvoveeMWGOWDjQFJSN9wI#.mp4
+#EXTINF:-1 xui-id="2711" tvg-name="A Winning Team (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGZY6l-DOva6xYAWlvX9tSpEeMDKIHk4Kch7ivFMwPQk.jpg" group-title="Action 2023",A Winning Team (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6zQyhLphHcsPT0Bg2NlgTxNqZhO7VHTm80kSl1Qd-2AH#.mp4
+#EXTINF:-1 xui-id="2712" tvg-name="Abducted on Prom Night (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfBTfTBjOJofSVQ50KK9updHZOXr3R2I3rxY3I579lVk.jpg" group-title="Action 2023",Abducted on Prom Night (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E63lJ0rCGxJsE2tjHHwiMsOuudgDQ00n09GyQIx_kXzXK#.mp4
+#EXTINF:-1 xui-id="2713" tvg-name="About My Father (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_cvCXS5HkJxWkDL78GK2pl7a59_-SiWQTRQXhyuH4ZA.jpg" group-title="Action 2023",About My Father (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wSeB5z4rtWzhbaL_r8Q-XMLt-mE2W4hsHt4BTZlqAaf#.mp4
+#EXTINF:-1 xui-id="2714" tvg-name="Acidman (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8loSaipHtRYauJtGXlGkU1FnMcqAgR43V-K7uAhycvE.jpg" group-title="Action 2023",Acidman (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E62IPaQkLCkI5RS0ZcFu1CDmlKSumY_CSS2uLvGoIgr4x#.mp4
+#EXTINF:-1 xui-id="2715" tvg-name="After the Bite (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTnXIJMYdcCoBOyPzK00kCrNNQ6LePyAa3aKbDD_op6g.jpg" group-title="Action 2023",After the Bite (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_OHAIetGK40C8Ru0UhKGZ7jepiyU7O96EREx6vd2Nnl#.mp4
+#EXTINF:-1 xui-id="2716" tvg-name="Air (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLooUn-3hk3EUa4ui-Plqs1yoPYy-DenQuovzp2Tq5sEA.jpg" group-title="Action 2023",Air (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_5BKAcgCWe233f7JRkjOJ5gTJy4jPqNpse8W_JC6nrq#.mp4
+#EXTINF:-1 xui-id="2717" tvg-name="Alien Invasion (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0ScH9K2zu4QSZ2YmUXsUEhcm4gXaFT7-4NU8Sc11iNY.jpg" group-title="Action 2023",Alien Invasion (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E699KVgfnZIpTr5gp1ArgRmJJ9UWzMnCEjISV7Kqk8YLO#.mp4
+#EXTINF:-1 xui-id="2718" tvg-name="All Aboard for Love (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLACOEQmPSPdcR7PyzZ25VcI0MGZEKatBdjXZgWq_rCfg.jpg" group-title="Action 2023",All Aboard for Love (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-3Ue2K4fOFXKQyOxJg4Z_ZrQLL4yI_vs1fR68kynlsL#.mp4
+#EXTINF:-1 xui-id="2719" tvg-name="All the World Is Sleeping (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLujJRO8nlIgJnjurYw37XEIGFEUb-sRC6lwSh5YT1YdM.jpg" group-title="Action 2023",All the World Is Sleeping (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68Y6Ecvd0Co53YQWccDt0AldyLCvyUI1Tvdf-_9JtFid#.mp4
+#EXTINF:-1 xui-id="2720" tvg-name="Alpha Rift (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY8d-o-hng72jb1_UUFec660z2dkvPJfJMRgTf-9iBi0.jpg" group-title="Action",Alpha Rift (2021)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E63zh7T2UHkXHRkAOTOrVdoxMi6gL-jmC4_2zqgMnj4BR#.mp4
+#EXTINF:-1 xui-id="2721" tvg-name="Am I Next (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjrPeaZE2j4G5sIksP-7Rrry24snNdRCY8KplNLjPQFM.jpg" group-title="Action 2023",Am I Next (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6y97hyRAjnY30BVWJX_YHmMaVVaNOjvb2MmSZG0KSrkI#.mp4
+#EXTINF:-1 xui-id="2722" tvg-name="Ambush (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbfL6xaZiabjBe1T6zGPC-v4A8wdq1JSgbvV16yHEmA8.jpg" group-title="Action 2023",Ambush (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68pFHGT61873ObXMAV4Q-RpbMCexSrIYpsacCFxlBdHK#.mp4
+#EXTINF:-1 xui-id="2723" tvg-name="Among the Beasts (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2p3nXF6nMxebwIeBlSComW0-j0ry1rh7249LdPKdy6g.jpg" group-title="Action 2023",Among the Beasts (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6wLbfc5N9Bwxoj93_m-zfFEn_WFbR1ae5Kc-n09dEa9n#.mp4
+#EXTINF:-1 xui-id="2724" tvg-name="An Unforgettable Year – Autumn (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYd2iZCGK253nLyIVG4c0RSbrRN-21o9N9YZpEawbXBQ.jpg" group-title="Action 2023",An Unforgettable Year – Autumn (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_2Nx5hEjqY5JdRt4Tyvqy2O2NeqeLtxcUakkw9QmocX#.mp4
+#EXTINF:-1 xui-id="2725" tvg-name="An Unforgettable Year – Spring (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-yRv18epxa_SWQLKbQU8yQFl6VlZkaIfE6WA5druZf8.jpg" group-title="Action 2023",An Unforgettable Year – Spring (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6_EZUvi4ZmuZxqLxGAhX-9_ZJfYnrjYXvQ6W6EkjCsBU#.mp4
+#EXTINF:-1 xui-id="2726" tvg-name="Andy Somebody (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzGjLa4O7pUw4qFrunD1h-YH1gsV70IpRtbfl3ZeFpmc.jpg" group-title="Action 2023",Andy Somebody (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6-f7LqXKxdUkMhwI_XdTfXnG9iqj0gkYut0v70BzywRI#.mp4
+#EXTINF:-1 xui-id="2727" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3cp5D0Bdqu5aqU8mY17D1vt2-Muj6KLzhcroD9j330I.jpg" group-title="Action 2023",Ant-Man and the Wasp: Quantumania (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E68_2WWVzRMjYfIDAHjUxgpR3fBcxJr0NX0UOQXPolyWq#.mp4
+#EXTINF:-1 xui-id="2728" tvg-name="Are You There God? It's Me, Margaret. (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7qmOg2DaNpZqXGUZlQUigiroUKV-gxPFyzMkL5H6EGk.jpg" group-title="Action 2023",Are You There God? It's Me, Margaret. (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E662ZevrU4JxmFB0dB3iU9JaUzR805k1phzKGYBHuGJsp#.mp4
+#EXTINF:-1 xui-id="2729" tvg-name="Assassin Club (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3KcwkyGNYbMjHG3smqlTSgrVyZv6612-5spBLaahHLo.jpg" group-title="Action 2023",Assassin Club (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E67qT7CuFrlIWmTSt4Sp9STlWNbJudvdEYJcEuqC6P9Og#.mp4
+#EXTINF:-1 xui-id="2730" tvg-name="Assault on Hill 400 (2023)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY5fzFImxCJsHZlxB3vf7U5Glu6MZF5zSYiTRppLdjeA.jpg" group-title="Action 2023",Assault on Hill 400 (2023)
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E69epwUgZzxWEhGRii1WJUJxCbhyWoznrdz4weIQym1Af#.mp4
+#EXTINF:-1 xui-id="2731" tvg-name="Asteroid City" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY5fzFImxCJsHZlxB3vf7U5Glu6MZF5zSYiTRppLdjeA.jpg" group-title="Action 2023",Asteroid City
+http://bananatv.org:25461/play/bTmQnbO7Mi93t_UDwJ6E6y2_7lQMd3TkaNt_OmUf22Fb3P1TZzLoTCAJF1nMKTqb#.mp4
+#EXTINF:-1 xui-id="1044" tvg-name="The Betrayal S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY5fzFImxCJsHZlxB3vf7U5Glu6MZF5zSYiTRppLdjeA.jpg" group-title="Thailand Drama",The Betrayal S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2tRK713gBHvLbVyZzyH1li5cW2OeJK3OKzdUyWfE_LS#.mp4
-#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHM2zfSq0ScsTja47943OWQgzk2BSqRsyEeD9DjN6TFU.jpg" group-title="Thailand Drama",The Betrayal S01E02
+#EXTINF:-1 xui-id="1045" tvg-name="The Betrayal S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY5fzFImxCJsHZlxB3vf7U5Glu6MZF5zSYiTRppLdjeA.jpg" group-title="Thailand Drama",The Betrayal S01E02
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxagow60FfcMmMc3TTjdrcp8HdemUZqGdl626jitdB07#.mp4
 #EXTINF:-1 xui-id="1724" tvg-name="Lakhan Leela Bhargava S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVieF1YEk_QcRSWYr_xdAqBvAv4m39qrhFpihH10o5kspaACQc54TPqHGtVWcyw3JA.jpg" group-title="Netflix Bollywood",Lakhan Leela Bhargava S01E01
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_BBIsR_ixFQG0mTstQFq_hpyUH6iDfKXeymYlIU5Cjc#.mp4
@@ -4780,3 +4874,439 @@ http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4vdkDVLHZW9qT6xbD3LdYVL0wrZ6
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyHRUpZXJDaz3fdQQ7SwmHRSwCyk-5L9Js3X9jr-0Et_#.mp4
 #EXTINF:-1 xui-id="2547" tvg-name="Commando S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLU-RSKi-07ZkplAUiwG6Sl_aXnCPmGwxcFhXDU3EF6v4.jpg" group-title="India",Commando S01E04
 http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9bHasiMHRl58DbjouedxrdEPCu3OADKjLCSoOhRHTmU#.mp4
+#EXTINF:-1 xui-id="2548" tvg-name="Crackdown S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_ewQ9kFRLqJsySr32EUKBJNmG4prxZ9Hlawb1QI_m14.jpg" group-title="India",Crackdown S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6FV9s8Pfm39Rd5M9lSaKSK_euRg7ZEYrsxvAaogbONM#.mp4
+#EXTINF:-1 xui-id="2549" tvg-name="Crackdown S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6fRD8sMuoG_8_Z5MSJVuCnswwC5dJfEjTcPB_VFxlEU.jpg" group-title="India",Crackdown S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_Ade2VIQ41bL3sdT9nXMtRIkijyOkTDg9BPICvrRdEi#.mp4
+#EXTINF:-1 xui-id="2550" tvg-name="Crackdown S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiOZEQz4r-uqlMezddl9TL6XkzFPINXSyD2EV-sHbT9s.jpg" group-title="India",Crackdown S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n34fvbvFVNISc7_3YDo6z-Ji2YuIBwZk5jx6nFKSYSc_#.mp4
+#EXTINF:-1 xui-id="2551" tvg-name="Crackdown S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL201mOQGCi04ZcT9j92CotiCZuUQEq8s0LH1Ee6Zz4lE.jpg" group-title="India",Crackdown S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n35ij9VL_JjrFasLyunRtTW7HKxwFEQVQMVPO2zvnIYL#.mp4
+#EXTINF:-1 xui-id="2552" tvg-name="Crackdown S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0c_YcI9nPBFOnD3x0TJyn49UDh5mXx8GdkTc87lfw3k.jpg" group-title="India",Crackdown S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7JQQC19Kqgd4-XC-hKWy_OV-iK9QJvNC9oLVX9KILC_#.mp4
+#EXTINF:-1 xui-id="2553" tvg-name="Crackdown S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdkk5Q6aQzhVVXP2GHXY2IT30SaG0HhM-B7Ogpxg8y_Q.jpg" group-title="India",Crackdown S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1nMX-9mKEohZJk3crAeyCDEKMXxh2z7IgpaDrNVI-ri#.mp4
+#EXTINF:-1 xui-id="2554" tvg-name="Crackdown S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjK7CrOwAeI7cVexKke4yyrHfnxR9WGEaU37yHNQjtRk.jpg" group-title="India",Crackdown S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-iZEnyp0ZR9yLZWKlLHVjFGq8Ebic2vIYRjGrxT4Ehk#.mp4
+#EXTINF:-1 xui-id="2555" tvg-name="Crackdown S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZpzMrv_6V6hhcCx5HcMfssALIfmOajmJ4M31mgHQZYA.jpg" group-title="India",Crackdown S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n66WltyxVLTdRP92Dmvao1dez6g0fwhK0mZP2P9ec6el#.mp4
+#EXTINF:-1 xui-id="2556" tvg-name="Crackdown S02E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBybc6TOVBUSM9rYBvIDx2_0nm8j-vzS6vuuYQ_nvfF8.jpg" group-title="India",Crackdown S02E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2PVR6Wc0oLfWa0MV1l-BIhKTtfz8ivyEqB7BC2OMNyS#.mp4
+#EXTINF:-1 xui-id="2557" tvg-name="Crackdown S02E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdwEALGOsKBEy_XKDdpU9NTC3UbDHJ_agvHbvAhxrmYA.jpg" group-title="India",Crackdown S02E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5uLE5-7SbP702aQya2qoGGV2aDLXcjp_NlTfpLmSy8t#.mp4
+#EXTINF:-1 xui-id="2558" tvg-name="Crackdown S02E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPmLkEgYbCG05sYZIOUsmiEvrID5AYl02U3e1hdJcbWU.jpg" group-title="India",Crackdown S02E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3fDH-Lch9VlmuhnTirIQf12PbXbvfeRF25I7e_va1nF#.mp4
+#EXTINF:-1 xui-id="2559" tvg-name="Crackdown S02E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuYYUluGBdG0NoPmyjKwNi7uaaeydV2EQ2yox2Pby9jY.jpg" group-title="India",Crackdown S02E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7DSAFv4bH3TiVQ0PF0M49Itt8YF3lpCitzl58NxQ6SR#.mp4
+#EXTINF:-1 xui-id="2560" tvg-name="Crackdown S02E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLifPhOx63wyGNv95jrBaDonnJ86GBlQPYuERG2_LRrXI.jpg" group-title="India",Crackdown S02E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5XPA1NgFWiQkiDbxeAUrFzPrMBL1xUIqPo_iRyicLIH#.mp4
+#EXTINF:-1 xui-id="2561" tvg-name="Crackdown S02E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxG-2zGRsJdSZ-hFKoOp3Gezn5_8vj3kYvGwHtMxdMcg.jpg" group-title="India",Crackdown S02E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxLJsh5XEX1Y0mNvanTesi0nFGplyZdi6SNWI372-5rE#.mp4
+#EXTINF:-1 xui-id="2562" tvg-name="Crackdown S02E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsGfhGE7nmnbwtAtJMzvK4avAmq7G5cMB66IortkKVeA.jpg" group-title="India",Crackdown S02E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n496U6PIs9T6Jd0L6UihhaK_VlaE-EK3uIeGjrIHSQqA#.mp4
+#EXTINF:-1 xui-id="2563" tvg-name="Crackdown S02E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpoX8qhDoNPQ02D0vXKXELxVwS3arYr7CGmqyvePjtXg.jpg" group-title="India",Crackdown S02E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9FaEalW3ncA_eeIsXu3u56UhC8J5Zj3WN_wEX7se5Nr#.mp4
+#EXTINF:-1 xui-id="2564" tvg-name="Crash Course S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwT6CBJdQcmKtGs2jiiYBi1yPrd5HF03CyjJHrm1chCE.jpg" group-title="India",Crash Course S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyTyyBa5XP6a2UB9J17L6SuWQ9eNKdLssX6NQfP87vpg#.mp4
+#EXTINF:-1 xui-id="2565" tvg-name="Crash Course S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj4Tnei26OU_vMvJx-klxSZ-TygF24BSIPBK5T5wFXXc.jpg" group-title="India",Crash Course S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzjXqA3lckXoW56_9yDfgAnrlQ-dGY5YD3iazYD3wwgn#.mp4
+#EXTINF:-1 xui-id="2566" tvg-name="Crash Course S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs4sTzjWZb6c_jLCULhiAe72dRJ4kb_cWRz4rROnk5MY.jpg" group-title="India",Crash Course S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9DQSBR4Qqg3mfkNGQljbf4dk450kQ8wM-INM0o4AdKW#.mp4
+#EXTINF:-1 xui-id="2567" tvg-name="Crash Course S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaJjYqklmFVb6-vOVF-CcVUSkkT7JEbwBbIkCy4x3DIA.jpg" group-title="India",Crash Course S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n88UMuSC2BxIIo3wbRtizOwzBADXqv2N_PJx0H9FFsYG#.mp4
+#EXTINF:-1 xui-id="2568" tvg-name="Crash Course S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQKmCXBYnd1SyKEPatjXJ2h7Sww10g6H8uf7heI4Jb7U.jpg" group-title="India",Crash Course S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7idz-OWlR-j1fRqAZhDbyVlJu4kt9CFKJByX3HwLNMT#.mp4
+#EXTINF:-1 xui-id="2569" tvg-name="Crash Course S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLMIDr_u2j6IB1zUurFy6uANpoRf1WcI19yFDTgN-rRrk.jpg" group-title="India",Crash Course S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyqDR50QnnGtZNb1Gl9D2Xz5CCKlLN2fPcuMwQAf3lw3#.mp4
+#EXTINF:-1 xui-id="2570" tvg-name="Crash Course S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLohruoHVArhrMgfvUDaa7-5rVBbbulA0fQ7am-_ugz9g.jpg" group-title="India",Crash Course S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxtJP6N83AEBkDvihhWykCtALVZFAsquDViULDtWYTHw#.mp4
+#EXTINF:-1 xui-id="2571" tvg-name="Crash Course S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPHzMdAPsmn--tyq3ooR4iJlYIJwvdnv0AHBfrMSleAs.jpg" group-title="India",Crash Course S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzJYdy-9OVhUni2ybTQa5Nq2LG7k_5MWPi__Dq7cSt89#.mp4
+#EXTINF:-1 xui-id="2572" tvg-name="Crash Course S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLo8XRvIa2AfysXqXBITYdvUMrngQqvXRG-gtoMW2Nvp8.jpg" group-title="India",Crash Course S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_hkqkExrONChXPGj7i9b48DgsbDsjGqswRusLjo5POL#.mp4
+#EXTINF:-1 xui-id="2573" tvg-name="Crash Course S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEY6uSlBSaZPljk0PItaGUxONmd_wMbpi7jMLw_waBqY.jpg" group-title="India",Crash Course S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-2zLgM_RfUQuNsX6oxxoJqU6SHx9dUIgPG7bWCNZ-7L#.mp4
+#EXTINF:-1 xui-id="2574" tvg-name="Crime Stories: India Detectives S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGuBQyuU347bw8GcLoX6nJvUTYQtq_IthhrAEj607lpA.jpg" group-title="India",Crime Stories: India Detectives S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0K2zotz0YgIKQdVPQ9n3aiEz3ETt539wA5qiwR0UBm-#.mp4
+#EXTINF:-1 xui-id="2575" tvg-name="Crime Stories: India Detectives S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBXLB-ryLU_SlfyXGw0W6sCdCy0zYR0q4pdmNGWFuneM.jpg" group-title="India",Crime Stories: India Detectives S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1o9MYQf1PvH-pxhn6riXH_942C9iG-32SxCJ-8t1gMA#.mp4
+#EXTINF:-1 xui-id="2576" tvg-name="Crime Stories: India Detectives S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO7rKI0W5PHLG-Tkb9btCd5_XDyM4wCUqfikFdvsU2Zk.jpg" group-title="India",Crime Stories: India Detectives S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4ZngkIGL7fOXUP_v4NaGbS8v7J1FdPc9A--omd-Gm5-#.mp4
+#EXTINF:-1 xui-id="2577" tvg-name="Crime Stories: India Detectives S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSbNAHgqgUhnHJApFJr7SUYavrRMDKSqX4uumhyDYJB8.jpg" group-title="India",Crime Stories: India Detectives S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0KL97UL5zxi8WSh71Ha_noaNNLhQM5PsVIdWNIBdhqz#.mp4
+#EXTINF:-1 xui-id="2578" tvg-name="Criminal Justice S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZPpTAGpBDtf36gg9pF54oY96xfv64We3usUtYSXhcXA.jpg" group-title="India",Criminal Justice S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_tnQNoplsXEuRUot5SvGxXiL6o_KKO9f4FJlPeFPJzg#.mp4
+#EXTINF:-1 xui-id="2579" tvg-name="Criminal Justice S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFTs15vXFLg93eGIhjEDdTt8NoNen1LzF2542dxq3vhw.jpg" group-title="India",Criminal Justice S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4RArqSUdgm-g8rsiClcLvpnCTv4vh6pPpFpz_pM5VQp#.mp4
+#EXTINF:-1 xui-id="2580" tvg-name="Criminal Justice S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpb15EJxOBer1CzInujFf7xZTFpTAysdEvii23dJmQjM.jpg" group-title="India",Criminal Justice S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1OpWRCH1VKE5h_hD663RQCQIb6L3YcIrFofZlWsx4NC#.mp4
+#EXTINF:-1 xui-id="2581" tvg-name="Criminal Justice S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2-7vkTlT4AAdSHEb5mL76zIw_f6q3imBNO0FUHVYKkE.jpg" group-title="India",Criminal Justice S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwY0XWaEX9ccdIFotBbzub0bphSS0iijONEOYEuvzqmy#.mp4
+#EXTINF:-1 xui-id="2582" tvg-name="Criminal Justice S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYs7guUpC2IoXyanrufbpNbX4x7wfpreqFQxT1YLTXzE.jpg" group-title="India",Criminal Justice S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n32sVCmGEWwHs939EEoG7htAPTraLfHFQkR-W9h8FO1a#.mp4
+#EXTINF:-1 xui-id="2583" tvg-name="Criminal Justice S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjBTVAy3-Q3v-FKT5zlaqUnSJWS31ijeolzzOFosgPKo.jpg" group-title="India",Criminal Justice S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4naqmda7Anr7-8i72BqnLThIsqwAPDLTTbi-iAqJuCo#.mp4
+#EXTINF:-1 xui-id="2584" tvg-name="Criminal Justice S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHA71VibDE0wo4NDtpPa-Y6gzqyicI21sDgO1NlzdVok.jpg" group-title="India",Criminal Justice S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwWxQK0MZwDsm0MF70PPq3Ehn2BQaUPqJCq69vckw9B0#.mp4
+#EXTINF:-1 xui-id="2585" tvg-name="Criminal Justice S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs-B28H8t-zFtTC1WTIapVCF2JvxqNG5iyH5Rvm8N5Ao.jpg" group-title="India",Criminal Justice S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4IY8ysIm22C3PcKGH7IrrpJyisbd-AkisYihr1bc5cX#.mp4
+#EXTINF:-1 xui-id="2586" tvg-name="Criminal Justice S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwTrhAM1TENnWb8K7GvqRuyXVHQOt384Ycncz55mJIsk.jpg" group-title="India",Criminal Justice S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5TVJYGTqu4c0TCH9w_wgw7EinSfS-3VhoK3odcQqjFT#.mp4
+#EXTINF:-1 xui-id="2587" tvg-name="Criminal Justice S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUXFnoW266eVLMXDX-_h3CT4vzvcY6howTnb7Wy8zits.jpg" group-title="India",Criminal Justice S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4k0nOvJv3VkBOkg3Tv7URWM9TsHdYHs0bRboNv01UH3#.mp4
+#EXTINF:-1 xui-id="2588" tvg-name="Cyber Vaar S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNxMJVL7d84Uy0POrOM_iPLkYXMLrIc_HROLLzcWKhbA.jpg" group-title="India",Cyber Vaar S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-Ssgrdcy2g8vpQdnlJ-m7UfFZeHPbE5Dqponv4BxrDX#.mp4
+#EXTINF:-1 xui-id="2589" tvg-name="Cyber Vaar S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8VmszZu0m3ojs9k_osZ4EvsiNlhpj7tp-LND0OBER_g.jpg" group-title="India",Cyber Vaar S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzQJ90jSVYk0psP6jXEMiofbOmwvgJBmJIKT_QVKZunC#.mp4
+#EXTINF:-1 xui-id="2590" tvg-name="Cyber Vaar S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-Imltg7EHOoPQsThPcsVhQktz3_76wPitqQ9AQ1hOrY.jpg" group-title="India",Cyber Vaar S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7it87fXBN1K4dgHRjchoweB8_egOzb4kezvarzpVTuc#.mp4
+#EXTINF:-1 xui-id="2591" tvg-name="Cyber Vaar S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdC8rrkTd761cjMhw7oTFMg8VGGK6BxapgWxS4A9pvDk.jpg" group-title="India",Cyber Vaar S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9s4j4HTf03DOVCNQ2j_E3SrqFIhqMdfQgV0Z-jCdEAE#.mp4
+#EXTINF:-1 xui-id="2592" tvg-name="Cyber Vaar S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNlChw0lU4HgNXaItrO_07G9rn3OJJLydQVbPzkFjnfU.jpg" group-title="India",Cyber Vaar S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4IXD3Qddmb31Td4g9vnbgYgwGbIF2wBkLm6i_-VVHOi#.mp4
+#EXTINF:-1 xui-id="2593" tvg-name="Cyber Vaar S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1vX-safdq2WoHukZV_OTBqppQA0WKsJdBFAxKaTL7Ur#.mp4
+#EXTINF:-1 xui-id="2594" tvg-name="Cyber Vaar S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n45v0qPjB2mVVIX8eRZcdKb_s4IdfQZg3i-Wf5tPSHFk#.mp4
+#EXTINF:-1 xui-id="2595" tvg-name="Cyber Vaar S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_xYFGJqxpsIEWezH3uCjoYxGTkhninaUY5sIPjkMznb#.mp4
+#EXTINF:-1 xui-id="2596" tvg-name="Cyber Vaar S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzLgVmd93AFTTf6kQCHpv4IJLxEv9dBXEg3eHgVLD-O1#.mp4
+#EXTINF:-1 xui-id="2597" tvg-name="Cyber Vaar S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n97kkUgsBWND4wRXgk171Nhp6tnoTTLE0Wz3d1Hp72jP#.mp4
+#EXTINF:-1 xui-id="2598" tvg-name="Cyber Vaar S01E11" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E11
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzXqhr9sTLMx8ZGOyBYfsUF9SRlQ0h3edOgJyqZamZKK#.mp4
+#EXTINF:-1 xui-id="2599" tvg-name="Cyber Vaar S01E12" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E12
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5hOS--b29Ozf-fDl0KA1F9H9tE0_bDcgnIbsX-hDCq5#.mp4
+#EXTINF:-1 xui-id="2600" tvg-name="Cyber Vaar S01E13" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E13
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxSwGq5H6-nB6pHHT1M3-Ub7aS45IrV8f7FmYix93kFo#.mp4
+#EXTINF:-1 xui-id="2601" tvg-name="Cyber Vaar S01E14" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnHUxjdh5FSdeCNTEatOneeQA4Nj6GUrOvpabKbnbFoI.jpg" group-title="India",Cyber Vaar S01E14
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7pUAdgAOV5SxY1ErX5pi7TfqeGaACTDKJ9Id_lYjKNZ#.mp4
+#EXTINF:-1 xui-id="2602" tvg-name="Witch S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLv3KEzXOjybEoUituwItAP5gUJPBu6-E7wVyldq4fOi0.jpg" group-title="India",Witch S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzlGKZ3PYyXwBYoAKTh7O5AddzrMoWWg1P_kvPvfbbf6#.mp4
+#EXTINF:-1 xui-id="2603" tvg-name="Witch S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyRh9Br6dqhrDCZ659C60u4fRv5VUEg790h9uyry5EhJ#.mp4
+#EXTINF:-1 xui-id="2604" tvg-name="Witch S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyI3J8DITtxxhhheqPhfCMBuMS1XEftoumdNBRic4gBg#.mp4
+#EXTINF:-1 xui-id="2605" tvg-name="Witch S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0IBdFdfkbqpLnB-dVboZEz6O7dzhuAs1e56h0do-TRC#.mp4
+#EXTINF:-1 xui-id="2606" tvg-name="Witch S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-Pa3opw3SaGnyeT5L6qzO2fJ-het7oQaf-i_tnLRRE4#.mp4
+#EXTINF:-1 xui-id="2607" tvg-name="Witch S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_8SYua2Dc0A_cjxY8gKi_SGamArBWdjqnF4yppg-xUz#.mp4
+#EXTINF:-1 xui-id="2608" tvg-name="Witch S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0BaPgLanBBgDS0bvfCQIH-FOBukrwMTds3bydts-fez#.mp4
+#EXTINF:-1 xui-id="2609" tvg-name="Witch S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3ny5varHXc1D4LIpanPVbWUuySV2Reoy07X09X3brNP5o#.mp4
+#EXTINF:-1 xui-id="2610" tvg-name="Witch S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyC24A6nEKaJDInFtESOH3GPPFVk-zMc7a16yTxWWr11#.mp4
+#EXTINF:-1 xui-id="2611" tvg-name="Witch S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7Kk3EQQD1XTK382vX9Exi1k3sG7aav4IwGFMmGidKdP#.mp4
+#EXTINF:-1 xui-id="2612" tvg-name="Witch S01E11" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E11
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwn0WUNrpG-_Pq0szBNidibOvPfHxbn9xSWOLAAq_DS8#.mp4
+#EXTINF:-1 xui-id="2613" tvg-name="Witch S01E12" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E12
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3QjAmjWfh0maaQ_KK_n37_CFsGSZTNKsm9ON7gnPIHO#.mp4
+#EXTINF:-1 xui-id="2614" tvg-name="Witch S01E13" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E13
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_tKEqXLjJOfNPVB5R4KCS_CmnIWqBC2aOm-hqgeeZsY#.mp4
+#EXTINF:-1 xui-id="2615" tvg-name="Witch S01E14" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E14
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxEJYrZLnSp513941YDRSMwPB0CSYp13vBJzukOx1adY#.mp4
+#EXTINF:-1 xui-id="2616" tvg-name="Witch S01E15" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E15
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3VB2sXFXy8E7fanoioWhTrgNeY3PeVZgh8n-NSDMNOw#.mp4
+#EXTINF:-1 xui-id="2617" tvg-name="Witch S01E16" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E16
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nw7ZSIcvGqM5VpoC3MgSCt_BcqdaEvqwby4dOpwe3sTd#.mp4
+#EXTINF:-1 xui-id="2618" tvg-name="Witch S01E17" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E17
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1CxNN9WzjBRNeEvb7dl0KQ-cucxI1K45NQwpQ_jBhLk#.mp4
+#EXTINF:-1 xui-id="2619" tvg-name="Witch S01E18" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E18
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7oPySImuq6wKM1xgJgip5LMdackv9IMlfkSUuSoPoQh#.mp4
+#EXTINF:-1 xui-id="2620" tvg-name="Witch S01E19" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E19
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4WEvOAgLdBId5JAOnIati6oQanapRQ_zCbN5Ra2QhLw#.mp4
+#EXTINF:-1 xui-id="2621" tvg-name="Witch S01E20" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E20
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_zdlgdwMgeHDtnO-xMJukOUeLqtAC5dT5gO3grLZgb9#.mp4
+#EXTINF:-1 xui-id="2622" tvg-name="Witch S01E21" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E21
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwOGV-SPY6BfEG0hqMum-YU2wQuuB9T987Om5K8cetE1#.mp4
+#EXTINF:-1 xui-id="2623" tvg-name="Witch S01E22" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E22
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5D6cre7Ijo9j4FRHFuXmz6G65b-tM8VEEeOpU52LhlF#.mp4
+#EXTINF:-1 xui-id="2624" tvg-name="Witch S01E23" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E23
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2xFvNkM3YHJcbWvVuowCA_iGe3MIuEV3PZ3eYIUhE7e#.mp4
+#EXTINF:-1 xui-id="2625" tvg-name="Witch S01E24" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E24
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7B8otQ3VjnSpGua4Wlj9WfIRTVLzrtCF6i-PFVNQWqu#.mp4
+#EXTINF:-1 xui-id="2626" tvg-name="Witch S01E25" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E25
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9sxVnyf0cjaU9gfItD9R89_KWYYCLSSNYaCh57j087f#.mp4
+#EXTINF:-1 xui-id="2627" tvg-name="Witch S01E26" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E26
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_n1BKWzUVJDnf2FFoylC0V10aARcmiHnXp-2dSK8_wu#.mp4
+#EXTINF:-1 xui-id="2628" tvg-name="Witch S01E27" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E27
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6FUmgyv2THKJhM07Rr5Mzqrf0kvFCno8Qt_g9Dahkml#.mp4
+#EXTINF:-1 xui-id="2629" tvg-name="Witch S01E28" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E28
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxLB__RexNrrRiPd6tlLBROjALXckEZqp6A4DO5yg845#.mp4
+#EXTINF:-1 xui-id="2630" tvg-name="Witch S01E29" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E29
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1K5uAS_vKnOiZ1yzSWmDZz_NanksNAC8Trv2xm9NIUz#.mp4
+#EXTINF:-1 xui-id="2631" tvg-name="Witch S01E30" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E30
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzlvt8fYaiC6aNX_tweFlSOtkZrUupDlNnAsKUIHiNDr#.mp4
+#EXTINF:-1 xui-id="2632" tvg-name="Witch S01E31" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E31
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0Sin0LlyMw8b0RKPb0km1ODnSUttW4fluS_inlcqv1g#.mp4
+#EXTINF:-1 xui-id="2633" tvg-name="Witch S01E32" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E32
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0_tdrzxNH9fFzf1XvGV86SmyVFiy0Pc6hEBQ84hf3Kq#.mp4
+#EXTINF:-1 xui-id="2634" tvg-name="Witch S01E33" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E33
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9kTaikw6kSTCl3ezSCm2dHecq9mxp6QHFaWL5mCQgNE#.mp4
+#EXTINF:-1 xui-id="2635" tvg-name="Witch S01E34" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E34
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4_MxRl6YmruSH5cPRyClROZtcH0aYvfKzT2frZehg_V#.mp4
+#EXTINF:-1 xui-id="2636" tvg-name="Witch S01E35" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E35
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8XHkU-BKpwT-QykA1XRAQNQv7o-iwq5PREyVgL3CUjM#.mp4
+#EXTINF:-1 xui-id="2637" tvg-name="Witch S01E36" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E36
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6yv_AM0DwtvnQuQQOAVBdfhmPBMTfjmtwmW0EUKCsO4#.mp4
+#EXTINF:-1 xui-id="2638" tvg-name="Witch S01E37" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E37
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7my0rEHdnyeMzrtu5yFaOYrBM43--acaQXqpYLJ2n8y#.mp4
+#EXTINF:-1 xui-id="2639" tvg-name="Witch S01E38" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E38
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nx6Bxrp_vNsrFogR-kIK8_uiAqcnaAjYGhyHuau6AoqD#.mp4
+#EXTINF:-1 xui-id="2640" tvg-name="Witch S01E39" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E39
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nz6LIzcQk59JxM8DUY2P6E_vQJuIPIu3D3wo7pVKdsXt#.mp4
+#EXTINF:-1 xui-id="2641" tvg-name="Witch S01E40" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E40
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzK9rb08nnfBYT-ZsWc1K31fWCREoZaEMVZK4tXnePLD#.mp4
+#EXTINF:-1 xui-id="2642" tvg-name="Witch S01E41" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E41
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nw3iT5ot9xyCIuk-lJ_AyRbH9uaFV7VSX_VBCX3U_MF-#.mp4
+#EXTINF:-1 xui-id="2643" tvg-name="Witch S01E42" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E42
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzqZUfL6Q_MSbka3aeWtcumuTQcXdCrKnBvSAEEB8xPe#.mp4
+#EXTINF:-1 xui-id="2644" tvg-name="Witch S01E43" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E43
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-GQrP9CeDgeWWUSf6Nt0GtiZGtJBTH7tvydx6Bm8az4#.mp4
+#EXTINF:-1 xui-id="2645" tvg-name="Witch S01E44" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E44
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1lau84DTwbfOe5rpSKbfibBfDHyLXQL3fz-haKytd0t#.mp4
+#EXTINF:-1 xui-id="2646" tvg-name="Witch S01E45" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E45
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyIZDNHCNzXgCtLZtNPS2bZTJHnYXZQKxFBEYCc8MsuC#.mp4
+#EXTINF:-1 xui-id="2647" tvg-name="Witch S01E46" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E46
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_ADIbTZDEjqJyYe73K5RHYoTQr1OoPV9NFZC4svHTyU#.mp4
+#EXTINF:-1 xui-id="2648" tvg-name="Witch S01E47" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E47
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n14l71wbGNoAyYf81nnrC-8LJzlR2zEbqy8TFrKfHKWY#.mp4
+#EXTINF:-1 xui-id="2649" tvg-name="Witch S01E48" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E48
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0t3ampWVeFnTJZtJLEYtlenO0t8SgA9toZi1UAYc2SB#.mp4
+#EXTINF:-1 xui-id="2650" tvg-name="Witch S01E49" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E49
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1JPGVUBlOPlnC04H2ldPJ9lfXdE4zBb2AJwWjySkeyg#.mp4
+#EXTINF:-1 xui-id="2651" tvg-name="Witch S01E50" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E50
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5MzP3hVX3Wp6SXAf7tL8EYclL3jNA3L6KJKvcXgBi59#.mp4
+#EXTINF:-1 xui-id="2652" tvg-name="Witch S01E51" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E51
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n222kSnE2kSJx2pMm9eTGJiCDDqVsRH6ScvWEj86lbpi#.mp4
+#EXTINF:-1 xui-id="2653" tvg-name="Witch S01E52" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E52
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwRS-vQQp3efZ7SKiDdaHEztg-qsxAC4S-x-pB9n73z4#.mp4
+#EXTINF:-1 xui-id="2654" tvg-name="Witch S01E53" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E53
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzlcr8PonACPPLH6TzhQ0NiP9Idox5dUsKOxxN18PnmD#.mp4
+#EXTINF:-1 xui-id="2655" tvg-name="Witch S01E54" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E54
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5wZQR-jfA0vYfpowg1_LM24AXY-eyeHGMgnCNJx_2w-#.mp4
+#EXTINF:-1 xui-id="2656" tvg-name="Witch S01E55" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E55
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1-NyWziZqFF9X08OJ5bRXn4vrVa6_r1tCEFXqf0vLPB#.mp4
+#EXTINF:-1 xui-id="2657" tvg-name="Witch S01E56" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E56
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxdUI9ACSuBUqmEujwLpW6M8JUExqQpk4l9tkVDHYP09#.mp4
+#EXTINF:-1 xui-id="2658" tvg-name="Witch S01E57" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E57
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0RVGh4fZc7ljnLlePYzQZrNTB-25XL7hJAeHdG1rbfw#.mp4
+#EXTINF:-1 xui-id="2659" tvg-name="Witch S01E58" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E58
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3ZNAyv0_dfXiqMh91bASdxuy9T36IoFpKPzzb83XRSR#.mp4
+#EXTINF:-1 xui-id="2660" tvg-name="Witch S01E59" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E59
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n38vwPKmvt0MTFZMCQA2o4UGnBtWGdENWE7t0UXELbzi#.mp4
+#EXTINF:-1 xui-id="2661" tvg-name="Witch S01E60" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E60
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nx33gA4n_ODjywdOTkTsK0FQyVVMkrsiNF1HWJrdtkvs#.mp4
+#EXTINF:-1 xui-id="2662" tvg-name="Witch S01E61" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E61
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0Xbva71SObj80Z1zcXE815Dip8RPAdXgZ7xdpmS6gwo#.mp4
+#EXTINF:-1 xui-id="2663" tvg-name="Witch S01E62" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E62
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5jQBiI7WL8inWldLuEEMMPOBWMmq1yu_2MPw6CiSJwo#.mp4
+#EXTINF:-1 xui-id="2664" tvg-name="Witch S01E63" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E63
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3MVJdWtz1u528lW0CYo9_L0ZH-j3PMDKEjx6yTvjaQg#.mp4
+#EXTINF:-1 xui-id="2665" tvg-name="Witch S01E64" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E64
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4mwQW5BEUQyxfWJdllUBNrbhNBT5sPeAWhVUnxu7inq#.mp4
+#EXTINF:-1 xui-id="2666" tvg-name="Witch S01E65" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E65
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3UZQOnXUZdX1gmrMuDX9m-_7hj98tB4XZVwe6L1r5Z7#.mp4
+#EXTINF:-1 xui-id="2667" tvg-name="Witch S01E66" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzNDNgArEgSnIkzvuXIkfNon2pJhT4NCOVQkLX8cZP1o.jpg" group-title="India",Witch S01E66
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_mZjo_xCpBo0mgvEgRIXRIVQ-Trt2-dZSiIU6JhuLpz#.mp4
+#EXTINF:-1 xui-id="2732" tvg-name="Dahaad S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLi7Zi5emVu7V3dbxYS44j1MlBswuaeBiTXLXxjDm976o.jpg" group-title="India",Dahaad S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1uQh1YJN2MjlRqJfRWdjCtDSqSrJIxWNsjJceQPo4b7#.mp4
+#EXTINF:-1 xui-id="2733" tvg-name="Dahaad S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLD9niikICDomLfcvlFYvdjbS7jvScBsSlEsSEDydjT0s.jpg" group-title="India",Dahaad S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3rHGvu-md4Yh1p_9Kq0RJFpp3d9J8YLwxnPNQ7Xz0-t#.mp4
+#EXTINF:-1 xui-id="2734" tvg-name="Dahaad S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfPr0F0fV0WsRMT3BjiHZZAxPZIrsZN3cLsnTSmdddtA.jpg" group-title="India",Dahaad S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxrRgfIpPEwUAGXfXHggsPWt-GBKh3beWBoyUK2TILGz#.mp4
+#EXTINF:-1 xui-id="2735" tvg-name="Dahaad S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJRej_eKOg_DAzwuwaXT-EDhxwMH2j96bQ1Q9TiYKggg.jpg" group-title="India",Dahaad S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyq1sL1zTj29UUwGJDaoisO3YsIh1kcpaWhbtDasc9AZ#.mp4
+#EXTINF:-1 xui-id="2736" tvg-name="Dahaad S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwcRwBn41a9hkZ6M2vO9v9DwSVvXt5Zv_lvCyVJcdy8c.jpg" group-title="India",Dahaad S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9i1g_rcIT6l9VyZtmVbW_ek-DI6--wOm7rl89RGMXuT#.mp4
+#EXTINF:-1 xui-id="2737" tvg-name="Dahaad S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLeBvP_36rahgBYEsUOUmo6cPMdntMlH6UsesGMpY9c0Q.jpg" group-title="India",Dahaad S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nw3kGlJ7iS_yEKFZlVV1qNI74WBGG55dJKTCJZIJsocw#.mp4
+#EXTINF:-1 xui-id="2738" tvg-name="Dahaad S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkltWATLpRccovpGkhC5JJyUYRxIqj91kve1sywHciTU.jpg" group-title="India",Dahaad S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-Xyuw7WfCeMTahnsqarLW7H_Jhzjyn6pKfONyV2kNPH#.mp4
+#EXTINF:-1 xui-id="2739" tvg-name="Dahaad S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY2jMJ7EL3T9AEzZpuWJYzBlcg2x9dOJAWrhc9MAtkm8.jpg" group-title="India",Dahaad S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n60vI9728iJufUMLk-phyVdXeRa-QPRXPOb_C-13uJWp#.mp4
+#EXTINF:-1 xui-id="2740" tvg-name="Dayaa S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdtEk2sAeGTtR2XEOn8FnXB38txSY0z62N4GwfyEvQmU.jpg" group-title="India",Dayaa S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nxVdnpfzQ59oxRZT4LichdWfeQFeCkWglMiwRBjztUaF#.mp4
+#EXTINF:-1 xui-id="2741" tvg-name="Dayaa S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa1Fx7GpdZ92Zm5bU-9P-8DGn6QRy7zzaBLeESvN08iE.jpg" group-title="India",Dayaa S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6d4tcikE-nnnUHFTJWCt1kDOChv5JXYlw2ft1utXRPj#.mp4
+#EXTINF:-1 xui-id="2742" tvg-name="Dayaa S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNaq8-jRmUzIgcT-E4A0Aq6P6bm32295YdZ4Eo1qKK1Q.jpg" group-title="India",Dayaa S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0Nq1vjc25rQjJonLlpY0ICBZNTjFFKkh2Nq_uPQDiUI#.mp4
+#EXTINF:-1 xui-id="2743" tvg-name="Dayaa S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLOnhOFi-Zy9z-lJ8rzA6j8b3SEbd2XwoXFBryrJ_cOFA.jpg" group-title="India",Dayaa S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzF7GCI9zYHItRdjEZ5Q__jV1gDJAqwdgCaZ1Cj6rr6s#.mp4
+#EXTINF:-1 xui-id="2744" tvg-name="Dayaa S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5FKLJgyGgkAhe4QAyOE4OYtoJKcuneU9YX3F_2UJyKE.jpg" group-title="India",Dayaa S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzlrg82GplKGgmW7-MRkBJvn-wymez1_-zsyS_oGGCos#.mp4
+#EXTINF:-1 xui-id="2745" tvg-name="Dayaa S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuG2rnAqLQXKYrjIfYtn9zGOX_W90Fiw193YLVEodPLI.jpg" group-title="India",Dayaa S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5xbdaFfZobJBsZE2JQ-vBaG5PLjv_CViFV4yXbMOB1g#.mp4
+#EXTINF:-1 xui-id="2746" tvg-name="Dayaa S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLs4cZ9jGvqjoZIH3leXERRaw8gxuBkQe5UqNFdE0YFk.jpg" group-title="India",Dayaa S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2A2BbV57hKPDj06MP3s8bYBYcDWSKNeVvSbpGBd27Pi#.mp4
+#EXTINF:-1 xui-id="2747" tvg-name="Dayaa S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuVcT1tOIo4vRP4JE2aKBJl0_4RwtAhPTwWjV20DZMVQ.jpg" group-title="India",Dayaa S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6Us4tDFfSm_A-98IeM2JwBJGWxlZ4UuFboFSDpvIasx#.mp4
+#EXTINF:-1 xui-id="2748" tvg-name="Dead Pixels S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnUVLyrJ1lfBvj029MPkZ1ayIhQ0d0TT0dGbNTLlbhjY.jpg" group-title="India",Dead Pixels S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2fCB2Ci_BWtO-jrJPChCQF0OZAu4bJeQ9xfkbxt7XI1#.mp4
+#EXTINF:-1 xui-id="2749" tvg-name="Dead Pixels S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyJDBwlmI2GTng4ImGTMrygBGlvxLetp5icssSadG3tA.jpg" group-title="India",Dead Pixels S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyaSEqOd71THeL42R8EGGW4-Yp7HrQv-WhVOPODt-BmS#.mp4
+#EXTINF:-1 xui-id="2750" tvg-name="Dead Pixels S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmvj6obk4OLzO2LFyAMc5DZu9IS1qpJZ6LJ58_SDEgfY.jpg" group-title="India",Dead Pixels S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3ny6-mKXMJBGnt0qKCK6pynIuxyC3zfZNQjm9wjfjFL2-#.mp4
+#EXTINF:-1 xui-id="2751" tvg-name="Dead Pixels S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpgg73OsJVGI-hjoSlAOcp0b2X4iLEE77LuViKtcuAys.jpg" group-title="India",Dead Pixels S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5MGpDBYfPFjgRSYhRhHHxUBiHlQR_Z2HTJCBVNWNa4r#.mp4
+#EXTINF:-1 xui-id="2752" tvg-name="Dead Pixels S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9U1ZaAxScDrdVSFvxafgFTMkcxzdLk1yVtjm0JIwiaU.jpg" group-title="India",Dead Pixels S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9IaPeC2o_Y3Y0MBqtYNsQTRdwd2FbXIayD2PdWWJzHV#.mp4
+#EXTINF:-1 xui-id="2753" tvg-name="Dead Pixels S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbNB3Bt7kExygc4zj95RX9RbLgJEJgrFW7zDVhayUTT8.jpg" group-title="India",Dead Pixels S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwYpCiq9k_X8dqSbG-4M07TAfo9h_URfux-LG6gYBktE#.mp4
+#EXTINF:-1 xui-id="2754" tvg-name="Delhi Crime S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs31vDW00GQ3BE-zAOFVAf2eqVrzXz_BKRUqaSIdDGmg.jpg" group-title="India",Delhi Crime S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n89Q9G21aEXW4wfl6Bx5IFfpgezO__J1iWvomYSoUAVk#.mp4
+#EXTINF:-1 xui-id="2755" tvg-name="Delhi Crime S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPZePVV591sUxPMn7Bmh7_qKfFYOP7FKphdL1WWkfemI.jpg" group-title="India",Delhi Crime S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4wSzCOHfJ8EuluV3N_JUgtcugx0y2kDNOXOZhWtxSkV#.mp4
+#EXTINF:-1 xui-id="2756" tvg-name="Delhi Crime S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6KObBYJ2BMmUZCDi8bZqCpuMuG8DdTa7Q0WANc7utDo.jpg" group-title="India",Delhi Crime S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3WPCHEt0Ls2D5tJgZb_6Y8GUxLpojXKao0ueoVMBS_Q#.mp4
+#EXTINF:-1 xui-id="2757" tvg-name="Delhi Crime S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmj5rmsMRMgceRczoiFfZx1SW4N2Z5x3Pet0R8bqxGls.jpg" group-title="India",Delhi Crime S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nx0EdkB769X2kro96_YK7ek3AJ9DittjgrreRjHQO1Hi#.mp4
+#EXTINF:-1 xui-id="2758" tvg-name="Delhi Crime S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLV1EzDswE66g91iChlw_iXYMpnS-vu2FBVI8pIj-wQA.jpg" group-title="India",Delhi Crime S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n94yCWGITQw-ZCRlyHuEXOkOp-2wBZ88FiQr1fOVa_rt#.mp4
+#EXTINF:-1 xui-id="2759" tvg-name="Delhi Crime S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDmmKXM4CNZZGlZLTnBjQbJL2f92EBnYPpCtruo_-yDc.jpg" group-title="India",Delhi Crime S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1CtxNjuoTLFbrULhClVdqyo5s3FMSh9L85lNyIExM3n#.mp4
+#EXTINF:-1 xui-id="2760" tvg-name="Delhi Crime S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaua0RbbuHjUSkD4W5CZHFwtcVBHMZlFhtdJl-KdwqvQ.jpg" group-title="India",Delhi Crime S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-jFwsivlXYalkqxp_hi6R7hD4KSRUvKSbKn1nln6uOF#.mp4
+#EXTINF:-1 xui-id="2761" tvg-name="Delhi Crime S02E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8Q-MrQzoPBaL_GJ-zLqAkB_i-WwM2l8jxuI43O4Gbxg.jpg" group-title="India",Delhi Crime S02E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5yFuGztbU4Bp0OWn8ZAc-zc1NBGJ8MHabVPzoZavZgd#.mp4
+#EXTINF:-1 xui-id="2762" tvg-name="Delhi Crime S02E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqNTrc4sReKuGzB9eBgg0r4I3eaCq6Zhq0-ig8YDqpYU.jpg" group-title="India",Delhi Crime S02E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4SRnN4EguxXVlG8rqRe3jYR_xSJebyZhB-5wUwB8zTN#.mp4
+#EXTINF:-1 xui-id="2763" tvg-name="Delhi Crime S02E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7WyDoKs-mMBIbZq3sQ3URNOvg8m5cytIjW-03Td9zMI.jpg" group-title="India",Delhi Crime S02E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyuhaUB67Mzqh0tXYatQ4ANakzeYDMTHm9QImuOrDgJH#.mp4
+#EXTINF:-1 xui-id="2764" tvg-name="Delhi Crime S02E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9iNsKBpN7BDG3C7ntYurlJ7w7dV5Lp8kO3ava7vPG7c.jpg" group-title="India",Delhi Crime S02E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9x4EvaOzgoCpEcTVAmNxn2mExhC1lGc5jRTDTLAIbI7#.mp4
+#EXTINF:-1 xui-id="2765" tvg-name="Delhi Crime S02E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLON3i7qSr2vZbcW9OkgQMFFR2na2T3jPOvDqib1inXx8.jpg" group-title="India",Delhi Crime S02E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3AGLaYy6ud97fFAdo8IUQMZvmxncTOZf0CJnoUMRHOF#.mp4
+#EXTINF:-1 xui-id="2766" tvg-name="Dharavi Bank S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEQmm4LJrX6-FbK3cEUEY4AeLYgIkQIAkFr4rNAMFOlw.jpg" group-title="India",Dharavi Bank S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-pjolQISCxrySdReUKmT35U67Pe_FIC7q6Bx2KVp3-o#.mp4
+#EXTINF:-1 xui-id="2767" tvg-name="Dharavi Bank S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEanZDkVDom65JWvVU1QT8hwjnlVKOWUfHftIEdI3rlY.jpg" group-title="India",Dharavi Bank S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7t3VlCMQTL8xebcCzB2daEdjX9jRGkzbhUiM58V1v4E#.mp4
+#EXTINF:-1 xui-id="2768" tvg-name="Dharavi Bank S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2kgrPQuKvgEpCIDgeYEbBtaP4iXu4y9RxuoXYEaFzWc.jpg" group-title="India",Dharavi Bank S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2O5WyEaPHhdSY0BP5OnTmdXo7_YU3yUXT-JpbHsHf_7#.mp4
+#EXTINF:-1 xui-id="2769" tvg-name="Dharavi Bank S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLgEnqihJvtQZz92aR_OnD8G0qmlt3qZxYzHrGjXu0bk0.jpg" group-title="India",Dharavi Bank S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9aQWfdZM03l-RT7T-nZQBsBrX3LxyTzrCtBg7mXVb2_#.mp4
+#EXTINF:-1 xui-id="2770" tvg-name="Dharavi Bank S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvYVAUsmZ_JHdhssIGnSdX6TEh3fg4-Al11vqgBua2Ig.jpg" group-title="India",Dharavi Bank S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3pGKqmmnCYmVC8uwtMlqeFjGw_-mkfCGjESxe4nkfP1#.mp4
+#EXTINF:-1 xui-id="2771" tvg-name="Dharavi Bank S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLo7mdR82W8joimxhh4w1w4q0hBjKS9TWXeHCoRq8WiZU.jpg" group-title="India",Dharavi Bank S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6f7KuZBuGALmDSGSyWVW7kZ2267ogovZtxFKCJ8mCxy#.mp4
+#EXTINF:-1 xui-id="2772" tvg-name="Dharavi Bank S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9JOTP1YyQsFfLMpy0_KIRMUdE3IbvUQ2kogzGa-t394.jpg" group-title="India",Dharavi Bank S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2cYvqkElZ4OyS0RncunPWLUIR1ZXXwUywrAcT49cBmS#.mp4
+#EXTINF:-1 xui-id="2773" tvg-name="Dharavi Bank S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLgT0C7BsCkvSaAaLBL_5j5rFaQ3FhXjfMHF3fThNo854.jpg" group-title="India",Dharavi Bank S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwwK5kfbdnnTuRte3J9ZZkRjzJBq9sssjoSZdCNbpYXT#.mp4
+#EXTINF:-1 xui-id="2774" tvg-name="Dharavi Bank S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtB70tLpPpFOW99AH57fCX1Ryye0MxLlKU9RZ8DUY-OA.jpg" group-title="India",Dharavi Bank S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nz_aKZaNbh7o2vlxcb3-CXUFaG4X2vtCJNwEfZEY57CJ#.mp4
+#EXTINF:-1 xui-id="2775" tvg-name="Dharavi Bank S01E10" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dharavi Bank S01E10
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n05415THM7oypz4ZyZah-VN2QNKhc-RCvmhClbIAk_ai#.mp4
+#EXTINF:-1 xui-id="2776" tvg-name="Dr. Arora S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5fmrQ4jqdogNrjlXivhW5-qq-ZVon8j9sHgB7GCoPtb#.mkv
+#EXTINF:-1 xui-id="2777" tvg-name="Dr. Arora S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzAKRuLhk9TyfIOPCHE98Xh9_ZuclKhWuCxN0iS_SKvl#.mkv
+#EXTINF:-1 xui-id="2778" tvg-name="Dr. Arora S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8rTLhfTARBbWV0MQ5i9jgVLxO365VvZm2rbqtTOa7FR#.mkv
+#EXTINF:-1 xui-id="2779" tvg-name="Dr. Arora S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nz-gKkxlz646m3gt-RBctCO6tFFI3R3qbRb2GGIMnuxx#.mkv
+#EXTINF:-1 xui-id="2780" tvg-name="Dr. Arora S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n48toxrCPd3LrJxQXJ8xwgaiQCNzo5ivzm0GoOJ9cHVH#.mkv
+#EXTINF:-1 xui-id="2781" tvg-name="Dr. Arora S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8G_kFv-sV6eGwPaWEpBDHICPqK14-C0UffZFvavBHNt#.mkv
+#EXTINF:-1 xui-id="2782" tvg-name="Dr. Arora S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2ySHEXFwLXHgL3O063ETSXAFavwKhyA8t0q_QRTowMw#.mkv
+#EXTINF:-1 xui-id="2783" tvg-name="Dr. Arora S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8M2c4QI7ode9pbkV7p6WygUwwoc04ZT0w-XlNpFe48.jpg" group-title="India",Dr. Arora S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n41tqRW0p8wrvNaW2gtAgQrqzcdL4etpQWu5qHtRK8sC#.mkv
+#EXTINF:-1 xui-id="2784" tvg-name="Duranga S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtuwqZu52A5ymmNzvbHLzQrupkg3NpDcQBpqkzBVp2Qk.jpg" group-title="India",Duranga S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3gHXba8-OMIBljm58Wg6Ob-OAsoPzOFnZ3Z3oT2uBw9#.mp4
+#EXTINF:-1 xui-id="2785" tvg-name="Duranga S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL06ZSbQoyPapDpFW8hoIQWgVZhXXpghGT6UOSB62ByFA.jpg" group-title="India",Duranga S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n99WfmaAprrgVvlBpHOX72e669FZMTKskdsiTW2AMagR#.mp4
+#EXTINF:-1 xui-id="2786" tvg-name="Duranga S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrURMolNGU1QTwvsL652T1_2pP0kop8755x4hjxg3VNk.jpg" group-title="India",Duranga S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n1UPYkPeQIevAUsYktF4-fZ0PbwgAvugZbCQKcryG9Sl#.mp4
+#EXTINF:-1 xui-id="2787" tvg-name="Duranga S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLn-3cn-GM-5dEGX2uvCi6R4nRvd4qhkrKlLgpE-jlCwE.jpg" group-title="India",Duranga S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5veYbk42GX3LQB600RL1DtrLfBhhAd6E0aog7XPCQCm#.mp4
+#EXTINF:-1 xui-id="2788" tvg-name="Duranga S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL57N1s1bSMoYXyDYC1JnSP8IaucHTO_z9HyzSWBJEG_M.jpg" group-title="India",Duranga S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6JDAE0LKnYpLEWIDpFtHSgVjWN1XodLhe3QPaCCrf3_#.mp4
+#EXTINF:-1 xui-id="2789" tvg-name="Duranga S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLE6M7_SGvNwCYI5kVpF1XXTrbKCcHCkf4PESeisBlmN4.jpg" group-title="India",Duranga S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6KWft0KElCVnaWTBieuzovwEHl-9EJrSzBGFhUV162Z#.mp4
+#EXTINF:-1 xui-id="2790" tvg-name="Duranga S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrONIfnlG3aTbu2-X__omlg1Ynq5XJF7Kw1Y5AzjLZ0Q.jpg" group-title="India",Duranga S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9Q3zbHbct_bD0YX7r6ur63RWngELyVdexTxgZnfdtdD#.mp4
+#EXTINF:-1 xui-id="2791" tvg-name="Duranga S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQ5VcmtPfAhDzZ3hEzvvPgKrf1WI9Px0fFOWTDjBEe-c.jpg" group-title="India",Duranga S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6q_lT2nR3JzKoXwdSiiRGafDZamI_XnMJkHHN6fb0_7#.mp4
+#EXTINF:-1 xui-id="2792" tvg-name="Duranga S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLraSaOFeJCSjETc30kkQTdjO651f1sQ8ufFApRegGuug.jpg" group-title="India",Duranga S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5KyS0k0jWKECRPsuSiyI7ZvOH2xLCd8fUCeYfwMGLb_#.mp4
+#EXTINF:-1 xui-id="2793" tvg-name="Engga Hostel S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVvuv8jHt8eUe_KCfU4DaGalenBB2pPMEStDeoN9bTAI.jpg" group-title="India",Engga Hostel S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzS4vcGhrOXVi2e1znJN_mdT7YM2jVY_hca-gkib1d5J#.mp4
+#EXTINF:-1 xui-id="2794" tvg-name="Engga Hostel S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhUsJO4-AgI5hBT4MP7kq2n8m89RrmnSRuuUKAO_QudQ.jpg" group-title="India",Engga Hostel S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0DcXyf6BooRqq2zxI_QLI2J3FNERrcPeF_eBpgFYbsW#.mp4
+#EXTINF:-1 xui-id="2795" tvg-name="Engga Hostel S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKUHlRSXGGzmqkrFbqyae5GJEOh2U5gd1C_XZ5JcIcDg.jpg" group-title="India",Engga Hostel S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5qhGvg34Vr_lb86G76RIekoY0pCg9mlHgD7sVdW-dFO#.mp4
+#EXTINF:-1 xui-id="2796" tvg-name="Engga Hostel S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa-5skPUx5Vjxijfw0p8Bq6cZ_TYjOCI2FsO4jIggg6k.jpg" group-title="India",Engga Hostel S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n4t2Qo91VYRAWys-SkZXNAcGT7TLdi5xKfUJCS4L3zgG#.mp4
+#EXTINF:-1 xui-id="2797" tvg-name="Engga Hostel S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLm4VsfQWVnn9xbbNmnmpEhbzhCZwHOISQoO-RkjyojV0.jpg" group-title="India",Engga Hostel S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-6KTNVIVxEAYlUd-jF1opdHq-HHYcgKjft0cGWAseUk#.mp4
+#EXTINF:-1 xui-id="2798" tvg-name="Escaype Live S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLi-8_J55Snhh6i2z5PSeFW_zCQXJnXcdZbWNej1KSvNI.jpg" group-title="India",Escaype Live S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0bgoPqFWMlFjAbrPpe5VhdHsIr2bRQgc2GNNWFs4OiA#.mp4
+#EXTINF:-1 xui-id="2799" tvg-name="Escaype Live S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4fFHRGeiNlvk-2q2tgPeeH8NpdLCeB1Iz-GySEJpBvA.jpg" group-title="India",Escaype Live S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0TyM8K0TdyyOMwIx1Y7GBieQuYsvuQs87Hz6uDe6Hcs#.mp4
+#EXTINF:-1 xui-id="2800" tvg-name="Escaype Live S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL25gd-6ixz8WQAIPpWCeGrqsj3q8gI9HXKiY3Xi2VZu0.jpg" group-title="India",Escaype Live S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6p09r87BCtnBWzames9QPCwwslRE5vUfoge6mR1YGgZ#.mp4
+#EXTINF:-1 xui-id="2801" tvg-name="Escaype Live S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBq6mA8eYD1atSwq-kmsf2FrGbX_Cn0AwCslDOhVmLZo.jpg" group-title="India",Escaype Live S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7TlQ_B6t6I12eGbfQnlzkYA8rSSy-Rpmnl5SWtK4Fic#.mp4
+#EXTINF:-1 xui-id="2802" tvg-name="Escaype Live S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPDgDRKZhEGCJa85uYLRA5GpRZgPe4BAAPFepxs8mHRA.jpg" group-title="India",Escaype Live S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n115cFWojBe8o20gqt_MYDBdb0zTf6EcFfmWKDoPFdgy#.mp4
+#EXTINF:-1 xui-id="2803" tvg-name="Escaype Live S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvGLkYq0-kKzxCkV_QKmVhuACiYrkoLtUic-5LJcdA64.jpg" group-title="India",Escaype Live S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n_O9UkVQChJ9w5afcu1nXVcIVCR2NPwC6f4I6gEoF4sN#.mp4
+#EXTINF:-1 xui-id="2804" tvg-name="Escaype Live S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJgOFuDrm344raEAz1tZqBWskbNfhQJJL9QlUyjgbaUg.jpg" group-title="India",Escaype Live S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzB7_XzRGWGtwd5-j8IuD0TWFReNltdqsiCkrTr0K55q#.mp4
+#EXTINF:-1 xui-id="2805" tvg-name="Escaype Live S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXdZ5eShrq-LWaf1x41x1ksslQeDHAczb9TVInzcib1g.jpg" group-title="India",Escaype Live S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7p_EVBO5U-UfV6L5cQEWV2vRBzfh93XhIjZbSQVSXRA#.mp4
+#EXTINF:-1 xui-id="2806" tvg-name="Escaype Live S01E09" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLP1v6BFNpifp29e6zDG-T5sj8P3y8OfwiEGpNfGUCa8M.jpg" group-title="India",Escaype Live S01E09
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n54nQ7RxqzBtfUopzgCmTUjlSxJzdPklViQYJTgtHACY#.mp4
+#EXTINF:-1 xui-id="2807" tvg-name="Eternally Confused and Eager for Love S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkNou7UeYtKajA3sVcSOQf2fryU5mOEm9DEJiNcwxyww.jpg" group-title="India",Eternally Confused and Eager for Love S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5HVdorxlimSKKA_488o7nhsfylqWYqe1bTxA8V9SC3N#.mp4
+#EXTINF:-1 xui-id="2808" tvg-name="Eternally Confused and Eager for Love S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLy1uH3TnMAoZlSodewCwt1NIB4VwvQj9Yd9mM2GWBw3o.jpg" group-title="India",Eternally Confused and Eager for Love S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8YnwlroxgZGlQzBWFazlh1sVzTLnB5PBSokLp3xtSX5#.mp4
+#EXTINF:-1 xui-id="2809" tvg-name="Eternally Confused and Eager for Love S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoA00Umv8n2p3snHhpkp0dwd3p6DA-29HDGLJo0g9W9k.jpg" group-title="India",Eternally Confused and Eager for Love S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-DqltmAopgCLdOXMrPf63pe-E9G1H7yQU0mZByX_S8W#.mp4
+#EXTINF:-1 xui-id="2810" tvg-name="Eternally Confused and Eager for Love S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkOjppGfCGhr3U50oaJAMjcjmntmIClDLXUxVB_qODiM.jpg" group-title="India",Eternally Confused and Eager for Love S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7wRtqUo92B-eyxv4SgjlbfFXqRA6Rdx427Ny2UjiDhu#.mp4
+#EXTINF:-1 xui-id="2811" tvg-name="Eternally Confused and Eager for Love S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYoS02fg6ok2iOQTLWVxEC5tYcCRrCwA8kH-kVxhJI_0.jpg" group-title="India",Eternally Confused and Eager for Love S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-K5BayXAaNMjm3lNMkYuMgV4aJSKO34jP3SwhLqJ8EW#.mp4
+#EXTINF:-1 xui-id="2812" tvg-name="Eternally Confused and Eager for Love S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2tvnxh4rMW1J8DbbEUAcnCw9NO5q9u83a6UVMxTuF_I.jpg" group-title="India",Eternally Confused and Eager for Love S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n6X_t2TzLGpICOZ6_dCDEHRUpONr_k8BWb-U0mhCKt3P#.mp4
+#EXTINF:-1 xui-id="2813" tvg-name="Eternally Confused and Eager for Love S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqFZp2R6SFFGG2G4gRRryNT85MeU3ohNh-ml4guIohEI.jpg" group-title="India",Eternally Confused and Eager for Love S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2f5LvXNWf653p3mFlA9ynKeIPKpAcpnbu9wPJtoXTYT#.mp4
+#EXTINF:-1 xui-id="2814" tvg-name="Eternally Confused and Eager for Love S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqS3N2Ua0zN73PThBQuPdwMWsly0MeZIJVs-zzDmdxXY.jpg" group-title="India",Eternally Confused and Eager for Love S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n28d66OAmfqSPixH76gyCO5BLTKW2XiIf2uhVpao4p0F#.mp4
+#EXTINF:-1 xui-id="2815" tvg-name="Fall S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfdUjLX-ASyKOFoN_Pt3ShLmjZ6lE3xJD5CmE0QBlU-U.jpg" group-title="India",Fall S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-0obQSMRnqcCf_o5-OuPuGxaRKRkqjYEen3OzXtCoOk#.mp4
+#EXTINF:-1 xui-id="2816" tvg-name="Fall S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8OvpV_FfxvNPWO7UEWTaLwd5h-ShZbN6AofMgfp7Y4A.jpg" group-title="India",Fall S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzoDuLhQcQSYtiWSfVbNJP86XQ3KtwG2LutGFwwQbbHN#.mp4
+#EXTINF:-1 xui-id="2817" tvg-name="Fall S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoz-JtUu0bSRxmovdZXVC2Sm5I2XibNLehNhgrc07_xw.jpg" group-title="India",Fall S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n0M5d26IU2SMIRjAEyScsBasXXMq6jKTCuRgzKU1Kso4#.mp4
+#EXTINF:-1 xui-id="2818" tvg-name="Fall S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL680p4YaLFnEXCYk7xgdfpcJUIBuH96BUmkIwqh_1OTI.jpg" group-title="India",Fall S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nyq-JTsquTrwM4CvhPMYmFi8KZoxwDiEc21l_yenWjIq#.mp4
+#EXTINF:-1 xui-id="2819" tvg-name="Fall S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZbR2fdVPDN4g4Z5qCnpl-QkToUtDv0XDgHoKiE2931M.jpg" group-title="India",Fall S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nzJOIrK3d97P_biuo1PLl8I9rrZirYUzN1-xmjjAAt9y#.mp4
+#EXTINF:-1 xui-id="2820" tvg-name="Fall S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7LmncCfN3t9jVfGU1ckyuTc5TCsvWkCw3qAvY03NoR4.jpg" group-title="India",Fall S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n62mCSKC1kMLt2y-lyL_rBczjiur06lT5354OKdmZzjA#.mp4
+#EXTINF:-1 xui-id="2821" tvg-name="Fall S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa-oIftxwGjpb07oJfHz6EunmXYmxKidg4SFJPfsMOb0.jpg" group-title="India",Fall S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n7ta32xO3ygMZESaB4VEi7u5LU-k_8Fut46tyHGhSxNL#.mp4
+#EXTINF:-1 xui-id="2822" tvg-name="Farzi S01E01" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGflLmxqHQ1D9egEuMzc2Iz0tdMc0AbnlxnzVOmJ9DEs.jpg" group-title="India",Farzi S01E01
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3nwwOnKzEtQlx_gPzgTQJDkFFwrx3O1WZgHjpPg3fohaC#.mp4
+#EXTINF:-1 xui-id="2823" tvg-name="Farzi S01E02" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyA6WmAVDYrJQFf3QY8gtXLqq9Teu2MggFT-5hfv5iUA.jpg" group-title="India",Farzi S01E02
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n5sKHdTxbqrLy_u1Fu3Z_oyu99937GEPWbsUtn9O7DFi#.mp4
+#EXTINF:-1 xui-id="2824" tvg-name="Farzi S01E03" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzoH0tOEWdTRnXpGUHFzVcMAG2OgxFXcWtmCxjG1lLOk.jpg" group-title="India",Farzi S01E03
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-V8byp4ficcJSZBrqhB3HX68Kl3phsN-_O0PLOCDNqb#.mp4
+#EXTINF:-1 xui-id="2825" tvg-name="Farzi S01E04" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYalU-VMj1cuhKhgvIFW_ugknTiPTEP1LJvXMoYREbFw.jpg" group-title="India",Farzi S01E04
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n-G3IyWLYPqSHRENAeV7HEzF8ThRPYnO5IG7O9tkeNYS#.mp4
+#EXTINF:-1 xui-id="2826" tvg-name="Farzi S01E05" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqXpCkXn3a3YUyI_CdyH_zPtJ87X9IHS3HLzPpOsi1mM.jpg" group-title="India",Farzi S01E05
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n9OLOHx9V-eSpaiQBSd9HfzjxdUpASTzvW9aTiRCPBBe#.mp4
+#EXTINF:-1 xui-id="2827" tvg-name="Farzi S01E06" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2eqLuEccbm_jWwCySrghCLjPZB53WYibipcXA1fd21o.jpg" group-title="India",Farzi S01E06
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n3to-7YlMTYM6uPc4vwii710q0dSNLzMkxJIke_5XUFA#.mp4
+#EXTINF:-1 xui-id="2828" tvg-name="Farzi S01E07" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLE78ToKZuXtfL0J0_GdB4R-Ce6lzT5q87Hp1UzvN6B9g.jpg" group-title="India",Farzi S01E07
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n8io_qFqP2WJXoeQdocqFkdUHSV6Emdt2SAkUGTOT1my#.mp4
+#EXTINF:-1 xui-id="2829" tvg-name="Farzi S01E08" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCvxrVRanwR1GeOG8AGNb89LOpH3jeByoAO2GLOl4Ycw.jpg" group-title="India",Farzi S01E08
+http://bananatv.org:25461/play/n6AXuj5M-_fP_VXlFKb3n2NYaKnWaeEs2tMrqz1pzZL4Db9Ku0R9rmx_Uau_Lrku#.mp4
