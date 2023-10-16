@@ -185,24 +185,6 @@ http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/206
 http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/207
 #EXTINF:-1 tvg-id="" tvg-name="CNBC News" tvg-logo="http://familyiptv.xyz:25461/images/1998116f20ec85d7208e63eb40f0ba29.jpg" group-title="World News Channels",CNBC News
 http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/208
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 1" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 1
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/211
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 2" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 2
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/212
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 3" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 3
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/213
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 4" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 4
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/215
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 5" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 5
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/216
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 6" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 6
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/217
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 7" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 7
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/218
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 8" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 8
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/219
-#EXTINF:-1 tvg-id="" tvg-name="Adult Channel 9" tvg-logo="http://familyiptv.xyz:25461/images/c3d8729b44160585448c65b55796701c.png" group-title="Adult Channels",Adult Channel 9
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/221
 #EXTINF:-1 tvg-id="" tvg-name="Afwaah (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e309493538cabfcc52ea8b94a0bfc2ac.jpg" group-title="Bollowood ",Afwaah (2023)
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/14.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920: Horrors of the Heart (2023)" tvg-logo="http://familyiptv.xyz:25461/images/60e0cd2932729901a9a97b61554f61e6.jpg" group-title="Bollowood ",1920: Horrors of the Heart (2023)
