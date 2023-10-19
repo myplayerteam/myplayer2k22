@@ -185,6 +185,162 @@ http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/206
 http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/207
 #EXTINF:-1 tvg-id="" tvg-name="CNBC News" tvg-logo="http://familyiptv.xyz:25461/images/1998116f20ec85d7208e63eb40f0ba29.jpg" group-title="World News Channels",CNBC News
 http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/208
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 HD." tvg-logo="http://familyiptv.xyz:25461/images/11c2bb18ba7a17e0dd2c54bac5b72128.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 1 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/228
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 HD." tvg-logo="http://familyiptv.xyz:25461/images/a142e512e5558f24dbd4d0f3efeadae7.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 2 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/229
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 HD." tvg-logo="http://familyiptv.xyz:25461/images/87a347a88ca7f69557d01c508744c25d.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 3 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/230
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 4 HD." tvg-logo="http://familyiptv.xyz:25461/images/a0df50e378abfa21dcc9cd4e0e775b18.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 4 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/231
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 5 HD." tvg-logo="http://familyiptv.xyz:25461/images/8f6b8025aa0ba944945185b7cdc21371.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 5 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/232
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 6 HD." tvg-logo="http://familyiptv.xyz:25461/images/b2c0465a4013326d4fb1ea5cc09895e4.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 6 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/233
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 7 HD." tvg-logo="http://familyiptv.xyz:25461/images/0e1c28925c93c4d429185f59a53b97b4.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS 7 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/234
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS PREMIUM 1 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS PREMIUM 1 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/235
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS PREMIUM 2 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS PREMIUM 2 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/236
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS PREMIUM 3 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS PREMIUM 3 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/237
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS FRANCE 1 HD." tvg-logo="http://familyiptv.xyz:25461/images/5735f918cc3b314148c52ec70d30e5f0.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS FRANCE 1 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/238
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS FRANCE 2 HD." tvg-logo="http://familyiptv.xyz:25461/images/279e7d0119af9d0177ae7c6398f3fda4.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS FRANCE 2 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/239
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS FRANCE 3 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS FRANCE 3 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/240
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS ENGLISH 1 HD." tvg-logo="http://familyiptv.xyz:25461/images/c5a5dc441698a30e194343000f0467c5.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS ENGLISH 1 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/241
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS ENGLISH 2 HD." tvg-logo="http://familyiptv.xyz:25461/images/6cbbcee1c357a06dccb30d56beb2bb8c.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS ENGLISH 2 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/242
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS ENGLISH 3 HD." tvg-logo="http://familyiptv.xyz:25461/images/6a06fb4fe9b1c16e91953a3acdb9b47e.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS ENGLISH 3 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/243
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS MAX 1 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/244
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS MAX 2 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/245
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS MAX 3 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/246
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS MAX 4 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/247
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 5 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS MAX 5 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/248
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 HD." tvg-logo="" group-title="Bein Sport Local Channels",AR| BEIN SPORTS MAX 6 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/249
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS XTRA 1 HD." tvg-logo="http://familyiptv.xyz:25461/images/fa6dfcdfd95ee93e73d415ec459135ba.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS XTRA 1 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/250
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS XTRA 2 HD." tvg-logo="http://familyiptv.xyz:25461/images/2489b4127199c83d9103f25779efe95e.png" group-title="Bein Sport Local Channels",AR| BEIN SPORTS XTRA 2 HD.
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/251
+#EXTINF:-1 tvg-id="" tvg-name="ART Sport 1" tvg-logo="http://familyiptv.xyz:25461/images/c696eedc7b5427ebeba114fda0b1f2fd.png" group-title="VIP Sport Channels",ART Sport 1
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/252
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3" tvg-logo="http://familyiptv.xyz:25461/images/e956aafabf0ed4c5718793a706cd2b82.png" group-title="VIP Sport Channels",Art Sport 3
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/253
+#EXTINF:-1 tvg-id="" tvg-name=" S SPORT 1 HD" tvg-logo="http://familyiptv.xyz:25461/images/939fa0b031d06b40366db992410c02d2.png" group-title="VIP Sport Channels", S SPORT 1 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/254
+#EXTINF:-1 tvg-id="" tvg-name="S Sport 2 HD" tvg-logo="http://familyiptv.xyz:25461/images/e9aa3dbf737113cf9e952c9cc60f7df6.png" group-title="VIP Sport Channels",S Sport 2 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/255
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="http://familyiptv.xyz:25461/images/521b7e92c5c38554fa722c832cae34d4.png" group-title="UK Sport Channels",UK: SKY SPORTS ARENA
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/266
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS BOX OFFICE" tvg-logo="http://familyiptv.xyz:25461/images/4a185f846283b13dab6c75a3bfd7e2b5.png" group-title="UK Sport Channels",UK: SKY SPORTS BOX OFFICE
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/267
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="http://familyiptv.xyz:25461/images/2378f2e6d45d770696f29dd87fa23cf6.png" group-title="UK Sport Channels",UK: SKY SPORTS FOOTBALL
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/268
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="http://familyiptv.xyz:25461/images/b9dc05f5a4beb384998613a4f6fa6cd3.jpg" group-title="UK Sport Channels",UK: SKY SPORTS GOLF
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/269
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX" tvg-logo="http://familyiptv.xyz:25461/images/f8e51beeba3f389bacab1f8219e9a628.png" group-title="UK Sport Channels",UK: SKY SPORTS MIX
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/270
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass" tvg-logo="" group-title="UK Sport Channels",UK: UFC Fight Pass
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/273
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="UK Sport Channels",UK: SKY SPORTS PREMIER LEAGUE
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/276
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="http://familyiptv.xyz:25461/images/e9127e9a923bd3bafb7c2d4c81f6bd1c.png" group-title="Potugual Sport Channels",Sport TV 1
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/277
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="http://familyiptv.xyz:25461/images/f2e937d31169bc4f2eb0ff518475598f.png" group-title="Potugual Sport Channels",Sport TV 2
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/278
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="http://familyiptv.xyz:25461/images/c51ccbd471d1b76c9b2693c705cc7b2c.png" group-title="Potugual Sport Channels",Sport TV 3
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/279
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="http://familyiptv.xyz:25461/images/65d8e570d52a5f679417211a96752b18.png" group-title="Potugual Sport Channels",Eleven Sport 1
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/280
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2" tvg-logo="http://familyiptv.xyz:25461/images/563e6415c3854334ae80c2ca23900eef.png" group-title="Potugual Sport Channels",Eleven Sport 2
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/281
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3" tvg-logo="http://familyiptv.xyz:25461/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="Potugual Sport Channels",Eleven Sport 3
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/282
+#EXTINF:-1 tvg-id="" tvg-name="|GR| NOVA SPORTS 1 HD" tvg-logo="http://familyiptv.xyz:25461/images/a456ad4e67f4766ac6e8e709de626999.png" group-title="Germany Sport Channels",|GR| NOVA SPORTS 1 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/295
+#EXTINF:-1 tvg-id="" tvg-name="|GR| NOVA SPORTS 2 HD" tvg-logo="http://familyiptv.xyz:25461/images/0031d8c9041c298b8bcea6775abe52af.png" group-title="Germany Sport Channels",|GR| NOVA SPORTS 2 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/296
+#EXTINF:-1 tvg-id="" tvg-name="|GR| NOVA SPORTS 3 HD" tvg-logo="http://familyiptv.xyz:25461/images/6192d19408f11d5a1e33ff726d285da1.png" group-title="Germany Sport Channels",|GR| NOVA SPORTS 3 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/297
+#EXTINF:-1 tvg-id="" tvg-name="|GR| NOVA SPORTS 4 HD" tvg-logo="http://familyiptv.xyz:25461/images/e9a1f7a247cb218c72a26ed13a84984b.png" group-title="Germany Sport Channels",|GR| NOVA SPORTS 4 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/298
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 1 HD" tvg-logo="http://familyiptv.xyz:25461/images/5e17b86cf86c950de5ed9ebbacece556.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 1 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/299
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 2 HD" tvg-logo="http://familyiptv.xyz:25461/images/454463df9129980d46bdb0262d434568.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 2 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/300
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 3 HD" tvg-logo="http://familyiptv.xyz:25461/images/35ca81c91b0990ae3fc2f7584442c5ed.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 3 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/301
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 4 HD" tvg-logo="http://familyiptv.xyz:25461/images/c7a5999ca013a8fd79e027f00f06cc6e.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 4 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/302
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 5 HD" tvg-logo="http://familyiptv.xyz:25461/images/e7856e062e0ad31814178d03054ab35b.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 5 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/303
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 6 HD" tvg-logo="http://familyiptv.xyz:25461/images/8cdd4fdcf9b2416e172519abe623c483.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 6 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/305
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 7 HD" tvg-logo="http://familyiptv.xyz:25461/images/8676f571a6e0556248b0babf0e2542a2.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 7 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/306
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 8 HD" tvg-logo="http://familyiptv.xyz:25461/images/4ce85f9c6d3073e9bf25390e518358c9.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 8 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/307
+#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 9 HD" tvg-logo="http://familyiptv.xyz:25461/images/bd53655e09fea14c80292125fc67b51c.png" group-title="Germany Sport Channels",|GR| COSMOTE SPORT 9 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/308
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN Sports 1" tvg-logo="http://familyiptv.xyz:25461/images/97b9533b54a0dee2e53f24b1b99fc068.png" group-title="Neterland Sport Channels",NL: ESPN Sports 1
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/313
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN Sports 2 HD" tvg-logo="http://familyiptv.xyz:25461/images/f2dcfefec5adb9419a060632a6c5ebec.png" group-title="Neterland Sport Channels",NL: ESPN Sports 2 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/314
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN SPORTS 3" tvg-logo="http://familyiptv.xyz:25461/images/9b42231d31d61fad5d122313de49bbb4.png" group-title="Neterland Sport Channels",NL: ESPN SPORTS 3
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/315
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN Sports 4 HD" tvg-logo="http://familyiptv.xyz:25461/images/ece142362714501ede8bc19d19aad25f.png" group-title="Neterland Sport Channels",NL: ESPN Sports 4 HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/316
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN SPORTS 5" tvg-logo="" group-title="Neterland Sport Channels",NL: ESPN SPORTS 5
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/317
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing FHD" tvg-logo="http://familyiptv.xyz:25461/images/2da47002317e0a8843172e59452b0851.png" group-title="Neterland Sport Channels",NL: Ziggo Sport Racing FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/318
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select FHD" tvg-logo="http://familyiptv.xyz:25461/images/6b22fe054e705af1b0c47f4fa3e49d2e.png" group-title="Neterland Sport Channels",NL: Ziggo Sport Select FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/319
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal FHD" tvg-logo="http://familyiptv.xyz:25461/images/2e614ae29a31ea195f6779f0b3de0f5b.png" group-title="Neterland Sport Channels",NL: Ziggo Sport Voetbal FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/320
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf HD" tvg-logo="http://familyiptv.xyz:25461/images/192efacfa6ffcd6027fbf9576b152769.png" group-title="Neterland Sport Channels",NL: Ziggo Sport Golf HD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/321
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Docu FHD" tvg-logo="http://familyiptv.xyz:25461/images/30c77fba37cd19fdfabdffdf18a3817a.png" group-title="Neterland Sport Channels",NL: Ziggo Sport Docu FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/322
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 1 FHD" tvg-logo="" group-title="Neterland Sport Channels",NL: Ziggo Sport Extra 1 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/323
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 2 FHD" tvg-logo="" group-title="Neterland Sport Channels",NL: Ziggo Sport Extra 2 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/324
+#EXTINF:-1 tvg-id="" tvg-name="NL: EUROSPORT 1 HD H265" tvg-logo="http://familyiptv.xyz:25461/images/079e23dea010d95a8db04603db2e558a.png" group-title="Neterland Sport Channels",NL: EUROSPORT 1 HD H265
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/325
+#EXTINF:-1 tvg-id="" tvg-name="NL: EUROSPORT 2 H265" tvg-logo="http://familyiptv.xyz:25461/images/9738cd4eb59e0bf9a94e20de03e72c86.png" group-title="Neterland Sport Channels",NL: EUROSPORT 2 H265
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/326
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 1 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 1 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/424
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 2 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 2 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/425
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 3 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 3 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/426
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 4 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 4 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/427
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 5 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 5 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/428
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 6 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 6 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/429
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 7 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 7 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/430
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 8 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 8 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/431
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 9 FHD" tvg-logo="" group-title="SKY Sports Channels",NZ: Sky Sport 9 FHD
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/432
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORT SELECT" tvg-logo="" group-title="SKY Sports Channels",NZ: SKY SPORT SELECT
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/433
 #EXTINF:-1 tvg-id="" tvg-name="Afwaah (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e309493538cabfcc52ea8b94a0bfc2ac.jpg" group-title="Bollowood ",Afwaah (2023)
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/14.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920: Horrors of the Heart (2023)" tvg-logo="http://familyiptv.xyz:25461/images/60e0cd2932729901a9a97b61554f61e6.jpg" group-title="Bollowood ",1920: Horrors of the Heart (2023)
@@ -421,3 +577,227 @@ http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/225.mp4
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/226.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yaksha:Ruthless Operations (2022)" tvg-logo="http://familyiptv.xyz:25461/images/d7a17277b776c6a8e4db1bad8ff1e837.jpg" group-title="Action",Yaksha:Ruthless Operations (2022)
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battle: Los Angeles (2011)" tvg-logo="http://familyiptv.xyz:25461/images/eb07dee8fab32921c2c36122169665a3.jpg" group-title="Action",Battle: Los Angeles (2011)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beasts of the Southern Wild (2012)" tvg-logo="http://familyiptv.xyz:25461/images/791494f161fd1f6c9ed014e4bf5e7eea.jpg" group-title="Adventure",Beasts of the Southern Wild (2012)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="http://familyiptv.xyz:25461/images/f4ae56df98a99ba6bfb5fdd0601a9c80.jpg" group-title="Action",Black Panther: Wakanda Forever (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle (2023)" tvg-logo="http://familyiptv.xyz:25461/images/5e8a7bce4440bececc7456cea265dda1.jpg" group-title="Action",Blue Beetle (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="http://familyiptv.xyz:25461/images/cb370034045bc8027d9e9c12bab48114.jpg" group-title="Action",Bumblebee (2018)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaw (2009)" tvg-logo="http://familyiptv.xyz:25461/images/90aa8c8ff17cb8a1c0aa90251a7bd35a.jpg" group-title="Action",Chaw (2009)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coast Guard Malaysia: Ops Helang (2023)" tvg-logo="http://familyiptv.xyz:25461/images/5bc461e6645fe3694c378faaf2cf05c8.jpg" group-title="Action",Coast Guard Malaysia: Ops Helang (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conjuring Curse (2023)" tvg-logo="http://familyiptv.xyz:25461/images/9201f5a8990688b81771b2e8d7e2e37c.jpg" group-title="Action",Conjuring Curse (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cosmoball (2020)" tvg-logo="http://familyiptv.xyz:25461/images/d27e30a1a4bfd4ed3a09695c31b1ad58.jpg" group-title="Adventure",Cosmoball (2020)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dragon Trace Palace of Exquisite Wild Flowers (2023)" tvg-logo="http://familyiptv.xyz:25461/images/9d0d12c705d5c411f1f46dcb2846af41.jpg" group-title="Action",The Dragon Trace Palace of Exquisite Wild Flowers (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cricket & Antoinette (2023)" tvg-logo="http://familyiptv.xyz:25461/images/75c314a249de3c56d7415d409f77bec8.jpg" group-title="Animation",Cricket & Antoinette (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desert Chasing Cloud Sword (2023)" tvg-logo="http://familyiptv.xyz:25461/images/49d72263acff0ec47542cfd5fd0765ec.jpg" group-title="Action",Desert Chasing Cloud Sword (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hidden in a Mysterious Hole (2023)" tvg-logo="http://familyiptv.xyz:25461/images/b11c3b5ec9501e873ab199068094ddfa.jpg" group-title="Adventure",Dragon Hidden in a Mysterious Hole (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: The Book of Vile Darkness (2012)" tvg-logo="http://familyiptv.xyz:25461/images/9861c397a390169d58d15fd4d76116b6.jpg" group-title="Action",Dungeons & Dragons: The Book of Vile Darkness (2012)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Tha Tiger (2012)" tvg-logo="http://familyiptv.xyz:25461/images/7807af8eb4b6b208891bc1ba90e91a65.jpg" group-title="Bollowood ",Ek Tha Tiger (2012)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Epic Tails (2023)" tvg-logo="http://familyiptv.xyz:25461/images/8a795658262c5c8fd104f084d6baf0d5.jpg" group-title="Animation",Epic Tails (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2 (2023)" tvg-logo="http://familyiptv.xyz:25461/images/be6368ad01f6a86e63ed68f4c4f28513.jpg" group-title="Bollowood ",Gadar 2 (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="George of the Jungle (1997)" tvg-logo="http://familyiptv.xyz:25461/images/3b13e4bf1777cc5cf148697b9a35a17d.jpg" group-title="Action",George of the Jungle (1997)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giant Snake Incident at Yellow River (2023)" tvg-logo="http://familyiptv.xyz:25461/images/64f5c7d903ba5cb94a2fab678fc06a3c.jpg" group-title="Adventure",Giant Snake Incident at Yellow River (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace (2023)" tvg-logo="http://familyiptv.xyz:25461/images/98bfd1bc5c00dcdf9da5db812529e852.jpg" group-title="Animation",Headspace (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K.G.F: Chapter 1 (2018)" tvg-logo="http://familyiptv.xyz:25461/images/ec2abdb666fd57eb209932ec74609295.jpg" group-title="Bollowood ",K.G.F: Chapter 1 (2018)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khun Phaen Begins (2019)" tvg-logo="http://familyiptv.xyz:25461/images/cef4f46e3315f52dfe42b94ab59ec2dd.jpg" group-title="Action",Khun Phaen Begins (2019)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mechamato Movie (2022)" tvg-logo="http://familyiptv.xyz:25461/images/dd2648314e29d0dbd3fd3004d72491e6.jpg" group-title="Animation",Mechamato Movie (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mickey's Tale of Two Witches (2021)" tvg-logo="http://familyiptv.xyz:25461/images/fd2f2cdc80cb495b2955ac960c776ca9.jpg" group-title="Animation",Mickey's Tale of Two Witches (2021)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mighty Morphin Power Rangers: Once & Always (2023)" tvg-logo="http://familyiptv.xyz:25461/images/c3542682d072f924fc513b411f46f555.jpg" group-title="Action",Mighty Morphin Power Rangers: Once & Always (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pushpa: The Rise - Part 1 (2021)" tvg-logo="http://familyiptv.xyz:25461/images/7932b01758277df6df8ef60f491987b1.jpg" group-title="Bollowood ",Pushpa: The Rise - Part 1 (2021)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robot No. 8 (2023)" tvg-logo="http://familyiptv.xyz:25461/images/dd506799a2896fac92584f153e7e7383.jpg" group-title="Adventure",Robot No. 8 (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robots (2005)" tvg-logo="http://familyiptv.xyz:25461/images/0d105d3ebe38effa06b9134fd60d2bed.jpg" group-title="Animation",Robots (2005)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods (2023)" tvg-logo="http://familyiptv.xyz:25461/images/fc31d61940a0b8616f8bfbd7239b520d.jpg" group-title="Action",Shazam! Fury of the Gods (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sri Asih (2022)" tvg-logo="http://familyiptv.xyz:25461/images/8f9371714da168f40ee431af2680ab97.jpg" group-title="Action",Sri Asih (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Maid Marian (2022)" tvg-logo="http://familyiptv.xyz:25461/images/b11a145a9f73485d747331a3d0fcf12f.jpg" group-title="Adventure",The Adventures of Maid Marian (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Legacy (2012)" tvg-logo="http://familyiptv.xyz:25461/images/4a20bf461a55dc33b0b164b508edac54.jpg" group-title="Action",The Bourne Legacy (2012)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dead Lands (2014)" tvg-logo="http://familyiptv.xyz:25461/images/d826edffcb5266fc5cc1858cb7390bb2.jpg" group-title="Action",The Dead Lands (2014)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games (2012)" tvg-logo="http://familyiptv.xyz:25461/images/23e643307aea7e6096a0abe648cb083a.jpg" group-title="Action",The Hunger Games (2012)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Catching Fire (2013)" tvg-logo="http://familyiptv.xyz:25461/images/f6f738778800c0fd01ed71f75d9f55c9.jpg" group-title="Action",The Hunger Games: Catching Fire (2013)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Mockingjay - Part 1 (2014)" tvg-logo="http://familyiptv.xyz:25461/images/b361684d7f00db95ab0d878687ffc895.jpg" group-title="Action",The Hunger Games: Mockingjay - Part 1 (2014)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Mockingjay - Part 2 (2015)" tvg-logo="http://familyiptv.xyz:25461/images/462f230889d1b08a3fa55e135fdfc354.jpg" group-title="Action",The Hunger Games: Mockingjay - Part 2 (2015)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter (2011)" tvg-logo="http://familyiptv.xyz:25461/images/4d440c4dc896302cc118df2020b79936.jpg" group-title="Drama",The Hunter (2011)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend of Tarzan (2016)" tvg-logo="http://familyiptv.xyz:25461/images/a9b2f0fc17d63d904da4100645b98b56.jpg" group-title="Action",The Legend of Tarzan (2016)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lion King (2019)" tvg-logo="http://familyiptv.xyz:25461/images/1e30275dc32bf7445fc709a0063ed6fd.jpg" group-title="Adventure",The Lion King (2019)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Northman (2022)" tvg-logo="http://familyiptv.xyz:25461/images/46301721abb999c3fc79d86c5870773f.jpg" group-title="Action",The Northman (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Quest (1996)" tvg-logo="http://familyiptv.xyz:25461/images/a61ab8641d0661a60c63b56672cb2524.jpg" group-title="Action",The Quest (1996)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The SpongeBob Movie: Sponge Out of Water (2015)" tvg-logo="http://familyiptv.xyz:25461/images/9492eef41befb5d9b20448e65acef0b8.jpg" group-title="Animation",The SpongeBob Movie: Sponge Out of Water (2015)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022)" tvg-logo="http://familyiptv.xyz:25461/images/d84a875cac573d8bccc023a4bce147ad.jpg" group-title="Action",Thor: Love and Thunder (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thunivu (2023)" tvg-logo="http://familyiptv.xyz:25461/images/079c05d94d5c7380acbf1edec8e5b44e.jpg" group-title="Bollowood ",Thunivu (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiger Zinda Hai (2017)" tvg-logo="http://familyiptv.xyz:25461/images/4e7f6320937ce5c24206f7477aabef8c.jpg" group-title="Bollowood ",Tiger Zinda Hai (2017)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers (2007)" tvg-logo="http://familyiptv.xyz:25461/images/ded6ef7d814711bdcbf5b034aaf5a670.jpg" group-title="Action",Transformers (2007)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ace Bodyguard (2023)" tvg-logo="http://familyiptv.xyz:25461/images/85508c833a4143a147ce983e6215cf53.jpg" group-title="Action",Ace Bodyguard (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballerina (2023)" tvg-logo="http://familyiptv.xyz:25461/images/7f7642ee1393019fe317bdbaef4ce257.jpg" group-title="Action",Ballerina (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Concrete Utopia (2023)" tvg-logo="http://familyiptv.xyz:25461/images/2e709c85272d90d393a983db2db39461.jpg" group-title="Action",Concrete Utopia (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Asset (2023)" tvg-logo="http://familyiptv.xyz:25461/images/b8dd206a881313b0136fd50410990b32.jpg" group-title="Action",Dark Asset (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fair Play (2023)" tvg-logo="http://familyiptv.xyz:25461/images/a2e34ec1b041d76c06959f995caddb75.jpg" group-title="Drama",Fair Play (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="From Vegas to Macau II (2015)" tvg-logo="http://familyiptv.xyz:25461/images/3013f33fdc999dc5b74c0c42b4ff1ed0.jpg" group-title="Action",From Vegas to Macau II (2015)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hercules (2014)" tvg-logo="http://familyiptv.xyz:25461/images/575d27824bc7d507ecf5ee98120cb1da.jpg" group-title="Action",Hercules (2014)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tourist's Guide to Love (2023)" tvg-logo="http://familyiptv.xyz:25461/images/26dfbf3c6855122a8471bf2072c7f8c2.jpg" group-title="Adventure",A Tourist's Guide to Love (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All the Places (2023)" tvg-logo="http://familyiptv.xyz:25461/images/dc3b7c2723a7501cc40aabf5d00ae703.jpg" group-title="Adventure",All the Places (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal World (2018)" tvg-logo="http://familyiptv.xyz:25461/images/ceda71f459cfd5863fb2ba228260fa71.jpg" group-title="Adventure",Animal World (2018)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antz (1998)" tvg-logo="http://familyiptv.xyz:25461/images/e901ebb75556f80e430a601dcb61853f.jpg" group-title="Animation",Antz (1998)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix & Obelix: The Middle Kingdom (2023)" tvg-logo="http://familyiptv.xyz:25461/images/edfbca7de9dee9a7ececb3bec9028906.jpg" group-title="Adventure",Asterix & Obelix: The Middle Kingdom (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix: The Mansions of the Gods (2014)" tvg-logo="http://familyiptv.xyz:25461/images/a119cd4b9d8a88e594fe06ee8313f74d.jpg" group-title="Animation",Asterix: The Mansions of the Gods (2014)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="http://familyiptv.xyz:25461/images/8c661790a04fbc19a9cfdfa6d4d6ab47.jpg" group-title="Adventure",Avatar (2009)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="http://familyiptv.xyz:25461/images/54ec67f84033582cc12496bacf9c689d.jpg" group-title="Adventure",Avatar: The Way of Water (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave (2012)" tvg-logo="http://familyiptv.xyz:25461/images/5f2debc610a7da341ee906619abd3c9a.jpg" group-title="Animation",Brave (2012)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Checkered Ninja 2 (2021)" tvg-logo="http://familyiptv.xyz:25461/images/6ff0addbe2271cdfe9cdad9fade4bd63.jpg" group-title="Animation",Checkered Ninja 2 (2021)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicken Little (2005)" tvg-logo="http://familyiptv.xyz:25461/images/53bf5b0bb1cf025b5edecfa5b6369f63.jpg" group-title="Animation",Chicken Little (2005)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cloudy with a Chance of Meatballs 2 (2013)" tvg-logo="http://familyiptv.xyz:25461/images/12cb78da6f120ff40e831fab1cf124eb.jpg" group-title="Animation",Cloudy with a Chance of Meatballs 2 (2013)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disenchanted (2022)" tvg-logo="http://familyiptv.xyz:25461/images/a8127d520b15d01b01fbc9c053a0e3a2.jpg" group-title="Animation",Disenchanted (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elemental (2023)" tvg-logo="http://familyiptv.xyz:25461/images/53d7fe678d77129229f1d6559a1173ae.jpg" group-title="Animation",Elemental (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferdinand (2017)" tvg-logo="http://familyiptv.xyz:25461/images/0cff6c33e83503b68f6611335496aee3.jpg" group-title="Animation",Ferdinand (2017)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finnick (2022)" tvg-logo="http://familyiptv.xyz:25461/images/63202eb088160fb38876736ecc22fffd.jpg" group-title="Animation",Finnick (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen Fever (2015)" tvg-logo="http://familyiptv.xyz:25461/images/d2af24c7d827612122da704cb1b4de18.jpg" group-title="Animation",Frozen Fever (2015)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen II (2019)" tvg-logo="http://familyiptv.xyz:25461/images/feb6d2ef97c14948825907cbdd09fd18.jpg" group-title="Animation",Frozen II (2019)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Goblet of Fire (2005)" tvg-logo="http://familyiptv.xyz:25461/images/7c11c9c917a40d41c6fc3087d601a9b1.jpg" group-title="Adventure",Harry Potter and the Goblet of Fire (2005)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Half-Blood Prince (2009)" tvg-logo="http://familyiptv.xyz:25461/images/3f673d6fe0b4ad2da6cd8fdda9bf5748.jpg" group-title="Adventure",Harry Potter and the Half-Blood Prince (2009)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Prisoner of Azkaban (2004)" tvg-logo="http://familyiptv.xyz:25461/images/122b79c54329947fcc5aa874051d4070.jpg" group-title="Adventure",Harry Potter and the Prisoner of Azkaban (2004)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar (2014)" tvg-logo="http://familyiptv.xyz:25461/images/18663d51f758d67a15d6ad7f8a12a848.jpg" group-title="Adventure",Interstellar (2014)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice League: Warworld (2023)" tvg-logo="http://familyiptv.xyz:25461/images/36079187b6fe43950d779bc0d77e2e82.jpg" group-title="Animation",Justice League: Warworld (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Klaus (2019)" tvg-logo="http://familyiptv.xyz:25461/images/560e4c4c795a16e8c5c1259309fecdc9.jpg" group-title="Animation",Klaus (2019)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kubo and the Two Strings (2016)" tvg-logo="http://familyiptv.xyz:25461/images/0f036f51e976be42ef375496fbf5ebfe.jpg" group-title="Animation",Kubo and the Two Strings (2016)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Disney Princess: The Castle Quest (2023)" tvg-logo="http://familyiptv.xyz:25461/images/c21c86d2bc8e9fed30e8f9888ad624ca.jpg" group-title="Adventure",LEGO Disney Princess: The Castle Quest (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Sniper (2014)" tvg-logo="http://familyiptv.xyz:25461/images/a720a0f78198f2ed4f84e6d21bfc2473.jpg" group-title="Action",American Sniper (2014)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apocalypse Now (1979)" tvg-logo="http://familyiptv.xyz:25461/images/84891d2964ab56c5506f4dc3a69195fd.jpg" group-title="Drama",Apocalypse Now (1979)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betrayed (2020)" tvg-logo="http://familyiptv.xyz:25461/images/905f4ec333f76c741df0458448bae182.jpg" group-title="Drama",Betrayed (2020)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Crab (2022)" tvg-logo="http://familyiptv.xyz:25461/images/4093117d3d3efd63ed7eff076a2c8205.jpg" group-title="Action",Black Crab (2022)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghosts of War (2020)" tvg-logo="http://familyiptv.xyz:25461/images/ad6d4a207783ba75f82f8a1af1eaf005.jpg" group-title="Action",Ghosts of War (2020)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" tvg-logo="http://familyiptv.xyz:25461/images/6dcf40c3021d55359c7e5c068b90f606.jpg" group-title="Action",Mulan (2020)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merrill's Marauders (1962)" tvg-logo="http://familyiptv.xyz:25461/images/d2bb8c037c8c499ab9d893d7d4cf3b2c.jpg" group-title="Adventure",Merrill's Marauders (1962)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Catcher Was a Spy (2018)" tvg-logo="http://familyiptv.xyz:25461/images/03732672e76eebd79a8d64e74c931c86.jpg" group-title="Action",The Catcher Was a Spy (2018)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Childe (2023)" tvg-logo="http://familyiptv.xyz:25461/images/66ba1ef1fefb160bdf03e646548becb4.jpg" group-title="Action",The Childe (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Medallion (2003)" tvg-logo="http://familyiptv.xyz:25461/images/8123b36095783c08fb3b1f9f5d67b84a.jpg" group-title="Action",The Medallion (2003)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Outpost (2020)" tvg-logo="http://familyiptv.xyz:25461/images/133c7b3490a28bb4d17f67026a0ffa62.jpg" group-title="Drama",The Outpost (2020)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow Job (2023)" tvg-logo="http://familyiptv.xyz:25461/images/73f3cddd57f1ecfdde4e35ca2841ad08.jpg" group-title="Action",The Tomorrow Job (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The War Below (2021)" tvg-logo="http://familyiptv.xyz:25461/images/7530a89d3e8888b016d5626ac1f5fa68.jpg" group-title="Action",The War Below (2021)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wrath of Becky (2023)" tvg-logo="http://familyiptv.xyz:25461/images/eb2da9b294ed79664df7081a611aac80.jpg" group-title="Action",The Wrath of Becky (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tombstone of the Fireflies (2008)" tvg-logo="http://familyiptv.xyz:25461/images/db10e1b5374aaf27025a8977270ffc0c.jpg" group-title="Drama",Tombstone of the Fireflies (2008)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Rise of the Beasts (2023)" tvg-logo="http://familyiptv.xyz:25461/images/4a3bfc1d4cf90986f99a87f4789de343.jpg" group-title="Adventure",Transformers: Rise of the Beasts (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War of the Worlds : The Attack (2023)" tvg-logo="http://familyiptv.xyz:25461/images/390b8c5b22ae82e0e60fbcbd95dde807.jpg" group-title="Action",War of the Worlds : The Attack (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flood (2023)" tvg-logo="http://familyiptv.xyz:25461/images/28f45014bcdd7ac9387e372c94517508.jpg" group-title="Action",The Flood (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Karate Kid (2010)" tvg-logo="http://familyiptv.xyz:25461/images/1fe2783073df4030607babb9a11c3887.jpg" group-title="Action",The Karate Kid (2010)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Voyage of the Demeter (2023)" tvg-logo="http://familyiptv.xyz:25461/images/5345bf4c22c98080a3e3b09b97a9b871.jpg" group-title="Action",The Last Voyage of the Demeter (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come Out Fighting (2023)" tvg-logo="http://familyiptv.xyz:25461/images/d578d153a60b305ef59a33cc1c89e8ae.jpg" group-title="Action",Come Out Fighting (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 2 (2017)" tvg-logo="http://familyiptv.xyz:25461/images/cda0d06b51c774088b2e78e5a32ab06d.jpg" group-title="Action",Guardians of the Galaxy Vol. 2 (2017)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haddi (2023)" tvg-logo="http://familyiptv.xyz:25461/images/65af3b121ac18440ea837b93c215fe08.jpg" group-title="Bollowood ",Haddi (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IB 71 (2023)" tvg-logo="http://familyiptv.xyz:25461/images/c2cd723531fbe6a4841452018fccee69.jpg" group-title="Bollowood ",IB 71 (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Knights of the Zodiac (2023)" tvg-logo="http://familyiptv.xyz:25461/images/461afc2b84183836a3ce5d92e8f39ad6.jpg" group-title="Action",Knights of the Zodiac (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="http://familyiptv.xyz:25461/images/8f953ba0432c5f92b3e4f8260bceb1f3.jpg" group-title="Bollowood ",Little Dixie (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Undercover(2023)" tvg-logo="http://familyiptv.xyz:25461/images/95e60cf8280c6c6e3660bf06802d052c.jpg" group-title="Bollowood ",Mrs. Undercover(2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Ranger (2023)" tvg-logo="http://familyiptv.xyz:25461/images/198545c061709884ff82eb145895c45e.jpg" group-title="Action",One Ranger (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e0b1ff10a9a0ac071488fd5e19a27d53.jpg" group-title="Bollowood ",Pathaan (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pathu Thala (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e8807d7300c3783a9df8cafdb3401efd.jpg" group-title="Bollowood ",Pathu Thala (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ride On (2023)" tvg-logo="http://familyiptv.xyz:25461/images/15edea503fc91f289469a1be42080536.jpg" group-title="Action",Ride On (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (2023)" tvg-logo="http://familyiptv.xyz:25461/images/df8f5ae911d5f3cf2f6d07bf6da9a4eb.jpg" group-title="Action",The Flash (2023)
+http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/423.mp4
