@@ -1,6 +1,6 @@
 (myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/btv.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
-(myplayer)Bro Snow Lake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/BroSNL.txt
+(myplayer)Bro Snow Lake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)FamilyIPTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/fmly.txt
 (myplayer)Bein TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Movies,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
