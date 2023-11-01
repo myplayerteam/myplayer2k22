@@ -1289,29 +1289,29 @@ http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/156128
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/156129
 #EXTINF:-1 tvg-ID="" tvg-name="COL: ESPN 4 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title=" COLOMBIA: Liga Primera A Fútbol ⚽️",COL: ESPN 4 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/156130
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #1" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #1
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #1" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #1
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157476
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #2" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #2
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #2" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #2
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157477
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #3 4K" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #3 4K
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #3 4K" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #3 4K
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157478
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #4" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #4
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #4" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #4
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157479
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #5" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #5
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #5" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #5
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157480
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #6" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #6
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #6" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #6
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157481
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #7" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #7
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #7" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #7
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157482
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #8" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #8
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #8" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #8
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157483
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #9" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #9
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #9" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #9
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157484
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIERE LEAGUE #10" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIERE LEAGUE #10
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIERE LEAGUE #10" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIERE LEAGUE #10
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157485
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #11" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #11
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #11" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #11
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157486
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #12" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #12
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #12" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Premier-League-logo.png" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE #12
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157498
 #EXTINF:-1 tvg-ID="" tvg-name="ᴮᵒˣ | UFC #7" tvg-logo="https://w7.pngwing.com/pngs/824/436/png-transparent-one-pair-of-boxing-gloves-gloves-boxing-red-gloves-thumbnail.png" group-title="UFC & Boxeo ⚔️",ᴮᵒˣ | UFC #7
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/157529
@@ -1341,7 +1341,7 @@ http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/160067
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/160068
 #EXTINF:-1 tvg-ID="" tvg-name="Sports | ESPN STAR+ FHD (SOLO EVENTOS)" tvg-logo="https://futbolete.com/wp-content/uploads/2021/07/Cuales-eventos-deportivos-ofrecera-Star-en-Colombia-scaled.jpg" group-title="DEPORTES: Alta Definición⭐️⚽",Sports | ESPN STAR+ FHD (SOLO EVENTOS)
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/160069
-#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE STAR+" tvg-logo="https://futbolete.com/wp-content/uploads/2021/07/Cuales-eventos-deportivos-ofrecera-Star-en-Colombia-scaled.jpg" group-title="England's: Premier League Action ⚽️",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE STAR+
+#EXTINF:-1 tvg-ID="" tvg-name="ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE STAR+" tvg-logo="https://futbolete.com/wp-content/uploads/2021/07/Cuales-eventos-deportivos-ofrecera-Star-en-Colombia-scaled.jpg" group-title="EPL",ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ | PREMIER LEAGUE STAR+
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/160071
 #EXTINF:-1 tvg-ID="" tvg-name="ᴸᴵᴳᵁᴱ Europa | ESPN STAR+ FHD (SOLO EVENTOS)" tvg-logo="https://futbolete.com/wp-content/uploads/2021/07/Cuales-eventos-deportivos-ofrecera-Star-en-Colombia-scaled.jpg" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",ᴸᴵᴳᵁᴱ Europa | ESPN STAR+ FHD (SOLO EVENTOS)
 http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/160072
