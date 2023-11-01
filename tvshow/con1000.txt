@@ -1313,6 +1313,14 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298826
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/6399
 #EXTINF:-1 tvg-ID="" tvg-name="US: VH1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63de9a3f9cfadf2581aef9175381fe6e.png" group-title="USA ➾ Music",US: VH1
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/2370
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & pictures" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="India ➾ Movie",IN: & pictures
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/16958
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & prive" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="India ➾ Movie",IN: & prive
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/49557
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="India ➾ Movie",IN: & TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/16964
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & Xplor" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/18036e4bd3ddc3c3db52b1130ef78451.png" group-title="India ➾ Movie",IN: & Xplor
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/196116
 #EXTINF:-1 tvg-ID="" tvg-name="IN: 3 Tamil TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/bb86d473decc5bd157eb63adc3ffa720.jpg" group-title="India ➾ Music",IN: 3 Tamil TV
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/60420
 #EXTINF:-1 tvg-ID="" tvg-name="IN: 9X Jalwa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a7478c536efb581d336c1a404206cb2.png" group-title="India ➾ Music",IN: 9X Jalwa
@@ -1323,30 +1331,106 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165802
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/45455
 #EXTINF:-1 tvg-ID="" tvg-name="IN: 9XM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7ae64593b56437b694019f85fe0d2a57.png" group-title="India ➾ Music",IN: 9XM
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/45471
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Amrita TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7b871d58eee5896236fbfb246ba64ad.png" group-title="India ➾ Movie",IN: Amrita TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82497
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Anjan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/48333081d77a1ad518fe6534678f6d4e.png" group-title="India ➾ Music",IN: Anjan TV
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/286918
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png" group-title="India ➾ Movie",IN: Asianet
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82579
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png" group-title="India ➾ Movie",IN: Asianet Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157463
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/358ea3acad1502aa48965437a61f05b7.png" group-title="India ➾ Movie",IN: Asianet Plus
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193206
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Bhojpuri" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0f5508081cc2c517112b30c0951d0834.png" group-title="India ➾ Movie",IN: B4U Bhojpuri
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/197946
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Kadak" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d393d6a8252315c0897d68975f024a0d.png" group-title="India ➾ Movie",IN: B4U Kadak
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/49556
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="India ➾ Movie",IN: B4U Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1369
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Movies APAC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3f3c3fd523ec5b987c4b8b26aa6f79e3.png" group-title="India ➾ Movie",IN: B4U Movies APAC
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/71071
 #EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="India ➾ Music",IN: B4U Music
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1368
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a7a719272833e9c9c605b35c6c6c5d.png" group-title="India ➾ Movie",IN: B4U Plus
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1367
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Bflix+ Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a46419fd1f64ee777000f6133ad97ff3.png" group-title="India ➾ Movie",IN: Bflix+ Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/73791
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Bhojpuri Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9d0c0d68ce86162f94862b8ed9d0b533.png" group-title="India ➾ Movie",IN: Bhojpuri Cinema
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193007
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Big Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/033d5b2035f8a221a263600badd4a9b5.png" group-title="India ➾ Movie",IN: Big Magic
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/49548
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Boogle Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/78eef3e4a38b454afbec7e927e946d19.jpg" group-title="India ➾ Music",IN: Boogle Bollywood
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193087
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Brit Asia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/88a13376bcf8db189d3aae2a4d12bf4c.png" group-title="India ➾ Music",IN: Brit Asia TV
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/71067
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Captain TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/024d67d7f13c4bfd10c943e12d2f9d31.png" group-title="India ➾ Movie",IN: Captain TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/294952
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title="India ➾ Movie",IN: Colors
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1366
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/22132696b5c83d7204c4a3a571abae44.png" group-title="India ➾ Movie",IN: Colors Bangla
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/247530
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Cineplex" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="India ➾ Movie",IN: Colors Cineplex
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/19741
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Cineplex Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a02b489d0f1f2f3f6e2dae8afb82e9f5.png" group-title="India ➾ Movie",IN: Colors Cineplex Bollywood
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/49550
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Cineplex SuperHits" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/9760dec7d949fba63f24b4735de6d5c9.jpeg" group-title="India ➾ Movie",IN: Colors Cineplex SuperHits
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/299844
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="India ➾ Movie",IN: Colors Gujarati
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/145645
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="India ➾ Movie",IN: Colors Kannada
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192203
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="India ➾ Movie",IN: Colors Marathi
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82642
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Rishtey" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="India ➾ Movie",IN: Colors Rishtey
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/49547
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Dabangg" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b2e82fcc2cd0febeaaa1878b8d8d20c.png" group-title="India ➾ Movie",IN: Dabangg
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165800
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Dhoom Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce13284a7100c8624c16913a7886eebe.png" group-title="India ➾ Music",IN: Dhoom Music
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/69362
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Dil Se Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/affe8bb03e317870c4419bb1b7f976b4.png" group-title="India ➾ Movie",IN: Dil Se Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165784
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Dillagi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acc81560456e46ec876a40795b6ffa22.png" group-title="India ➾ Music",IN: Dillagi
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/196128
 #EXTINF:-1 tvg-ID="" tvg-name="IN: E 24" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fabb60a1e7cf43f1c82da98f365f4d0b.png" group-title="India ➾ Music",IN: E 24
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193086
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Epic TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ac4ac4c95f2c7af6bb119c2458ce31f.png" group-title="India ➾ Movie",IN: Epic TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192950
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/20eb1b856dcb42d4ab6fe53ffe66d399.png" group-title="India ➾ Movie",IN: Gemini
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165794
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/500f78e5e4d1ff8d19a5ccce912f6383.png" group-title="India ➾ Movie",IN: Gemini Comedy
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264710
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/35607ed908e3e3c442d6eb7715ceebf0.png" group-title="India ➾ Movie",IN: Gemini Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/297557
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Music" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/351c55ce58623832d015d48573d8f74c.png" group-title="India ➾ Movie",IN: Gemini Music
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/297558
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaihind TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/389f63f321444b6fbff169ad8f8abe42.png" group-title="India ➾ Movie",IN: Jaihind TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192073
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Max" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1165409be8cefc8df380ad0e2066ac1c.png" group-title="India ➾ Music",IN: Jaya Max
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/51824
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/890a415b468e25966bc1ae8849f0f6c5.png" group-title="India ➾ Movie",IN: Jaya TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/145637
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Kadak Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/818b0c2a35b0e94742f5b8d0d62c9825.png" group-title="India ➾ Music",IN: Kadak Hits
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82523
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kalaignar Murasu TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1efefaa2a497665d3a31b9220cad0ea9.png" group-title="India ➾ Movie",IN: Kalaignar Murasu TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/286966
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Kappa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/46aa7885d695cac2094a453cc12d2238.png" group-title="India ➾ Music",IN: Kappa TV
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193109
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kaumudy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bbf82ab62d2953ab1a2fcbff2c442202.png" group-title="India ➾ Movie",IN: Kaumudy TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82530
+#EXTINF:-1 tvg-ID="" tvg-name="IN: KTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0d3df8c6dfe55cd074bea2f3aa0ecfaf.png" group-title="India ➾ Movie",IN: KTV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/36442
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Maha Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/602546944f49e8e68e99d2b28c9fca36.png" group-title="India ➾ Movie",IN: Maha Movie
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82608
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4d290d8192b583a769fc516091066be3.png" group-title="India ➾ Movie",IN: Manoranjan Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192200
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Mastiii" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3389339bd16854406ac7233c5c5501a.png" group-title="India ➾ Music",IN: Mastiii
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/76958
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Mazhavil Manorama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6152d276473cb4c4f893ddb43ad27b0b.png" group-title="India ➾ Movie",IN: Mazhavil Manorama
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193067
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Mh 1 Music" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ee80fed3fa097c8cd7e7b13b101cc63f.png" group-title="India ➾ Music",IN: Mh 1 Music
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/198604
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Movies Now" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/69bb66af12863716385b18e213052d11.png" group-title="India ➾ Movie",IN: Movies Now
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/169118
 #EXTINF:-1 tvg-ID="" tvg-name="IN: MTV Beats" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c167264b1c8ed82ac209f94dec1319c2.png" group-title="India ➾ Music",IN: MTV Beats
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193068
 #EXTINF:-1 tvg-ID="" tvg-name="IN: MTV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53fbf5a419f6643e41151df74bb16b9e.png" group-title="India ➾ Music",IN: MTV India
@@ -1359,12 +1443,108 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82545
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193155
 #EXTINF:-1 tvg-ID="" tvg-name="IN: PTC DHOL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/9c276080f57dbb993dfc578ac6c69932.png" group-title="India ➾ Music",IN: PTC DHOL
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264722
+#EXTINF:-1 tvg-ID="" tvg-name="IN: PTC Punjabi Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/91001736b2d462cea90da390437c9cc1.png" group-title="India ➾ Movie",IN: PTC Punjabi Gold
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/197742
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Public Music" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/fee40d38d1cbd513bdf6964dffa1f6b4.png" group-title="India ➾ Music",IN: Public Music
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192145
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Puthuyugam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cfe2dea62f36d5c4c8de1db95620565b.png" group-title="India ➾ Movie",IN: Puthuyugam TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/196101
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Digital Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6849dca5be9a96ef2d8ef39ef0f25c67.jpg" group-title="India ➾ Movie",IN: Raj Digital Plus
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/60418
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Musix Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5123a7903c5ddc68a8a297bd9d6eb40e.png" group-title="India ➾ Music",IN: Raj Musix Telugu
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193137
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ec7f998fae0b66db9bc6d14e2f5b09f8.png" group-title="India ➾ Movie",IN: Raj TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193125
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ShowBox" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/c62effd03be4d34a16e58b53a1539cfd.png" group-title="India ➾ Movie",IN: ShowBox
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192998
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sirippoli" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/267518d4da06ecf233afafb95cc1e489.png" group-title="India ➾ Movie",IN: Sirippoli
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193163
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony (Set India)" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2daad44a19ed90aa9e2a090fa3f91aa1.png" group-title="India ➾ Movie",IN: Sony (Set India)
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/281867
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Aath" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/76be466f6b2faa53cdae4ebf0ed727ec.png" group-title="India ➾ Movie",IN: Sony Aath
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/17005
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ccf43231ee77cbb648bf30a46aa67d2b.png" group-title="India ➾ Movie",IN: Sony Marathi
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193097
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title="India ➾ Movie",IN: Sony Max
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1359
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="India ➾ Movie",IN: Sony Max 2
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/4862
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title="India ➾ Movie",IN: Sony Max India
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/63397
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Pal" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="India ➾ Movie",IN: Sony Pal
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193645
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="India ➾ Movie",IN: Sony Pix
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/49539
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony SAB" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India ➾ Movie",IN: Sony SAB
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1073
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Six" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73301e189b695b51e416e9631ee986a8.png" group-title="India ➾ Movie",IN: Sony Six
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/4853
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/30d1081aa39520113f25151752ed6040.png" group-title="India ➾ Movie",IN: Sony Wah
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165801
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Bharat" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="India ➾ Movie",IN: Star Bharat
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/284583
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="India ➾ Movie",IN: Star Gold
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1070
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="India ➾ Movie",IN: Star Gold 2
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/43919
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold Select" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="India ➾ Movie",IN: Star Gold Select
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/297547
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="India ➾ Movie",IN: Star Jalsha
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/12979
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Maa Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/22ea7346e31774969f5c338e4bb68bf5.png" group-title="India ➾ Movie",IN: Star Maa Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82624
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="India ➾ Movie",IN: Star Movies
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/11511
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Movies Select" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/6f5c18aa458d112cd8a4475e6243aabd.png" group-title="India ➾ Movie",IN: Star Movies Select
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/267542
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="India ➾ Movie",IN: Star Plus
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/16091
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Pravah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d1a684c9e9f048d6c727b98eb0d8f41e.png" group-title="India ➾ Movie",IN: Star Pravah
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193149
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Suvarna" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/de3b24188bd2fb46dc5f854b902aa810.png" group-title="India ➾ Movie",IN: Star Suvarna
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193147
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Vijay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png" group-title="India ➾ Movie",IN: Star Vijay
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/19744
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun Life" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/78c9c0b3ceee8f5b0fb2c42d8bc4d4e8.png" group-title="India ➾ Movie",IN: Sun Life
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/267819
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Sun Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ef2ce31aea1ef04d89580ca26fef5a77.jpg" group-title="India ➾ Music",IN: Sun Music
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157496
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d2a0d0b78ffd6966844a7656afa4536.png" group-title="India ➾ Movie",IN: Sun TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/76969
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Tamilan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b8e6140aba2ba378f0e62a0e5907423c.jpg" group-title="India ➾ Movie",IN: Tamilan TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/267549
+#EXTINF:-1 tvg-ID="" tvg-name="IN: We" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4cf6af925ca70e6b3603d5968826dd04.jpg" group-title="India ➾ Movie",IN: We
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193159
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Wow Cinema One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5957304ab7dd4176e7772174fe06f1ab.png" group-title="India ➾ Movie",IN: Wow Cinema One
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/197945
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="India ➾ Movie",IN: Zee Bangla
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/145632
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Cinema Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="India ➾ Movie",IN: Zee Cinema Asia
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1350
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Cinemalu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8eb47f24ddbe33c7663d18f458aa9467.png" group-title="India ➾ Movie",IN: Zee Cinemalu
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/45504
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="India ➾ Movie",IN: Zee Classic
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/21578
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9b9b9240cc9786677a699ca48209b819.png" group-title="India ➾ Movie",IN: Zee Kannada
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/145631
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Keralam" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/6e100d77233c6343c594437a8527fe29.png" group-title="India ➾ Movie",IN: Zee Keralam
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/193146
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/709e1d79bcd8632bdb143d4559dad3c5.png" group-title="India ➾ Movie",IN: Zee Magic
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/281920
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e2afbdf7bca28dd91216f35336c75ef.png" group-title="India ➾ Movie",IN: Zee Marathi
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/82646
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Picchar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cf5fce71f2c61324a8f9516e43c0f3dc.png" group-title="India ➾ Movie",IN: Zee Picchar
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/192201
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Punjabi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1a9bd21bb7f80d985fbb194e5a0c4b2.png" group-title="India ➾ Movie",IN: Zee Punjabi
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/145630
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/25ce128978be5e660e161910f7ce24bb.png" group-title="India ➾ Movie",IN: Zee Tamil
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/45505
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e70e1a61806a9019224ac6801a48c635.png" group-title="India ➾ Movie",IN: Zee Telugu
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/21561
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png" group-title="India ➾ Movie",IN: Zee TV
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/1348
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="India ➾ Movie",IN: Zee World
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/172264
 #EXTINF:-1 tvg-ID="" tvg-name="KR: AniPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="South Korea",KR: AniPlus
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157611
 #EXTINF:-1 tvg-ID="" tvg-name="KR: Arirang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/f0733d9fc870fa1bacf7b3f3b55b7ac7.png" group-title="South Korea",KR: Arirang
