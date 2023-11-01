@@ -1661,3 +1661,780 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/280251
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/283181
 #EXTINF:-1 tvg-ID="" tvg-name="QA: Star Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/dc1fb227765a0350b50aae24acfb0fc6.png" group-title="Qatar ➾ Movie",QA: Star Movies
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/280254
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 4K" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | 4K",HBO 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100333
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4366
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60973
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/6108
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60974
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FHD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO FHD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/11566
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/61206
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4365
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60975
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/6110
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60976
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 FHD H264¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 FHD H264¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/63297
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/61204
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 FHD¹ H265" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO 2 FHD¹ H265
+http://s.pdsrv.io:80/felipon10/6F7T5207/11567
+#EXTINF:-1 tvg-ID="" tvg-name="TNT 4K" tvg-logo="http://ucsxiptv.com:8080/images/be5bfe94570a31b3728b4c2dff9425fa.png" group-title="Canais | 4K",TNT 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97248
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series 4K" tvg-logo="http://ucsxiptv.com:8080/images/33e1d5417c9d76d74f31a82e8e81f712.png" group-title="Canais | 4K",TNT Series 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97254
+#EXTINF:-1 tvg-ID="" tvg-name="GNT 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_GNT.png" group-title="Canais | 4K",GNT 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100334
+#EXTINF:-1 tvg-ID="" tvg-name="Viva 4K" tvg-logo="http://ucsxiptv.com:8080/images/logos/59940a419d3032a991d17a65a8657ee0.png" group-title="Canais | 4K",Viva 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100325
+#EXTINF:-1 tvg-ID="" tvg-name="Combate 4K" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Canais | 4K",Combate 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97282
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4K" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png" group-title="Canais | 4K",ESPN 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100336
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4  4K" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png" group-title="Canais | 4K",ESPN 4  4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97492
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/100183
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV SD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100184
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/100185
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100187
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV FHD¹ [H264]" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV FHD¹ [H264]
+http://s.pdsrv.io:80/felipon10/6F7T5207/100188
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100189
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV FHD¹ [H265]" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV FHD¹ [H265]
+http://s.pdsrv.io:80/felipon10/6F7T5207/100190
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/100209
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100210
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/100211
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100212
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 FHD¹ [H264]" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 FHD¹ [H264]
+http://s.pdsrv.io:80/felipon10/6F7T5207/100213
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100214
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 FHD¹ [H265]" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 2 FHD¹ [H265]
+http://s.pdsrv.io:80/felipon10/6F7T5207/100215
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/100216
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100217
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/100218
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100219
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 FHD¹ [H264]" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 FHD¹ [H264]
+http://s.pdsrv.io:80/felipon10/6F7T5207/100220
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100221
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 FHD¹ [H265]" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | SporTV",SPORTV 3 FHD¹ [H265]
+http://s.pdsrv.io:80/felipon10/6F7T5207/100222
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97215
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central 4K²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/158.png" group-title="Canais | 4K",Comedy Central 4K²
+http://s.pdsrv.io:80/felipon10/6F7T5207/110991
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet 4K" tvg-logo="http://ucsxiptv.com:8080/images/206f85bae8d3e6fa73aff13b76280347.png" group-title="Canais | 4K",Animal Planet 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97167
+#EXTINF:-1 tvg-ID="" tvg-name="AXN 4K²" tvg-logo="http://ucsxiptv.com:8080/images/logos/122b692dafbc0c6c96e99120afa1d0c8.png" group-title="Canais | 4K",AXN 4K²
+http://s.pdsrv.io:80/felipon10/6F7T5207/110994
+#EXTINF:-1 tvg-ID="" tvg-name="Band SP 4K²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_BAND.png" group-title="Canais | 4K",Band SP 4K²
+http://s.pdsrv.io:80/felipon10/6F7T5207/110993
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network 4K" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title="Canais | 4K",Cartoon Network 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97234
+#EXTINF:-1 tvg-ID="" tvg-name="CINE MARVEL³" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",CINE MARVEL³
+http://s.pdsrv.io:80/felipon10/6F7T5207/60789
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 02" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 02
+http://s.pdsrv.io:80/felipon10/6F7T5207/59967
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 01" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 01
+http://s.pdsrv.io:80/felipon10/6F7T5207/59966
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 03" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 03
+http://s.pdsrv.io:80/felipon10/6F7T5207/59968
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 04" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 04
+http://s.pdsrv.io:80/felipon10/6F7T5207/59969
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 05" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 05
+http://s.pdsrv.io:80/felipon10/6F7T5207/59970
+#EXTINF:-1 tvg-ID="" tvg-name="CNN Brasil 4K²" tvg-logo="http://ucsxiptv.com:8080/images/logos/cnn-brasil-logo.png" group-title="Canais | 4K",CNN Brasil 4K²
+http://s.pdsrv.io:80/felipon10/6F7T5207/110992
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_DSICOVERY.png" group-title="Canais | 4K",Discovery Channel 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97171
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Home & Health 4K²" tvg-logo="http://ucsxiptv.com:8080/images/logos/discovery-home-and-health-logo2.png" group-title="Canais | 4K",Discovery Home & Health 4K²
+http://s.pdsrv.io:80/felipon10/6F7T5207/110990
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo 4K¹" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Canais | 4K",Discovery Turbo 4K¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/110989
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/55.png" group-title="Canais | 4K",Disney Channel FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/100311
+#EXTINF:-1 tvg-ID="" tvg-name="Globo 4K" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_GLOBO.png" group-title="Canais | 4K",Globo 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97363
+#EXTINF:-1 tvg-ID="" tvg-name="Globo News 4K" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/40.png" group-title="Canais | 4K",Globo News 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100335
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60986
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4364
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60977
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/6109
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60978
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family FHD¹ {H264}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family FHD¹ {H264}
+http://s.pdsrv.io:80/felipon10/6F7T5207/63299
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/61205
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family FHD¹ {H265}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Family FHD¹ {H265}
+http://s.pdsrv.io:80/felipon10/6F7T5207/11568
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Mundi SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4358
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Mundi SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97123
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Mundi HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/10266
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Mundi HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97124
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi FHD¹ H264" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Mundi FHD¹ H264
+http://s.pdsrv.io:80/felipon10/6F7T5207/60984
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Mundi FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97125
+#EXTINF:-1 tvg-ID="" tvg-name="HBO MundiI FHD¹ {H265}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO MundiI FHD¹ {H265}
+http://s.pdsrv.io:80/felipon10/6F7T5207/63301
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4363
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97119
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/6106
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60979
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus FHD¹ {H264}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus FHD¹ {H264}
+http://s.pdsrv.io:80/felipon10/6F7T5207/63298
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/61207
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus FHD¹ {H265}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Plus FHD¹ {H265}
+http://s.pdsrv.io:80/felipon10/6F7T5207/13190
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Pop SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Pop SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97120
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Pop HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Pop HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/10265
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Pop HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Pop HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97121
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Pop FHD¹ {H264}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Pop FHD¹ {H264}
+http://s.pdsrv.io:80/felipon10/6F7T5207/60988
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Pop FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Pop FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/97122
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Pop FHD¹ {H265}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Pop FHD¹ {H265}
+http://s.pdsrv.io:80/felipon10/6F7T5207/25015
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature SD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4361
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60981
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/6105
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/60982
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature FHD¹ {H264}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature FHD¹ {H264}
+http://s.pdsrv.io:80/felipon10/6F7T5207/63300
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/61208
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature FHD¹ {H265}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Signature FHD¹ {H265}
+http://s.pdsrv.io:80/felipon10/6F7T5207/11570
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme SD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme SD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/62850
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/7850
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme HD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/4357
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme HD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/62851
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme FHD¹ {H264}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme FHD¹ {H264}
+http://s.pdsrv.io:80/felipon10/6F7T5207/63302
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme FHD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme FHD²
+http://s.pdsrv.io:80/felipon10/6F7T5207/61210
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtreme FHD¹ {H265}" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO Xtreme FHD¹ {H265}
+http://s.pdsrv.io:80/felipon10/6F7T5207/25014
+#EXTINF:-1 tvg-ID="" tvg-name="Jovem Pan News 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="Canais | 4K",Jovem Pan News 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100332
+#EXTINF:-1 tvg-ID="" tvg-name="Megapix 4K" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/107.png" group-title="Canais | 4K",Megapix 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97347
+#EXTINF:-1 tvg-ID="" tvg-name="Multishow 4K" tvg-logo="http://ucsxiptv.com:8080/images/e0f541a353b0c195c043a2ecbdc70a07.png" group-title="Canais | 4K",Multishow 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97615
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD SP 4K" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | 4K",RECORD SP 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97132
+#EXTINF:-1 tvg-ID="" tvg-name="Rede TV 4K " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png" group-title="Canais | 4K",Rede TV 4K 
+http://s.pdsrv.io:80/felipon10/6F7T5207/100331
+#EXTINF:-1 tvg-ID="" tvg-name="SBT 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_SBT.png" group-title="Canais | 4K",SBT 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/109627
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4K " tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais | 4K",SPORTV 4K 
+http://s.pdsrv.io:80/felipon10/6F7T5207/100330
+#EXTINF:-1 tvg-ID="" tvg-name="Star Channel 4K" tvg-logo="https://digitalapi.sky.com.br/logos/channels/541.png" group-title="Canais | 4K",Star Channel 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97571
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Action 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_ACTION_BLACK.png" group-title="Canais | 4K",Telecine Action 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100328
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Pipoca 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_PIPOCA_BLACK.png" group-title="Canais | 4K",Telecine Pipoca 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100329
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Premium 4K" tvg-logo="http://ucsxiptv.com:8080/images/876e229e5252d62ec26916d99fe14da6.png" group-title="Canais | 4K",Telecine Premium 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/97588
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Tv 4K" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/140.png" group-title="Canais | 4K",Universal Tv 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/100327
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 06" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 06
+http://s.pdsrv.io:80/felipon10/6F7T5207/122729
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 07" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 07
+http://s.pdsrv.io:80/felipon10/6F7T5207/122730
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 08" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 08
+http://s.pdsrv.io:80/felipon10/6F7T5207/122731
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 09" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 09
+http://s.pdsrv.io:80/felipon10/6F7T5207/122732
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Sky 10" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky 10
+http://s.pdsrv.io:80/felipon10/6F7T5207/122733
+#EXTINF:-1 tvg-ID="" tvg-name="PT: 24 KITCHEN" tvg-logo="" group-title=" Canais | Portugal",PT: 24 KITCHEN
+http://s.pdsrv.io:80/felipon10/6F7T5207/130171
+#EXTINF:-1 tvg-ID="" tvg-name="PT: 24 KITCHEN HD" tvg-logo="" group-title=" Canais | Portugal",PT: 24 KITCHEN HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130172
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: 24 KITCHEN HD" tvg-logo="" group-title=" Canais | Portugal",PT1: 24 KITCHEN HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130173
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: A BOLA TV" tvg-logo="" group-title=" Canais | Portugal",PT1: A BOLA TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130174
+#EXTINF:-1 tvg-ID="" tvg-name="PT: A BOLA TV FHD" tvg-logo="" group-title=" Canais | Portugal",PT: A BOLA TV FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130175
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AFRO MUSIC¹" tvg-logo="" group-title=" Canais | Portugal",PT: AFRO MUSIC¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130176
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AFRO MUSIC" tvg-logo="" group-title=" Canais | Portugal",PT1: AFRO MUSIC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130177
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AMC" tvg-logo="" group-title=" Canais | Portugal",PT: AMC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130178
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AMC HD" tvg-logo="" group-title=" Canais | Portugal",PT1: AMC HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130179
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AMC SD" tvg-logo="" group-title=" Canais | Portugal",PT1: AMC SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130180
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AR TV" tvg-logo="" group-title=" Canais | Portugal",PT1: AR TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130181
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN" tvg-logo="" group-title=" Canais | Portugal",PT: AXN
+http://s.pdsrv.io:80/felipon10/6F7T5207/130182
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AXN BLACK HD" tvg-logo="" group-title=" Canais | Portugal",PT1: AXN BLACK HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130183
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN FHD" tvg-logo="" group-title=" Canais | Portugal",PT: AXN FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130184
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AXN HD" tvg-logo="" group-title=" Canais | Portugal",PT1: AXN HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130185
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AXN SD" tvg-logo="" group-title=" Canais | Portugal",PT1: AXN SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130186
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN WHITE FHD" tvg-logo="" group-title=" Canais | Portugal",PT: AXN WHITE FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130187
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AXN WHITE HD" tvg-logo="" group-title=" Canais | Portugal",PT1: AXN WHITE HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130188
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN WHITE PT" tvg-logo="" group-title=" Canais | Portugal",PT: AXN WHITE PT
+http://s.pdsrv.io:80/felipon10/6F7T5207/130189
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: AXN WHITE SD" tvg-logo="" group-title=" Canais | Portugal",PT1: AXN WHITE SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130190
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BABY TV¹" tvg-logo="" group-title=" Canais | Portugal",PT: BABY TV¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130191
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: BABY TV" tvg-logo="" group-title=" Canais | Portugal",PT1: BABY TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130192
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: BENFICA 4K" tvg-logo="" group-title=" Canais | Portugal",PT1: BENFICA 4K
+http://s.pdsrv.io:80/felipon10/6F7T5207/130197
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BENFICA TV FHD¹" tvg-logo="" group-title=" Canais | Portugal",PT: BENFICA TV FHD¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130198
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: BENFICA TV FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: BENFICA TV FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130199
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: BENFICA TV SD" tvg-logo="" group-title=" Canais | Portugal",PT1: BENFICA TV SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130200
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BLAZE" tvg-logo="" group-title=" Canais | Portugal",PT: BLAZE
+http://s.pdsrv.io:80/felipon10/6F7T5207/130201
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: BLAZE TV" tvg-logo="" group-title=" Canais | Portugal",PT1: BLAZE TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130202
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CACA E PESCA" tvg-logo="" group-title=" Canais | Portugal",PT: CACA E PESCA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130203
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CACAVISION" tvg-logo="" group-title=" Canais | Portugal",PT: CACAVISION
+http://s.pdsrv.io:80/felipon10/6F7T5207/130204
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL 11¹" tvg-logo="" group-title=" Canais | Portugal",PT: CANAL 11¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130205
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CANAL 11" tvg-logo="" group-title=" Canais | Portugal",PT1: CANAL 11
+http://s.pdsrv.io:80/felipon10/6F7T5207/130206
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL 11 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: CANAL 11 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130207
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CANAL HISTORIA HD" tvg-logo="" group-title=" Canais | Portugal",PT1: CANAL HISTORIA HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130208
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CANAL HISTORIA SD" tvg-logo="" group-title=" Canais | Portugal",PT1: CANAL HISTORIA SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130209
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL PANDA¹" tvg-logo="" group-title=" Canais | Portugal",PT: CANAL PANDA¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130210
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CANAL PANDA" tvg-logo="" group-title=" Canais | Portugal",PT1: CANAL PANDA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130211
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL Q¹" tvg-logo="" group-title=" Canais | Portugal",PT: CANAL Q¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130212
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CANAL Q" tvg-logo="" group-title=" Canais | Portugal",PT1: CANAL Q
+http://s.pdsrv.io:80/felipon10/6F7T5207/130213
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CARTOON NETWORK¹" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title=" Canais | Portugal",PT: CARTOON NETWORK¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130214
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CARTOON NETWORK" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title=" Canais | Portugal",PT1: CARTOON NETWORK
+http://s.pdsrv.io:80/felipon10/6F7T5207/130215
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: casa e cozinha hd" tvg-logo="" group-title=" Canais | Portugal",PT1: casa e cozinha hd
+http://s.pdsrv.io:80/felipon10/6F7T5207/130216
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CAÇA E PESCA" tvg-logo="" group-title=" Canais | Portugal",PT1: CAÇA E PESCA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130217
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CAÇA E PESCA HD" tvg-logo="" group-title=" Canais | Portugal",PT1: CAÇA E PESCA HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130218
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CAÇA E PESCA SD" tvg-logo="" group-title=" Canais | Portugal",PT1: CAÇA E PESCA SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130219
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CAÇAVISION" tvg-logo="" group-title=" Canais | Portugal",PT1: CAÇAVISION
+http://s.pdsrv.io:80/felipon10/6F7T5207/130220
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CBS REALITY¹" tvg-logo="" group-title=" Canais | Portugal",PT: CBS REALITY¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130221
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CBS REALITY" tvg-logo="" group-title=" Canais | Portugal",PT1: CBS REALITY
+http://s.pdsrv.io:80/felipon10/6F7T5207/130222
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title=" Canais | Portugal",PT: CINEMUNDO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130223
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title=" Canais | Portugal",PT: CINEMUNDO FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130224
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CINEMUNDO HD" tvg-logo="" group-title=" Canais | Portugal",PT1: CINEMUNDO HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130225
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CINEMUNDO SD" tvg-logo="" group-title=" Canais | Portugal",PT1: CINEMUNDO SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130226
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CMTV" tvg-logo="" group-title=" Canais | Portugal",PT: CMTV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130227
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CMTV HD" tvg-logo="" group-title=" Canais | Portugal",PT1: CMTV HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130228
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CMTV SD" tvg-logo="" group-title=" Canais | Portugal",PT1: CMTV SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130229
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CNBC EUROPE" tvg-logo="" group-title=" Canais | Portugal",PT: CNBC EUROPE
+http://s.pdsrv.io:80/felipon10/6F7T5207/130230
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CNN Portugal FHD" tvg-logo="" group-title=" Canais | Portugal",PT: CNN Portugal FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130231
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CRIME INVESTIGATION¹" tvg-logo="" group-title=" Canais | Portugal",PT: CRIME INVESTIGATION¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130232
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: CRIME INVESTIGATION" tvg-logo="" group-title=" Canais | Portugal",PT1: CRIME INVESTIGATION
+http://s.pdsrv.io:80/felipon10/6F7T5207/130233
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title=" Canais | Portugal",PT: DISCOVERY CHANNEL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130234
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: DISCOVERY CHANNEL HD" tvg-logo="" group-title=" Canais | Portugal",PT1: DISCOVERY CHANNEL HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130235
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: DISCOVERY CHANNEL SD" tvg-logo="" group-title=" Canais | Portugal",PT1: DISCOVERY CHANNEL SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130236
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY CHANNEL¹" tvg-logo="" group-title=" Canais | Portugal",PT: DISNEY CHANNEL¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130237
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: DISNEY CHANNEL" tvg-logo="" group-title=" Canais | Portugal",PT1: DISNEY CHANNEL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130238
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY JUNIOR¹" tvg-logo="" group-title=" Canais | Portugal",PT: DISNEY JUNIOR¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130239
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: DISNEY JUNIOR" tvg-logo="" group-title=" Canais | Portugal",PT1: DISNEY JUNIOR
+http://s.pdsrv.io:80/felipon10/6F7T5207/130240
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DOG TV HD" tvg-logo="" group-title=" Canais | Portugal",PT: DOG TV HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130241
+#EXTINF:-1 tvg-ID="" tvg-name="PT: E! ENTERTAINMENT¹" tvg-logo="" group-title=" Canais | Portugal",PT: E! ENTERTAINMENT¹
+http://s.pdsrv.io:80/felipon10/6F7T5207/130242
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: E! ENTERTAINMENT" tvg-logo="" group-title=" Canais | Portugal",PT1: E! ENTERTAINMENT
+http://s.pdsrv.io:80/felipon10/6F7T5207/130243
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 1 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130244
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 1 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 1 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130245
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 1 SD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 1 SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130246
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 2 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130247
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 2 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 2 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130248
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 2 SD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 2 SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130249
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 3 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130250
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 3 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130251
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 3 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 3 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130252
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 3 SD" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 3 SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130253
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 4" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 4
+http://s.pdsrv.io:80/felipon10/6F7T5207/130254
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 4 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130255
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 5" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 5
+http://s.pdsrv.io:80/felipon10/6F7T5207/130256
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 5 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130257
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 5 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130258
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ELEVEN SPORTS 6" tvg-logo="" group-title=" Canais | Portugal",PT1: ELEVEN SPORTS 6
+http://s.pdsrv.io:80/felipon10/6F7T5207/130259
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 6 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130260
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title=" Canais | Portugal",PT: ELEVEN SPORTS 6 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130261
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EURONEWS" tvg-logo="" group-title=" Canais | Portugal",PT: EURONEWS
+http://s.pdsrv.io:80/felipon10/6F7T5207/130262
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: EUROSPORT 1 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130263
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: EUROSPORT 1 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130264
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: EUROSPORT 1 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: EUROSPORT 1 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130265
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title=" Canais | Portugal",PT: EUROSPORT 2
+http://s.pdsrv.io:80/felipon10/6F7T5207/130266
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: EUROSPORT 2" tvg-logo="" group-title=" Canais | Portugal",PT1: EUROSPORT 2
+http://s.pdsrv.io:80/felipon10/6F7T5207/130267
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOOD NETWORK" tvg-logo="" group-title=" Canais | Portugal",PT: FOOD NETWORK
+http://s.pdsrv.io:80/felipon10/6F7T5207/130268
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: Food Network FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: Food Network FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130269
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOOD NETWORK HD" tvg-logo="" group-title=" Canais | Portugal",PT: FOOD NETWORK HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130270
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX" tvg-logo="" group-title=" Canais | Portugal",PT: FOX
+http://s.pdsrv.io:80/felipon10/6F7T5207/130271
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title=" Canais | Portugal",PT: FOX COMEDY
+http://s.pdsrv.io:80/felipon10/6F7T5207/130272
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX COMEDY FHD" tvg-logo="" group-title=" Canais | Portugal",PT: FOX COMEDY FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130273
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX COMEDY HD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX COMEDY HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130274
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX COMEDY SD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX COMEDY SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130275
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title=" Canais | Portugal",PT: FOX CRIME
+http://s.pdsrv.io:80/felipon10/6F7T5207/130276
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX CRIME FHD" tvg-logo="" group-title=" Canais | Portugal",PT: FOX CRIME FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130277
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX CRIME HD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX CRIME HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130278
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX CRIME SD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX CRIME SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130279
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX FHD" tvg-logo="" group-title=" Canais | Portugal",PT: FOX FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130280
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX HD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130281
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title=" Canais | Portugal",PT: FOX LIFE
+http://s.pdsrv.io:80/felipon10/6F7T5207/130282
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE FHD" tvg-logo="" group-title=" Canais | Portugal",PT: FOX LIFE FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130283
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX LIFE HD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX LIFE HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130284
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX LIFE SD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX LIFE SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130285
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX MOVIES" tvg-logo="" group-title=" Canais | Portugal",PT: FOX MOVIES
+http://s.pdsrv.io:80/felipon10/6F7T5207/130286
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX MOVIES FHD" tvg-logo="" group-title=" Canais | Portugal",PT: FOX MOVIES FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130287
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX MOVIES HD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX MOVIES HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130288
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX MOVIES SD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX MOVIES SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130289
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX SD" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130290
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FOX SPORTS" tvg-logo="" group-title=" Canais | Portugal",PT1: FOX SPORTS
+http://s.pdsrv.io:80/felipon10/6F7T5207/130291
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FUEL TV" tvg-logo="" group-title=" Canais | Portugal",PT: FUEL TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130292
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: FUEL TV" tvg-logo="" group-title=" Canais | Portugal",PT1: FUEL TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130293
+#EXTINF:-1 tvg-ID="" tvg-name="PT: GLOBO" tvg-logo="" group-title=" Canais | Portugal",PT: GLOBO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130294
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: GLOBO" tvg-logo="" group-title=" Canais | Portugal",PT1: GLOBO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130295
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Globo Backup 2" tvg-logo="" group-title=" Canais | Portugal",PT: Globo Backup 2
+http://s.pdsrv.io:80/felipon10/6F7T5207/130296
+#EXTINF:-1 tvg-ID="" tvg-name="PT: GLOBO NOW" tvg-logo="" group-title=" Canais | Portugal",PT: GLOBO NOW
+http://s.pdsrv.io:80/felipon10/6F7T5207/130297
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: GLOBO NOW" tvg-logo="" group-title=" Canais | Portugal",PT1: GLOBO NOW
+http://s.pdsrv.io:80/felipon10/6F7T5207/130298
+#EXTINF:-1 tvg-ID="" tvg-name="PT: HISTORIA" tvg-logo="" group-title=" Canais | Portugal",PT: HISTORIA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130299
+#EXTINF:-1 tvg-ID="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title=" Canais | Portugal",PT: HOLLYWOOD FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130300
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: HOLLYWOOD HD" tvg-logo="" group-title=" Canais | Portugal",PT1: HOLLYWOOD HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130301
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: HOLLYWOOD SD" tvg-logo="" group-title=" Canais | Portugal",PT1: HOLLYWOOD SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130302
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title=" Canais | Portugal",PT: ID INVESTIGATION DISCOVERY
+http://s.pdsrv.io:80/felipon10/6F7T5207/130303
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title=" Canais | Portugal",PT1: ID INVESTIGATION DISCOVERY
+http://s.pdsrv.io:80/felipon10/6F7T5207/130304
+#EXTINF:-1 tvg-ID="" tvg-name="PT: JIM JAM" tvg-logo="" group-title=" Canais | Portugal",PT: JIM JAM
+http://s.pdsrv.io:80/felipon10/6F7T5207/130305
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: JIMJAM" tvg-logo="" group-title=" Canais | Portugal",PT1: JIMJAM
+http://s.pdsrv.io:80/felipon10/6F7T5207/130306
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MCM POP" tvg-logo="" group-title=" Canais | Portugal",PT: MCM POP
+http://s.pdsrv.io:80/felipon10/6F7T5207/130307
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: MCM POP" tvg-logo="" group-title=" Canais | Portugal",PT1: MCM POP
+http://s.pdsrv.io:80/felipon10/6F7T5207/130308
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MEZZO" tvg-logo="" group-title=" Canais | Portugal",PT: MEZZO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130309
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: MEZZO" tvg-logo="" group-title=" Canais | Portugal",PT1: MEZZO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130310
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MOTORVISION" tvg-logo="" group-title=" Canais | Portugal",PT: MOTORVISION
+http://s.pdsrv.io:80/felipon10/6F7T5207/130311
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MOTORVISION FHD" tvg-logo="" group-title=" Canais | Portugal",PT: MOTORVISION FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130312
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: MOTORVISION TV" tvg-logo="" group-title=" Canais | Portugal",PT1: MOTORVISION TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130313
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MTV PORTUGAL" tvg-logo="" group-title=" Canais | Portugal",PT: MTV PORTUGAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130314
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: MTV PORTUGAL" tvg-logo="" group-title=" Canais | Portugal",PT1: MTV PORTUGAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130315
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title=" Canais | Portugal",PT: NAT GEO WILD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130316
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NAT GEO WILD" tvg-logo="" group-title=" Canais | Portugal",PT1: NAT GEO WILD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130317
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NATIONAL GEOGRAPHIC" tvg-logo="" group-title=" Canais | Portugal",PT1: NATIONAL GEOGRAPHIC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130318
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title=" Canais | Portugal",PT1: NATIONAL GEOGRAPHIC HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130319
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title=" Canais | Portugal",PT1: NATIONAL GEOGRAPHIC SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130320
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NICK JR." tvg-logo="" group-title=" Canais | Portugal",PT: NICK JR.
+http://s.pdsrv.io:80/felipon10/6F7T5207/130321
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NICKELODEON" tvg-logo="" group-title=" Canais | Portugal",PT: NICKELODEON
+http://s.pdsrv.io:80/felipon10/6F7T5207/130322
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NICKELODEON" tvg-logo="" group-title=" Canais | Portugal",PT1: NICKELODEON
+http://s.pdsrv.io:80/felipon10/6F7T5207/130323
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NICKELODEON JUNIOR" tvg-logo="" group-title=" Canais | Portugal",PT1: NICKELODEON JUNIOR
+http://s.pdsrv.io:80/felipon10/6F7T5207/130324
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title=" Canais | Portugal",PT: NOS STUDIOS FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130325
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: NOS STUDIOS HD" tvg-logo="" group-title=" Canais | Portugal",PT1: NOS STUDIOS HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130326
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title=" Canais | Portugal",PT: ODISSEIA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130327
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ODISSEIA" tvg-logo="" group-title=" Canais | Portugal",PT1: ODISSEIA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130328
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: PANDA BIGS" tvg-logo="" group-title=" Canais | Portugal",PT1: PANDA BIGS
+http://s.pdsrv.io:80/felipon10/6F7T5207/130329
+#EXTINF:-1 tvg-ID="" tvg-name="PT: PFC" tvg-logo="" group-title=" Canais | Portugal",PT: PFC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130330
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: PFC" tvg-logo="" group-title=" Canais | Portugal",PT1: PFC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130331
+#EXTINF:-1 tvg-ID="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title=" Canais | Portugal",PT: PORTO CANAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130332
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: PORTO CANAL" tvg-logo="" group-title=" Canais | Portugal",PT1: PORTO CANAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130333
+#EXTINF:-1 tvg-ID="" tvg-name="PT: PORTO CANAL HD" tvg-logo="" group-title=" Canais | Portugal",PT: PORTO CANAL HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130334
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: RTP 1 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130335
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP 1 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP 1 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130336
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP 1 SD" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP 1 SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130337
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 2 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: RTP 2 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130338
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title=" Canais | Portugal",PT: RTP 2 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130339
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP 2 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP 2 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130340
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP 2 SD" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP 2 SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130341
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 3" tvg-logo="" group-title=" Canais | Portugal",PT: RTP 3
+http://s.pdsrv.io:80/felipon10/6F7T5207/130342
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP 3" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP 3
+http://s.pdsrv.io:80/felipon10/6F7T5207/130343
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP ACORES" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP ACORES
+http://s.pdsrv.io:80/felipon10/6F7T5207/130344
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP AFRICA" tvg-logo="" group-title=" Canais | Portugal",PT: RTP AFRICA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130345
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP AFRICA" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP AFRICA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130346
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP AÇORES" tvg-logo="" group-title=" Canais | Portugal",PT: RTP AÇORES
+http://s.pdsrv.io:80/felipon10/6F7T5207/130347
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title=" Canais | Portugal",PT: RTP MADEIRA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130348
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP MADEIRA" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP MADEIRA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130349
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP MEMORIA" tvg-logo="" group-title=" Canais | Portugal",PT: RTP MEMORIA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130350
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: RTP MEMORIA" tvg-logo="" group-title=" Canais | Portugal",PT1: RTP MEMORIA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130351
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC CARAS" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC CARAS
+http://s.pdsrv.io:80/felipon10/6F7T5207/130352
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC FHD" tvg-logo="" group-title=" Canais | Portugal",PT: SIC FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130353
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC HD" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130354
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC K" tvg-logo="" group-title=" Canais | Portugal",PT: SIC K
+http://s.pdsrv.io:80/felipon10/6F7T5207/130355
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC K" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC K
+http://s.pdsrv.io:80/felipon10/6F7T5207/130356
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC MULHER" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC MULHER
+http://s.pdsrv.io:80/felipon10/6F7T5207/130357
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC NOTICIAS HD" tvg-logo="" group-title=" Canais | Portugal",PT: SIC NOTICIAS HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130358
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC NOTÍCIAS HD" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC NOTÍCIAS HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130359
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC NOTÍCIAS SD" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC NOTÍCIAS SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130360
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC RADICAL" tvg-logo="" group-title=" Canais | Portugal",PT: SIC RADICAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130361
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC RADICAL" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC RADICAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130362
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title=" Canais | Portugal",PT: SIC RADICAL FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130363
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SIC SD" tvg-logo="" group-title=" Canais | Portugal",PT1: SIC SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130364
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SKY NEWS" tvg-logo="" group-title=" Canais | Portugal",PT: SKY NEWS
+http://s.pdsrv.io:80/felipon10/6F7T5207/130365
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SKY NEWS" tvg-logo="" group-title=" Canais | Portugal",PT1: SKY NEWS
+http://s.pdsrv.io:80/felipon10/6F7T5207/130366
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV + FHD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV + FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130367
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV + FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV + FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130368
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV + HD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV + HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130369
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 1" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 1
+http://s.pdsrv.io:80/felipon10/6F7T5207/130370
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 1 FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 1 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130371
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV 1 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130372
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 2" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 2
+http://s.pdsrv.io:80/felipon10/6F7T5207/130373
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV 2 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130374
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 2 FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 2 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130375
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 3" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 3
+http://s.pdsrv.io:80/felipon10/6F7T5207/130376
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV 3 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130377
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 3 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 3 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130378
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 4" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 4
+http://s.pdsrv.io:80/felipon10/6F7T5207/130379
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 4 FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 4 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130380
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV 4 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130381
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 5" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 5
+http://s.pdsrv.io:80/felipon10/6F7T5207/130382
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV 5 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130383
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 5 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 5 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130384
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORT TV 6 FHD" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORT TV 6 FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130385
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 6 HD" tvg-logo="" group-title=" Canais | Portugal",PT: SPORT TV 6 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130386
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title=" Canais | Portugal",PT: SPORTING TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130387
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SPORTING TV" tvg-logo="" group-title=" Canais | Portugal",PT1: SPORTING TV
+http://s.pdsrv.io:80/felipon10/6F7T5207/130388
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: SYFY" tvg-logo="" group-title=" Canais | Portugal",PT1: SYFY
+http://s.pdsrv.io:80/felipon10/6F7T5207/130389
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title=" Canais | Portugal",PT: SYFY FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130390
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TLC" tvg-logo="" group-title=" Canais | Portugal",PT: TLC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130391
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TLC" tvg-logo="" group-title=" Canais | Portugal",PT1: TLC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130392
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="" group-title=" Canais | Portugal",PT: TPA INTERNACIONAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130393
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TPA INTERNACIONAL" tvg-logo="" group-title=" Canais | Portugal",PT1: TPA INTERNACIONAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130394
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TRACE TOCA" tvg-logo="" group-title=" Canais | Portugal",PT: TRACE TOCA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130395
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TRACE TOCA" tvg-logo="" group-title=" Canais | Portugal",PT1: TRACE TOCA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130396
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TRACE URBAN" tvg-logo="" group-title=" Canais | Portugal",PT: TRACE URBAN
+http://s.pdsrv.io:80/felipon10/6F7T5207/130397
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TRACE URBAN" tvg-logo="" group-title=" Canais | Portugal",PT1: TRACE URBAN
+http://s.pdsrv.io:80/felipon10/6F7T5207/130398
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title=" Canais | Portugal",PT: TRAVEL CHANNEL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130399
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TRAVEL CHANNEL HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TRAVEL CHANNEL HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130400
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV GALICIA" tvg-logo="" group-title=" Canais | Portugal",PT: TV GALICIA
+http://s.pdsrv.io:80/felipon10/6F7T5207/130401
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TV RECORD" tvg-logo="" group-title=" Canais | Portugal",PT1: TV RECORD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130402
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV RECORD FHD" tvg-logo="" group-title=" Canais | Portugal",PT: TV RECORD FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130403
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Action" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Action
+http://s.pdsrv.io:80/felipon10/6F7T5207/130404
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Action HD" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Action HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130405
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCine ACTION HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCine ACTION HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130406
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCINE ACTION SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCINE ACTION SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130407
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Edition" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Edition
+http://s.pdsrv.io:80/felipon10/6F7T5207/130408
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Edition HD" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Edition HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130409
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCine EDITION HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCine EDITION HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130410
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCINE EDITION SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCINE EDITION SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130411
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Emotion" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Emotion
+http://s.pdsrv.io:80/felipon10/6F7T5207/130412
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Emotion FHD" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Emotion FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130413
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCine EMOTION HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCine EMOTION HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130414
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCINE EMOTION SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCINE EMOTION SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130415
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Top FHD" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Top FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130416
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVCINE Top HD" tvg-logo="" group-title=" Canais | Portugal",PT: TVCINE Top HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130417
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCine TOP HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCine TOP HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130418
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVCINE TOP SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVCINE TOP SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130419
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="" group-title=" Canais | Portugal",PT: TVE INTERNACIONAL
+http://s.pdsrv.io:80/felipon10/6F7T5207/130420
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI FHD" tvg-logo="" group-title=" Canais | Portugal",PT: TVI FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130421
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title=" Canais | Portugal",PT: TVI FICCAO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130422
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI FICCAO HD" tvg-logo="" group-title=" Canais | Portugal",PT: TVI FICCAO HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130423
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI FICÇAO" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI FICÇAO
+http://s.pdsrv.io:80/felipon10/6F7T5207/130424
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI HD" tvg-logo="" group-title=" Canais | Portugal",PT: TVI HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130425
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130426
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title=" Canais | Portugal",PT: TVI REALITY
+http://s.pdsrv.io:80/felipon10/6F7T5207/130427
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI Reality Camara 1" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI Reality Camara 1
+http://s.pdsrv.io:80/felipon10/6F7T5207/130428
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI Reality Camara 2" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI Reality Camara 2
+http://s.pdsrv.io:80/felipon10/6F7T5207/130429
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI Reality Camara 3" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI Reality Camara 3
+http://s.pdsrv.io:80/felipon10/6F7T5207/130430
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI Reality Camara 4" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI Reality Camara 4
+http://s.pdsrv.io:80/felipon10/6F7T5207/130431
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality FHD" tvg-logo="" group-title=" Canais | Portugal",PT: TVI Reality FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130432
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI REALITY HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI REALITY HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130433
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI REALITY SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI REALITY SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130434
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130435
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI24 HD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI24 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130436
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: TVI24 SD" tvg-logo="" group-title=" Canais | Portugal",PT1: TVI24 SD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130437
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: VH1 MUSIC" tvg-logo="" group-title=" Canais | Portugal",PT1: VH1 MUSIC
+http://s.pdsrv.io:80/felipon10/6F7T5207/130438
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="" group-title=" Canais | Portugal",PT: ZAP VIVA FHD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130439
+#EXTINF:-1 tvg-ID="" tvg-name="PT1: ZAP VIVA HD" tvg-logo="" group-title=" Canais | Portugal",PT1: ZAP VIVA HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/130440
