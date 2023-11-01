@@ -1665,7 +1665,6 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/280254
 
 
 
-
 #EXTINF:-1 tvg-ID="" tvg-name="HBO 4K" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | 4K",HBO 4K
 http://s.pdsrv.io:80/felipon10/6F7T5207/100333
 #EXTINF:-1 tvg-ID="" tvg-name="HBO SD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais | HBO",HBO SD¹
@@ -1698,6 +1697,20 @@ http://s.pdsrv.io:80/felipon10/6F7T5207/11567
 http://s.pdsrv.io:80/felipon10/6F7T5207/97248
 #EXTINF:-1 tvg-ID="" tvg-name="TNT Series 4K" tvg-logo="http://ucsxiptv.com:8080/images/33e1d5417c9d76d74f31a82e8e81f712.png" group-title="Canais | 4K",TNT Series 4K
 http://s.pdsrv.io:80/felipon10/6F7T5207/97254
+#EXTINF:-1 tvg-ID="" tvg-name="STAR+ 1 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR+ 1 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/100842
+#EXTINF:-1 tvg-ID="" tvg-name="STAR + 2 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR + 2 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/97099
+#EXTINF:-1 tvg-ID="" tvg-name="STAR+ 3 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR+ 3 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/97098
+#EXTINF:-1 tvg-ID="" tvg-name="STAR+ 4 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR+ 4 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/100031
+#EXTINF:-1 tvg-ID="" tvg-name="STAR+ 5 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR+ 5 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/100843
+#EXTINF:-1 tvg-ID="" tvg-name="STAR+ 6 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR+ 6 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/100032
+#EXTINF:-1 tvg-ID="" tvg-name="STAR+ 7 HD" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais| Star+",STAR+ 7 HD
+http://s.pdsrv.io:80/felipon10/6F7T5207/100033
 #EXTINF:-1 tvg-ID="" tvg-name="GNT 4K" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_GNT.png" group-title="Canais | 4K",GNT 4K
 http://s.pdsrv.io:80/felipon10/6F7T5207/100334
 #EXTINF:-1 tvg-ID="" tvg-name="Viva 4K" tvg-logo="http://ucsxiptv.com:8080/images/logos/59940a419d3032a991d17a65a8657ee0.png" group-title="Canais | 4K",Viva 4K
