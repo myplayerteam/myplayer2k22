@@ -1,5 +1,4 @@
-(myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
 (myplayer)TV Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/alltv.txt
-
+(myplayer)BananaTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
