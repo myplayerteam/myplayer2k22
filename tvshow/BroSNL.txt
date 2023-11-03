@@ -2161,8 +2161,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/125986
 http://live.skyott.xyz:8880/Vip1000/03590359/126002
 #EXTINF:-1 tvg-ID="" tvg-name="|ASTRO| SuperSport 2" tvg-logo="" group-title="MALAYSIA LOCAL",|ASTRO| SuperSport 2
 http://live.skyott.xyz:8880/Vip1000/03590359/126104
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORTS 3 FHD MY" tvg-logo="" group-title="MALAYSIA LOCAL",ASTRO SUPERSPORTS 3 FHD MY
-http://live.skyott.xyz:8880/Vip1000/03590359/130843
 #EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 2 HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",Astro SuperSport 2 HD MY
 http://live.skyott.xyz:8880/Vip1000/03590359/130849
 #EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 4 HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",Astro SuperSport 4 HD MY
