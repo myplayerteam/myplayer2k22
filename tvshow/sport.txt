@@ -1548,3 +1548,349 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28238
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28241
 #EXTINF:-1 tvg-ID="" tvg-name=" BAND SPORT HD (BR)" tvg-logo="" group-title="Sport", BAND SPORT HD (BR)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28262
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="USA - BEIN SPORTS US" tvg-logo="" group-title="Bein sport",USA - BEIN SPORTS US
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58476
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN" tvg-logo="" group-title="Espn",USA - ESPN
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58499
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN 2 HD" tvg-logo="" group-title="Espn",USA - ESPN 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58500
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN NEWS" tvg-logo="" group-title="Espn",USA - ESPN NEWS
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58502
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX SPORTS ONE" tvg-logo="" group-title="Fox sport",USA - FOX SPORTS ONE
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58509
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX SPORTS TWO HD" tvg-logo="" group-title="Fox sport",USA - FOX SPORTS TWO HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58510
+#EXTINF:-1 tvg-ID="" tvg-name="US - SPORTSNET WORLD" tvg-logo="" group-title="Sport",US - SPORTSNET WORLD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58609
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET WEST" tvg-logo="" group-title="Sport",USA - SPORTSNET WEST
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58608
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET ONTARIO" tvg-logo="" group-title="Sport",USA - SPORTSNET ONTARIO
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58606
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET ONE" tvg-logo="" group-title="Sport",USA - SPORTSNET ONE
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58605
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET EAST" tvg-logo="" group-title="Sport",USA - SPORTSNET EAST
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58604
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET 360" tvg-logo="" group-title="Sport",USA - SPORTSNET 360
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58603
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX SPORTS Detroit" tvg-logo="" group-title="Fox sport",USA - FOX SPORTS Detroit
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58579
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Eleven Sport" tvg-logo="" group-title="Eleven sport",USA - Eleven Sport
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59840
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN 2" tvg-logo="" group-title="Espn",USA - ESPN 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57222
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN U" tvg-logo="" group-title="Espn",USA - ESPN U
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57228
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Fox Sports Arizona" tvg-logo="" group-title="Fox sport",USA - Fox Sports Arizona
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57447
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Fox Sports Detroit" tvg-logo="" group-title="Fox sport",USA - Fox Sports Detroit
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57448
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports North" tvg-logo="" group-title="Fox sport",USA - FOX Sports North
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57449
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Ohio" tvg-logo="" group-title="Fox sport",USA - FOX Sports Ohio
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57450
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports South" tvg-logo="" group-title="Fox sport",USA - FOX Sports South
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57453
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Sun" tvg-logo="" group-title="Fox sport",USA - FOX Sports Sun
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57454
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports West" tvg-logo="" group-title="Fox sport",USA - FOX Sports West
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57455
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Prime Ticket" tvg-logo="" group-title="Fox sport",USA - FOX Sports Prime Ticket
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57482
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Southeast" tvg-logo="" group-title="Fox sport",USA - FOX Sports Southeast
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57483
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Southwest" tvg-logo="" group-title="Fox sport",USA - FOX Sports Southwest
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57484
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Florida" tvg-logo="" group-title="Fox sport",USA - FOX Sports Florida
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57485
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Tennessee" tvg-logo="" group-title="Fox sport",USA - FOX Sports Tennessee
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57487
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Oklahoma" tvg-logo="" group-title="Fox sport",USA - FOX Sports Oklahoma
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57496
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Bein Sports English" tvg-logo="" group-title="Bein sport",USA - Bein Sports English
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/65664
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Ginxsports" tvg-logo="" group-title="Sport",USA - Ginxsports
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/65718
+#EXTINF:-1 tvg-ID="" tvg-name="USA - CBS Sports Network" tvg-logo="" group-title="Sport",USA - CBS Sports Network
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57209
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports San Diego" tvg-logo="" group-title="Fox sport",USA - FOX Sports San Diego
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57452
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports Boston" tvg-logo="" group-title="Sport",USA - NBC Sports Boston
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57466
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports NorthWest" tvg-logo="" group-title="Sport",USA - NBC Sports NorthWest
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57467
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports California" tvg-logo="" group-title="Sport",USA - NBC Sports California
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57469
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports Chicago" tvg-logo="" group-title="Sport",USA - NBC Sports Chicago
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57486
+#EXTINF:-1 tvg-ID="" tvg-name="FR - RMC SPORT 1 HD" tvg-logo="" group-title="Sport",FR - RMC SPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58762
+#EXTINF:-1 tvg-ID="" tvg-name="FR - RMC SPORT 2 HD" tvg-logo="" group-title="Sport",FR - RMC SPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58763
+#EXTINF:-1 tvg-ID="" tvg-name="FR - RMC SPORT 3 HD" tvg-logo="" group-title="Sport",FR - RMC SPORT 3 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58764
+#EXTINF:-1 tvg-ID="" tvg-name="FR - RMC SPORT 4" tvg-logo="" group-title="Sport",FR - RMC SPORT 4
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58765
+#EXTINF:-1 tvg-ID="" tvg-name="FR - CANAL+  SPORT HD" tvg-logo="" group-title="Sport",FR - CANAL+  SPORT HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58767
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BFM SPORT" tvg-logo="" group-title="Sport",FR - BFM SPORT
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58769
+#EXTINF:-1 tvg-ID="" tvg-name="FR - EUROSPORT FRANCE HD" tvg-logo="" group-title="Sport",FR - EUROSPORT FRANCE HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58770
+#EXTINF:-1 tvg-ID="" tvg-name="FR - EUROSPORT 2" tvg-logo="" group-title="Sport",FR - EUROSPORT 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58771
+#EXTINF:-1 tvg-ID="" tvg-name="TR - EUROSPORT 1 HD" tvg-logo="" group-title="Sport",TR - EUROSPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70775
+#EXTINF:-1 tvg-ID="" tvg-name="TR - EUROSPORT 2 HD" tvg-logo="" group-title="Sport",TR - EUROSPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70776
+#EXTINF:-1 tvg-ID="" tvg-name="TR - SPORTS TV" tvg-logo="" group-title="Sport",TR - SPORTS TV
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70780
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEiN SPORT HABER HD" tvg-logo="" group-title="Bein sport",TR - BEiN SPORT HABER HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70869
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORT HABER HDi" tvg-logo="" group-title="Bein sport",TR - BEIN SPORT HABER HDi
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70870
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS 1 HD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70879
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS 2 HD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70881
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS 3 HD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS 3 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70883
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS 4 HD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS 4 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70886
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS MAX 1 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70887
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS MAX 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70888
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS MAX 2 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70889
+#EXTINF:-1 tvg-ID="" tvg-name="TR - BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="Bein sport",TR - BEIN SPORTS MAX 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70890
+#EXTINF:-1 tvg-ID="" tvg-name="TR - EUROSPORT1 HD" tvg-logo="" group-title="Sport",TR - EUROSPORT1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70911
+#EXTINF:-1 tvg-ID="" tvg-name="TR - EUROSPORT2 HD" tvg-logo="" group-title="Sport",TR - EUROSPORT2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70912
+#EXTINF:-1 tvg-ID="" tvg-name="TR: - S-SPORT 1 FHD" tvg-logo="" group-title="Sport",TR: - S-SPORT 1 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70943
+#EXTINF:-1 tvg-ID="" tvg-name="TR - SPORTSTV HD" tvg-logo="" group-title="Sport",TR - SPORTSTV HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/70951
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Sky Sports Cricket" tvg-logo="" group-title="Sky sport",UK - Sky Sports Cricket
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68561
+#EXTINF:-1 tvg-ID="" tvg-name="DK - TV2 Sport HD" tvg-logo="" group-title="Sport",DK - TV2 Sport HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59250
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT 1 HD" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58753
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT 2 HD" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58754
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT 3 HD" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58755
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORTS MAX 4 HD" tvg-logo="" group-title="Bein sport",FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58756
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT MAX HD 5" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58757
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT MAX HD 6" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58758
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT MAX HD 7" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58759
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT MAX HD 8" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58760
+#EXTINF:-1 tvg-ID="" tvg-name="FR - BEIN SPORT MAX HD 9" tvg-logo="" group-title="Bein sport",FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58761
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 4 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 4 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/65068
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Rai Sport 2 HD" tvg-logo="" group-title="Sport",IT - Rai Sport 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61200
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Rai sport  1 HD" tvg-logo="" group-title="Sport",IT - Rai sport  1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61201
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sky Sport Uno HD" tvg-logo="" group-title="Sky sport",IT - Sky Sport Uno HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61209
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sky Sport Arena HD" tvg-logo="" group-title="Sky sport",IT - Sky Sport Arena HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61210
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sky Sport Serie A HD" tvg-logo="" group-title="Sky sport",IT - Sky Sport Serie A HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61211
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sky Sport Plus HD" tvg-logo="" group-title="Sky sport",IT - Sky Sport Plus HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61212
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sky Sport 24 HD" tvg-logo="" group-title="Sky sport",IT - Sky Sport 24 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61213
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sport Italia" tvg-logo="" group-title="Sport",IT - Sport Italia
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61215
+#EXTINF:-1 tvg-ID="" tvg-name="IT - Sky Sport F1 HD" tvg-logo="" group-title="Sky sport",IT - Sky Sport F1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61216
+#EXTINF:-1 tvg-ID="" tvg-name="PL - SPORT KLUB" tvg-logo="" group-title="Sport",PL - SPORT KLUB
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61450
+#EXTINF:-1 tvg-ID="" tvg-name="PL - Polsat Sport Premium 2 FHD" tvg-logo="" group-title="Sport",PL - Polsat Sport Premium 2 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61449
+#EXTINF:-1 tvg-ID="" tvg-name="PL - Polsat Sport Premium 1 FHD" tvg-logo="" group-title="Sport",PL - Polsat Sport Premium 1 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61448
+#EXTINF:-1 tvg-ID="" tvg-name="PL - POLSAT SPORT EXTRA HD" tvg-logo="" group-title="Sport",PL - POLSAT SPORT EXTRA HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61447
+#EXTINF:-1 tvg-ID="" tvg-name="PL - Polsat Sport NEWS FHD" tvg-logo="" group-title="Sport",PL - Polsat Sport NEWS FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61446
+#EXTINF:-1 tvg-ID="" tvg-name="PL - Polsat Sport FIGHT FHD" tvg-logo="" group-title="Sport",PL - Polsat Sport FIGHT FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61445
+#EXTINF:-1 tvg-ID="" tvg-name="PL - POLSAT SPORT HD" tvg-logo="" group-title="Sport",PL - POLSAT SPORT HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61444
+#EXTINF:-1 tvg-ID="" tvg-name="PL - NSPORT  HD" tvg-logo="" group-title="Sport",PL - NSPORT  HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61436
+#EXTINF:-1 tvg-ID="" tvg-name="PL - EUROSPORT 2 HD" tvg-logo="" group-title="Sport",PL - EUROSPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61423
+#EXTINF:-1 tvg-ID="" tvg-name="PL - EUROSPORT 1 HD" tvg-logo="" group-title="Sport",PL - EUROSPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61422
+#EXTINF:-1 tvg-ID="" tvg-name="PL - TVP SPORT HD" tvg-logo="" group-title="Sport",PL - TVP SPORT HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61367
+#EXTINF:-1 tvg-ID="" tvg-name="PL - CANAL  SPORT 2 HD" tvg-logo="" group-title="Sport",PL - CANAL  SPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61366
+#EXTINF:-1 tvg-ID="" tvg-name="PL - CANAL SPORT 1 HD" tvg-logo="" group-title="Sport",PL - CANAL SPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61365
+#EXTINF:-1 tvg-ID="" tvg-name="PT - EUROSPORT 1 HD" tvg-logo="" group-title="Sport",PT - EUROSPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62004
+#EXTINF:-1 tvg-ID="" tvg-name="PT - EUROSPORT 2" tvg-logo="" group-title="Sport",PT - EUROSPORT 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62005
+#EXTINF:-1 tvg-ID="" tvg-name="PT - SPORT TV 1 HD" tvg-logo="" group-title="Sport tv",PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62071
+#EXTINF:-1 tvg-ID="" tvg-name="PT - SPORT TV 4 HD" tvg-logo="" group-title="Sport tv",PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62074
+#EXTINF:-1 tvg-ID="" tvg-name="PT - Sport TV NBA HD" tvg-logo="" group-title="Sport tv",PT - Sport TV NBA HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62076
+#EXTINF:-1 tvg-ID="" tvg-name="PT - SPORT TV+HD" tvg-logo="" group-title="Sport tv",PT - SPORT TV+HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62077
+#EXTINF:-1 tvg-ID="" tvg-name="PT - Sport TV 2" tvg-logo="" group-title="Sport tv",PT - Sport TV 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62079
+#EXTINF:-1 tvg-ID="" tvg-name="PT - Sport TV 5" tvg-logo="" group-title="Sport tv",PT - Sport TV 5
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62082
+#EXTINF:-1 tvg-ID="" tvg-name="PT - Sporting TV HD" tvg-logo="" group-title="Sport",PT - Sporting TV HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62083
+#EXTINF:-1 tvg-ID="" tvg-name="PT - SPORT TV 3" tvg-logo="" group-title="Sport tv",PT - SPORT TV 3
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/74595
+#EXTINF:-1 tvg-ID="" tvg-name="NHL 02 | ESPN" tvg-logo="" group-title="Espn",NHL 02 | ESPN
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68448
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Free Sports TV" tvg-logo="" group-title="Sport",UK - Free Sports TV
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59901
+#EXTINF:-1 tvg-ID="" tvg-name="UK - MOTOR SPORT TV FHD" tvg-logo="" group-title="Sport tv",UK - MOTOR SPORT TV FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59934
+#EXTINF:-1 tvg-ID="" tvg-name="UK - EUROSPORT 2 HD" tvg-logo="" group-title="Sport",UK - EUROSPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60031
+#EXTINF:-1 tvg-ID="" tvg-name="UK - EURO SPORT 1 FHD" tvg-logo="" group-title="Sport",UK - EURO SPORT 1 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60030
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Sky Sports Racing FHD" tvg-logo="" group-title="Sky sport",UK - Sky Sports Racing FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60012
+#EXTINF:-1 tvg-ID="" tvg-name="UK - PREMIER SPORT 1 HD" tvg-logo="" group-title="Sport",UK - PREMIER SPORT 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60023
+#EXTINF:-1 tvg-ID="" tvg-name="UK - PREMIER SPORT 2 HD" tvg-logo="" group-title="Sport",UK - PREMIER SPORT 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60024
+#EXTINF:-1 tvg-ID="" tvg-name="UK - ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Eleven sport",UK - ELEVEN SPORTS 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60027
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Eir Sport 1" tvg-logo="" group-title="Sport",UK - Eir Sport 1
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62666
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Eir Sport 2" tvg-logo="" group-title="Sport",UK - Eir Sport 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62667
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 2" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68530
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 3" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 3
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68531
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 4" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 4
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68532
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 5" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 5
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68533
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 6" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 6
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68534
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 7" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 7
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68535
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 8" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 8
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68536
+#EXTINF:-1 tvg-ID="" tvg-name="UK - NBC Sports Gold 9" tvg-logo="" group-title="Sport",UK - NBC Sports Gold 9
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/68537
+#EXTINF:-1 tvg-ID="" tvg-name="AU - ESPN 2" tvg-logo="" group-title="Espn",AU - ESPN 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62412
+#EXTINF:-1 tvg-ID="" tvg-name="AU - ESPN 1" tvg-logo="" group-title="Espn",AU - ESPN 1
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62413
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports News" tvg-logo="" group-title="Fox sport",AU - Fox Sports News
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62428
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports 501" tvg-logo="" group-title="Fox sport",AU - Fox Sports 501
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62429
+#EXTINF:-1 tvg-ID="" tvg-name="AU - ESPN 2 | UHD" tvg-logo="" group-title="Espn",AU - ESPN 2 | UHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/66791
+#EXTINF:-1 tvg-ID="" tvg-name="AU - beIN SPORTS 1 | HD" tvg-logo="" group-title="Bein sport",AU - beIN SPORTS 1 | HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/66927
+#EXTINF:-1 tvg-ID="" tvg-name="AU - beIN SPORTS 3 | HD" tvg-logo="" group-title="Bein sport",AU - beIN SPORTS 3 | HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/66929
+#EXTINF:-1 tvg-ID="" tvg-name="AU - ESPN 2 | HD" tvg-logo="" group-title="Espn",AU - ESPN 2 | HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/66959
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports 506" tvg-logo="" group-title="Fox sport",AU - Fox Sports 506
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/66978
+#EXTINF:-1 tvg-ID="" tvg-name="AU - ESPN 2 FHD" tvg-logo="" group-title="Espn",AU - ESPN 2 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67079
+#EXTINF:-1 tvg-ID="" tvg-name="AU - ESPN 1 FHD" tvg-logo="" group-title="Espn",AU - ESPN 1 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67078
+#EXTINF:-1 tvg-ID="" tvg-name="AU - beIN Sports 3 FHD" tvg-logo="" group-title="Bein sport",AU - beIN Sports 3 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67077
+#EXTINF:-1 tvg-ID="" tvg-name="AU - BeIN Sports 2 FHD" tvg-logo="" group-title="Bein sport",AU - BeIN Sports 2 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67076
+#EXTINF:-1 tvg-ID="" tvg-name="AU - beIN Sports 1 FHD" tvg-logo="" group-title="Bein sport",AU - beIN Sports 1 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67075
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports 507 FHD" tvg-logo="" group-title="Fox sport",AU - Fox Sports 507 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67074
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports 505 FHD" tvg-logo="" group-title="Fox sport",AU - Fox Sports 505 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67072
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports 503 FHD" tvg-logo="" group-title="Fox sport",AU - Fox Sports 503 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67070
+#EXTINF:-1 tvg-ID="" tvg-name="AU - Fox Sports 501 FHD" tvg-logo="" group-title="Fox sport",AU - Fox Sports 501 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67068
+#EXTINF:-1 tvg-ID="" tvg-name="AU - FOX Sport 504 HD" tvg-logo="" group-title="Fox sport",AU - FOX Sport 504 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67063
+#EXTINF:-1 tvg-ID="" tvg-name="AU - FOX Sport 502 HD" tvg-logo="" group-title="Fox sport",AU - FOX Sport 502 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67062
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 1 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59734
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 2 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59735
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 3 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 3 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59736
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 5 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 5 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59738
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 6 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 6 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59739
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport 7 HD" tvg-logo="" group-title="Bein sport",AR - Bein Sport 7 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59740
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport English 1" tvg-logo="" group-title="Bein sport",AR - Bein Sport English 1
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59741
+#EXTINF:-1 tvg-ID="" tvg-name="AR - Bein Sport English 3" tvg-logo="" group-title="Bein sport",AR - Bein Sport English 3
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59742
+#EXTINF:-1 tvg-ID="" tvg-name="UK - SKY Sports News FHD" tvg-logo="" group-title="Sky sport",UK - SKY Sports News FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59996
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Sky Sports Golf HD" tvg-logo="" group-title="Sky sport",UK - Sky Sports Golf HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60009
+#EXTINF:-1 tvg-ID="" tvg-name="UK:Sky Sports Golf" tvg-logo="" group-title="Sky sport",UK:Sky Sports Golf
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60010
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Sky Sports Mix HD" tvg-logo="" group-title="Sky sport",UK - Sky Sports Mix HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60011
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Sky Sports Main Event" tvg-logo="" group-title="Sky sport",UK - Sky Sports Main Event
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60969
+#EXTINF:-1 tvg-ID="" tvg-name="UK - Sky Sports Box Office" tvg-logo="" group-title="Sky sport",UK - Sky Sports Box Office
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61543
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT Sports 1 HD" tvg-logo="" group-title="Bt sport",UK - BT Sports 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60014
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT SPORTS 2 HD" tvg-logo="" group-title="Bt sport",UK - BT SPORTS 2 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60015
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT SPORTS 3 HD" tvg-logo="" group-title="Bt sport",UK - BT SPORTS 3 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60016
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT SPORT ESPN HD" tvg-logo="" group-title="Espn",UK - BT SPORT ESPN HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60017
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT SPORTS 1 HD" tvg-logo="" group-title="Bt sport",UK - BT SPORTS 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60018
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT SPORTS 2 FHD" tvg-logo="" group-title="Bt sport",UK - BT SPORTS 2 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60019
+#EXTINF:-1 tvg-ID="" tvg-name="UK - BT SPORTS 3 FHD" tvg-logo="" group-title="Bt sport",UK - BT SPORTS 3 FHD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/60020
+#EXTINF:-1 tvg-ID="" tvg-name="IND - DD Sports" tvg-logo="" group-title="Sport",IND - DD Sports
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58185
+#EXTINF:-1 tvg-ID="" tvg-name="IND - TEN SPORT 1" tvg-logo="" group-title="Sport",IND - TEN SPORT 1
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/63594
+#EXTINF:-1 tvg-ID="" tvg-name="IND - TEN SPORT 2" tvg-logo="" group-title="Sport",IND - TEN SPORT 2
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/63595
+#EXTINF:-1 tvg-ID="" tvg-name="IND - DD SPORTS" tvg-logo="" group-title="Sport",IND - DD SPORTS
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/67131
+#EXTINF:-1 tvg-ID="" tvg-name="IND - Star Sports Select 1 HD" tvg-logo="" group-title="Sport",IND - Star Sports Select 1 HD
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/72905
+#EXTINF:-1 tvg-ID="" tvg-name="Pak - TEN SPORTS" tvg-logo="" group-title="Sport",Pak - TEN SPORTS
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/57987
