@@ -700,3 +700,84 @@ http://11121314.fr:8000/Matrix80/Matrix80/428754
 http://11121314.fr:8000/Matrix80/Matrix80/428755
 #EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS PRIME TICKET HD" tvg-logo="" group-title="USA | Sport",USA: FOX SPORTS PRIME TICKET HD
 http://11121314.fr:8000/Matrix80/Matrix80/428757
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="USA - BEIN SPORTS US" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="USA",USA - BEIN SPORTS US
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58476
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN" tvg-logo="http://attp.ddns.net:25461/images/1fe070a1d19f36ab2cbca808cec65f30.png" group-title="USA",USA - ESPN
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58499
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN 2 HD" tvg-logo="http://attp.ddns.net:25461/images/1fe070a1d19f36ab2cbca808cec65f30.png" group-title="USA",USA - ESPN 2 HD
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58500
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN NEWS" tvg-logo="http://attp.ddns.net:25461/images/25a51ab55e0e8e64a98c1fc7ec62c40a.png" group-title="USA",USA - ESPN NEWS
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58502
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX SPORTS ONE" tvg-logo="http://attp.ddns.net:25461/images/ca57cc446f1f712333e5548f77058095.png" group-title="USA",USA - FOX SPORTS ONE
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58509
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX SPORTS TWO HD" tvg-logo="http://attp.ddns.net:25461/images/974846e1799180000cff824850a9c2f2.png" group-title="USA",USA - FOX SPORTS TWO HD
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58510
+#EXTINF:-1 tvg-ID="" tvg-name="US - SPORTSNET WORLD" tvg-logo="http://attp.ddns.net:25461/images/ec628b848d412b22f39a91576a1d49d5.png" group-title="USA",US - SPORTSNET WORLD
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58609
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET WEST" tvg-logo="http://attp.ddns.net:25461/images/0ef1f3c957003be4799f80ec6ec0ffc1.png" group-title="USA",USA - SPORTSNET WEST
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58608
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET ONTARIO" tvg-logo="http://attp.ddns.net:25461/images/182faa285bf53da56f44c73eb6aff24f.png" group-title="USA",USA - SPORTSNET ONTARIO
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58606
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET ONE" tvg-logo="http://attp.ddns.net:25461/images/ec628b848d412b22f39a91576a1d49d5.png" group-title="USA",USA - SPORTSNET ONE
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58605
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET EAST" tvg-logo="http://attp.ddns.net:25461/images/0ef1f3c957003be4799f80ec6ec0ffc1.png" group-title="USA",USA - SPORTSNET EAST
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58604
+#EXTINF:-1 tvg-ID="" tvg-name="USA - SPORTSNET 360" tvg-logo="http://attp.ddns.net:25461/images/0ef1f3c957003be4799f80ec6ec0ffc1.png" group-title="USA",USA - SPORTSNET 360
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58603
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX SPORTS Detroit" tvg-logo="http://attp.ddns.net:25461/images/f537221bac571cd4af5812c4c5e3a145.png" group-title="USA",USA - FOX SPORTS Detroit
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58579
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Eleven Sport" tvg-logo="http://attp.ddns.net:25461/images/47caded6466b797dc3528e23bc1dd985.png" group-title="USA",USA - Eleven Sport
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/59840
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN 2" tvg-logo="http://attp.ddns.net:25461/images/03e2bf48dd6f611218b2ae3a2787b98a.png" group-title="USA",USA - ESPN 2
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57222
+#EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN U" tvg-logo="http://attp.ddns.net:25461/images/e25bcf6ef31839a95a7221141cc1083e.png" group-title="USA",USA - ESPN U
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57228
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Fox Sports Arizona" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - Fox Sports Arizona
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57447
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Fox Sports Detroit" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - Fox Sports Detroit
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57448
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports North" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports North
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57449
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Ohio" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports Ohio
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57450
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports South" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports South
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57453
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Sun" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports Sun
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57454
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports West" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports West
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57455
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Prime Ticket" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Prime Ticket
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57482
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Southeast" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Southeast
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57483
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Southwest" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Southwest
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57484
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Florida" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Florida
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57485
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Tennessee" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Tennessee
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57487
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Oklahoma" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Oklahoma
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57496
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Bein Sports English" tvg-logo="http://attp.ddns.net:25461/images/153bbcc2fe3ab5457c0cfb2958a5b988.png" group-title="USA",USA - Bein Sports English
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/65664
+#EXTINF:-1 tvg-ID="" tvg-name="USA - Ginxsports" tvg-logo="http://attp.ddns.net:25461/images/6b38439715838e98d15f8aff15e52b70.png" group-title="USA",USA - Ginxsports
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/65718
+#EXTINF:-1 tvg-ID="" tvg-name="USA - CBS Sports Network" tvg-logo="http://attp.ddns.net:25461/images/df2c0ea634ed79e81b63be5336ff925c.png" group-title="USA",USA - CBS Sports Network
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57209
+#EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports San Diego" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports San Diego
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57452
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports Boston" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports Boston
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57466
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports NorthWest" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports NorthWest
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57467
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports California" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports California
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57469
+#EXTINF:-1 tvg-ID="" tvg-name="USA - NBC Sports Chicago" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports Chicago
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57486
+#EXTINF:-1 tvg-ID="" tvg-name="USA - UFC Fight Pass" tvg-logo="http://attp.ddns.net:25461/images/aaee4744d0f23c4208c841f88a3ee149.png" group-title="USA",USA - UFC Fight Pass
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/65019
+#EXTINF:-1 tvg-ID="" tvg-name="NHL 02 | ESPN" tvg-logo="http://attp.ddns.net:25461/images/cb2c116809d07410583ef522091b6e0f.png" group-title="NFL /NHL / NBA / MLB",NHL 02 | ESPN
+http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/68448
