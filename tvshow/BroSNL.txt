@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Ten Sports" tvg-logo="" group-title="PAKISTANI VIP",PK: Ten Sports
 http://live.skyott.xyz:8880/Vip1000/03590359/20972
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX ACTION" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX ACTION
-http://live.skyott.xyz:8880/Vip1000/03590359/127232
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX AFLAM 1" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX AFLAM 1
-http://live.skyott.xyz:8880/Vip1000/03590359/127233
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX AFLAM 2" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX AFLAM 2
-http://live.skyott.xyz:8880/Vip1000/03590359/127234
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX DRAMA" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX DRAMA
-http://live.skyott.xyz:8880/Vip1000/03590359/127235
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX COMEDY" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX COMEDY
-http://live.skyott.xyz:8880/Vip1000/03590359/127236
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX HORROR" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX HORROR
-http://live.skyott.xyz:8880/Vip1000/03590359/127237
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX BOX OFFICE 1" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX BOX OFFICE 1
-http://live.skyott.xyz:8880/Vip1000/03590359/127238
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX BOXOFFICE 2" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX BOXOFFICE 2
-http://live.skyott.xyz:8880/Vip1000/03590359/127239
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX BOLLYWOODY" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX BOLLYWOODY
-http://live.skyott.xyz:8880/Vip1000/03590359/127240
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX ANIME 1" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX ANIME 1
-http://live.skyott.xyz:8880/Vip1000/03590359/127241
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX ANIME 2" tvg-logo="" group-title="NETFLIX & SKY FLIX",AR: SKY FLIX ANIME 2
-http://live.skyott.xyz:8880/Vip1000/03590359/127242
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Flix BOX OFFICE" tvg-logo="" group-title="NETFLIX & SKY FLIX",Sky Flix BOX OFFICE
-http://live.skyott.xyz:8880/Vip1000/03590359/127243
 #EXTINF:-1 tvg-ID="" tvg-name="DK: EuroSport 1 HD" tvg-logo="" group-title="DENMARK",DK: EuroSport 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/86567
 #EXTINF:-1 tvg-ID="" tvg-name="DK: EuroSport 2 HD" tvg-logo="" group-title="DENMARK",DK: EuroSport 2 HD
@@ -41,74 +17,22 @@ http://live.skyott.xyz:8880/Vip1000/03590359/60460
 http://live.skyott.xyz:8880/Vip1000/03590359/60464
 #EXTINF:-1 tvg-ID="" tvg-name="Dn- TV3 SPORT 1" tvg-logo="" group-title="DENMARK",Dn- TV3 SPORT 1
 http://live.skyott.xyz:8880/Vip1000/03590359/60461
-#EXTINF:-1 tvg-ID="" tvg-name="IT-VIP: Sky Cinema Due" tvg-logo="" group-title="ITALY ",IT-VIP: Sky Cinema Due
-http://live.skyott.xyz:8880/Vip1000/03590359/18114
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Uno" tvg-logo="" group-title="ITALY ",IT: Sky Cinema Uno
-http://live.skyott.xyz:8880/Vip1000/03590359/12101
-#EXTINF:-1 tvg-ID="" tvg-name="||IT| SKY CINEMA FAMILY HD" tvg-logo="" group-title="ITALY ",||IT| SKY CINEMA FAMILY HD
-http://live.skyott.xyz:8880/Vip1000/03590359/99220
-#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY CINEMA ACTION FHD" tvg-logo="" group-title="ITALY ",IT: SKY CINEMA ACTION FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/119201
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport MotoGP FHD" tvg-logo="" group-title="ITALY ",IT: Sky Sport MotoGP FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/119229
-#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY CINEMA ROMANCE HD" tvg-logo="" group-title="ITALY ",IT: SKY CINEMA ROMANCE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/127181
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY SPORT MOTO GP HD" tvg-logo="" group-title="ITALY ",(IT) SKY SPORT MOTO GP HD
 http://live.skyott.xyz:8880/Vip1000/03590359/130262
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY CINEMA DUE FHD +24" tvg-logo="" group-title="ITALY ",(IT) SKY CINEMA DUE FHD +24
-http://live.skyott.xyz:8880/Vip1000/03590359/130268
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) FOX LIFE FHD" tvg-logo="" group-title="ITALY ",(IT) FOX LIFE FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/130272
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) FOX CRIME FHD" tvg-logo="" group-title="ITALY ",(IT) FOX CRIME FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/130273
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY CINEMA COMEDY FHD" tvg-logo="" group-title="ITALY ",(IT) SKY CINEMA COMEDY FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/130276
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY CINEMA DRAMA FHD" tvg-logo="" group-title="ITALY ",(IT) SKY CINEMA DRAMA FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/130277
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY SPORT 24 FHD" tvg-logo="" group-title="ITALY ",(IT) SKY SPORT 24 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/130279
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY SPORT FOOTBALL FHD" tvg-logo="" group-title="ITALY ",(IT) SKY SPORT FOOTBALL FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/130280
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY SPORT UNO FHD" tvg-logo="" group-title="ITALY ",(IT) SKY SPORT UNO FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/130281
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY ARENA FHD" tvg-logo="" group-title="ITALY ",(IT) SKY ARENA FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/130282
-#EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY UNO FHD" tvg-logo="" group-title="ITALY ",(IT) SKY UNO FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/130284
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) SKY SPORT NBA FHD" tvg-logo="" group-title="ITALY ",(IT) SKY SPORT NBA FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/130285
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) EUROSPORT 1 FHD" tvg-logo="" group-title="ITALY ",(IT) EUROSPORT 1 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/130286
 #EXTINF:-1 tvg-ID="" tvg-name="(IT) EUROSPORT 2 FHD" tvg-logo="" group-title="ITALY ",(IT) EUROSPORT 2 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/130287
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SUPERCALCIO" tvg-logo="" group-title="ITALY ",|IT| SKY SUPERCALCIO
-http://live.skyott.xyz:8880/Vip1000/03590359/130316
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TG 24 HD" tvg-logo="" group-title="ITALY ",|IT| SKY TG 24 HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130368
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 4" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 4
-http://live.skyott.xyz:8880/Vip1000/03590359/130371
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 2" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 2
-http://live.skyott.xyz:8880/Vip1000/03590359/130372
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 3" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 3
-http://live.skyott.xyz:8880/Vip1000/03590359/130373
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 8" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 8
-http://live.skyott.xyz:8880/Vip1000/03590359/130374
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 5" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 5
-http://live.skyott.xyz:8880/Vip1000/03590359/130375
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 7" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 7
-http://live.skyott.xyz:8880/Vip1000/03590359/130376
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 6" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 6
-http://live.skyott.xyz:8880/Vip1000/03590359/130377
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 1" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 1
-http://live.skyott.xyz:8880/Vip1000/03590359/130378
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 9" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 9
-http://live.skyott.xyz:8880/Vip1000/03590359/130379
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 10" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 10
-http://live.skyott.xyz:8880/Vip1000/03590359/130380
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 11" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 11
-http://live.skyott.xyz:8880/Vip1000/03590359/130381
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA 12" tvg-logo="" group-title="ITALY ",|IT| SKY PRIMAFILA 12
-http://live.skyott.xyz:8880/Vip1000/03590359/130382
 #EXTINF:-1 tvg-ID="" tvg-name="------- IT Sports -------" tvg-logo="" group-title="ITALY ",------- IT Sports -------
 http://live.skyott.xyz:8880/Vip1000/03590359/130396
 #EXTINF:-1 tvg-ID="" tvg-name="|IT| SPORTITALIA CALCIO" tvg-logo="" group-title="ITALY ",|IT| SPORTITALIA CALCIO
@@ -141,40 +65,8 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130410
 http://live.skyott.xyz:8880/Vip1000/03590359/130411
 #EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT 3 HD" tvg-logo="" group-title="ITALY ",|IT| SKY SPORT 3 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/130412
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ARTE HD" tvg-logo="" group-title="ITALY ",|IT| SKY ARTE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130421
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX HD" tvg-logo="" group-title="ITALY ",|IT| FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130424
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX COMEDY HD" tvg-logo="" group-title="ITALY ",|IT| SKY FOX COMEDY HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130425
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX ANIMATION HD" tvg-logo="" group-title="ITALY ",|IT| FOX ANIMATION HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130426
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX CRIME" tvg-logo="" group-title="ITALY ",|IT| SKY FOX CRIME
-http://live.skyott.xyz:8880/Vip1000/03590359/130427
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX LIFE HD" tvg-logo="" group-title="ITALY ",|IT| SKY FOX LIFE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130428
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC HD" tvg-logo="" group-title="ITALY ",|IT| SKY ATLANTIC HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130430
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY UNO HD" tvg-logo="" group-title="ITALY ",|IT| SKY UNO HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130432
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA UNO HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130437
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA SUSPENSE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130438
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO +24 HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA UNO +24 HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130439
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COMEDY" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA COMEDY
-http://live.skyott.xyz:8880/Vip1000/03590359/130440
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DRAMA HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA DRAMA HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130441
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ROMANCE HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA ROMANCE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130442
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA DUE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130443
 #EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOOTBALL HD" tvg-logo="" group-title="ITALY ",|IT| SKY FOOTBALL HD
 http://live.skyott.xyz:8880/Vip1000/03590359/130444
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COLLECTION HD" tvg-logo="" group-title="ITALY ",|IT| SKY CINEMA COLLECTION HD
-http://live.skyott.xyz:8880/Vip1000/03590359/130445
 #EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA PREMIERE 2 HD" tvg-logo="" group-title="Greece",GR: NOVA PREMIERE 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/28128
 #EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA PREMIERE 4 FHD/HD" tvg-logo="" group-title="Greece",GR: NOVA PREMIERE 4 FHD/HD
@@ -191,16 +83,8 @@ http://live.skyott.xyz:8880/Vip1000/03590359/28154
 http://live.skyott.xyz:8880/Vip1000/03590359/37791
 #EXTINF:-1 tvg-ID="" tvg-name="GR | ERT Sports 2 HD" tvg-logo="" group-title="Greece",GR | ERT Sports 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/59145
-#EXTINF:-1 tvg-ID="" tvg-name="GR | Fox Life HD" tvg-logo="" group-title="Greece",GR | Fox Life HD
-http://live.skyott.xyz:8880/Vip1000/03590359/59156
 #EXTINF:-1 tvg-ID="" tvg-name="GR | COSMOTE Sport 2 FHD" tvg-logo="" group-title="Greece",GR | COSMOTE Sport 2 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/59273
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Greece (480p)" tvg-logo="" group-title="Greece",Fox Greece (480p)
-http://live.skyott.xyz:8880/Vip1000/03590359/63606
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MUSIC (240p)" tvg-logo="" group-title="Greece",FOX MUSIC (240p)
-http://live.skyott.xyz:8880/Vip1000/03590359/63607
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MUSIC" tvg-logo="" group-title="Greece",FOX MUSIC
-http://live.skyott.xyz:8880/Vip1000/03590359/83889
 #EXTINF:-1 tvg-ID="" tvg-name="Gr- Nova Premiere 1 HD" tvg-logo="" group-title="Greece",Gr- Nova Premiere 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/83920
 #EXTINF:-1 tvg-ID="" tvg-name="Gr- Nova Sports 2 HD" tvg-logo="" group-title="Greece",Gr- Nova Sports 2 HD
@@ -235,14 +119,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/123799
 http://live.skyott.xyz:8880/Vip1000/03590359/123800
 #EXTINF:-1 tvg-ID="" tvg-name="(GR) Cosmote Sport 8 4K+" tvg-logo="" group-title="Greece",(GR) Cosmote Sport 8 4K+
 http://live.skyott.xyz:8880/Vip1000/03590359/123801
-#EXTINF:-1 tvg-ID="" tvg-name="GR: BLUE SKY" tvg-logo="" group-title="Greece",GR: BLUE SKY
-http://live.skyott.xyz:8880/Vip1000/03590359/123820
 #EXTINF:-1 tvg-ID="" tvg-name="GR: Eurosport 1" tvg-logo="" group-title="Greece",GR: Eurosport 1
 http://live.skyott.xyz:8880/Vip1000/03590359/123842
 #EXTINF:-1 tvg-ID="" tvg-name="GR: Eurosport 2" tvg-logo="" group-title="Greece",GR: Eurosport 2
 http://live.skyott.xyz:8880/Vip1000/03590359/123843
-#EXTINF:-1 tvg-ID="" tvg-name="GR: FOX LIFE FHD" tvg-logo="" group-title="Greece",GR: FOX LIFE FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/123848
 #EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 2 HD" tvg-logo="" group-title="Greece",GR: NOVA SPORT 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/124211
 #EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 4 HD (DURING LIVE MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORT 4 HD (DURING LIVE MATCHES)
@@ -295,14 +175,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/89851
 http://live.skyott.xyz:8880/Vip1000/03590359/89917
 #EXTINF:-1 tvg-ID="" tvg-name="Sharjah Sports TV (1080p)" tvg-logo="http://pakiptv.top:8880/images/7bc93a29bfdd028171da071e394014f1.jpg" group-title="ARAB",Sharjah Sports TV (1080p)
 http://live.skyott.xyz:8880/Vip1000/03590359/89951
-#EXTINF:-1 tvg-ID="" tvg-name="Sky News Arabia (Portrait) (1080p)" tvg-logo="http://pakiptv.top:8880/images/314f4e79e703e2b8fc72f1b23a6df2b2.png" group-title="ARAB",Sky News Arabia (Portrait) (1080p)
-http://live.skyott.xyz:8880/Vip1000/03590359/89954
 #EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="ARAB",AR: beIN SPORTS 2 ENGLISH HD
 http://live.skyott.xyz:8880/Vip1000/03590359/92672
 #EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 3 ENGLISH HD" tvg-logo="" group-title="ARAB",AR: beIN SPORTS 3 ENGLISH HD
 http://live.skyott.xyz:8880/Vip1000/03590359/92673
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN FOX Action" tvg-logo="" group-title="ARAB",AR: beIN FOX Action
-http://live.skyott.xyz:8880/Vip1000/03590359/92685
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SSC SPORTS 1 HD (HEVC)" tvg-logo="" group-title="ARAB",AR: SSC SPORTS 1 HD (HEVC)
 http://live.skyott.xyz:8880/Vip1000/03590359/92754
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SSC SPORTS 2 HD (HEVC)" tvg-logo="" group-title="ARAB",AR: SSC SPORTS 2 HD (HEVC)
@@ -325,8 +201,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/92762
 http://live.skyott.xyz:8880/Vip1000/03590359/92765
 #EXTINF:-1 tvg-ID="" tvg-name="SSC SPORTS 7 HEVC" tvg-logo="" group-title="ARAB",SSC SPORTS 7 HEVC
 http://live.skyott.xyz:8880/Vip1000/03590359/92778
-#EXTINF:-1 tvg-ID="" tvg-name="Arab's Sky News" tvg-logo="" group-title="ARAB",Arab's Sky News
-http://live.skyott.xyz:8880/Vip1000/03590359/92802
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS Premium 3" tvg-logo="" group-title="ARAB",AR: BEIN SPORTS Premium 3
 http://live.skyott.xyz:8880/Vip1000/03590359/116849
 #EXTINF:-1 tvg-ID="" tvg-name="✦●✦ BEIN SPORTS HD ✦●✦" tvg-logo="" group-title="ARABIC LOCAL",✦●✦ BEIN SPORTS HD ✦●✦
@@ -539,20 +413,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/124325
 http://live.skyott.xyz:8880/Vip1000/03590359/124326
 #EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 6 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 6 HEVC.
 http://live.skyott.xyz:8880/Vip1000/03590359/124327
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX MOVIES ACTION HD" tvg-logo="https://lo1.in/bein/fxacm.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX MOVIES ACTION HD
-http://live.skyott.xyz:8880/Vip1000/03590359/124343
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX HD" tvg-logo="https://lo1.in/bein/fx.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/124350
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX LIFE HD" tvg-logo="https://lo1.in/bein/fxlife.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX LIFE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/124351
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX LIFE HEVC" tvg-logo="https://lo1.in/bein/fxlife.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX LIFE HEVC
-http://live.skyott.xyz:8880/Vip1000/03590359/124352
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX REWAYAT HD" tvg-logo="https://lo1.in/bein/fxrewa.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX REWAYAT HD
-http://live.skyott.xyz:8880/Vip1000/03590359/124353
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX REWAYAT HEVC" tvg-logo="https://lo1.in/bein/fxrewa.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX REWAYAT HEVC
-http://live.skyott.xyz:8880/Vip1000/03590359/124354
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN| BEIN FOX CRIME HD" tvg-logo="https://lo1.in/bein/fxcrime.png" group-title="ARABIC LOCAL",BEIN| BEIN FOX CRIME HD
-http://live.skyott.xyz:8880/Vip1000/03590359/124355
 #EXTINF:-1 tvg-ID="" tvg-name="UAE| ABU DHABI SPORTS 1 FHD" tvg-logo="https://lo1.in/stplay/adsport1hd.png" group-title="ARABIC LOCAL",UAE| ABU DHABI SPORTS 1 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/124444
 #EXTINF:-1 tvg-ID="" tvg-name="UAE| ABU DHABI SPORTS 2 FHD" tvg-logo="https://lo1.in/ars/uaeadsport.png" group-title="ARABIC LOCAL",UAE| ABU DHABI SPORTS 2 FHD
@@ -639,16 +499,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/124820
 http://live.skyott.xyz:8880/Vip1000/03590359/124905
 #EXTINF:-1 tvg-ID="" tvg-name="LBY| LIBYA SPORT 2 FHD" tvg-logo="https://lo1.in/liby/libsp2.png" group-title="ARABIC LOCAL",LBY| LIBYA SPORT 2 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/124906
-#EXTINF:-1 tvg-ID="" tvg-name="AR_NS| SKY NEWS ARABYA HD" tvg-logo="https://lo1.in/ns/skyns.png" group-title="ARABIC LOCAL",AR_NS| SKY NEWS ARABYA HD
-http://live.skyott.xyz:8880/Vip1000/03590359/125197
-#EXTINF:-1 tvg-ID="" tvg-name="AR_NS| SKY NEWS ARABYA HEVC" tvg-logo="https://lo1.in/ns/skyns.png" group-title="ARABIC LOCAL",AR_NS| SKY NEWS ARABYA HEVC
-http://live.skyott.xyz:8880/Vip1000/03590359/125198
-#EXTINF:-1 tvg-ID="" tvg-name="AR-KIDS| FIX FOXI HD" tvg-logo="https://lo1.in/arkids/fixandfoxi.png" group-title="ARABIC LOCAL",AR-KIDS| FIX FOXI HD
-http://live.skyott.xyz:8880/Vip1000/03590359/125270
-#EXTINF:-1 tvg-ID="" tvg-name="AR-KIDS| FIX FOXI HEVC" tvg-logo="https://lo1.in/arkids/fixandfoxi.png" group-title="ARABIC LOCAL",AR-KIDS| FIX FOXI HEVC
-http://live.skyott.xyz:8880/Vip1000/03590359/125271
-#EXTINF:-1 tvg-ID="" tvg-name="OSN| Fox Family Movies HD" tvg-logo="https://lo1.in/osn/flg.png" group-title="ARABIC LOCAL",OSN| Fox Family Movies HD
-http://live.skyott.xyz:8880/Vip1000/03590359/125445
 #EXTINF:-1 tvg-ID="" tvg-name="OSN| TRACE SPORT STARS HD" tvg-logo="https://lo1.in/osn/flg.png" group-title="ARABIC LOCAL",OSN| TRACE SPORT STARS HD
 http://live.skyott.xyz:8880/Vip1000/03590359/125503
 #EXTINF:-1 tvg-ID="" tvg-name="|| FR || BeIN Sports MAX 10 " tvg-logo="" group-title="FRANCE",|| FR || BeIN Sports MAX 10 
@@ -869,8 +719,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/119404
 http://live.skyott.xyz:8880/Vip1000/03590359/119413
 #EXTINF:-1 tvg-ID="" tvg-name="|PL| SPORTKLUB HD" tvg-logo="" group-title="POLAND",|PL| SPORTKLUB HD
 http://live.skyott.xyz:8880/Vip1000/03590359/119423
-#EXTINF:-1 tvg-ID="" tvg-name="|PL| Fox Comedy FHD" tvg-logo="" group-title="POLAND",|PL| Fox Comedy FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/119462
 #EXTINF:-1 tvg-ID="" tvg-name="POL: Eleven Sport 1 HD" tvg-logo="" group-title="POLAND",POL: Eleven Sport 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/127660
 #EXTINF:-1 tvg-ID="" tvg-name="POL: Eleven Sport 2 HD" tvg-logo="" group-title="POLAND",POL: Eleven Sport 2 HD
@@ -939,8 +787,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/40228
 http://live.skyott.xyz:8880/Vip1000/03590359/40234
 #EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="NETHERLAND",Eurosport 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/40235
-#EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="" group-title="NETHERLAND",Fox
-http://live.skyott.xyz:8880/Vip1000/03590359/40245
 #EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Golf" tvg-logo="" group-title="NETHERLAND",Ziggo Sport Golf
 http://live.skyott.xyz:8880/Vip1000/03590359/40264
 #EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Racing" tvg-logo="" group-title="NETHERLAND",Ziggo Sport Racing
@@ -951,8 +797,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/40266
 http://live.skyott.xyz:8880/Vip1000/03590359/54727
 #EXTINF:-1 tvg-ID="" tvg-name="NL | FILM1 PREMIERE HD" tvg-logo="" group-title="NETHERLAND",NL | FILM1 PREMIERE HD
 http://live.skyott.xyz:8880/Vip1000/03590359/62114
-#EXTINF:-1 tvg-ID="" tvg-name="NL | FOX FHD" tvg-logo="" group-title="NETHERLAND",NL | FOX FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/62116
 #EXTINF:-1 tvg-ID="" tvg-name="NL | FILM1 PREMIERE FHD" tvg-logo="" group-title="NETHERLAND",NL | FILM1 PREMIERE FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/62297
 #EXTINF:-1 tvg-ID="" tvg-name="NL | EUROSPORT 1 FHD" tvg-logo="" group-title="NETHERLAND",NL | EUROSPORT 1 FHD
@@ -985,8 +829,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/71404
 http://live.skyott.xyz:8880/Vip1000/03590359/71405
 #EXTINF:-1 tvg-ID="" tvg-name="|NL| Extreme Sports" tvg-logo="" group-title="NETHERLAND",|NL| Extreme Sports
 http://live.skyott.xyz:8880/Vip1000/03590359/71406
-#EXTINF:-1 tvg-ID="" tvg-name="|NL| FOX" tvg-logo="" group-title="NETHERLAND",|NL| FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/71408
 #EXTINF:-1 tvg-ID="" tvg-name="|NL| FOX SPORTS 1" tvg-logo="" group-title="NETHERLAND",|NL| FOX SPORTS 1
 http://live.skyott.xyz:8880/Vip1000/03590359/71409
 #EXTINF:-1 tvg-ID="" tvg-name="|NL| FOX SPORTS 1 HD" tvg-logo="" group-title="NETHERLAND",|NL| FOX SPORTS 1 HD
@@ -1045,8 +887,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/22849
 http://live.skyott.xyz:8880/Vip1000/03590359/34132
 #EXTINF:-1 tvg-ID="" tvg-name="BE: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="BELGIUM",BE: ELEVEN SPORTS 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/34133
-#EXTINF:-1 tvg-ID="" tvg-name="BE: FOX HD" tvg-logo="" group-title="BELGIUM",BE: FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/34138
 #EXTINF:-1 tvg-ID="" tvg-name="BE: VOO SPORT WORLD 1 HD" tvg-logo="" group-title="BELGIUM",BE: VOO SPORT WORLD 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/34174
 #EXTINF:-1 tvg-ID="" tvg-name="BE: VOO SPORT WORLD 2 HD" tvg-logo="" group-title="BELGIUM",BE: VOO SPORT WORLD 2 HD
@@ -1075,10 +915,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/56966
 http://live.skyott.xyz:8880/Vip1000/03590359/1881
 #EXTINF:-1 tvg-ID="" tvg-name="PT | EUROSPORT  1 HD" tvg-logo="" group-title="PORTUGAL",PT | EUROSPORT  1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/1822
-#EXTINF:-1 tvg-ID="" tvg-name="PT | Fox Crime" tvg-logo="" group-title="PORTUGAL",PT | Fox Crime
-http://live.skyott.xyz:8880/Vip1000/03590359/1788
-#EXTINF:-1 tvg-ID="" tvg-name="PT | FOX CRIME HD" tvg-logo="" group-title="PORTUGAL",PT | FOX CRIME HD
-http://live.skyott.xyz:8880/Vip1000/03590359/1825
 #EXTINF:-1 tvg-ID="" tvg-name="PT | KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT | KOMBAT SPORT
 http://live.skyott.xyz:8880/Vip1000/03590359/1835
 #EXTINF:-1 tvg-ID="" tvg-name="PT | SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL",PT | SPORT TV 2 HD
@@ -1105,14 +941,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/99529
 http://live.skyott.xyz:8880/Vip1000/03590359/99530
 #EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
 http://live.skyott.xyz:8880/Vip1000/03590359/99531
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX MOVIES" tvg-logo="" group-title="PORTUGAL",PT: FOX MOVIES
-http://live.skyott.xyz:8880/Vip1000/03590359/99541
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
-http://live.skyott.xyz:8880/Vip1000/03590359/99545
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
-http://live.skyott.xyz:8880/Vip1000/03590359/99546
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/99550
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| Sport TV +" tvg-logo="" group-title="PORTUGAL",||PT|| Sport TV +
 http://live.skyott.xyz:8880/Vip1000/03590359/117041
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| Sport TV + FHD" tvg-logo="" group-title="PORTUGAL",||PT|| Sport TV + FHD
@@ -1209,34 +1037,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/117093
 http://live.skyott.xyz:8880/Vip1000/03590359/117094
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",||PT|| KOMBAT SPORT
 http://live.skyott.xyz:8880/Vip1000/03590359/117095
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Movies" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Movies
-http://live.skyott.xyz:8880/Vip1000/03590359/117124
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Movies FHD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Movies FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/117125
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox" tvg-logo="" group-title="PORTUGAL",||PT|| Fox
-http://live.skyott.xyz:8880/Vip1000/03590359/117126
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox  HD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox  HD
-http://live.skyott.xyz:8880/Vip1000/03590359/117127
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox  FHD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox  FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/117128
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Crime" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Crime
-http://live.skyott.xyz:8880/Vip1000/03590359/117129
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Crime HD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Crime HD
-http://live.skyott.xyz:8880/Vip1000/03590359/117130
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Crime FHD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Crime FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/117131
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Life" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Life
-http://live.skyott.xyz:8880/Vip1000/03590359/117132
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Life HD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Life HD
-http://live.skyott.xyz:8880/Vip1000/03590359/117133
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Life  FHD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Life  FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/117134
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Comedy" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Comedy
-http://live.skyott.xyz:8880/Vip1000/03590359/117135
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Comedy  FHD" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Comedy  FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/117136
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Sky News" tvg-logo="" group-title="PORTUGAL",||PT|| Sky News
-http://live.skyott.xyz:8880/Vip1000/03590359/117214
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| â â â â DESPORTO â â â â" tvg-logo="" group-title="PORTUGAL",||PT|| â â â â DESPORTO â â â â
 http://live.skyott.xyz:8880/Vip1000/03590359/117260
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV + á¶ á´´á´°" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV + á¶ á´´á´°
@@ -1329,26 +1129,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/117313
 http://live.skyott.xyz:8880/Vip1000/03590359/117314
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",||PT|| KOMBAT SPORT
 http://live.skyott.xyz:8880/Vip1000/03590359/117319
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX MOVIES" tvg-logo="" group-title="PORTUGAL",||PT|| FOX MOVIES
-http://live.skyott.xyz:8880/Vip1000/03590359/117337
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX MOVIES á¶ á´´á´°" tvg-logo="" group-title="PORTUGAL",||PT|| FOX MOVIES á¶ á´´á´°
-http://live.skyott.xyz:8880/Vip1000/03590359/117338
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX" tvg-logo="" group-title="PORTUGAL",||PT|| FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/117347
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX á¶ á´´á´°" tvg-logo="" group-title="PORTUGAL",||PT|| FOX á¶ á´´á´°
-http://live.skyott.xyz:8880/Vip1000/03590359/117348
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX LIFE" tvg-logo="" group-title="PORTUGAL",||PT|| FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/117349
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX LIFE á¶ á´´á´°" tvg-logo="" group-title="PORTUGAL",||PT|| FOX LIFE á¶ á´´á´°
-http://live.skyott.xyz:8880/Vip1000/03590359/117350
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX CRIME" tvg-logo="" group-title="PORTUGAL",||PT|| FOX CRIME
-http://live.skyott.xyz:8880/Vip1000/03590359/117351
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX CRIME á¶ á´´á´°" tvg-logo="" group-title="PORTUGAL",||PT|| FOX CRIME á¶ á´´á´°
-http://live.skyott.xyz:8880/Vip1000/03590359/117352
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX COMEDY" tvg-logo="" group-title="PORTUGAL",||PT|| FOX COMEDY
-http://live.skyott.xyz:8880/Vip1000/03590359/117353
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX COMEDY á¶ á´´á´°" tvg-logo="" group-title="PORTUGAL",||PT|| FOX COMEDY á¶ á´´á´°
-http://live.skyott.xyz:8880/Vip1000/03590359/117354
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| Sport TV+ [low]Â¹" tvg-logo="" group-title="PORTUGAL",||PT|| Sport TV+ [low]Â¹
 http://live.skyott.xyz:8880/Vip1000/03590359/117423
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| Sport TV+ [low]Â²" tvg-logo="" group-title="PORTUGAL",||PT|| Sport TV+ [low]Â²
@@ -1399,20 +1179,8 @@ http://live.skyott.xyz:8880/Vip1000/03590359/117448
 http://live.skyott.xyz:8880/Vip1000/03590359/117449
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| Sporting TV" tvg-logo="" group-title="PORTUGAL",||PT|| Sporting TV
 http://live.skyott.xyz:8880/Vip1000/03590359/117450
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Movies [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Movies [low]
-http://live.skyott.xyz:8880/Vip1000/03590359/117465
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Life [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Life [low]
-http://live.skyott.xyz:8880/Vip1000/03590359/117466
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Crime [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Crime [low]
-http://live.skyott.xyz:8880/Vip1000/03590359/117467
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox Comedy [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Fox Comedy [low]
-http://live.skyott.xyz:8880/Vip1000/03590359/117468
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| Fox [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Fox [low]
-http://live.skyott.xyz:8880/Vip1000/03590359/117469
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| EuroSport 2 [HEVC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| EuroSport 2 [HEVC/H265]
 http://live.skyott.xyz:8880/Vip1000/03590359/117523
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX Comedy [HEVC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| FOX Comedy [HEVC/H265]
-http://live.skyott.xyz:8880/Vip1000/03590359/117524
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV 1  FHD  [HEVC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 1  FHD  [HEVC/H265]
 http://live.skyott.xyz:8880/Vip1000/03590359/117526
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV 2 FHD [HVEC/H265] 2" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 2 FHD [HVEC/H265] 2
@@ -1423,8 +1191,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/117529
 http://live.skyott.xyz:8880/Vip1000/03590359/117534
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV 1 HD [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 1 HD [HVEC/H265]
 http://live.skyott.xyz:8880/Vip1000/03590359/117536
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX CRIME [HEVC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| FOX CRIME [HEVC/H265]
-http://live.skyott.xyz:8880/Vip1000/03590359/117540
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV + [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV + [HVEC/H265]
 http://live.skyott.xyz:8880/Vip1000/03590359/117542
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV 4 HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 4 HVEC/H265]
@@ -1435,12 +1201,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/117544
 http://live.skyott.xyz:8880/Vip1000/03590359/117546
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| EUROSPORT 1 [HEVC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| EUROSPORT 1 [HEVC/H265]
 http://live.skyott.xyz:8880/Vip1000/03590359/117547
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX MOVIES [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| FOX MOVIES [HVEC/H265]
-http://live.skyott.xyz:8880/Vip1000/03590359/117557
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| FOX [HVEC/H265]
-http://live.skyott.xyz:8880/Vip1000/03590359/117558
-#EXTINF:-1 tvg-ID="" tvg-name="||PT|| FOX LIFE [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| FOX LIFE [HVEC/H265]
-http://live.skyott.xyz:8880/Vip1000/03590359/117559
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| SPORT TV 3 [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 3 [HVEC/H265]
 http://live.skyott.xyz:8880/Vip1000/03590359/117563
 #EXTINF:-1 tvg-ID="" tvg-name="||PT|| ELEVEN SPORTS 3 [HVEC/H265]" tvg-logo="" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 3 [HVEC/H265]
@@ -1455,12 +1215,8 @@ http://live.skyott.xyz:8880/Vip1000/03590359/117572
 http://live.skyott.xyz:8880/Vip1000/03590359/117574
 #EXTINF:-1 tvg-ID="" tvg-name="[ES] beIN Sportspana" tvg-logo="" group-title="SPANISH",[ES] beIN Sportspana
 http://live.skyott.xyz:8880/Vip1000/03590359/22787
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] FOX LIFE" tvg-logo="" group-title="SPANISH",[ES] FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/22736
 #EXTINF:-1 tvg-ID="" tvg-name="[ES] EUROSPORT 1" tvg-logo="" group-title="SPANISH",[ES] EUROSPORT 1
 http://live.skyott.xyz:8880/Vip1000/03590359/22683
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] FOX NEWS" tvg-logo="" group-title="SPANISH",[ES] FOX NEWS
-http://live.skyott.xyz:8880/Vip1000/03590359/22647
 #EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN 2" tvg-logo="" group-title="SPANISH",ES: ESPN 2
 http://live.skyott.xyz:8880/Vip1000/03590359/49034
 #EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN 3" tvg-logo="" group-title="SPANISH",ES: ESPN 3
@@ -1471,22 +1227,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/49038
 http://live.skyott.xyz:8880/Vip1000/03590359/49222
 #EXTINF:-1 tvg-ID="" tvg-name="||ES|| BEIN SPORTS LA LIGA FHD" tvg-logo="" group-title="SPANISH",||ES|| BEIN SPORTS LA LIGA FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/49254
-#EXTINF:-1 tvg-ID="" tvg-name="||ES|| FOX HD" tvg-logo="" group-title="SPANISH",||ES|| FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/49285
 #EXTINF:-1 tvg-ID="" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="" group-title="SPANISH",||ES|| EUROSPORT 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/49310
 #EXTINF:-1 tvg-ID="" tvg-name="||ES|| ESPN HD" tvg-logo="" group-title="SPANISH",||ES|| ESPN HD
 http://live.skyott.xyz:8880/Vip1000/03590359/49349
-#EXTINF:-1 tvg-ID="" tvg-name="|ES| FOX" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="SPANISH",|ES| FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/102148
-#EXTINF:-1 tvg-ID="" tvg-name="|ES| FOX HD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="SPANISH",|ES| FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/102149
-#EXTINF:-1 tvg-ID="" tvg-name="|ES| FOX FHD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="SPANISH",|ES| FOX FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/102150
-#EXTINF:-1 tvg-ID="" tvg-name="|ES| FOX LIFE" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="SPANISH",|ES| FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/102151
-#EXTINF:-1 tvg-ID="" tvg-name="|ES| FOX LIFE FHD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="SPANISH",|ES| FOX LIFE FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/102152
 #EXTINF:-1 tvg-ID="" tvg-name="|ES| Bein Sports HD Espanol" tvg-logo="https://i.postimg.cc/XYK6bJJf/png-transparent-la-liga-bein-sports-1-bein-channels-network-others-purple-text-sport.png" group-title="SPANISH",|ES| Bein Sports HD Espanol
 http://live.skyott.xyz:8880/Vip1000/03590359/102243
 #EXTINF:-1 tvg-ID="" tvg-name="|ES| EUROSPORT 1" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="SPANISH",|ES| EUROSPORT 1
@@ -1497,8 +1241,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/102246
 http://live.skyott.xyz:8880/Vip1000/03590359/102247
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Liga Española HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/sky%20sports%20%20liga%20espanhola.png" group-title="SPANISH",Sky Sports Liga Española HD
 http://live.skyott.xyz:8880/Vip1000/03590359/102284
-#EXTINF:-1 tvg-ID="" tvg-name="|US| Fox Soccer Plus 4K+" tvg-logo="" group-title="USA",|US| Fox Soccer Plus 4K+
-http://live.skyott.xyz:8880/Vip1000/03590359/21946
 #EXTINF:-1 tvg-ID="" tvg-name="US: AT&T Sportsnet South West" tvg-logo="" group-title="USA",US: AT&T Sportsnet South West
 http://live.skyott.xyz:8880/Vip1000/03590359/21968
 #EXTINF:-1 tvg-ID="" tvg-name="US: CBS Sports Network HD" tvg-logo="" group-title="USA",US: CBS Sports Network HD
@@ -1509,12 +1251,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/22068
 http://live.skyott.xyz:8880/Vip1000/03590359/22075
 #EXTINF:-1 tvg-ID="" tvg-name="US: ESPN News US HD" tvg-logo="" group-title="USA",US: ESPN News US HD
 http://live.skyott.xyz:8880/Vip1000/03590359/22077
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Business" tvg-logo="" group-title="USA",US: Fox Business
-http://live.skyott.xyz:8880/Vip1000/03590359/22081
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX NEWS HD" tvg-logo="" group-title="USA",US: FOX NEWS HD
-http://live.skyott.xyz:8880/Vip1000/03590359/22087
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox Soccer Plus" tvg-logo="" group-title="USA",US: Fox Soccer Plus
-http://live.skyott.xyz:8880/Vip1000/03590359/22088
 #EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports SOUTHEAST" tvg-logo="" group-title="USA",US: Fox Sports SOUTHEAST
 http://live.skyott.xyz:8880/Vip1000/03590359/22103
 #EXTINF:-1 tvg-ID="" tvg-name="US: Fox Sports TENNESSEE" tvg-logo="" group-title="USA",US: Fox Sports TENNESSEE
@@ -1523,12 +1259,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/22107
 http://live.skyott.xyz:8880/Vip1000/03590359/22240
 #EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET WORLD HD" tvg-logo="" group-title="USA",US: SPORTSNET WORLD HD
 http://live.skyott.xyz:8880/Vip1000/03590359/22244
-#EXTINF:-1 tvg-ID="" tvg-name="USA: Fox Business Network" tvg-logo="" group-title="USA",USA: Fox Business Network
-http://live.skyott.xyz:8880/Vip1000/03590359/28564
-#EXTINF:-1 tvg-ID="" tvg-name="USA: Fox Soccer Plus" tvg-logo="" group-title="USA",USA: Fox Soccer Plus
-http://live.skyott.xyz:8880/Vip1000/03590359/28569
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX WFXG AUGUSTA" tvg-logo="" group-title="USA",US: FOX WFXG AUGUSTA
-http://live.skyott.xyz:8880/Vip1000/03590359/31089
 #EXTINF:-1 tvg-ID="" tvg-name="US: ESPN" tvg-logo="" group-title="USA",US: ESPN
 http://live.skyott.xyz:8880/Vip1000/03590359/42491
 #EXTINF:-1 tvg-ID="" tvg-name="US: ESPN HD" tvg-logo="" group-title="USA",US: ESPN HD
@@ -1561,18 +1291,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/57026
 http://live.skyott.xyz:8880/Vip1000/03590359/57027
 #EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Network" tvg-logo="" group-title="USA",US: NBC Sports Network
 http://live.skyott.xyz:8880/Vip1000/03590359/57031
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX 5 NEW YORK HD" tvg-logo="" group-title="USA",US: FOX 5 NEW YORK HD
-http://live.skyott.xyz:8880/Vip1000/03590359/57069
-#EXTINF:-1 tvg-ID="" tvg-name="US: Fox news" tvg-logo="" group-title="USA",US: Fox news
-http://live.skyott.xyz:8880/Vip1000/03590359/57139
-#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX NEWS UHD" tvg-logo="" group-title="USA",USA: FOX NEWS UHD
-http://live.skyott.xyz:8880/Vip1000/03590359/58744
-#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX NEWS CHANNEL" tvg-logo="" group-title="USA",USA: FOX NEWS CHANNEL
-http://live.skyott.xyz:8880/Vip1000/03590359/58745
-#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX NEWS SD" tvg-logo="" group-title="USA",USA: FOX NEWS SD
-http://live.skyott.xyz:8880/Vip1000/03590359/58746
-#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX" tvg-logo="" group-title="USA",USA: FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/58828
 #EXTINF:-1 tvg-ID="" tvg-name="USA : BALLY SPORTS MIDWEST PLUS" tvg-logo="" group-title="USA",USA : BALLY SPORTS MIDWEST PLUS
 http://live.skyott.xyz:8880/Vip1000/03590359/58998
 #EXTINF:-1 tvg-ID="" tvg-name="USA : BALLY SPORTS OHIO PLUS" tvg-logo="" group-title="USA",USA : BALLY SPORTS OHIO PLUS
@@ -1611,8 +1329,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/59029
 http://live.skyott.xyz:8880/Vip1000/03590359/59030
 #EXTINF:-1 tvg-ID="" tvg-name="USA: BEIN SPORTS" tvg-logo="" group-title="USA",USA: BEIN SPORTS
 http://live.skyott.xyz:8880/Vip1000/03590359/59032
-#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="USA",USA: FOX DEPORTES
-http://live.skyott.xyz:8880/Vip1000/03590359/59043
 #EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS NEWS" tvg-logo="" group-title="USA",USA: FOX SPORTS NEWS
 http://live.skyott.xyz:8880/Vip1000/03590359/59048
 #EXTINF:-1 tvg-ID="" tvg-name="USA: SPORTSNET NY*" tvg-logo="" group-title="USA",USA: SPORTSNET NY*
@@ -1637,62 +1353,20 @@ http://live.skyott.xyz:8880/Vip1000/03590359/33878
 http://live.skyott.xyz:8880/Vip1000/03590359/33199
 #EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS (Sun) HD" tvg-logo="" group-title="USA",US: FOX SPORTS (Sun) HD
 http://live.skyott.xyz:8880/Vip1000/03590359/33110
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SOCCER PLUS HD" tvg-logo="" group-title="USA",US: FOX SOCCER PLUS HD
-http://live.skyott.xyz:8880/Vip1000/03590359/33097
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Orlando" tvg-logo="" group-title="USA",US: FOX Orlando
-http://live.skyott.xyz:8880/Vip1000/03590359/33076
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX 5 (ATLANTA)" tvg-logo="" group-title="USA",US: FOX 5 (ATLANTA)
-http://live.skyott.xyz:8880/Vip1000/03590359/32941
 #EXTINF:-1 tvg-ID="" tvg-name="US: ESPN 2 FHD" tvg-logo="" group-title="USA",US: ESPN 2 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/32906
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX (Los Angeles)" tvg-logo="" group-title="USA",USA | FOX (Los Angeles)
-http://live.skyott.xyz:8880/Vip1000/03590359/129249
-#EXTINF:-1 tvg-ID="" tvg-name=" |US| FOX New York WNYW" tvg-logo="" group-title="USA", |US| FOX New York WNYW
-http://live.skyott.xyz:8880/Vip1000/03590359/129253
-#EXTINF:-1 tvg-ID="" tvg-name="UK | Fox" tvg-logo="" group-title="UK",UK | Fox
-http://live.skyott.xyz:8880/Vip1000/03590359/3125
-#EXTINF:-1 tvg-ID="" tvg-name="UK | Sky2" tvg-logo="" group-title="UK",UK | Sky2
-http://live.skyott.xyz:8880/Vip1000/03590359/3112
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Action & Adventure" tvg-logo="" group-title="UK",UK: Sky Cinema Action & Adventure
-http://live.skyott.xyz:8880/Vip1000/03590359/2920
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Greats" tvg-logo="" group-title="UK",UK: Sky Cinema Greats
-http://live.skyott.xyz:8880/Vip1000/03590359/2916
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="UK",UK: Sky Cinema Premiere
 http://live.skyott.xyz:8880/Vip1000/03590359/2914
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Sci-Fi & Horror" tvg-logo="" group-title="UK",UK: Sky Cinema Sci-Fi & Horror
-http://live.skyott.xyz:8880/Vip1000/03590359/2913
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY LIVING" tvg-logo="" group-title="UK",UK: SKY LIVING
-http://live.skyott.xyz:8880/Vip1000/03590359/2911
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY NEWS" tvg-logo="" group-title="UK",UK: SKY NEWS
-http://live.skyott.xyz:8880/Vip1000/03590359/2901
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="" group-title="UK",UK: Sky Sports Main Event HD
 http://live.skyott.xyz:8880/Vip1000/03590359/3025
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY Sports News" tvg-logo="" group-title="UK",UK: SKY Sports News
 http://live.skyott.xyz:8880/Vip1000/03590359/3010
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY STORE 1" tvg-logo="" group-title="UK",UK: SKY STORE 1
-http://live.skyott.xyz:8880/Vip1000/03590359/2904
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY STORE 2" tvg-logo="" group-title="UK",UK: SKY STORE 2
-http://live.skyott.xyz:8880/Vip1000/03590359/2905
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY STORE 3" tvg-logo="" group-title="UK",UK: SKY STORE 3
-http://live.skyott.xyz:8880/Vip1000/03590359/2906
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY STORE 4" tvg-logo="" group-title="UK",UK: SKY STORE 4
-http://live.skyott.xyz:8880/Vip1000/03590359/2907
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY TWO" tvg-logo="" group-title="UK",UK: SKY TWO
-http://live.skyott.xyz:8880/Vip1000/03590359/2921
 #EXTINF:-1 tvg-ID="" tvg-name="UK: PREMIER SPORTS 1 HD" tvg-logo="" group-title="UK",UK: PREMIER SPORTS 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/7589
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="UK",UK: Sky Sports Action HD
 http://live.skyott.xyz:8880/Vip1000/03590359/7596
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/7597
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Crime & Thriller" tvg-logo="" group-title="UK",UK: Sky Cinema Crime & Thriller
-http://live.skyott.xyz:8880/Vip1000/03590359/9613
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Drama & Romance" tvg-logo="" group-title="UK",UK: Sky Cinema Drama & Romance
-http://live.skyott.xyz:8880/Vip1000/03590359/9615
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Hits" tvg-logo="" group-title="UK",UK: Sky Cinema Hits
-http://live.skyott.xyz:8880/Vip1000/03590359/9618
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Select" tvg-logo="" group-title="UK",UK: Sky Cinema Select
-http://live.skyott.xyz:8880/Vip1000/03590359/9621
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="UK",UK: BT SPORT 1
 http://live.skyott.xyz:8880/Vip1000/03590359/9640
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="UK",UK: BT SPORT 2
@@ -1731,20 +1405,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/9663
 http://live.skyott.xyz:8880/Vip1000/03590359/9667
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="UK",UK: SKY SPORTS PREMIER LEAGUE
 http://live.skyott.xyz:8880/Vip1000/03590359/9668
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Fox News" tvg-logo="" group-title="UK",UK: Fox News
-http://live.skyott.xyz:8880/Vip1000/03590359/9728
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="UK",UK: Sky Cinema Comedy HD
-http://live.skyott.xyz:8880/Vip1000/03590359/27708
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="UK",UK: Sky Cinema Family HD
-http://live.skyott.xyz:8880/Vip1000/03590359/27709
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="" group-title="UK",UK: Sky Cinema Disney HD
-http://live.skyott.xyz:8880/Vip1000/03590359/27710
 #EXTINF:-1 tvg-ID="" tvg-name="UK : BT SPORTS 3 " tvg-logo="" group-title="UK",UK : BT SPORTS 3 
 http://live.skyott.xyz:8880/Vip1000/03590359/27752
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premiere HD" tvg-logo="" group-title="UK",UK: Sky Cinema Premiere HD
 http://live.skyott.xyz:8880/Vip1000/03590359/90106
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Select HD" tvg-logo="" group-title="UK",UK: Sky Cinema Select HD
-http://live.skyott.xyz:8880/Vip1000/03590359/90111
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="UK",UK: SKY SPORTS ACTION
 http://live.skyott.xyz:8880/Vip1000/03590359/90114
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sport News HD" tvg-logo="" group-title="UK",UK: Sky Sport News HD
@@ -1757,28 +1421,16 @@ http://live.skyott.xyz:8880/Vip1000/03590359/90205
 http://live.skyott.xyz:8880/Vip1000/03590359/90221
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORT F1 " tvg-logo="" group-title="UK",UK: SKY SPORT F1 
 http://live.skyott.xyz:8880/Vip1000/03590359/92522
-#EXTINF:-1 tvg-ID="" tvg-name="UK | Fox" tvg-logo="http://epix.ws:7713/images/logos/uk/Fox.png" group-title="UK",UK | Fox
-http://live.skyott.xyz:8880/Vip1000/03590359/97126
 #EXTINF:-1 tvg-ID="" tvg-name="UK | S Cinema Premiere" tvg-logo="http://epix.ws:7713/images/logos/uk/Sky-Cinema-Premiere.png" group-title="UK",UK | S Cinema Premiere
 http://live.skyott.xyz:8880/Vip1000/03590359/97142
-#EXTINF:-1 tvg-ID="" tvg-name="UK | SKY Cinema Crime & Thriller" tvg-logo="http://epix.ws:7713/images/logos/uk/Sky-Cinema-Thriller.png" group-title="UK",UK | SKY Cinema Crime & Thriller
-http://live.skyott.xyz:8880/Vip1000/03590359/97149
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97185
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97186
 #EXTINF:-1 tvg-ID="" tvg-name="UK: EUROSPORT 2 HD" tvg-logo="" group-title="UK",UK: EUROSPORT 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97195
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Fox FHD" tvg-logo="" group-title="UK",UK: Fox FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/97196
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY NEWS HD" tvg-logo="" group-title="UK",UK: SKY NEWS HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97200
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky One FHD" tvg-logo="" group-title="UK",UK: Sky One FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/97201
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="UK",UK: Sky Sports Cricket
 http://live.skyott.xyz:8880/Vip1000/03590359/97203
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Two" tvg-logo="" group-title="UK",UK: Sky Two
-http://live.skyott.xyz:8880/Vip1000/03590359/97206
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Extra 1 HD" tvg-logo="" group-title="UK",UK: BT Sport Extra 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97221
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Extra 4 HD" tvg-logo="" group-title="UK",UK: BT Sport Extra 4 HD
@@ -1789,28 +1441,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/97234
 http://live.skyott.xyz:8880/Vip1000/03590359/97257
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 3 FHD" tvg-logo="" group-title="UK",UK: BT Sport 3 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/97273
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY NEWS FHD" tvg-logo="" group-title="UK",UK: SKY NEWS FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/97290
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="" group-title="UK",UK: Sky Cinema Thriller HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97291
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="" group-title="UK",UK: Sky Cinema Premier HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97292
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="UK",UK: Sky Cinema Family HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97293
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Animation HD" tvg-logo="" group-title="UK",UK: Sky Cinema Animation HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97294
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="" group-title="UK",UK: Sky Cinema Hits HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97295
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Action HD" tvg-logo="" group-title="UK",UK: Sky Cinema Action HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97297
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="UK",UK: Sky Cinema Comedy HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97298
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Drama & Romance HD" tvg-logo="" group-title="UK",UK: Sky Cinema Drama & Romance HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97299
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97300
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Nature FHD" tvg-logo="" group-title="UK",UK: Sky Nature FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/97302
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97304
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Extra 3 HD" tvg-logo="" group-title="UK",UK: BT Sport Extra 3 HD
@@ -1851,16 +1485,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130124
 http://live.skyott.xyz:8880/Vip1000/03590359/130126
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| Sky Sports Golf 4K+" tvg-logo="" group-title="UK",|UK| Sky Sports Golf 4K+
 http://live.skyott.xyz:8880/Vip1000/03590359/130127
-#EXTINF:-1 tvg-ID="" tvg-name="CA | FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="CANADA",CA | FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/84787
 #EXTINF:-1 tvg-ID="" tvg-name="CA | FOX Sports Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="CANADA",CA | FOX Sports Racing
 http://live.skyott.xyz:8880/Vip1000/03590359/84788
 #EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET 360" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/210px-SN_360_logo.svg.png" group-title="CANADA",CA: SPORTSNET 360
 http://live.skyott.xyz:8880/Vip1000/03590359/98986
-#EXTINF:-1 tvg-ID="" tvg-name="|CA| FOX NEWS" tvg-logo="" group-title="CANADA",|CA| FOX NEWS
-http://live.skyott.xyz:8880/Vip1000/03590359/118181
-#EXTINF:-1 tvg-ID="" tvg-name="|CA| Fox" tvg-logo="" group-title="CANADA",|CA| Fox
-http://live.skyott.xyz:8880/Vip1000/03590359/118182
 #EXTINF:-1 tvg-ID="" tvg-name="CANADA: SPORTSNET HD" tvg-logo="" group-title="CANADA",CANADA: SPORTSNET HD
 http://live.skyott.xyz:8880/Vip1000/03590359/118238
 #EXTINF:-1 tvg-ID="" tvg-name="CANADA: SPORTSNET WORLD HD" tvg-logo="" group-title="CANADA",CANADA: SPORTSNET WORLD HD
@@ -1891,18 +1519,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/51538
 http://live.skyott.xyz:8880/Vip1000/03590359/51544
 #EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORT" tvg-logo="" group-title="BULGARIYA",NOVA SPORT
 http://live.skyott.xyz:8880/Vip1000/03590359/51550
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="BULGARIYA",FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/51558
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME" tvg-logo="" group-title="BULGARIYA",FOX CRIME
-http://live.skyott.xyz:8880/Vip1000/03590359/51559
-#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="BULGARIYA",FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/51560
-#EXTINF:-1 tvg-ID="" tvg-name="BG: FOX HD" tvg-logo="" group-title="BULGARIYA",BG: FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/60093
-#EXTINF:-1 tvg-ID="" tvg-name="BG: FOX Crime HD" tvg-logo="" group-title="BULGARIYA",BG: FOX Crime HD
-http://live.skyott.xyz:8880/Vip1000/03590359/60094
-#EXTINF:-1 tvg-ID="" tvg-name="BG: FOX Life HD" tvg-logo="" group-title="BULGARIYA",BG: FOX Life HD
-http://live.skyott.xyz:8880/Vip1000/03590359/60095
 #EXTINF:-1 tvg-ID="" tvg-name="BG: MAX SPORT 1 HD" tvg-logo="" group-title="BULGARIYA",BG: MAX SPORT 1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/60118
 #EXTINF:-1 tvg-ID="" tvg-name="BG: MAX SPORT 2 HD" tvg-logo="" group-title="BULGARIYA",BG: MAX SPORT 2 HD
@@ -2001,10 +1617,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/103258
 http://live.skyott.xyz:8880/Vip1000/03590359/103302
 #EXTINF:-1 tvg-ID="" tvg-name="TR: EUROSPORT 2" tvg-logo="" group-title="TURKEY LOCAL",TR: EUROSPORT 2
 http://live.skyott.xyz:8880/Vip1000/03590359/103303
-#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX" tvg-logo="" group-title="TURKEY LOCAL",TR: FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/103312
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Fox Crime" tvg-logo="" group-title="TURKEY LOCAL",TR: Fox Crime
-http://live.skyott.xyz:8880/Vip1000/03590359/103313
 #EXTINF:-1 tvg-ID="" tvg-name="TR: S Sport" tvg-logo="" group-title="TURKEY LOCAL",TR: S Sport
 http://live.skyott.xyz:8880/Vip1000/03590359/103402
 #EXTINF:-1 tvg-ID="" tvg-name="TR: S Sport 2" tvg-logo="" group-title="TURKEY LOCAL",TR: S Sport 2
@@ -2091,14 +1703,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130760
 http://live.skyott.xyz:8880/Vip1000/03590359/130761
 #EXTINF:-1 tvg-ID="" tvg-name="EX-YOU: Sport Klub 6" tvg-logo="" group-title="EX-YU",EX-YOU: Sport Klub 6
 http://live.skyott.xyz:8880/Vip1000/03590359/130762
-#EXTINF:-1 tvg-ID="" tvg-name="EX-YOU: Fox Movies" tvg-logo="" group-title="EX-YU",EX-YOU: Fox Movies
-http://live.skyott.xyz:8880/Vip1000/03590359/130766
 #EXTINF:-1 tvg-ID="" tvg-name="EX-YOU: Cinestare Premiere 2" tvg-logo="" group-title="EX-YU",EX-YOU: Cinestare Premiere 2
 http://live.skyott.xyz:8880/Vip1000/03590359/130776
 #EXTINF:-1 tvg-ID="" tvg-name="EX-YOU: Cinestare Premiere 1" tvg-logo="" group-title="EX-YU",EX-YOU: Cinestare Premiere 1
 http://live.skyott.xyz:8880/Vip1000/03590359/130777
-#EXTINF:-1 tvg-ID="" tvg-name="EX-YOU: FOX Crime" tvg-logo="" group-title="EX-YU",EX-YOU: FOX Crime
-http://live.skyott.xyz:8880/Vip1000/03590359/130779
 #EXTINF:-1 tvg-ID="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="" group-title="EX-YU",CRO: ARENA SPORT 1
 http://live.skyott.xyz:8880/Vip1000/03590359/130789
 #EXTINF:-1 tvg-ID="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="" group-title="EX-YU",CRO: ARENA SPORT 2
@@ -2113,8 +1721,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130793
 http://live.skyott.xyz:8880/Vip1000/03590359/130794
 #EXTINF:-1 tvg-ID="" tvg-name="CRO: CINESTAR PREMIERE" tvg-logo="" group-title="EX-YU",CRO: CINESTAR PREMIERE
 http://live.skyott.xyz:8880/Vip1000/03590359/130795
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: FOX" tvg-logo="" group-title="EX-YU",CRO: FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/130798
 #EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORT HD" tvg-logo="" group-title="EX-YU",NOVA SPORT HD
 http://live.skyott.xyz:8880/Vip1000/03590359/131091
 #EXTINF:-1 tvg-ID="" tvg-name="MNE SPORT 3 HD" tvg-logo="" group-title="EX-YU",MNE SPORT 3 HD
@@ -2205,40 +1811,12 @@ http://live.skyott.xyz:8880/Vip1000/03590359/131172
 http://live.skyott.xyz:8880/Vip1000/03590359/131173
 #EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD (HR)" tvg-logo="" group-title="EX-YU",ARENA SPORT 1 HD (HR)
 http://live.skyott.xyz:8880/Vip1000/03590359/131174
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="EX-YU",FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/131181
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME" tvg-logo="" group-title="EX-YU",FOX CRIME
-http://live.skyott.xyz:8880/Vip1000/03590359/131182
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="" group-title="EX-YU",FOX MOVIES
-http://live.skyott.xyz:8880/Vip1000/03590359/131183
-#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="EX-YU",FOX
-http://live.skyott.xyz:8880/Vip1000/03590359/131184
-#EXTINF:-1 tvg-ID="" tvg-name="SKY FOLK" tvg-logo="" group-title="EX-YU",SKY FOLK
-http://live.skyott.xyz:8880/Vip1000/03590359/131192
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA NOSTALGIE HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA NOSTALGIE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/38094
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA SPECIAL" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA SPECIAL
-http://live.skyott.xyz:8880/Vip1000/03590359/38096
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 1" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 1
-http://live.skyott.xyz:8880/Vip1000/03590359/38109
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 2" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 2
-http://live.skyott.xyz:8880/Vip1000/03590359/38110
 #EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 3 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/38117
-#EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky One HD" tvg-logo="http://picons.darkside-iptv.co/skyone.png" group-title="GERMANY",DE:: Sky One HD
-http://live.skyott.xyz:8880/Vip1000/03590359/52713
 #EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Premieren +24" tvg-logo="http://picons.darkside-iptv.co/skycinemapremierenplus24.png" group-title="GERMANY",DE:: Sky Cinema Premieren +24
 http://live.skyott.xyz:8880/Vip1000/03590359/52722
 #EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Premieren +24 HD" tvg-logo="http://picons.darkside-iptv.co/skycinemapremierenplus24.png" group-title="GERMANY",DE:: Sky Cinema Premieren +24 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/52723
-#EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Action FHD" tvg-logo="http://picons.darkside-iptv.co/skycinemaaction.png" group-title="GERMANY",DE:: Sky Cinema Action FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/52727
-#EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Classics" tvg-logo="http://picons.darkside-iptv.co/skycinemaclassics.png" group-title="GERMANY",DE:: Sky Cinema Classics
-http://live.skyott.xyz:8880/Vip1000/03590359/52735
-#EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Special HD" tvg-logo="http://picons.darkside-iptv.co/skycinemaspecialhd.png" group-title="GERMANY",DE:: Sky Cinema Special HD
-http://live.skyott.xyz:8880/Vip1000/03590359/52737
-#EXTINF:-1 tvg-ID="" tvg-name="DE:: Fox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/512px-FOX_HD.svg.png" group-title="GERMANY",DE:: Fox HD
-http://live.skyott.xyz:8880/Vip1000/03590359/52745
 #EXTINF:-1 tvg-ID="" tvg-name="DE:: Eurosport 1" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%201_logo.png" group-title="GERMANY",DE:: Eurosport 1
 http://live.skyott.xyz:8880/Vip1000/03590359/52827
 #EXTINF:-1 tvg-ID="" tvg-name="DE:: Eurosport 1 FHD" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%201_logo_hd.png" group-title="GERMANY",DE:: Eurosport 1 FHD
@@ -2263,10 +1841,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/52880
 http://live.skyott.xyz:8880/Vip1000/03590359/52895
 #EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Sport 2 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_72_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/52896
-#EXTINF:-1 tvg-ID="" tvg-name="DE| SKY ATLANTIC HEVC" tvg-logo="" group-title="GERMANY",DE| SKY ATLANTIC HEVC
-http://live.skyott.xyz:8880/Vip1000/03590359/120785
-#EXTINF:-1 tvg-ID="" tvg-name="DE| SKY CINEMA SPECIAL HEVC" tvg-logo="" group-title="GERMANY",DE| SKY CINEMA SPECIAL HEVC
-http://live.skyott.xyz:8880/Vip1000/03590359/120795
 #EXTINF:-1 tvg-ID="" tvg-name="DE| RTL+ SPORT EVENT 7" tvg-logo="" group-title="GERMANY",DE| RTL+ SPORT EVENT 7
 http://live.skyott.xyz:8880/Vip1000/03590359/120860
 #EXTINF:-1 tvg-ID="" tvg-name="DE| RTL+ SPORT EVENT 9" tvg-logo="" group-title="GERMANY",DE| RTL+ SPORT EVENT 9
@@ -2281,44 +1855,12 @@ http://live.skyott.xyz:8880/Vip1000/03590359/120877
 http://live.skyott.xyz:8880/Vip1000/03590359/120880
 #EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Premieren HD" tvg-logo="" group-title="GERMANY",DE:: Sky Cinema Premieren HD
 http://live.skyott.xyz:8880/Vip1000/03590359/120936
-#EXTINF:-1 tvg-ID="" tvg-name="DE:: Sky Cinema Best of HD" tvg-logo="" group-title="GERMANY",DE:: Sky Cinema Best of HD
-http://live.skyott.xyz:8880/Vip1000/03590359/120938
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Crime HD" tvg-logo="" group-title="GERMANY",DE: Sky Crime HD
-http://live.skyott.xyz:8880/Vip1000/03590359/120942
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Cinema Thriller HD" tvg-logo="" group-title="GERMANY",DE: SKY Cinema Thriller HD
-http://live.skyott.xyz:8880/Vip1000/03590359/120945
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SYFY HD" tvg-logo="" group-title="GERMANY",DE: SKY SYFY HD
-http://live.skyott.xyz:8880/Vip1000/03590359/120955
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY KINOWELT TV" tvg-logo="" group-title="GERMANY",DE: SKY KINOWELT TV
-http://live.skyott.xyz:8880/Vip1000/03590359/120958
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Fox HD" tvg-logo="" group-title="GERMANY",DE: Sky Fox HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129719
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 2 xtra HD" tvg-logo="" group-title="GERMANY",DE: Eurosport 2 xtra HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129720
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky 13th Street FHD" tvg-logo="" group-title="GERMANY",DE: Sky 13th Street FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129733
 #EXTINF:-1 tvg-ID="" tvg-name="DE: ORF SPORTS HD" tvg-logo="" group-title="GERMANY",DE: ORF SPORTS HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129739
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Action HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema Action HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129760
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="GERMANY",DE: SKY ATLANTIC HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129761
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema  Premieren HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema  Premieren HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129762
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129763
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Family HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema Family HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129764
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Hits HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema Hits HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129765
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Comedy HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema Comedy HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129766
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="" group-title="GERMANY",DE: Sky Cinema Thriller HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129767
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Krimi HD" tvg-logo="" group-title="GERMANY",DE: Sky Krimi HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129768
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Universal HD" tvg-logo="" group-title="GERMANY",DE: Sky Universal HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129773
 #EXTINF:-1 tvg-ID="" tvg-name="DE: sky sport austria 1 FHD" tvg-logo="" group-title="GERMANY",DE: sky sport austria 1 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129774
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="GERMANY",DE: Sky Sport 1 HD
@@ -2337,36 +1879,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/129780
 http://live.skyott.xyz:8880/Vip1000/03590359/129781
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 9 HD ( During Games only )" tvg-logo="" group-title="GERMANY",DE: Sky Sport 9 HD ( During Games only )
 http://live.skyott.xyz:8880/Vip1000/03590359/129782
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="" group-title="GERMANY",DE: Sky Bundesliga 1 HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129783
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129784
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129785
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129786
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129787
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129788
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129789
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 8 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 8 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129790
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Germany Bundesliga 9 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY",DE: Sky Germany Bundesliga 9 HD (ONLY ON MATCHDAY)
-http://live.skyott.xyz:8880/Vip1000/03590359/129791
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 3" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 3
-http://live.skyott.xyz:8880/Vip1000/03590359/129792
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 4" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 4
-http://live.skyott.xyz:8880/Vip1000/03590359/129793
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 5" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 5
-http://live.skyott.xyz:8880/Vip1000/03590359/129794
-#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 6" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 6
-http://live.skyott.xyz:8880/Vip1000/03590359/129795
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 7" tvg-logo="" group-title="GERMANY",DE: Sky Select 7
-http://live.skyott.xyz:8880/Vip1000/03590359/129796
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 8" tvg-logo="" group-title="GERMANY",DE: Sky Select 8
-http://live.skyott.xyz:8880/Vip1000/03590359/129797
 #EXTINF:-1 tvg-ID="" tvg-name="DE: sky sport austria 2 FHD" tvg-logo="" group-title="GERMANY",DE: sky sport austria 2 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129812
 #EXTINF:-1 tvg-ID="" tvg-name="DE: sky sport F1  FHD" tvg-logo="" group-title="GERMANY",DE: sky sport F1  FHD
@@ -2379,10 +1891,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/129817
 http://live.skyott.xyz:8880/Vip1000/03590359/129818
 #EXTINF:-1 tvg-ID="" tvg-name="DE: sky sport austria 4 FHD" tvg-logo="" group-title="GERMANY",DE: sky sport austria 4 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129819
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Nostalgie" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE Sky Nostalgie
-http://live.skyott.xyz:8880/Vip1000/03590359/129823
-#EXTINF:-1 tvg-ID="" tvg-name="DE SKY ACTION" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE SKY ACTION
-http://live.skyott.xyz:8880/Vip1000/03590359/129834
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport News FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Sport News FullHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129838
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport News HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Sport News HD
@@ -2425,10 +1933,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/129858
 http://live.skyott.xyz:8880/Vip1000/03590359/129859
 #EXTINF:-1 tvg-ID="" tvg-name="DE | eSports1" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | eSports1
 http://live.skyott.xyz:8880/Vip1000/03590359/129860
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Bundesliga 1 FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Bundesliga 1 FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129865
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Bundesliga 1 HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Bundesliga 1 HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129866
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 11 HD (ONLY ON MATCHDAY)" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Sport 11 HD (ONLY ON MATCHDAY)
 http://live.skyott.xyz:8880/Vip1000/03590359/129867
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 10 FullHD (ONLY ON MATCHDAY)" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Sport 10 FullHD (ONLY ON MATCHDAY)
@@ -2473,74 +1977,14 @@ http://live.skyott.xyz:8880/Vip1000/03590359/129886
 http://live.skyott.xyz:8880/Vip1000/03590359/129887
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport F1 HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Sport F1 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129888
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Comedy FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Comedy FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129889
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Comedy HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Comedy HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129890
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Nature FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Nature FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129891
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Nature HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Nature HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129892
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Family FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Family FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129893
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Family HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Family HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129894
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Classics" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Classics
-http://live.skyott.xyz:8880/Vip1000/03590359/129895
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky replay" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky replay
-http://live.skyott.xyz:8880/Vip1000/03590359/129896
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Action FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Action FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129897
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Action HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Action HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129898
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Fun FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Fun FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129899
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Fun" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Fun
-http://live.skyott.xyz:8880/Vip1000/03590359/129900
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Documentaries HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Documentaries HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129901
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Documentaries FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Documentaries FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129902
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Special FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Special FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129903
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Special HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Special HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129904
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Best of FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Best of FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129905
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Best of HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Best of HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129906
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Premieren +24 FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Premieren +24 FullHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129907
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Premieren +24 HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Premieren +24 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129908
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Thriller FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Thriller FullHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129909
-#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Thriller HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Thriller HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129910
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Premieren FullHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Premieren FullHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129911
 #EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Cinema Premieren HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",DE | Sky Cinema Premieren HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129912
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 1 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 1 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129913
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 2 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 2 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129914
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 3 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 3 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129915
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 4 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 4 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129916
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 5 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 5 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129917
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 6 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 6 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129918
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 7 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 7 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129919
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 8 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 8 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129920
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 9 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 9 FHD
-http://live.skyott.xyz:8880/Vip1000/03590359/129921
-#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select 10 HD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select 10 HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129922
 #EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select Premiere 6 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select Premiere 6 FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/129923
 #EXTINF:-1 tvg-ID="" tvg-name="|DE| Sky Select Premiere 2 FHD" tvg-logo="https://image.pngaaa.com/783/925783-middle.png" group-title="GERMANY",|DE| Sky Select Premiere 2 FHD
@@ -2633,8 +2077,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/131776
 http://live.skyott.xyz:8880/Vip1000/03590359/7360
 #EXTINF:-1 tvg-ID="" tvg-name="ID: FIGHT Sports" tvg-logo="" group-title="INDONESIA",ID: FIGHT Sports
 http://live.skyott.xyz:8880/Vip1000/03590359/119047
-#EXTINF:-1 tvg-ID="" tvg-name="ID: Fox Crime" tvg-logo="" group-title="INDONESIA",ID: Fox Crime
-http://live.skyott.xyz:8880/Vip1000/03590359/119049
 #EXTINF:-1 tvg-ID="" tvg-name="ID: FOX SPORTS 1" tvg-logo="" group-title="INDONESIA",ID: FOX SPORTS 1
 http://live.skyott.xyz:8880/Vip1000/03590359/119053
 #EXTINF:-1 tvg-ID="" tvg-name="Fight Sports ID" tvg-logo="" group-title="INDONESIA",Fight Sports ID
@@ -2717,8 +2159,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/125984
 http://live.skyott.xyz:8880/Vip1000/03590359/125986
 #EXTINF:-1 tvg-ID="" tvg-name="MY: GNIX SPORTS HD" tvg-logo="" group-title="MALAYSIA LOCAL",MY: GNIX SPORTS HD
 http://live.skyott.xyz:8880/Vip1000/03590359/126002
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SkyNet Golf HD" tvg-logo="" group-title="MALAYSIA LOCAL",MY: SkyNet Golf HD
-http://live.skyott.xyz:8880/Vip1000/03590359/126068
 #EXTINF:-1 tvg-ID="" tvg-name="|ASTRO| SuperSport 2" tvg-logo="" group-title="MALAYSIA LOCAL",|ASTRO| SuperSport 2
 http://live.skyott.xyz:8880/Vip1000/03590359/126104
 #EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORTS 3 FHD MY" tvg-logo="" group-title="MALAYSIA LOCAL",ASTRO SUPERSPORTS 3 FHD MY
@@ -2735,8 +2175,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130864
 http://live.skyott.xyz:8880/Vip1000/03590359/130865
 #EXTINF:-1 tvg-ID="" tvg-name="SETANTA SPORTS HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",SETANTA SPORTS HD MY
 http://live.skyott.xyz:8880/Vip1000/03590359/130879
-#EXTINF:-1 tvg-ID="" tvg-name="SkyNet Golf HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",SkyNet Golf HD MY
-http://live.skyott.xyz:8880/Vip1000/03590359/130883
 #EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 2 HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",Astro SuperSport 2 HD MY
 http://live.skyott.xyz:8880/Vip1000/03590359/130918
 #EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 4 HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",Astro SuperSport 4 HD MY
@@ -2749,8 +2187,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130936
 http://live.skyott.xyz:8880/Vip1000/03590359/130937
 #EXTINF:-1 tvg-ID="" tvg-name="SETANTA SPORTS HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",SETANTA SPORTS HD MY
 http://live.skyott.xyz:8880/Vip1000/03590359/130951
-#EXTINF:-1 tvg-ID="" tvg-name="SkyNet Golf HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",SkyNet Golf HD MY
-http://live.skyott.xyz:8880/Vip1000/03590359/130955
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MY" tvg-logo="" group-title="MALAYSIA LOCAL",BEIN SPORTS MY
 http://live.skyott.xyz:8880/Vip1000/03590359/130980
 #EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORTS 1 FHD MY" tvg-logo="" group-title="MALAYSIA LOCAL",ASTRO SUPERSPORTS 1 FHD MY
@@ -2767,10 +2203,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/130994
 http://live.skyott.xyz:8880/Vip1000/03590359/130995
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MY" tvg-logo="" group-title="MALAYSIA LOCAL",BEIN SPORTS MY
 http://live.skyott.xyz:8880/Vip1000/03590359/130996
-#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY MOVIES HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",FOX FAMILY MOVIES HD MY
-http://live.skyott.xyz:8880/Vip1000/03590359/130999
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES HD MY" tvg-logo="" group-title="MALAYSIA LOCAL",FOX MOVIES HD MY
-http://live.skyott.xyz:8880/Vip1000/03590359/131000
 #EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPB7JjNMzgi_-d2i1iU-JQCNVDwdzVz4ZdbbR1AANWoLldcoAJ1-vG8MkNtTcZeGsg.png" group-title="MALAYSIA LOCAL",MY: FOX SPORTS 2
 http://live.skyott.xyz:8880/Vip1000/03590359/131020
 #EXTINF:-1 tvg-ID="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="MALAYSIA LOCAL",MY: beIN Sports
@@ -2797,6 +2229,14 @@ http://live.skyott.xyz:8880/Vip1000/03590359/56011
 http://live.skyott.xyz:8880/Vip1000/03590359/127965
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Jio Sports ⱽᴵᴾ" tvg-logo="" group-title="INDIAN ALL",IN: Jio Sports ⱽᴵᴾ
 http://live.skyott.xyz:8880/Vip1000/03590359/128492
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jio Football 8 ⱽᴵᴾ" tvg-logo="" group-title="INDIAN ALL",IN: Jio Football 8 ⱽᴵᴾ
+http://live.skyott.xyz:8880/Vip1000/03590359/128493
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jio Football 7 ⱽᴵᴾ" tvg-logo="" group-title="INDIAN ALL",IN: Jio Football 7 ⱽᴵᴾ
+http://live.skyott.xyz:8880/Vip1000/03590359/128494
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jio Football 6 ⱽᴵᴾ" tvg-logo="" group-title="INDIAN ALL",IN: Jio Football 6 ⱽᴵᴾ
+http://live.skyott.xyz:8880/Vip1000/03590359/128495
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jio Football 5 ⱽᴵᴾ" tvg-logo="" group-title="INDIAN ALL",IN: Jio Football 5 ⱽᴵᴾ
+http://live.skyott.xyz:8880/Vip1000/03590359/128496
 #EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS 3" tvg-logo="" group-title="INDIAN ALL",IND: STAR SPORTS 3
 http://live.skyott.xyz:8880/Vip1000/03590359/26817
 #EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS SELECT 1" tvg-logo="" group-title="INDIAN ALL",IND: STAR SPORTS SELECT 1
@@ -2805,16 +2245,8 @@ http://live.skyott.xyz:8880/Vip1000/03590359/26818
 http://live.skyott.xyz:8880/Vip1000/03590359/26819
 #EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS 1 SD" tvg-logo="" group-title="INDIAN ALL",IND: STAR SPORTS 1 SD
 http://live.skyott.xyz:8880/Vip1000/03590359/55814
-#EXTINF:-1 tvg-ID="" tvg-name="IND: FOX LIFE" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ffoxlife_1200.png" group-title="INDIAN ALL",IND: FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/55829
-#EXTINF:-1 tvg-ID="" tvg-name="MK: FOX LIFE" tvg-logo="" group-title="MACEDONIA",MK: FOX LIFE
-http://live.skyott.xyz:8880/Vip1000/03590359/86495
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Sky Folk" tvg-logo="" group-title="MACEDONIA",MK: Sky Folk
-http://live.skyott.xyz:8880/Vip1000/03590359/86515
 #EXTINF:-1 tvg-ID="" tvg-name="Астрахань.Ru Sport" tvg-logo="" group-title="RUSSIA",Астрахань.Ru Sport
 http://live.skyott.xyz:8880/Vip1000/03590359/63495
-#EXTINF:-1 tvg-ID="" tvg-name="RU: FOX LIFE HD" tvg-logo="" group-title="RUSSIA",RU: FOX LIFE HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129083
 #EXTINF:-1 tvg-ID="" tvg-name="RU: EUROSPORT 2 HD" tvg-logo="" group-title="RUSSIA",RU: EUROSPORT 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/129118
 #EXTINF:-1 tvg-ID="" tvg-name="RU: EUROSPORT 1 HD" tvg-logo="" group-title="RUSSIA",RU: EUROSPORT 1 HD
@@ -2829,20 +2261,10 @@ http://live.skyott.xyz:8880/Vip1000/03590359/129125
 http://live.skyott.xyz:8880/Vip1000/03590359/129127
 #EXTINF:-1 tvg-ID="" tvg-name="RU: МАТЧ! Премьер (Premier)" tvg-logo="" group-title="RUSSIA",RU: МАТЧ! Премьер (Premier)
 http://live.skyott.xyz:8880/Vip1000/03590359/129128
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Fox Life" tvg-logo="" group-title="RUSSIA",RU: Fox Life
-http://live.skyott.xyz:8880/Vip1000/03590359/129170
 #EXTINF:-1 tvg-ID="" tvg-name="RU: VIP Premiere" tvg-logo="" group-title="RUSSIA",RU: VIP Premiere
 http://live.skyott.xyz:8880/Vip1000/03590359/129180
-#EXTINF:-1 tvg-ID="" tvg-name="RU: Fox HD" tvg-logo="" group-title="RUSSIA",RU: Fox HD
-http://live.skyott.xyz:8880/Vip1000/03590359/129202
 #EXTINF:-1 tvg-ID="" tvg-name="IR | Varzish Sport" tvg-logo="" group-title="IRAN",IR | Varzish Sport
 http://live.skyott.xyz:8880/Vip1000/03590359/59753
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="BEIN ENTERTAINMENT",Bein Fox Action Movies HD
-http://live.skyott.xyz:8880/Vip1000/03590359/8342
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="BEIN ENTERTAINMENT",Bein Fox Life HD
-http://live.skyott.xyz:8880/Vip1000/03590359/8361
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="BEIN ENTERTAINMENT",Bein Fox Movies HD
-http://live.skyott.xyz:8880/Vip1000/03590359/8341
 #EXTINF:-1 tvg-ID="" tvg-name="AT- ORF Sport Plus HD" tvg-logo="" group-title="AUSTRIA",AT- ORF Sport Plus HD
 http://live.skyott.xyz:8880/Vip1000/03590359/16158
 #EXTINF:-1 tvg-ID="" tvg-name="AT- Sport Austria 1  HD" tvg-logo="" group-title="AUSTRIA",AT- Sport Austria 1  HD
@@ -2913,8 +2335,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/115223
 http://live.skyott.xyz:8880/Vip1000/03590359/86589
 #EXTINF:-1 tvg-ID="" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="" group-title="SERBIA",SRB: Arena Sport 2 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/86590
-#EXTINF:-1 tvg-ID="" tvg-name="SRB: Fox Movies" tvg-logo="" group-title="SERBIA",SRB: Fox Movies
-http://live.skyott.xyz:8880/Vip1000/03590359/86615
 #EXTINF:-1 tvg-ID="" tvg-name="SRB: Sport Klub 4" tvg-logo="" group-title="SERBIA",SRB: Sport Klub 4
 http://live.skyott.xyz:8880/Vip1000/03590359/86705
 #EXTINF:-1 tvg-ID="" tvg-name="SRB:SPORT KLUB 4 SRB" tvg-logo="" group-title="SERBIA",SRB:SPORT KLUB 4 SRB
@@ -2937,10 +2357,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/115156
 http://live.skyott.xyz:8880/Vip1000/03590359/115157
 #EXTINF:-1 tvg-ID="" tvg-name="SRB: CineStar Premiere 2" tvg-logo="" group-title="SERBIA",SRB: CineStar Premiere 2
 http://live.skyott.xyz:8880/Vip1000/03590359/115178
-#EXTINF:-1 tvg-ID="" tvg-name="SRB:Fox Life" tvg-logo="" group-title="SERBIA",SRB:Fox Life
-http://live.skyott.xyz:8880/Vip1000/03590359/115179
-#EXTINF:-1 tvg-ID="" tvg-name="SRB: Fox" tvg-logo="" group-title="SERBIA",SRB: Fox
-http://live.skyott.xyz:8880/Vip1000/03590359/115180
 #EXTINF:-1 tvg-ID="" tvg-name="SRB:SPORT KLUB 6 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SK.png" group-title="SERBIA",SRB:SPORT KLUB 6 HD
 http://live.skyott.xyz:8880/Vip1000/03590359/115184
 #EXTINF:-1 tvg-ID="" tvg-name="SRB:SPORT KLUB 5 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SK.png" group-title="SERBIA",SRB:SPORT KLUB 5 HD
@@ -2961,8 +2377,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/16469
 http://live.skyott.xyz:8880/Vip1000/03590359/16471
 #EXTINF:-1 tvg-ID="" tvg-name="NO- TV2 Sport Premium HD" tvg-logo="" group-title="NORWAY",NO- TV2 Sport Premium HD
 http://live.skyott.xyz:8880/Vip1000/03590359/16493
-#EXTINF:-1 tvg-ID="" tvg-name="NO- Fox HD" tvg-logo="" group-title="NORWAY",NO- Fox HD
-http://live.skyott.xyz:8880/Vip1000/03590359/16510
 #EXTINF:-1 tvg-ID="" tvg-name="No- Viasat Film Premiere" tvg-logo="" group-title="NORWAY",No- Viasat Film Premiere
 http://live.skyott.xyz:8880/Vip1000/03590359/16538
 #EXTINF:-1 tvg-ID="" tvg-name="No- EuroSport 2 HD" tvg-logo="" group-title="NORWAY",No- EuroSport 2 HD
@@ -2995,8 +2409,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/100816
 http://live.skyott.xyz:8880/Vip1000/03590359/100827
 #EXTINF:-1 tvg-ID="" tvg-name="NO: Eurosport" tvg-logo="http://tvstar.live:8880/channels_icon/15814437721.png" group-title="NORWAY",NO: Eurosport
 http://live.skyott.xyz:8880/Vip1000/03590359/100840
-#EXTINF:-1 tvg-ID="" tvg-name="NO:  FoX HD" tvg-logo="http://tvstar.live:8880/channels_icon/88625858701.png" group-title="NORWAY",NO:  FoX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/100853
 #EXTINF:-1 tvg-ID="" tvg-name="AU: FOX SPORTS 501" tvg-logo="" group-title="AUSTRALIA",AU: FOX SPORTS 501
 http://live.skyott.xyz:8880/Vip1000/03590359/20057
 #EXTINF:-1 tvg-ID="" tvg-name="AU: FOX SPORTS 502" tvg-logo="" group-title="AUSTRALIA",AU: FOX SPORTS 502
@@ -3013,14 +2425,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/20062
 http://live.skyott.xyz:8880/Vip1000/03590359/20063
 #EXTINF:-1 tvg-ID="" tvg-name="AU: FOX SPORTS News" tvg-logo="" group-title="AUSTRALIA",AU: FOX SPORTS News
 http://live.skyott.xyz:8880/Vip1000/03590359/20064
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Sky News Extra" tvg-logo="" group-title="AUSTRALIA",AU: Sky News Extra
-http://live.skyott.xyz:8880/Vip1000/03590359/20095
-#EXTINF:-1 tvg-ID="" tvg-name="AU: SKY Racing 1" tvg-logo="" group-title="AUSTRALIA",AU: SKY Racing 1
-http://live.skyott.xyz:8880/Vip1000/03590359/20096
-#EXTINF:-1 tvg-ID="" tvg-name="AU: SKY Racing 2" tvg-logo="" group-title="AUSTRALIA",AU: SKY Racing 2
-http://live.skyott.xyz:8880/Vip1000/03590359/20097
-#EXTINF:-1 tvg-ID="" tvg-name="AU: Sky Thoroughbred Central" tvg-logo="" group-title="AUSTRALIA",AU: Sky Thoroughbred Central
-http://live.skyott.xyz:8880/Vip1000/03590359/20098
 #EXTINF:-1 tvg-ID="" tvg-name="AU: Sport 1+ FHD" tvg-logo="" group-title="AUSTRALIA",AU: Sport 1+ FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/20099
 #EXTINF:-1 tvg-ID="" tvg-name="AU: ESPN 1 HD" tvg-logo="" group-title="AUSTRALIA",AU: ESPN 1 HD
@@ -3153,10 +2557,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/104310
 http://live.skyott.xyz:8880/Vip1000/03590359/104311
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport NBA" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: Bein sport NBA
 http://live.skyott.xyz:8880/Vip1000/03590359/104314
-#EXTINF:-1 tvg-ID="" tvg-name="PH | Fox News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="PHILIPION",PH | Fox News Channel
-http://live.skyott.xyz:8880/Vip1000/03590359/72807
-#EXTINF:-1 tvg-ID="" tvg-name="PH: Fox News Channel" tvg-logo="" group-title="PHILIPION",PH: Fox News Channel
-http://live.skyott.xyz:8880/Vip1000/03590359/83838
 #EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 1" tvg-logo="" group-title="PHILIPION",PH: beIN Sports 1
 http://live.skyott.xyz:8880/Vip1000/03590359/115458
 #EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 2" tvg-logo="" group-title="PHILIPION",PH: beIN Sports 2
@@ -3165,10 +2565,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/115459
 http://live.skyott.xyz:8880/Vip1000/03590359/115460
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="PHILIPION",BEIN SPORTS 1
 http://live.skyott.xyz:8880/Vip1000/03590359/127935
-#EXTINF:-1 tvg-ID="" tvg-name="PH | Fox News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="PHILIPION",PH | Fox News Channel
-http://live.skyott.xyz:8880/Vip1000/03590359/131351
-#EXTINF:-1 tvg-ID="" tvg-name="PH: Fox News Channel" tvg-logo="" group-title="PHILIPION",PH: Fox News Channel
-http://live.skyott.xyz:8880/Vip1000/03590359/131365
 #EXTINF:-1 tvg-ID="" tvg-name="BR | Band Sports FHD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/BANDSPORTHD.png" group-title="BRASIL LOCAL",BR | Band Sports FHD
 http://live.skyott.xyz:8880/Vip1000/03590359/52226
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="BRASIL LOCAL",ESPN 2 SD
@@ -3265,12 +2661,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/97568
 http://live.skyott.xyz:8880/Vip1000/03590359/97569
 #EXTINF:-1 tvg-ID="" tvg-name="KP| SKY SPORTS HD" tvg-logo="https://lo1.in/LOGO/KOREA/SKYSPORTS.png" group-title="KOREA",KP| SKY SPORTS HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97573
-#EXTINF:-1 tvg-ID="" tvg-name="Portalfoxmix (720p)" tvg-logo="" group-title="CHILE",Portalfoxmix (720p)
-http://live.skyott.xyz:8880/Vip1000/03590359/62984
-#EXTINF:-1 tvg-ID="" tvg-name="Portalfoxmix (720p)" tvg-logo="" group-title="CHILE",Portalfoxmix (720p)
-http://live.skyott.xyz:8880/Vip1000/03590359/62985
-#EXTINF:-1 tvg-ID="" tvg-name="Portalfoxmix (720p)" tvg-logo="" group-title="CHILE",Portalfoxmix (720p)
-http://live.skyott.xyz:8880/Vip1000/03590359/62986
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN SD" tvg-logo="http://iptvboss.xyz/logos/USA%20Networks%20and%20Sports/ESPNHD.png" group-title="NBA-NFL-NHL-MLB",ESPN SD
 http://live.skyott.xyz:8880/Vip1000/03590359/95954
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 HD" tvg-logo="http://iptvboss.xyz/logos/USA%20Networks%20and%20Sports/ESPN2HD.png" group-title="NBA-NFL-NHL-MLB",ESPN 2 HD
@@ -3311,8 +2701,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/97476
 http://live.skyott.xyz:8880/Vip1000/03590359/97477
 #EXTINF:-1 tvg-ID="" tvg-name="FI| VIASAT SPORT J HD" tvg-logo="https://lo1.in/LOGO/FINLAND/VIASATSPORTJ.png" group-title="FINELAND",FI| VIASAT SPORT J HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97478
-#EXTINF:-1 tvg-ID="" tvg-name="FI| FOX HD" tvg-logo="https://lo1.in/LOGO/FINLAND/fox.png" group-title="FINELAND",FI| FOX HD
-http://live.skyott.xyz:8880/Vip1000/03590359/97505
 #EXTINF:-1 tvg-ID="" tvg-name="FI| VIASAT FILM PREMIERE HD" tvg-logo="https://lo1.in/LOGO/FINLAND/viasatfilmpremierehd.png" group-title="FINELAND",FI| VIASAT FILM PREMIERE HD
 http://live.skyott.xyz:8880/Vip1000/03590359/97514
 #EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="" group-title="IRAQ",Abu Dhabi Sports 1 (1080p)
@@ -3327,10 +2715,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/86951
 http://live.skyott.xyz:8880/Vip1000/03590359/86952
 #EXTINF:-1 tvg-ID="" tvg-name="Sport | Šport TV 3 SLOⓧ" tvg-logo="" group-title="SLOVENIA",Sport | Šport TV 3 SLOⓧ
 http://live.skyott.xyz:8880/Vip1000/03590359/86953
-#EXTINF:-1 tvg-ID="" tvg-name="SL | Fox Life" tvg-logo="" group-title="SLOVENIA",SL | Fox Life
-http://live.skyott.xyz:8880/Vip1000/03590359/118947
-#EXTINF:-1 tvg-ID="" tvg-name="SL | Fox Movies" tvg-logo="" group-title="SLOVENIA",SL | Fox Movies
-http://live.skyott.xyz:8880/Vip1000/03590359/118948
 #EXTINF:-1 tvg-ID="" tvg-name="SL | Cinestar Premiere 1" tvg-logo="" group-title="SLOVENIA",SL | Cinestar Premiere 1
 http://live.skyott.xyz:8880/Vip1000/03590359/118950
 #EXTINF:-1 tvg-ID="" tvg-name="SL | Cinestar Premiere 2" tvg-logo="" group-title="SLOVENIA",SL | Cinestar Premiere 2
@@ -3381,8 +2765,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/124030
 http://live.skyott.xyz:8880/Vip1000/03590359/129594
 #EXTINF:-1 tvg-ID="" tvg-name="DStv | Ginx eSports TVⓧ" tvg-logo="" group-title="ALL AFRICA",DStv | Ginx eSports TVⓧ
 http://live.skyott.xyz:8880/Vip1000/03590359/129605
-#EXTINF:-1 tvg-ID="" tvg-name="DStv | Sky Newsⓧ" tvg-logo="" group-title="ALL AFRICA",DStv | Sky Newsⓧ
-http://live.skyott.xyz:8880/Vip1000/03590359/129656
 #EXTINF:-1 tvg-ID="" tvg-name="DStv | SuperSport Actionⓧ" tvg-logo="" group-title="ALL AFRICA",DStv | SuperSport Actionⓧ
 http://live.skyott.xyz:8880/Vip1000/03590359/129662
 #EXTINF:-1 tvg-ID="" tvg-name="DStv | SuperSport Blitzⓧ" tvg-logo="" group-title="ALL AFRICA",DStv | SuperSport Blitzⓧ
@@ -3499,8 +2881,6 @@ http://live.skyott.xyz:8880/Vip1000/03590359/104227
 http://live.skyott.xyz:8880/Vip1000/03590359/104229
 #EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Select HD" tvg-logo="" group-title="HOLLAND",Ziggo Sport Select HD
 http://live.skyott.xyz:8880/Vip1000/03590359/104232
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Channel" tvg-logo="" group-title="HOLLAND",FOX Channel
-http://live.skyott.xyz:8880/Vip1000/03590359/104265
 #EXTINF:-1 tvg-ID="" tvg-name="Türkmenistan Sport (406p) [Not 24/7]" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Turkmenistan",Türkmenistan Sport (406p) [Not 24/7]
 http://live.skyott.xyz:8880/Vip1000/03590359/116093
 #EXTINF:-1 tvg-ID="" tvg-name="Directv Sports SD (ECU)" tvg-logo="http://starplus.club:8080/images/51abdfdebab3e86579aaf359774a55e6.png" group-title="ECUADOR",Directv Sports SD (ECU)
