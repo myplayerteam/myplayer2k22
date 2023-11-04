@@ -359,6 +359,92 @@ http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83216
 http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147567
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 SD" tvg-logo="" group-title="Fox sport",FOX Sports 2 SD
 http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83561
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes 4K" tvg-logo="" group-title="Premier",Premiere 1 Clubes 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151037
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes FHD" tvg-logo="" group-title="Premier",Premiere 1 Clubes FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83813
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 1 Clubes FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147633
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="" group-title="Premier",Premiere 1 Clubes FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83405
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes HD" tvg-logo="" group-title="Premier",Premiere 1 Clubes HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83251
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes HD [Alt]" tvg-logo="" group-title="Premier",Premiere 1 Clubes HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147634
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 1 Clubes SD" tvg-logo="" group-title="Premier",Premiere 1 Clubes SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83601
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 FHD" tvg-logo="" group-title="Premier",Premiere 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87323
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147635
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 FHD [H265]" tvg-logo="" group-title="Premier",Premiere 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83406
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Premier",Premiere 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83245
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 HD [Alt]" tvg-logo="" group-title="Premier",Premiere 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147636
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 SD" tvg-logo="" group-title="Premier",Premiere 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83602
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 FHD" tvg-logo="" group-title="Premier",Premiere 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87321
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 3 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147637
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 FHD [H265]" tvg-logo="" group-title="Premier",Premiere 3 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83407
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="Premier",Premiere 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83246
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 HD [Alt]" tvg-logo="" group-title="Premier",Premiere 3 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147638
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 SD" tvg-logo="" group-title="Premier",Premiere 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83603
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 FHD" tvg-logo="" group-title="Premier",Premiere 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87320
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 4 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147639
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 FHD [H265]" tvg-logo="" group-title="Premier",Premiere 4 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83408
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 HD" tvg-logo="" group-title="Premier",Premiere 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83247
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 HD [Alt]" tvg-logo="" group-title="Premier",Premiere 4 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147640
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 SD" tvg-logo="" group-title="Premier",Premiere 4 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83604
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 FHD" tvg-logo="" group-title="Premier",Premiere 5 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152926
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 5 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147641
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 FHD [H265]" tvg-logo="" group-title="Premier",Premiere 5 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83409
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 HD" tvg-logo="" group-title="Premier",Premiere 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83248
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 HD [Alt]" tvg-logo="" group-title="Premier",Premiere 5 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147642
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 SD" tvg-logo="" group-title="Premier",Premiere 5 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83605
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 FHD" tvg-logo="" group-title="Premier",Premiere 6 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87319
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 6 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147643
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 FHD [H265]" tvg-logo="" group-title="Premier",Premiere 6 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83410
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 HD" tvg-logo="" group-title="Premier",Premiere 6 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83249
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 HD [Alt]" tvg-logo="" group-title="Premier",Premiere 6 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147644
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 SD" tvg-logo="" group-title="Premier",Premiere 6 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83606
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 FHD" tvg-logo="" group-title="Premier",Premiere 7 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87318
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="" group-title="Premier",Premiere 7 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147645
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 FHD [H265]" tvg-logo="" group-title="Premier",Premiere 7 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83411
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 HD" tvg-logo="" group-title="Premier",Premiere 7 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83250
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 HD [Alt]" tvg-logo="" group-title="Premier",Premiere 7 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147646
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 SD" tvg-logo="" group-title="Premier",Premiere 7 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83607
 #EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 1 FHD" tvg-logo="" group-title="Sport",Prime Esportes 1 FHD
 http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83449
 #EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 1 HD" tvg-logo="" group-title="Sport",Prime Esportes 1 HD
