@@ -301,8 +301,6 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28238
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28241
 #EXTINF:-1 tvg-ID="" tvg-name=" BAND SPORT HD (BR)" tvg-logo="" group-title="Sport", BAND SPORT HD (BR)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28262
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="PT - SPORT TV 1 HD" tvg-logo="" group-title="Sport tv",PT - SPORT TV 1 HD
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62071
 #EXTINF:-1 tvg-ID="" tvg-name="PT - SPORT TV 4 HD" tvg-logo="" group-title="Sport tv",PT - SPORT TV 4 HD
@@ -319,9 +317,6 @@ http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/62082
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/74595
 #EXTINF:-1 tvg-ID="" tvg-name="UK - MOTOR SPORT TV FHD" tvg-logo="" group-title="Sport tv",UK - MOTOR SPORT TV FHD
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59934
-
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="Adrenalina Sports" tvg-logo="https://i.postimg.cc/3NwJrs0s/Adrenalina-sports.png" group-title="DEPORTES",Adrenalina Sports
 http://cineplay.vip:8080/roz6/sQM5NNgTTn/25702
 #EXTINF:-1 tvg-ID="" tvg-name="Adrenalina Sports Netwok HD" tvg-logo="https://i.postimg.cc/3NwJrs0s/Adrenalina-sports.png" group-title="DEPORTES",Adrenalina Sports Netwok HD
@@ -332,12 +327,6 @@ http://cineplay.vip:8080/roz6/sQM5NNgTTn/25603
 http://cineplay.vip:8080/roz6/sQM5NNgTTn/25701
 #EXTINF:-1 tvg-ID="" tvg-name="AYM Sports HD" tvg-logo="https://i.postimg.cc/rwhRJfdc/Ay-M-Sports.png" group-title="DEPORTES",AYM Sports HD
 http://cineplay.vip:8080/roz6/sQM5NNgTTn/38859
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1 USA" tvg-logo="https://i.postimg.cc/Wp91Y1QT/bein-sports.png" group-title="SPORTS",Bein Sports 1 USA
-http://cineplay.vip:8080/roz6/sQM5NNgTTn/25692
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2 USA" tvg-logo="https://i.postimg.cc/Wp91Y1QT/bein-sports.png" group-title="SPORTS",Bein Sports 2 USA
-http://cineplay.vip:8080/roz6/sQM5NNgTTn/25693
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Ñ" tvg-logo="https://i.postimg.cc/Wp91Y1QT/bein-sports.png" group-title="SPORTS",Bein Sports Ñ
-http://cineplay.vip:8080/roz6/sQM5NNgTTn/25694
 #EXTINF:-1 tvg-ID="" tvg-name="CA | TSN SPORTS 1" tvg-logo="https://i.postimg.cc/XvmX9D7v/tsn.png" group-title="USA  NETWORKS ",CA | TSN SPORTS 1
 http://cineplay.vip:8080/roz6/sQM5NNgTTn/106103
 #EXTINF:-1 tvg-ID="" tvg-name="Cbs Sports Network" tvg-logo="https://i.postimg.cc/13dktFG2/cbs-sports-network.png" group-title="SPORTS",Cbs Sports Network
@@ -486,144 +475,16 @@ http://cineplay.vip:8080/roz6/sQM5NNgTTn/251082
 http://cineplay.vip:8080/roz6/sQM5NNgTTn/252766
 #EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Detroit" tvg-logo="https://i.postimg.cc/SRVwSV3W/Bally-Sports.png" group-title="SPORTS",Bally Sports Detroit
 http://cineplay.vip:8080/roz6/sQM5NNgTTn/249262
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS  F HD" tvg-logo="" group-title="Bein sport",beIN SPORTS  F HD
-http://197.26.19.139:8000/Matrix80/Matrix80/435857
 #EXTINF:-1 tvg-ID="" tvg-name="AR:AD SPORTS  HD live" tvg-logo="" group-title="Sport",AR:AD SPORTS  HD live
 http://197.26.19.139:8000/Matrix80/Matrix80/463667
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT.AR" tvg-logo="" group-title="Bein sport",BEIN SPORT.AR
-http://197.26.19.139:8000/Matrix80/Matrix80/2901
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Startz Play SPORTS 1 HD" tvg-logo="" group-title="Sport",AR: Startz Play SPORTS 1 HD
 http://197.26.19.139:8000/Matrix80/Matrix80/438680
 #EXTINF:-1 tvg-ID="" tvg-name="AR: STARZ PLAY SPORT 2 HD" tvg-logo="" group-title="Sport",AR: STARZ PLAY SPORT 2 HD
 http://197.26.19.139:8000/Matrix80/Matrix80/438685
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport HD1" tvg-logo="" group-title="Bein sport",Bein sport HD1
-http://197.26.19.139:8000/Matrix80/Matrix80/329310
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport HD2" tvg-logo="" group-title="Bein sport",Bein sport HD2
-http://197.26.19.139:8000/Matrix80/Matrix80/329311
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD3" tvg-logo="" group-title="Bein sport",Bein Sports HD3
-http://197.26.19.139:8000/Matrix80/Matrix80/329315
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD4" tvg-logo="" group-title="Bein sport",Bein Sports HD4
-http://197.26.19.139:8000/Matrix80/Matrix80/329316
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD5" tvg-logo="" group-title="Bein sport",Bein Sports HD5
-http://197.26.19.139:8000/Matrix80/Matrix80/329317
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD6" tvg-logo="" group-title="Bein sport",Bein Sports HD6
-http://197.26.19.139:8000/Matrix80/Matrix80/329318
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD7" tvg-logo="" group-title="Bein sport",Bein Sports HD7
-http://197.26.19.139:8000/Matrix80/Matrix80/329319
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD 8" tvg-logo="" group-title="Bein sport",Bein Sport HD 8
-http://197.26.19.139:8000/Matrix80/Matrix80/393338
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 9" tvg-logo="" group-title="Bein sport",beIN SPORTS HD 9
-http://197.26.19.139:8000/Matrix80/Matrix80/463393
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 EXTRA HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 1 EXTRA HD
-http://197.26.19.139:8000/Matrix80/Matrix80/422749
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 EXTRA HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 2 EXTRA HD
-http://197.26.19.139:8000/Matrix80/Matrix80/422750
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports English HD1" tvg-logo="" group-title="Bein sport",Bein Sports English HD1
-http://197.26.19.139:8000/Matrix80/Matrix80/329325
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports English HD 2" tvg-logo="" group-title="Bein sport",Bein Sports English HD 2
-http://197.26.19.139:8000/Matrix80/Matrix80/457809
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 ENGLISH HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 3 ENGLISH HD
-http://197.26.19.139:8000/Matrix80/Matrix80/422747
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports NBA HD" tvg-logo="" group-title="Bein sport",beIN Sports NBA HD
-http://197.26.19.139:8000/Matrix80/Matrix80/393807
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports AFC VIP" tvg-logo="" group-title="Bein sport",beIN Sports AFC VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/458016
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS NEWS VIP" tvg-logo="" group-title="Bein sport",BEIN SPORTS NEWS VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393739
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORTS 1VIP" tvg-logo="" group-title="Sport",beIN.SPORTS 1VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393741
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORTS .2 VIP" tvg-logo="" group-title="Sport",beIN.SPORTS .2 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393742
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.3. VIP" tvg-logo="" group-title="Sport",beIN.SPORT.3. VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393744
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT 4 VIP" tvg-logo="" group-title="Sport",beIN.SPORT 4 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393745
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.5 VIP" tvg-logo="" group-title="Sport",beIN.SPORT.5 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393746
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.6 VIP" tvg-logo="" group-title="Sport",beIN.SPORT.6 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393747
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.7. VIP" tvg-logo="" group-title="Sport",beIN.SPORT.7. VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393748
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.8 VIP" tvg-logo="" group-title="Sport",beIN.SPORT.8 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393749
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.9. VIP" tvg-logo="" group-title="Sport",beIN.SPORT.9. VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393750
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport XTRA 1 VIP" tvg-logo="" group-title="Bein sport",BeIN Sport XTRA 1 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393755
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport XTRA 2 VIP" tvg-logo="" group-title="Bein sport",BeIN Sport XTRA 2 VIP
-http://197.26.19.139:8000/Matrix80/Matrix80/393754
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS AFC1 SD" tvg-logo="" group-title="Bein sport",beIN SPORTS AFC1 SD
-http://197.26.19.139:8000/Matrix80/Matrix80/435800
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS AFC2 SD" tvg-logo="" group-title="Bein sport",beIN SPORTS AFC2 SD
-http://197.26.19.139:8000/Matrix80/Matrix80/435802
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS AFC3 SD" tvg-logo="" group-title="Bein sport",beIN SPORTS AFC3 SD
-http://197.26.19.139:8000/Matrix80/Matrix80/435804
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1_low" tvg-logo="" group-title="Bein sport",BEIN SPORTS 1_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438627
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2_low" tvg-logo="" group-title="Bein sport",BEIN SPORTS 2_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438628
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS3_low" tvg-logo="" group-title="Bein sport",BEIN SPORTS3_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438629
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3_low" tvg-logo="" group-title="Bein sport",Bein Sport 3_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438630
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 4_low" tvg-logo="" group-title="Bein sport",Bein Sport 4_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438631
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 5_low" tvg-logo="" group-title="Bein sport",Bein Sport 5_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438632
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 6_low" tvg-logo="" group-title="Bein sport",Bein Sport 6_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438634
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 7_low" tvg-logo="" group-title="Bein sport",Bein Sport 7_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438635
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 8_low" tvg-logo="" group-title="Bein sport",Bein Sport 8_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438636
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 9_low" tvg-logo="" group-title="Bein sport",Bein Sport 9_low
-http://197.26.19.139:8000/Matrix80/Matrix80/438633
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1  FHD" tvg-logo="" group-title="Bein sport",BEIN SPORTS 1  FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437402
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2  FHD" tvg-logo="" group-title="Bein sport",BEIN SPORTS 2  FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437403
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS NEWS FHD" tvg-logo="" group-title="Bein sport",BEIN SPORTS NEWS FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437405
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="" group-title="Bein sport",BEIN SPORTS 3 FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437407
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 4 FHD" tvg-logo="" group-title="Bein sport", BEIN SPORTS 4 FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437408
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 5 FHD" tvg-logo="" group-title="Bein sport", BEIN SPORTS 5 FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437409
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="" group-title="Bein sport",BEIN SPORTS 6 FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437410
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="" group-title="Bein sport",BEIN SPORTS 7 FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/437411
-#EXTINF:-1 tvg-ID="" tvg-name="Bein SPORTS 8 FHD" tvg-logo="" group-title="Bein sport",Bein SPORTS 8 FHD
-http://197.26.19.139:8000/Matrix80/Matrix80/463420
-#EXTINF:-1 tvg-ID="" tvg-name="Bein SPORTS SD1" tvg-logo="" group-title="Bein sport",Bein SPORTS SD1
-http://197.26.19.139:8000/Matrix80/Matrix80/329327
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD2" tvg-logo="" group-title="Bein sport",Bein sport SD2
-http://197.26.19.139:8000/Matrix80/Matrix80/329328
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD 3" tvg-logo="" group-title="Bein sport",Bein Sport SD 3
-http://197.26.19.139:8000/Matrix80/Matrix80/329330
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD4" tvg-logo="" group-title="Bein sport",Bein Sport SD4
-http://197.26.19.139:8000/Matrix80/Matrix80/329332
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD5" tvg-logo="" group-title="Bein sport",Bein Sport SD5
-http://197.26.19.139:8000/Matrix80/Matrix80/329333
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD6" tvg-logo="" group-title="Bein sport",Bein Sport SD6
-http://197.26.19.139:8000/Matrix80/Matrix80/329334
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD7" tvg-logo="" group-title="Bein sport",Bein Sport SD7
-http://197.26.19.139:8000/Matrix80/Matrix80/329335
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD8" tvg-logo="" group-title="Bein sport",Bein Sport SD8
-http://197.26.19.139:8000/Matrix80/Matrix80/329336
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport 9 SD" tvg-logo="" group-title="Bein sport",Bein sport 9 SD
-http://197.26.19.139:8000/Matrix80/Matrix80/330708
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SSC SPORT 1 SD" tvg-logo="" group-title="Sport",AR: SSC SPORT 1 SD
 http://197.26.19.139:8000/Matrix80/Matrix80/463601
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SSC SPORT 5 SD" tvg-logo="" group-title="Sport",AR: SSC SPORT 5 SD
 http://197.26.19.139:8000/Matrix80/Matrix80/463602
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports News sd" tvg-logo="" group-title="Bein sport",beIN Sports News sd
-http://197.26.19.139:8000/Matrix80/Matrix80/463603
 #EXTINF:-1 tvg-ID="" tvg-name="AR: STARZ PLAY SPORT 1 sd" tvg-logo="" group-title="Sport",AR: STARZ PLAY SPORT 1 sd
 http://197.26.19.139:8000/Matrix80/Matrix80/463649
 #EXTINF:-1 tvg-ID="" tvg-name="AR: STARZ PLAY SPORT 2 sd" tvg-logo="" group-title="Sport",AR: STARZ PLAY SPORT 2 sd
@@ -760,26 +621,6 @@ http://197.26.19.139:8000/Matrix80/Matrix80/189158
 http://197.26.19.139:8000/Matrix80/Matrix80/189159
 #EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 12 HD" tvg-logo="" group-title="Sport",RMC SPORT LIVE 12 HD
 http://197.26.19.139:8000/Matrix80/Matrix80/189160
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 1 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT 1 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36207
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 2 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT 2 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36208
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 3 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT 3 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36209
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 4 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT MAX 4 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36210
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 5 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT MAX 5 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36211
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 6 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT MAX 6 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36212
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 7 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT MAX 7 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36213
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 8 HD" tvg-logo="" group-title="Bein sport",BEIN SPORT MAX 8 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36214
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORT MAX 9 HD" tvg-logo="" group-title="Bein sport", BEIN SPORT MAX 9 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36215
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORT MAX 10 HD" tvg-logo="" group-title="Bein sport", BEIN SPORT MAX 10 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36216
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SPORT HD" tvg-logo="" group-title="Sport",CANAL+ SPORT HD
 http://197.26.19.139:8000/Matrix80/Matrix80/308030
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
@@ -798,8 +639,6 @@ http://197.26.19.139:8000/Matrix80/Matrix80/308052
 http://197.26.19.139:8000/Matrix80/Matrix80/308053
 #EXTINF:-1 tvg-ID="" tvg-name="MULTISPORTS 6 HD" tvg-logo="" group-title="Sport",MULTISPORTS 6 HD
 http://197.26.19.139:8000/Matrix80/Matrix80/308054
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT FRENCH HD1" tvg-logo="" group-title="Bein sport",BEIN SPORT FRENCH HD1
-http://197.26.19.139:8000/Matrix80/Matrix80/329323
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
 http://197.26.19.139:8000/Matrix80/Matrix80/36217
 #EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT+ HD" tvg-logo="" group-title="Sport",INFOSPORT+ HD
@@ -848,14 +687,6 @@ http://197.26.19.139:8000/Matrix80/Matrix80/162835
 http://197.26.19.139:8000/Matrix80/Matrix80/162829
 #EXTINF:-1 tvg-ID="" tvg-name="S-SPORT 1 HD+" tvg-logo="" group-title="Sport",S-SPORT 1 HD+
 http://197.26.19.139:8000/Matrix80/Matrix80/162828
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 1 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/162818
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 2 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/162819
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 3 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/162820
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4 HD" tvg-logo="" group-title="Bein sport",beIN SPORTS 4 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/162821
 #EXTINF:-1 tvg-ID="" tvg-name="ES | EUROSPORT1 ES" tvg-logo="" group-title="Sport",ES | EUROSPORT1 ES
 http://197.26.19.139:8000/Matrix80/Matrix80/16058
 #EXTINF:-1 tvg-ID="" tvg-name="ES | EUROSPORT2" tvg-logo="" group-title="Sport",ES | EUROSPORT2
@@ -910,4 +741,3 @@ http://197.26.19.139:8000/Matrix80/Matrix80/428754
 http://197.26.19.139:8000/Matrix80/Matrix80/428755
 #EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS PRIME TICKET HD" tvg-logo="" group-title="Fox sport",USA: FOX SPORTS PRIME TICKET HD
 http://197.26.19.139:8000/Matrix80/Matrix80/428757
-
