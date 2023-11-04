@@ -319,3 +319,368 @@ http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58476
 #EXTINF:-1 tvg-ID="" tvg-name="USA - Bein Sports English" tvg-logo="http://attp.ddns.net:25461/images/153bbcc2fe3ab5457c0cfb2958a5b988.png" group-title="USA",USA - Bein Sports English
 http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/65664
 
+
+#EXTINF:-1 tvg-ID="" tvg-name="BS | BEIN SPORTS FHD" tvg-logo="http://pakiptv.top:8880/images/2a9ca99a7285536f8a4047a883c035fe.png" group-title="LIVE CRICKET",BS | BEIN SPORTS FHD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/6044
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MY" tvg-logo="" group-title="MALAYSIA LOCAL",BEIN SPORTS MY
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/130980
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MY" tvg-logo="" group-title="MALAYSIA LOCAL",BEIN SPORTS MY
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/130996
+#EXTINF:-1 tvg-ID="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="MALAYSIA LOCAL",MY: beIN Sports
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/131032
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 1" tvg-logo="" group-title="AUSTRALIA",AU: beIN Sports 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/34110
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 2" tvg-logo="" group-title="AUSTRALIA",AU: beIN Sports 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/34111
+#EXTINF:-1 tvg-ID="" tvg-name="AU: beIN Sports 3" tvg-logo="" group-title="AUSTRALIA",AU: beIN Sports 3
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/34112
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 HD BK" tvg-logo="" group-title="TURKEY LOCAL",TR: beIN SPORTS 1 HD BK
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/9529
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 3 HD BK" tvg-logo="https://i.imgyukle.com/2020/02/18/ngglNt.jpg" group-title="TURKEY LOCAL",TR: beIN SPORTS 3 HD BK
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/92424
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 1" tvg-logo="" group-title="TURKEY LOCAL",TR: beIN Sports 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/103254
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 2" tvg-logo="" group-title="TURKEY LOCAL",TR: beIN Sports 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/103255
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 3" tvg-logo="" group-title="TURKEY LOCAL",TR: beIN Sports 3
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/103256
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports 4" tvg-logo="" group-title="TURKEY LOCAL",TR: beIN Sports 4
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/103257
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sports Haber" tvg-logo="" group-title="TURKEY LOCAL",TR: beIN Sports Haber
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/103258
+#EXTINF:-1 tvg-ID="" tvg-name="TR | BEIN SPORTS 5" tvg-logo="" group-title="TURKEY LOCAL",TR | BEIN SPORTS 5
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/131043
+#EXTINF:-1 tvg-ID="" tvg-name="|| FR || BeIN Sports MAX 10 " tvg-logo="" group-title="FRANCE",|| FR || BeIN Sports MAX 10 
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/53316
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FRANCE",|FR| BEIN SPORTS 1 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/53345
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FRANCE",|FR| BEIN SPORTS 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/53346
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 1 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86764
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 2 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86765
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 3 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86766
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 4 FHD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORT MAX 4 FHD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86767
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 6 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORT MAX 6 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86768
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 8  FHD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORT MAX 8  FHD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86770
+#EXTINF:-1 tvg-ID="" tvg-name="FR | BEIN SPORT MAX 5" tvg-logo="" group-title="FRANCE",FR | BEIN SPORT MAX 5
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86871
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 9 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORT MAX 9 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86872
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 10 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORT MAX 10 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/86873
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportshd1.png" group-title="FRANCE",FR: BEIN SPORTS 1 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128868
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="https://i.postimg.cc/g21XzxG2/be-2.png" group-title="FRANCE",FR: BEIN SPORTS 2 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128869
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="https://i.postimg.cc/mrrXs62s/bein-sport-png-6.png" group-title="FRANCE",FR: BEIN SPORTS 3 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128870
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 4 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax4.png" group-title="FRANCE",FR: BEIN SPORT MAX 4 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128871
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 5 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax5.png" group-title="FRANCE",FR: BEIN SPORT MAX 5 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128872
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 6 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax6.png" group-title="FRANCE",FR: BEIN SPORT MAX 6 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128873
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 7 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax6.png" group-title="FRANCE",FR: BEIN SPORT MAX 7 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128874
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 8 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax6.png" group-title="FRANCE",FR: BEIN SPORT MAX 8 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128875
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 9 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax6.png" group-title="FRANCE",FR: BEIN SPORT MAX 9 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128876
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT MAX 10 HD" tvg-logo="http://media.c-x-c.media/picons/FR/beinsportsmax6.png" group-title="FRANCE",FR: BEIN SPORT MAX 10 HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/128877
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] beIN Sportspana" tvg-logo="" group-title="SPANISH",[ES] beIN Sportspana
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/22787
+#EXTINF:-1 tvg-ID="" tvg-name="||ES|| BEIN SPORTS LA LIGA FHD" tvg-logo="" group-title="SPANISH",||ES|| BEIN SPORTS LA LIGA FHD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/49254
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Bein Sports HD Espanol" tvg-logo="https://i.postimg.cc/XYK6bJJf/png-transparent-la-liga-bein-sports-1-bein-channels-network-others-purple-text-sport.png" group-title="SPANISH",|ES| Bein Sports HD Espanol
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/102243
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports USA" tvg-logo="" group-title="USA",US: beIN Sports USA
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/57002
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BEIN SPORTS" tvg-logo="" group-title="USA",USA: BEIN SPORTS
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/59030
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BEIN SPORTS" tvg-logo="" group-title="USA",USA: BEIN SPORTS
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/59032
+#EXTINF:-1 tvg-ID="" tvg-name="SP: USA: BeIN Sports 4" tvg-logo="https://static.iptv-epg.com/ca/beINSports4.ca.png" group-title="USA",SP: USA: BeIN Sports 4
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/47507
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports US HD" tvg-logo="" group-title="USA",US: beIN Sports US HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/32490
+#EXTINF:-1 tvg-ID="" tvg-name="SP: USA: BeIN Sports 6" tvg-logo="https://static.iptv-epg.com/ca/beINSports6.ca.png" group-title="USA",SP: USA: BeIN Sports 6
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/47508
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="ARAB",AR: beIN SPORTS 2 ENGLISH HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/92672
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 3 ENGLISH HD" tvg-logo="" group-title="ARAB",AR: beIN SPORTS 3 ENGLISH HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/92673
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS Premium 3" tvg-logo="" group-title="ARAB",AR: BEIN SPORTS Premium 3
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/116849
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ BEIN SPORTS HD ✦●✦" tvg-logo="" group-title="ARABIC LOCAL",✦●✦ BEIN SPORTS HD ✦●✦
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124223
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124224
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS News HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS News HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124225
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS NBA HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS NBA HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124226
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 1 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 1 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124227
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 2 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 2 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124228
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 3 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 3 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124229
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 4 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 4 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124230
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 5 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 5 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124231
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 6 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 6 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124232
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 7 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 7 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124233
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS PREMIUM 1 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS PREMIUM 1 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124234
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS PREMIUM 2 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS PREMIUM 2 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124235
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS PREMIUM 3 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS PREMIUM 3 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124236
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 1 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 1 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124237
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 2 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 2 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124238
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 3 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 3 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124239
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 1 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 1 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124240
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 2 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 2 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124241
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 3 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 3 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124242
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 1 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 1 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124243
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 2 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 2 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124244
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 3 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 3 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124245
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 4 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 4 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124246
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 5 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 5 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124247
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 6 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 6 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124248
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS XTRA 1 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS XTRA 1 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124249
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS XTRA 2 HD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS XTRA 2 HD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124250
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ BEIN SPORTS SD ✦●✦" tvg-logo="" group-title="ARABIC LOCAL",✦●✦ BEIN SPORTS SD ✦●✦
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124251
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS NBA SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS NBA SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124252
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 1 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 1 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124253
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 2 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 2 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124254
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 3 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 3 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124255
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 4 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 4 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124256
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 5 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 5 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124257
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 6 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 6 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124258
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 7 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 7 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124259
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 1 PREMIUM SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 1 PREMIUM SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124260
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 2 PREMIUM SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 2 PREMIUM SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124261
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 3 PREMIUM SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 3 PREMIUM SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124262
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 1 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 1 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124263
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 2 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 2 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124264
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 3 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 3 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124265
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 1 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 1 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124266
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 2 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 2 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124267
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 3 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 3 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124268
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 1 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 1 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124269
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 2 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 2 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124270
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 3 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 3 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124271
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 4 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 4 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124272
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS XTRA 1 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS XTRA 1 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124273
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS XTRA 2 SD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS XTRA 2 SD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124274
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ BEIN SPORTS FHD ✦●✦" tvg-logo="" group-title="ARABIC LOCAL",✦●✦ BEIN SPORTS FHD ✦●✦
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124275
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS NBA FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS NBA FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124276
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS NEWS FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS NEWS FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124277
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 1 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 1 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124278
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 2 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 2 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124279
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 3 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 3 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124280
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 4 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 4 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124281
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 5 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 5 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124282
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 6 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 6 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124283
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 7 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 7 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124284
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS PREMIUM 1 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS PREMIUM 1 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124285
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS PREMIUM 2 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS PREMIUM 2 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124286
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS PREMIUM 3 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS PREMIUM 3 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124287
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 1 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 1 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124288
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 2 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 2 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124289
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 3 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 3 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124290
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 1 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 1 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124291
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 2 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 2 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124292
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 3 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 3 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124293
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 1 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 1 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124294
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 2 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 2 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124295
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 3 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 3 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124296
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 4 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 4 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124297
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 5 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 5 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124298
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 6 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 6 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124299
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS XTRA 1 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS XTRA 1 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124300
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS XTRA 2 FHD." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS XTRA 2 FHD.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124301
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ BEIN SPORTS HEVC ✦●✦" tvg-logo="" group-title="ARABIC LOCAL",✦●✦ BEIN SPORTS HEVC ✦●✦
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124302
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS NEWS HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS NEWS HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124303
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS NBA HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS NBA HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124304
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124305
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 1 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 1 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124306
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 2 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 2 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124307
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 3 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 3 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124308
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 4 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 4 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124309
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 5 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 5 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124310
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 6 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 6 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124311
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 7 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 7 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124312
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 1 PREMIUM HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 1 PREMIUM HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124313
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 2 PREMIUM HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 2 PREMIUM HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124314
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS 3 PREMIUM HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS 3 PREMIUM HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124315
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 1 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 1 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124316
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 2 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 2 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124317
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS FRANCE 3 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS FRANCE 3 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124318
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 1 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 1 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124319
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 2 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 2 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124320
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS ENGLISH 3 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS ENGLISH 3 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124321
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 1 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 1 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124322
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 2 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 2 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124323
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 3 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 3 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124324
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 4 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 4 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124325
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 5 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 5 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124326
+#EXTINF:-1 tvg-ID="" tvg-name="AR| BEIN SPORTS MAX 6 HEVC." tvg-logo="" group-title="ARABIC LOCAL",AR| BEIN SPORTS MAX 6 HEVC.
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/124327
+#EXTINF:-1 tvg-ID="" tvg-name="||CA|| SPT BEIN SPORTS" tvg-logo="" group-title="CANADA",||CA|| SPT BEIN SPORTS
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127852
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 2" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN Sports 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65158
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports  3" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN Sports  3
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65159
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports  4 Hevc" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN Sports  4 Hevc
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65160
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports  6 Hevc" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN Sports  6 Hevc
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65162
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS Premium 2" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS Premium 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65166
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS Premium 3" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS Premium 3
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65167
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 4" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS 4
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65171
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 5" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS 5
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65172
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 6" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS 6
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65173
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 7" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS 7
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65174
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS XTRA 1" tvg-logo="" group-title="BEIN SPORTS LOCAL",BEIN SPORTS XTRA 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65176
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS XTRA 2" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS XTRA 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65177
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65182
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS 1" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/65192
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: BEIN SPORTS MAX 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/97098
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: BEIN SPORTS MAX 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/97099
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPORTS Premium 1" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: beIN SPORTS Premium 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/102553
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport NBA" tvg-logo="" group-title="BEIN SPORTS LOCAL",AR: Bein sport NBA
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/104314
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 1" tvg-logo="" group-title="PHILIPION",PH: beIN Sports 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/115458
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 2" tvg-logo="" group-title="PHILIPION",PH: beIN Sports 2
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/115459
+#EXTINF:-1 tvg-ID="" tvg-name="PH: beIN Sports 3" tvg-logo="" group-title="PHILIPION",PH: beIN Sports 3
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/115460
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="PHILIPION",BEIN SPORTS 1
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127935
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_HD" tvg-logo="" group-title="MALTA LOCALS",BeIN_Sport_03_HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127800
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_English_HD" tvg-logo="" group-title="MALTA LOCALS",BeIN_Sport_02_English_HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127801
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_English_HD" tvg-logo="" group-title="MALTA LOCALS",BeIN_Sport_01_English_HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127802
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_English_HD" tvg-logo="" group-title="MALTA LOCALS",BeIN_Sport_03_English_HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127803
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_French_HD" tvg-logo="" group-title="MALTA LOCALS",BeIN_Sport_01_French_HD
+http://live.skyott.xyz:8880/Hanifppp100/KdtXedFCtC/127804
