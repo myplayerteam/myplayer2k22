@@ -266,3 +266,316 @@ http://11121314.fr:8000/Matrix80/Matrix80/428755
 #EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS PRIME TICKET HD" tvg-logo="" group-title="USA | Sport",USA: FOX SPORTS PRIME TICKET HD
 http://11121314.fr:8000/Matrix80/Matrix80/428757
 
+
+#EXTINF:-1 tvg-ID="" tvg-name="BAND Sports FHD" tvg-logo="" group-title="Sport",BAND Sports FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83806
+#EXTINF:-1 tvg-ID="" tvg-name="BAND Sports FHD [Alt]" tvg-logo="" group-title="Sport",BAND Sports FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147446
+#EXTINF:-1 tvg-ID="" tvg-name="BAND Sports FHD [H265]" tvg-logo="" group-title="Sport",BAND Sports FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83371
+#EXTINF:-1 tvg-ID="" tvg-name="BAND Sports HD" tvg-logo="" group-title="Sport",BAND Sports HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83189
+#EXTINF:-1 tvg-ID="" tvg-name="BAND Sports HD [Alt]" tvg-logo="" group-title="Sport",BAND Sports HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147447
+#EXTINF:-1 tvg-ID="" tvg-name="BAND Sports SD" tvg-logo="" group-title="Sport",BAND Sports SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83529
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 4K" tvg-logo="" group-title="Espn",ESPN 1 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/155420
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 FHD" tvg-logo="" group-title="Espn",ESPN 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83809
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 FHD [Alt]" tvg-logo="" group-title="Espn",ESPN 1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147541
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 FHD [H265]" tvg-logo="" group-title="Espn",ESPN 1 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83385
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 HD" tvg-logo="" group-title="Espn",ESPN 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83208
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 HD [Alt]" tvg-logo="" group-title="Espn",ESPN 1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147542
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 SD" tvg-logo="" group-title="Espn",ESPN 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162796
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 FHD" tvg-logo="" group-title="Espn",ESPN 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83807
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 FHD [Alt]" tvg-logo="" group-title="Espn",ESPN 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147545
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 FHD [H265]" tvg-logo="" group-title="Espn",ESPN 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83383
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Espn",ESPN 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83209
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 HD [Alt]" tvg-logo="" group-title="Espn",ESPN 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147546
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="Espn",ESPN 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83552
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 4K" tvg-logo="" group-title="Espn",ESPN 3 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151048
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 FHD" tvg-logo="" group-title="Espn",ESPN 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83808
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 FHD [Alt]" tvg-logo="" group-title="Espn",ESPN 3 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147539
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 FHD [H265]" tvg-logo="" group-title="Espn",ESPN 3 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83384
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="Espn",ESPN 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83207
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 HD [Alt]" tvg-logo="" group-title="Espn",ESPN 3 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147540
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 SD" tvg-logo="" group-title="Espn",ESPN 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83553
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 4K" tvg-logo="" group-title="Espn",ESPN 4 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151039
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 FHD" tvg-logo="" group-title="Espn",ESPN 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83811
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 FHD [Alt]" tvg-logo="" group-title="Espn",ESPN 4 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147568
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 FHD [H265]" tvg-logo="" group-title="Espn",ESPN 4 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83388
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="Espn",ESPN 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83217
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 HD [Alt]" tvg-logo="" group-title="Espn",ESPN 4 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147565
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 SD" tvg-logo="" group-title="Espn",ESPN 4 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83560
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Extra FHD" tvg-logo="" group-title="Espn",ESPN Extra FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83810
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Extra FHD [Alt]" tvg-logo="" group-title="Espn",ESPN Extra FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147543
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Extra FHD [H265]" tvg-logo="" group-title="Espn",ESPN Extra FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83382
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Extra HD" tvg-logo="" group-title="Espn",ESPN Extra HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83210
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Extra HD [Alt]" tvg-logo="" group-title="Espn",ESPN Extra HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147544
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Extra SD" tvg-logo="" group-title="Espn",ESPN Extra SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162802
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 4K" tvg-logo="" group-title="Fox sport",FOX Sports 2 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151046
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 FHD" tvg-logo="" group-title="Fox sport",FOX Sports 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83812
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 FHD [Alt]" tvg-logo="" group-title="Fox sport",FOX Sports 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147566
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="" group-title="Fox sport",FOX Sports 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83389
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 HD" tvg-logo="" group-title="Fox sport",FOX Sports 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83216
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="" group-title="Fox sport",FOX Sports 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147567
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 SD" tvg-logo="" group-title="Fox sport",FOX Sports 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83561
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 1 FHD" tvg-logo="" group-title="Sport",Prime Esportes 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83449
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 1 HD" tvg-logo="" group-title="Sport",Prime Esportes 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83795
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 1 SD" tvg-logo="" group-title="Sport",Prime Esportes 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83334
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 2 FHD" tvg-logo="" group-title="Sport",Prime Esportes 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83348
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 2 HD" tvg-logo="" group-title="Sport",Prime Esportes 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83773
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 2 SD" tvg-logo="" group-title="Sport",Prime Esportes 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83347
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 3 FHD" tvg-logo="" group-title="Sport",Prime Esportes 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169534
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 3 HD" tvg-logo="" group-title="Sport",Prime Esportes 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83790
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Esportes 3 SD" tvg-logo="" group-title="Sport",Prime Esportes 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83452
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 4K" tvg-logo="" group-title="Sportv",SporTV 1 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151042
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 FHD" tvg-logo="" group-title="Sportv",SporTV 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83814
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="" group-title="Sportv",SporTV 1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147688
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 FHD [H265]" tvg-logo="" group-title="Sportv",SporTV 1 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83416
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 HD" tvg-logo="" group-title="Sportv",SporTV 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83257
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 HD [Alt]" tvg-logo="" group-title="Sportv",SporTV 1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147689
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 1 SD" tvg-logo="" group-title="Sportv",SporTV 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83623
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 FHD" tvg-logo="" group-title="Sportv",SporTV 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83815
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 FHD [Alt]" tvg-logo="" group-title="Sportv",SporTV 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147684
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 FHD [H265]" tvg-logo="" group-title="Sportv",SporTV 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83414
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="Sportv",SporTV 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83255
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 HD [Alt]" tvg-logo="" group-title="Sportv",SporTV 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147685
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 SD" tvg-logo="" group-title="Sportv",SporTV 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83624
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 FHD" tvg-logo="" group-title="Sportv",SporTV 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83816
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 FHD [Alt]" tvg-logo="" group-title="Sportv",SporTV 3 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147686
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 FHD [H265]" tvg-logo="" group-title="Sportv",SporTV 3 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83415
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 HD" tvg-logo="" group-title="Sportv",SporTV 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83256
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 HD [Alt]" tvg-logo="" group-title="Sportv",SporTV 3 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147687
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 SD" tvg-logo="" group-title="Sportv",SporTV 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83625
+#EXTINF:-1 tvg-ID="" tvg-name="TNT 4K" tvg-logo="" group-title="Tnt",TNT 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151053
+#EXTINF:-1 tvg-ID="" tvg-name="TNT FHD" tvg-logo="" group-title="Tnt",TNT FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83822
+#EXTINF:-1 tvg-ID="" tvg-name="TNT FHD [Alt]" tvg-logo="" group-title="Tnt",TNT FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147715
+#EXTINF:-1 tvg-ID="" tvg-name="TNT FHD [H265]" tvg-logo="" group-title="Tnt",TNT FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83423
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD" tvg-logo="" group-title="Tnt",TNT HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83268
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD [Alt]" tvg-logo="" group-title="Tnt",TNT HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147716
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Novelas FHD" tvg-logo="" group-title="Tnt",TNT Novelas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/299474
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Novelas FHD [Alt]" tvg-logo="" group-title="Tnt",TNT Novelas FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83260
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Novelas HD" tvg-logo="" group-title="Tnt",TNT Novelas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/299475
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Novelas HD [Alt]" tvg-logo="" group-title="Tnt",TNT Novelas HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83628
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Novelas SD" tvg-logo="" group-title="Tnt",TNT Novelas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/299476
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SD" tvg-logo="" group-title="Tnt",TNT SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83638
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series 4K" tvg-logo="" group-title="Tnt",TNT Series 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151054
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series FHD" tvg-logo="" group-title="Tnt",TNT Series FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136806
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series FHD [Alt]" tvg-logo="" group-title="Tnt",TNT Series FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147717
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series FHD [H265]" tvg-logo="" group-title="Tnt",TNT Series FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83366
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series HD" tvg-logo="" group-title="Tnt",TNT Series HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83269
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series HD [Alt]" tvg-logo="" group-title="Tnt",TNT Series HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147718
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series SD" tvg-logo="" group-title="Tnt",TNT Series SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83639
+#EXTINF:-1 tvg-ID="" tvg-name="TV NSports 1 HD" tvg-logo="" group-title="Sport",TV NSports 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83716
+#EXTINF:-1 tvg-ID="" tvg-name="TV NSports 2 HD" tvg-logo="" group-title="Sport",TV NSports 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83717
+#EXTINF:-1 tvg-ID="" tvg-name="TV NSports 3 HD" tvg-logo="" group-title="Sport",TV NSports 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169539
+#EXTINF:-1 tvg-ID="" tvg-name="TV NSports 4 HD" tvg-logo="" group-title="Sport",TV NSports 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/272
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Fight Pass FHD [UFC TV]" tvg-logo="" group-title="Ufc",UFC Fight Pass FHD [UFC TV]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/177436
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Fight Pass HD [UFC TV]" tvg-logo="" group-title="Ufc",UFC Fight Pass HD [UFC TV]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83789
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Fight Pass SD [UFC TV]" tvg-logo="" group-title="Ufc",UFC Fight Pass SD [UFC TV]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169515
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="Sky sport",UK: Sky Sports F1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164594
+#EXTINF:-1 tvg-ID="" tvg-name="US: Flow Sports Caribbean" tvg-logo="" group-title="Sport",US: Flow Sports Caribbean
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150350
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet 360 HD" tvg-logo="" group-title="Sport",CA: Sportsnet 360 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150352
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet One HD" tvg-logo="" group-title="Sport",CA: Sportsnet One HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150345
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet West HD" tvg-logo="" group-title="Sport",CA: Sportsnet West HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150353
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet World HD" tvg-logo="" group-title="Sport",CA: Sportsnet World HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150354
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 1" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140385
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 1 FHD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140386
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140384
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 2 FHD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140388
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140387
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 3" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140390
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140391
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 4" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140392
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 4 FHD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140393
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 5 HD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140394
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 6 FHD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 6 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140396
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sport 6 HD" tvg-logo="" group-title="Eleven sport",PT: Eleven Sport 6 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140395
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 1" tvg-logo="" group-title="Sport",PT: Eurosport 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139506
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 1 FHD" tvg-logo="" group-title="Sport",PT: Eurosport 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139505
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 2" tvg-logo="" group-title="Sport",PT: Eurosport 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139507
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Sport tv",PT: Sport TV 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139556
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139557
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 HD" tvg-logo="" group-title="Sport tv",PT: Sport TV 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140380
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2" tvg-logo="" group-title="Sport tv",PT: Sport TV 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139558
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139559
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 HD" tvg-logo="" group-title="Sport tv",PT: Sport TV 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140381
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3" tvg-logo="" group-title="Sport tv",PT: Sport TV 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139560
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139561
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3 HD" tvg-logo="" group-title="Sport tv",PT: Sport TV 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140382
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4" tvg-logo="" group-title="Sport tv",PT: Sport TV 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139562
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139563
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4 HD" tvg-logo="" group-title="Sport tv",PT: Sport TV 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140985
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 5" tvg-logo="" group-title="Sport tv",PT: Sport TV 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139564
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV 5 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139565
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 5 HD" tvg-logo="" group-title="Sport tv",PT: Sport TV 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140383
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="Sport tv",PT: Sport TV 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147490
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 6 FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV 6 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/179426
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV+" tvg-logo="" group-title="Sport tv",PT: Sport TV+
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139554
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV+ FHD" tvg-logo="" group-title="Sport tv",PT: Sport TV+ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139555
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV+ HD" tvg-logo="" group-title="Sport tv",PT: Sport TV+ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140379
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="Sport",PT: Sporting TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139566
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="Bt sport",UK: BT Sport 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169499
+#EXTINF:-1 tvg-ID="" tvg-name="US: Bein Sports USA HD" tvg-logo="" group-title="Bein sport",US: Bein Sports USA HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139610
+#EXTINF:-1 tvg-ID="" tvg-name="US: CBS Sports HD" tvg-logo="" group-title="Sport",US: CBS Sports HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139618
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN" tvg-logo="" group-title="Espn",US: ESPN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139635
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN News HD" tvg-logo="" group-title="Espn",US: ESPN News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139638
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN U" tvg-logo="" group-title="Espn",US: ESPN U
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139637
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN U HD" tvg-logo="" group-title="Espn",US: ESPN U HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139639
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN2" tvg-logo="" group-title="Espn",US: ESPN2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139636
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Sports 1 HD" tvg-logo="" group-title="Fox sport",US: FOX Sports 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139644
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Sports 2 HD" tvg-logo="" group-title="Fox sport",US: FOX Sports 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139645
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Philadelphia" tvg-logo="" group-title="Sport",US: NBC Sports Philadelphia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146909
+#EXTINF:-1 tvg-ID="" tvg-name="US: Sportsnet 360 HD" tvg-logo="" group-title="Sport",US: Sportsnet 360 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139688
+#EXTINF:-1 tvg-ID="" tvg-name="US: TNT HD" tvg-logo="" group-title="Tnt",US: TNT HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139697
+#EXTINF:-1 tvg-ID="" tvg-name="US: UFC" tvg-logo="" group-title="Ufc",US: UFC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139700
