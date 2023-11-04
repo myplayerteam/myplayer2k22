@@ -277,143 +277,16 @@ http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/6596
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/6602
 #EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 H265" tvg-logo="" group-title="Sport",SporTV 3 H265
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/6603
-
-
-#EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS  F HD" tvg-logo="http://11121314.tn:8000/images/f5120422fce898795c6cab993195b145.png" group-title="BEIN SPORT HD",beIN SPORTS  F HD
-http://11121314.fr:8000/Matrix80/Matrix80/435857
 #EXTINF:-1 tvg-ID="" tvg-name="AR:AD SPORTS  HD live" tvg-logo="http://11121314.tn:8000/images/5ee936e08254bd7020761d56e7beb716.png" group-title="BEIN SPORT HD",AR:AD SPORTS  HD live
 http://11121314.fr:8000/Matrix80/Matrix80/463667
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT.AR" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",BEIN SPORT.AR
-http://11121314.fr:8000/Matrix80/Matrix80/2901
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Startz Play SPORTS 1 HD" tvg-logo="http://11121314.tn:8000/images/4088f87db6d3636e05c192d73439964e.png" group-title="BEIN SPORT HD",AR: Startz Play SPORTS 1 HD
 http://11121314.fr:8000/Matrix80/Matrix80/438680
 #EXTINF:-1 tvg-ID="" tvg-name="AR: STARZ PLAY SPORT 2 HD" tvg-logo="http://11121314.tn:8000/images/b4c9d1971ffe4fb9fb15c0de41fe3c10.png" group-title="BEIN SPORT HD",AR: STARZ PLAY SPORT 2 HD
 http://11121314.fr:8000/Matrix80/Matrix80/438685
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport HD1" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein sport HD1
-http://11121314.fr:8000/Matrix80/Matrix80/329310
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport HD2" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein sport HD2
-http://11121314.fr:8000/Matrix80/Matrix80/329311
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD3" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports HD3
-http://11121314.fr:8000/Matrix80/Matrix80/329315
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD4" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports HD4
-http://11121314.fr:8000/Matrix80/Matrix80/329316
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD5" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports HD5
-http://11121314.fr:8000/Matrix80/Matrix80/329317
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD6" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports HD6
-http://11121314.fr:8000/Matrix80/Matrix80/329318
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD7" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports HD7
-http://11121314.fr:8000/Matrix80/Matrix80/329319
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD 8" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sport HD 8
-http://11121314.fr:8000/Matrix80/Matrix80/393338
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 9" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",beIN SPORTS HD 9
-http://11121314.fr:8000/Matrix80/Matrix80/463393
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 EXTRA HD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",beIN SPORTS 1 EXTRA HD
-http://11121314.fr:8000/Matrix80/Matrix80/422749
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 EXTRA HD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",beIN SPORTS 2 EXTRA HD
-http://11121314.fr:8000/Matrix80/Matrix80/422750
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports English HD1" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports English HD1
-http://11121314.fr:8000/Matrix80/Matrix80/329325
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports English HD 2" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",Bein Sports English HD 2
-http://11121314.fr:8000/Matrix80/Matrix80/457809
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 ENGLISH HD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",beIN SPORTS 3 ENGLISH HD
-http://11121314.fr:8000/Matrix80/Matrix80/422747
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports NBA HD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT HD",beIN Sports NBA HD
-http://11121314.fr:8000/Matrix80/Matrix80/393807
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports AFC VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN Sports AFC VIP
-http://11121314.fr:8000/Matrix80/Matrix80/458016
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS NEWS VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",BEIN SPORTS NEWS VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393739
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORTS 1VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORTS 1VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393741
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORTS .2 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORTS .2 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393742
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.3. VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT.3. VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393744
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT 4 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT 4 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393745
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.5 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT.5 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393746
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.6 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT.6 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393747
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.7. VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT.7. VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393748
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.8 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT.8 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393749
-#EXTINF:-1 tvg-ID="" tvg-name="beIN.SPORT.9. VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN.SPORT.9. VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393750
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport XTRA 1 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",BeIN Sport XTRA 1 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393755
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport XTRA 2 VIP" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",BeIN Sport XTRA 2 VIP
-http://11121314.fr:8000/Matrix80/Matrix80/393754
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS AFC1 SD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN SPORTS AFC1 SD
-http://11121314.fr:8000/Matrix80/Matrix80/435800
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS AFC2 SD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN SPORTS AFC2 SD
-http://11121314.fr:8000/Matrix80/Matrix80/435802
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS AFC3 SD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",beIN SPORTS AFC3 SD
-http://11121314.fr:8000/Matrix80/Matrix80/435804
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",BEIN SPORTS 1_low
-http://11121314.fr:8000/Matrix80/Matrix80/438627
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",BEIN SPORTS 2_low
-http://11121314.fr:8000/Matrix80/Matrix80/438628
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS3_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",BEIN SPORTS3_low
-http://11121314.fr:8000/Matrix80/Matrix80/438629
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 3_low
-http://11121314.fr:8000/Matrix80/Matrix80/438630
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 4_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 4_low
-http://11121314.fr:8000/Matrix80/Matrix80/438631
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 5_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 5_low
-http://11121314.fr:8000/Matrix80/Matrix80/438632
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 6_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 6_low
-http://11121314.fr:8000/Matrix80/Matrix80/438634
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 7_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 7_low
-http://11121314.fr:8000/Matrix80/Matrix80/438635
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 8_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 8_low
-http://11121314.fr:8000/Matrix80/Matrix80/438636
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 9_low" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT VIP",Bein Sport 9_low
-http://11121314.fr:8000/Matrix80/Matrix80/438633
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1  FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",BEIN SPORTS 1  FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437402
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2  FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",BEIN SPORTS 2  FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437403
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS NEWS FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",BEIN SPORTS NEWS FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437405
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",BEIN SPORTS 3 FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437407
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 4 FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD", BEIN SPORTS 4 FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437408
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 5 FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD", BEIN SPORTS 5 FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437409
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",BEIN SPORTS 6 FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437410
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",BEIN SPORTS 7 FHD
-http://11121314.fr:8000/Matrix80/Matrix80/437411
-#EXTINF:-1 tvg-ID="" tvg-name="Bein SPORTS 8 FHD" tvg-logo="http://11121314.tn:8000/images/7c9df801238abe28cae2675fd3166a1a.png" group-title="BEIN SPORT FHD",Bein SPORTS 8 FHD
-http://11121314.fr:8000/Matrix80/Matrix80/463420
-#EXTINF:-1 tvg-ID="" tvg-name="Bein SPORTS SD1" tvg-logo="http://11121314.tn:8000/images/57c36c66789bd28bf2909a3ebcb278a5.png" group-title="BEIN SPORT SD",Bein SPORTS SD1
-http://11121314.fr:8000/Matrix80/Matrix80/329327
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD2" tvg-logo="http://11121314.tn:8000/images/8bd3cc7f7ad3e5564c1a1b607e35f6ad.png" group-title="BEIN SPORT SD",Bein sport SD2
-http://11121314.fr:8000/Matrix80/Matrix80/329328
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD 3" tvg-logo="http://11121314.tn:8000/images/cbdfb56e01f97d08b87efa264b871c14.png" group-title="BEIN SPORT SD",Bein Sport SD 3
-http://11121314.fr:8000/Matrix80/Matrix80/329330
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD4" tvg-logo="http://11121314.tn:8000/images/742c8c99ea005e589b8634c45762f3e2.png" group-title="BEIN SPORT SD",Bein Sport SD4
-http://11121314.fr:8000/Matrix80/Matrix80/329332
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD5" tvg-logo="http://11121314.tn:8000/images/a8dce45f94b85e5abcfcd82a3e211f4c.png" group-title="BEIN SPORT SD",Bein Sport SD5
-http://11121314.fr:8000/Matrix80/Matrix80/329333
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD6" tvg-logo="http://11121314.tn:8000/images/7c150c9befcba9f8509bd7eaae2f9de4.png" group-title="BEIN SPORT SD",Bein Sport SD6
-http://11121314.fr:8000/Matrix80/Matrix80/329334
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD7" tvg-logo="http://11121314.tn:8000/images/80160f2de4de2caaf7d460f1ed933a44.png" group-title="BEIN SPORT SD",Bein Sport SD7
-http://11121314.fr:8000/Matrix80/Matrix80/329335
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD8" tvg-logo="http://11121314.tn:8000/images/bc72de9a98ebe76e383401a30766526e.png" group-title="BEIN SPORT SD",Bein Sport SD8
-http://11121314.fr:8000/Matrix80/Matrix80/329336
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport 9 SD" tvg-logo="http://11121314.tn:8000/images/1b5e12f69d5af38ccefed82c601632d0.png" group-title="BEIN SPORT SD",Bein sport 9 SD
-http://11121314.fr:8000/Matrix80/Matrix80/330708
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SSC SPORT 1 SD" tvg-logo="http://11121314.tn:8000/images/27aac09307f5a0863d8e1dd8a4e3e76d.png" group-title="BEIN SPORT SD",AR: SSC SPORT 1 SD
 http://11121314.fr:8000/Matrix80/Matrix80/463601
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SSC SPORT 5 SD" tvg-logo="http://11121314.tn:8000/images/27aac09307f5a0863d8e1dd8a4e3e76d.png" group-title="BEIN SPORT SD",AR: SSC SPORT 5 SD
 http://11121314.fr:8000/Matrix80/Matrix80/463602
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports News sd" tvg-logo="http://11121314.tn:8000/images/788f6c344e9caebcd3198aea587f39d4.png" group-title="BEIN SPORT SD",beIN Sports News sd
-http://11121314.fr:8000/Matrix80/Matrix80/463603
 #EXTINF:-1 tvg-ID="" tvg-name="AR: STARZ PLAY SPORT 1 sd" tvg-logo="http://11121314.tn:8000/images/56e43bc5055f61366d3e97ccdee1bae0.png" group-title="BEIN SPORT SD",AR: STARZ PLAY SPORT 1 sd
 http://11121314.fr:8000/Matrix80/Matrix80/463649
 #EXTINF:-1 tvg-ID="" tvg-name="AR: STARZ PLAY SPORT 2 sd" tvg-logo="http://11121314.tn:8000/images/56e43bc5055f61366d3e97ccdee1bae0.png" group-title="BEIN SPORT SD",AR: STARZ PLAY SPORT 2 sd
@@ -550,26 +423,6 @@ http://11121314.fr:8000/Matrix80/Matrix80/189158
 http://11121314.fr:8000/Matrix80/Matrix80/189159
 #EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 12 HD" tvg-logo="http://11121314.tn:8000/images/e6de23b74d947a1871a3e9abf9410ac6.png" group-title="FRANCE SPORT ",RMC SPORT LIVE 12 HD
 http://11121314.fr:8000/Matrix80/Matrix80/189160
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 1 HD" tvg-logo="http://197.26.19.139:8000/images/646e7a6e96ebc0bcff4289fec3903736.png" group-title="FRANCE SPORT ",BEIN SPORT 1 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36207
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 2 HD" tvg-logo="http://197.26.19.139:8000/images/3d24d33fdf425b17a214546549490c21.png" group-title="FRANCE SPORT ",BEIN SPORT 2 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36208
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 3 HD" tvg-logo="http://197.26.19.139:8000/images/95fab07ef6f956d54de481b7492adc60.png" group-title="FRANCE SPORT ",BEIN SPORT 3 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36209
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 4 HD" tvg-logo="http://197.26.19.139:8000/images/1f2a14e6851b96fb7cac69b3e6e1c2f5.png" group-title="FRANCE SPORT ",BEIN SPORT MAX 4 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36210
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 5 HD" tvg-logo="http://197.26.19.139:8000/images/943e079e3ca129eabd130de8e1d6b30c.png" group-title="FRANCE SPORT ",BEIN SPORT MAX 5 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36211
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 6 HD" tvg-logo="http://197.26.19.139:8000/images/4987b323dedd6a4110f7ec8e9868ea38.png" group-title="FRANCE SPORT ",BEIN SPORT MAX 6 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36212
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 7 HD" tvg-logo="http://11121314.tn:8000/images/c734986873c78fac10c640fa5a28f658.png" group-title="FRANCE SPORT ",BEIN SPORT MAX 7 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36213
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 8 HD" tvg-logo="http://197.26.19.139:8000/images/2a6852001c7fcbe975d4b2dc60afc019.png" group-title="FRANCE SPORT ",BEIN SPORT MAX 8 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36214
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORT MAX 9 HD" tvg-logo="http://197.26.19.139:8000/images/633ca4e93c18acdff0966b9b919b35a2.png" group-title="FRANCE SPORT ", BEIN SPORT MAX 9 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36215
-#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORT MAX 10 HD" tvg-logo="http://11121314.tn:8000/images/e8671f4324707ea879f38801e171afae.png" group-title="FRANCE SPORT ", BEIN SPORT MAX 10 HD
-http://11121314.fr:8000/Matrix80/Matrix80/36216
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SPORT HD" tvg-logo="http://11121314.tn:8000/images/8d013d7fce24b998abe894c915d89b3a.png" group-title="FRANCE SPORT ",CANAL+ SPORT HD
 http://11121314.fr:8000/Matrix80/Matrix80/308030
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://11121314.tn:8000/images/cd3dc8b6cffb41e4163dcbd857ca87da.png" group-title="FRANCE SPORT ",EUROSPORT 1 HD
@@ -588,8 +441,6 @@ http://11121314.fr:8000/Matrix80/Matrix80/308052
 http://11121314.fr:8000/Matrix80/Matrix80/308053
 #EXTINF:-1 tvg-ID="" tvg-name="MULTISPORTS 6 HD" tvg-logo="http://197.26.19.139:8000/images/65b7f0c6f29e72c457b0c3dcbc3baf33.png" group-title="FRANCE SPORT ",MULTISPORTS 6 HD
 http://11121314.fr:8000/Matrix80/Matrix80/308054
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT FRENCH HD1" tvg-logo="http://11121314.tn:8000/images/f5120422fce898795c6cab993195b145.png" group-title="FRANCE SPORT ",BEIN SPORT FRENCH HD1
-http://11121314.fr:8000/Matrix80/Matrix80/329323
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://11121314.tn:8000/images/cd3dc8b6cffb41e4163dcbd857ca87da.png" group-title="FRANCE SPORT ",EUROSPORT 1 HD
 http://11121314.fr:8000/Matrix80/Matrix80/36217
 #EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT+ HD" tvg-logo="http://11121314.tn:8000/images/2c36fb5b4dc00027d195b40d8cec1bb1.png" group-title="FRANCE SPORT ",INFOSPORT+ HD
@@ -638,14 +489,6 @@ http://11121314.fr:8000/Matrix80/Matrix80/162835
 http://11121314.fr:8000/Matrix80/Matrix80/162829
 #EXTINF:-1 tvg-ID="" tvg-name="S-SPORT 1 HD+" tvg-logo="http://197.26.19.139:8000/images/d44819b7907550951c02b229acc52c34.png" group-title="TURKIYE SPORT",S-SPORT 1 HD+
 http://11121314.fr:8000/Matrix80/Matrix80/162828
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://197.26.19.139:8000/images/efd691fcfb139570442e93d2d3af3ce6.png" group-title="TURKIYE SPORT",beIN SPORTS 1 HD
-http://11121314.fr:8000/Matrix80/Matrix80/162818
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://197.26.19.139:8000/images/4207abdb0ac165b9d9b1e57fe922b29c.png" group-title="TURKIYE SPORT",beIN SPORTS 2 HD
-http://11121314.fr:8000/Matrix80/Matrix80/162819
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://197.26.19.139:8000/images/83f8e84576961656e1d98201f329866a.png" group-title="TURKIYE SPORT",beIN SPORTS 3 HD
-http://11121314.fr:8000/Matrix80/Matrix80/162820
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://197.26.19.139:8000/images/f5a08bc92ef1cdaf95d78f6de955a6d8.png" group-title="TURKIYE SPORT",beIN SPORTS 4 HD
-http://11121314.fr:8000/Matrix80/Matrix80/162821
 #EXTINF:-1 tvg-ID="" tvg-name="ES | EUROSPORT1 ES" tvg-logo="http://i4.yhk0.net/cha/eurosport-1-95x10.png" group-title="ESPANA SPORT",ES | EUROSPORT1 ES
 http://11121314.fr:8000/Matrix80/Matrix80/16058
 #EXTINF:-1 tvg-ID="" tvg-name="ES | EUROSPORT2" tvg-logo="http://11121314.tn:8000/images/e5305ecddf65b21c68c5668fc2459f20.png" group-title="ESPANA SPORT",ES | EUROSPORT2
@@ -700,11 +543,6 @@ http://11121314.fr:8000/Matrix80/Matrix80/428754
 http://11121314.fr:8000/Matrix80/Matrix80/428755
 #EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS PRIME TICKET HD" tvg-logo="" group-title="USA | Sport",USA: FOX SPORTS PRIME TICKET HD
 http://11121314.fr:8000/Matrix80/Matrix80/428757
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA - BEIN SPORTS US" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="USA",USA - BEIN SPORTS US
-http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58476
 #EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN" tvg-logo="http://attp.ddns.net:25461/images/1fe070a1d19f36ab2cbca808cec65f30.png" group-title="USA",USA - ESPN
 http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/58499
 #EXTINF:-1 tvg-ID="" tvg-name="USA - ESPN 2 HD" tvg-logo="http://attp.ddns.net:25461/images/1fe070a1d19f36ab2cbca808cec65f30.png" group-title="USA",USA - ESPN 2 HD
@@ -761,8 +599,6 @@ http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57485
 http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57487
 #EXTINF:-1 tvg-ID="" tvg-name="USA - FOX Sports Oklahoma" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Oklahoma
 http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/57496
-#EXTINF:-1 tvg-ID="" tvg-name="USA - Bein Sports English" tvg-logo="http://attp.ddns.net:25461/images/153bbcc2fe3ab5457c0cfb2958a5b988.png" group-title="USA",USA - Bein Sports English
-http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/65664
 #EXTINF:-1 tvg-ID="" tvg-name="USA - Ginxsports" tvg-logo="http://attp.ddns.net:25461/images/6b38439715838e98d15f8aff15e52b70.png" group-title="USA",USA - Ginxsports
 http://2hubs.ddns.net:25461/nomorecable/TnLtsBwRRw/65718
 #EXTINF:-1 tvg-ID="" tvg-name="USA - CBS Sports Network" tvg-logo="http://attp.ddns.net:25461/images/df2c0ea634ed79e81b63be5336ff925c.png" group-title="USA",USA - CBS Sports Network
