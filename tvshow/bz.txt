@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjppBAqOLlpUZOueX4Ptcucg96ZgSw5xyQlA&usqp=CAU",Live 3
+https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhX1jhO5KxjPPDH4hRFPXaZ-I0Q24qKBXWw&usqp=CAU", group-title="LIVE NOW", BZ LIVE EPL 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
+https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg", MRTV4
 http://183.89.246.119:8881/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg", Channel7
@@ -30,7 +39,7 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/f4PWvrW.jpg",MRTV Farmfrs
 http://183.89.246.119:8881/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-80x80-d7c.jpg", MRTV
-http://183.89.246.119:8881/play/a07l/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5aLFslk.jpg", MRTV NRC
 http://183.89.246.119:8881/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV News
@@ -39,20 +48,33 @@ http://183.89.246.119:8881/play/a07m/index.m3u8
 http://183.89.246.119:8881/play/a07q/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV Parliament
 http://183.89.246.119:8881/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.helmsmansupply.com/wp-content/uploads/2013/05/MSC.jpg", MSC Movie
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/s2fDBbmJ/Picsart-22-10-15-20-00-02-106.jpg", MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png", TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/PJxsMk9t/Picsart-22-11-20-15-39-09-245.png", iWAR
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/pr0z5Db0/Picsart-22-11-20-21-08-36-024.png", GOLDENLAND
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/YCjKFkg8/Picsart-22-11-20-20-53-27-756.png", MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/9QX8Rp3h/Picsart-22-11-20-15-27-28-154.png", MWDVARIETY
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/gksLJyq8/Picsart-22-11-20-15-45-25-489.png", CLIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/dQWqXWq7/Picsart-22-11-20-20-51-42-479.png", MWD HD SCHOOL
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/rFC73sGf/Picsart-22-10-20-21-39-56-999.jpg", MVTV MYANMAR
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueSports1
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png", TrueSports2
-
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png", TrueSports3
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png", TrueSports5
-
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png", TrueSports7
 https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png", Bein Sport1
@@ -473,4 +495,5 @@ http://www.zegomovie.com/Videos/Pele/index.m3u8
 http://www.zegomovie.com/Videos/HereandThere/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Ready or Knot2021
 http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
+
 
