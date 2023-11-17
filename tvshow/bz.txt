@@ -69,6 +69,17 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/rFC73sGf/Picsart-22-10-20-21-39-56-999.jpg", MVTV MYANMAR
 https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png", SonySport1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png", SonySport2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png", SonySport3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png", SonySport4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png", SonySport5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueSports1
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png", TrueSports2
@@ -89,16 +100,6 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/20b89491-9c17-4a31-a050-193a8ba939bd.png", PPTV HD36
 https://ctrl.laotv.la/live/PPTVHD/index.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png", SonySport1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png", SonySport2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png", SonySport3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png", SonySport4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png", SonySport5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://telecomdrive.com/wp-content/uploads/2016/07/reliance-jio-logo.jpg", Jio Laliga
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://telecomdrive.com/wp-content/uploads/2016/07/reliance-jio-logo.jpg", jio SerieA
@@ -228,18 +229,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" group-title="World New" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
-http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport2
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS",CHAMPION 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
@@ -264,6 +254,20 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59b2f57473739523e5627132d9e04603:5751379870ddad5bba06f1d8cbdd2984
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
+http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport2
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
