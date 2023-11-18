@@ -269,24 +269,6 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" group-title="World New" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
-http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport2
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png",Sony Ten 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png",Sony Ten 2
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="SPRTS" tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png",Sony Ten 3
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS",CHAMPION 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -316,6 +298,27 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
+http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport2
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png",Sony Ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png",Sony Ten 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 group-title="SPRTS" tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png",Sony Ten 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
