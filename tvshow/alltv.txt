@@ -1,1 +1,256 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NFL 02 | COWBOYS(6-3) @ PANTHERS(1-8) | 11/19-01:00PM | FOX" tvg-logo="" group-title="Fox",NFL 02 | COWBOYS(6-3) @ PANTHERS(1-8) | 11/19-01:00PM | FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/36042
+#EXTINF:-1 tvg-ID="" tvg-name="NFL 04 | BEARS(3-7) @ LIONS(7-2) | 11/19-01:00PM | FOX" tvg-logo="" group-title="Fox",NFL 04 | BEARS(3-7) @ LIONS(7-2) | 11/19-01:00PM | FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/36044
+#EXTINF:-1 tvg-ID="" tvg-name="NFL 05 | CHARGERS(4-5) @ PACKERS(3-6) | 11/19-01:00PM | FOX" tvg-logo="" group-title="Fox",NFL 05 | CHARGERS(4-5) @ PACKERS(3-6) | 11/19-01:00PM | FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/41673
+#EXTINF:-1 tvg-ID="" tvg-name="NFL 09 | GIANTS(2-8) @ COMMANDERS(4-6) | 11/19-01:00PM | FOX" tvg-logo="" group-title="Fox",NFL 09 | GIANTS(2-8) @ COMMANDERS(4-6) | 11/19-01:00PM | FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/41675
+#EXTINF:-1 tvg-ID="" tvg-name="NFL 10 | BUCCANEERS(4-5) @ 49ERS(6-3) | 11/19-04:05PM | FOX" tvg-logo="" group-title="Fox",NFL 10 | BUCCANEERS(4-5) @ 49ERS(6-3) | 11/19-04:05PM | FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/41676
+#EXTINF:-1 tvg-ID="" tvg-name="NFL |  ESPN" tvg-logo="" group-title="Espn",NFL |  ESPN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/129605
+#EXTINF:-1 tvg-ID="" tvg-name="NFL |  ESPN 2" tvg-logo="" group-title="Espn",NFL |  ESPN 2
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/129606
+#EXTINF:-1 tvg-ID="" tvg-name="NFL |  FOX" tvg-logo="" group-title="Fox",NFL |  FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/129607
+#EXTINF:-1 tvg-ID="" tvg-name="NFL (SD) | ESPN" tvg-logo="" group-title="Espn",NFL (SD) | ESPN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/130862
+#EXTINF:-1 tvg-ID="" tvg-name="NFL (SD) | ESPN 2" tvg-logo="" group-title="Espn",NFL (SD) | ESPN 2
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/130863
+#EXTINF:-1 tvg-ID="" tvg-name="NFL (SD) | FOX" tvg-logo="" group-title="Fox",NFL (SD) | FOX
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/130864
+#EXTINF:-1 tvg-ID="" tvg-name="11 REPLAY | UFC UFC 295 PROCHÁZKA VS PEREIRA PRELIMS 23.11.11" tvg-logo="" group-title="Ufc",11 REPLAY | UFC UFC 295 PROCHÁZKA VS PEREIRA PRELIMS 23.11.11
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/118952
+#EXTINF:-1 tvg-ID="" tvg-name="12 REPLAY | UFC UFC 295 PROCHÁZKA VS PEREIRA MAINCARD 23.11.11" tvg-logo="" group-title="Ufc",12 REPLAY | UFC UFC 295 PROCHÁZKA VS PEREIRA MAINCARD 23.11.11
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/118953
+#EXTINF:-1 tvg-ID="" tvg-name="PPV  UFC  FIGHT PASS" tvg-logo="" group-title="Ufc",PPV  UFC  FIGHT PASS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/118961
+#EXTINF:-1 tvg-ID="" tvg-name="PPV  UFC  PRELIMS" tvg-logo="" group-title="Ufc",PPV  UFC  PRELIMS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/118962
+#EXTINF:-1 tvg-ID="" tvg-name="PPV  UFC EARLY PRELIMS" tvg-logo="" group-title="Ufc",PPV  UFC EARLY PRELIMS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/118963
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 07 | UFC 295 | PROCHÁZKA VS. PEREIRA PRELIMS AND MAINS 11PM GMT" tvg-logo="" group-title="Ufc",PPV 07 | UFC 295 | PROCHÁZKA VS. PEREIRA PRELIMS AND MAINS 11PM GMT
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/125785
+#EXTINF:-1 tvg-ID="" tvg-name="PPV: 1 UFC UFC 295" tvg-logo="" group-title="Ufc",PPV: 1 UFC UFC 295
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/116964
+#EXTINF:-1 tvg-ID="" tvg-name="PPV: 2 UFC  295" tvg-logo="" group-title="Ufc",PPV: 2 UFC  295
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/116965
+#EXTINF:-1 tvg-ID="" tvg-name="PPV: 3 UFC 295" tvg-logo="" group-title="Ufc",PPV: 3 UFC 295
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/116966
+#EXTINF:-1 tvg-ID="" tvg-name="PPV: 4 UFC" tvg-logo="" group-title="Ufc",PPV: 4 UFC
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/116967
+#EXTINF:-1 tvg-ID="" tvg-name="PPV: BT SPORTS 1 & 2 PPV EVENTS" tvg-logo="" group-title="Sport",PPV: BT SPORTS 1 & 2 PPV EVENTS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/116982
+#EXTINF:-1 tvg-ID="" tvg-name="DIRTVISION 05 | 11/20 9PM WEEDSPORT SPEEDWAY" tvg-logo="" group-title="Sport",DIRTVISION 05 | 11/20 9PM WEEDSPORT SPEEDWAY
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/126483
+#EXTINF:-1 tvg-ID="" tvg-name="US: AT&T SPORTSNET HOUSTON (Down)" tvg-logo="" group-title="Sport",US: AT&T SPORTSNET HOUSTON (Down)
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1333
+#EXTINF:-1 tvg-ID="" tvg-name="US: AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="Sport",US: AT&T SPORTSNET PITTSBURGH
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1334
+#EXTINF:-1 tvg-ID="" tvg-name="US: AT&T SPORTSNET ROCKY MOUNTAIN" tvg-logo="" group-title="Sport",US: AT&T SPORTSNET ROCKY MOUNTAIN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1335
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS  CAROLINA" tvg-logo="" group-title="Sport",US: BALLY SPORTS  CAROLINA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6598
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS ARIZONA" tvg-logo="" group-title="Sport",US: BALLY SPORTS ARIZONA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6599
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS DETROIT" tvg-logo="" group-title="Sport",US: BALLY SPORTS DETROIT
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6600
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS FLORIDA" tvg-logo="" group-title="Sport",US: BALLY SPORTS FLORIDA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6601
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS GREAT LAKES" tvg-logo="" group-title="Sport",US: BALLY SPORTS GREAT LAKES
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6591
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS INDIANA" tvg-logo="" group-title="Sport",US: BALLY SPORTS INDIANA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6592
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS KANSAS CITY" tvg-logo="" group-title="Sport",US: BALLY SPORTS KANSAS CITY
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6593
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS MIDWEST" tvg-logo="" group-title="Sport",US: BALLY SPORTS MIDWEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6603
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS NEW ORLEANS" tvg-logo="" group-title="Sport",US: BALLY SPORTS NEW ORLEANS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6594
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS NORTH" tvg-logo="" group-title="Sport",US: BALLY SPORTS NORTH
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6604
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS OKLAHOMA" tvg-logo="" group-title="Sport",US: BALLY SPORTS OKLAHOMA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6595
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SAN DIEGO" tvg-logo="" group-title="Sport",US: BALLY SPORTS SAN DIEGO
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6605
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SOCAL" tvg-logo="" group-title="Sport",US: BALLY SPORTS SOCAL
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6596
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SOUTH" tvg-logo="" group-title="Sport",US: BALLY SPORTS SOUTH
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6606
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SOUTHEAST" tvg-logo="" group-title="Sport",US: BALLY SPORTS SOUTHEAST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6607
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SOUTHWEST" tvg-logo="" group-title="Sport",US: BALLY SPORTS SOUTHWEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6608
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SOUTHWEST PLUS" tvg-logo="" group-title="Sport",US: BALLY SPORTS SOUTHWEST PLUS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6597
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS SUN" tvg-logo="" group-title="Sport",US: BALLY SPORTS SUN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6609
+#EXTINF:-1 tvg-ID="" tvg-name="US: BALLY SPORTS WEST" tvg-logo="" group-title="Sport",US: BALLY SPORTS WEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/6610
+#EXTINF:-1 tvg-ID="" tvg-name="US: CBS SPORTS NETWORK" tvg-logo="" group-title="Sport",US: CBS SPORTS NETWORK
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1338
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN" tvg-logo="" group-title="Espn",US: ESPN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1339
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN (4K) (ONLY WHEN EVENTS ARE IN 4K)" tvg-logo="" group-title="Espn",US: ESPN (4K) (ONLY WHEN EVENTS ARE IN 4K)
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/36035
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN ACC NETWORK" tvg-logo="" group-title="Espn",US: ESPN ACC NETWORK
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1340
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN LONGHORN NETWORK" tvg-logo="" group-title="Espn",US: ESPN LONGHORN NETWORK
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1341
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN SEC NETWORK" tvg-logo="" group-title="Espn",US: ESPN SEC NETWORK
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1342
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN2" tvg-logo="" group-title="Espn",US: ESPN2
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1343
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPNEWS" tvg-logo="" group-title="Espn",US: ESPNEWS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1344
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPNU" tvg-logo="" group-title="Espn",US: ESPNU
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1345
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX (EAST)" tvg-logo="" group-title="Fox",US: FOX (EAST)
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/74
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX (WEST)" tvg-logo="" group-title="Fox",US: FOX (WEST)
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/75
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX BUSINESS" tvg-logo="" group-title="Fox",US: FOX BUSINESS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/76
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX NEWS" tvg-logo="" group-title="Fox",US: FOX NEWS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/77
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SOCCER PLUS" tvg-logo="" group-title="Fox",US: FOX SOCCER PLUS
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1348
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS  CAROLINA" tvg-logo="" group-title="Sport",US: FOX SPORTS  CAROLINA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1356
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS 1" tvg-logo="" group-title="Sport",US: FOX SPORTS 1
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1357
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS 2" tvg-logo="" group-title="Sport",US: FOX SPORTS 2
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1358
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS ARIZONA" tvg-logo="" group-title="Sport",US: FOX SPORTS ARIZONA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1359
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS DETROIT" tvg-logo="" group-title="Sport",US: FOX SPORTS DETROIT
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1360
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS FLORIDA" tvg-logo="" group-title="Sport",US: FOX SPORTS FLORIDA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1361
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS MIDWEST" tvg-logo="" group-title="Sport",US: FOX SPORTS MIDWEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1362
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS NORTH" tvg-logo="" group-title="Sport",US: FOX SPORTS NORTH
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1363
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS PRIME TICKET" tvg-logo="" group-title="Sport",US: FOX SPORTS PRIME TICKET
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1364
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS RACING" tvg-logo="" group-title="Sport",US: FOX SPORTS RACING
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1365
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS SAN DIEGO" tvg-logo="" group-title="Sport",US: FOX SPORTS SAN DIEGO
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1366
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS SOUTH" tvg-logo="" group-title="Sport",US: FOX SPORTS SOUTH
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1367
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS SOUTHEAST" tvg-logo="" group-title="Sport",US: FOX SPORTS SOUTHEAST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1368
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS SOUTHWEST" tvg-logo="" group-title="Sport",US: FOX SPORTS SOUTHWEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1369
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS SUN" tvg-logo="" group-title="Sport",US: FOX SPORTS SUN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1370
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS WEST" tvg-logo="" group-title="Sport",US: FOX SPORTS WEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1371
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS WISCONSIN" tvg-logo="" group-title="Sport",US: FOX SPORTS WISCONSIN
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1372
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTSTIME OHIO" tvg-logo="" group-title="Sport",US: FOX SPORTSTIME OHIO
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1373
+#EXTINF:-1 tvg-ID="" tvg-name="US: MARQUEE SPORTS NETWORK" tvg-logo="" group-title="Sport",US: MARQUEE SPORTS NETWORK
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1376
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPECTRUM SPORTSNET" tvg-logo="" group-title="Sport",US: SPECTRUM SPORTSNET
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1404
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTS GRID" tvg-logo="" group-title="Sport",US: SPORTS GRID
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1405
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSMAN CHANNEL" tvg-logo="" group-title="Sport",US: SPORTSMAN CHANNEL
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1406
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET 360" tvg-logo="" group-title="Sport",US: SPORTSNET 360
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1412
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET EAST" tvg-logo="" group-title="Sport",US: SPORTSNET EAST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1409
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET LA" tvg-logo="" group-title="Sport",US: SPORTSNET LA
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1407
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET ONE" tvg-logo="" group-title="Sport",US: SPORTSNET ONE
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1411
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET ONTARIO" tvg-logo="" group-title="Sport",US: SPORTSNET ONTARIO
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1408
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET WEST" tvg-logo="" group-title="Sport",US: SPORTSNET WEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1413
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET WEST" tvg-logo="" group-title="Sport",US: SPORTSNET WEST
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1410
+#EXTINF:-1 tvg-ID="" tvg-name="US: SuperSport 1" tvg-logo="" group-title="Sport",US: SuperSport 1
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1415
+#EXTINF:-1 tvg-ID="" tvg-name="US: SuperSport 2" tvg-logo="" group-title="Sport",US: SuperSport 2
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1416
+#EXTINF:-1 tvg-ID="" tvg-name="US: SuperSport 3" tvg-logo="" group-title="Sport",US: SuperSport 3
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1417
+#EXTINF:-1 tvg-ID="" tvg-name="US: SuperSport 4" tvg-logo="" group-title="Sport",US: SuperSport 4
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1418
+#EXTINF:-1 tvg-ID="" tvg-name="US: SuperSport 5" tvg-logo="" group-title="Sport",US: SuperSport 5
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1419
+#EXTINF:-1 tvg-ID="" tvg-name="US: UFC TV (FIGHT PASS)" tvg-logo="" group-title="Ufc",US: UFC TV (FIGHT PASS)
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1434
+#EXTINF:-1 tvg-ID="" tvg-name="FLOW Sports" tvg-logo="" group-title="Sport",FLOW Sports
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2335
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Fox" tvg-logo="" group-title="Fox",UK: Fox
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2150
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Select" tvg-logo="" group-title="Sky",UK: Sky Cinema Select
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7210
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Sci-Fi & Horror" tvg-logo="" group-title="Sky",UK: Sky Cinema Sci-Fi & Horror
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7209
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="Sky",UK: Sky Cinema Premiere
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7208
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Hits" tvg-logo="" group-title="Sky",UK: Sky Cinema Hits
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7207
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Greats" tvg-logo="" group-title="Sky",UK: Sky Cinema Greats
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7206
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Family" tvg-logo="" group-title="Sky",UK: Sky Cinema Family
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7205
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Drama & Romance" tvg-logo="" group-title="Sky",UK: Sky Cinema Drama & Romance
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7204
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Crime & Thriller" tvg-logo="" group-title="Sky",UK: Sky Cinema Crime & Thriller
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7202
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="" group-title="Sky",UK: Sky Cinema Comedy
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/7201
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="Sport",UK: Sky Sports Racing
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2285
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="Sport",UK: Sky Sports Racing
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2284
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="Sport",UK: Sky Sports Premier League HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2283
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="Sport",UK: Sky Sports News HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2280
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="" group-title="Sport",UK: Sky Sports Mix HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2279
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="" group-title="Sport",UK: Sky Sports Main Event HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2277
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="" group-title="Sport",UK: Sky Sports Golf HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2276
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="Sport",UK: Sky Sports Football HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2275
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Football" tvg-logo="" group-title="Sport",UK: Sky Sports Football
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2274
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="" group-title="Sport",UK: Sky Sports F1 FHD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2272
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="Sport",UK: Sky Sports Cricket FHD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2270
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="Sport",UK: Sky Sports Arena HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2269
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Arena" tvg-logo="" group-title="Sport",UK: Sky Sports Arena
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2268
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="Sport",UK: Sky Sports Action HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2266
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Premier Sports HD" tvg-logo="" group-title="Sport",UK: Premier Sports HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2261
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Premier Sports 2 HD" tvg-logo="" group-title="Sport",UK: Premier Sports 2 HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2260
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FreeSports HD" tvg-logo="" group-title="Sport",UK: FreeSports HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2259
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EuroSport 2 HD" tvg-logo="" group-title="Sport",UK: EuroSport 2 HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2258
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eurosport 1" tvg-logo="" group-title="Sport",UK: Eurosport 1
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2255
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="Sport",UK: BT Sport 3 HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2254
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="Sport",UK: BT Sport 2 HD
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2252
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="Sport",UK: BT SPORT 1
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/2250
 
