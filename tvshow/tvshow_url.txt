@@ -1,6 +1,6 @@
 (myplayer)All Movies,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/vod.txt
 (myplayer)Ba Zaw MyanmarTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/bz.txt
-(myplayer)BroSnowLake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/BroSNL.txt
+(myplayer)BroSnowLake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
 (myplayer)TV Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/alltv.txt
