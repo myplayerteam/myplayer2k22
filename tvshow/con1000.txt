@@ -254,4 +254,2281 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28262
 
 
 
-
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Adrenalina Sports" tvg-logo="" group-title="Sport",DEP | Adrenalina Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/71832
+#EXTINF:-1 tvg-ID="" tvg-name="DEP  | Band Sports BRA" tvg-logo="" group-title="Sport",DEP  | Band Sports BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/48534
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Bein Sports Ñ" tvg-logo="" group-title="Sport",DEP | Bein Sports Ñ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36401
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Bein Sports Ñ SD" tvg-logo="" group-title="Sport",DEP | Bein Sports Ñ SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228360
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Claro Sports HD" tvg-logo="" group-title="Sport",DEP | Claro Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/164262
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports 1 ARG HD ►℗" tvg-logo="" group-title="Sport",DEP | DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/158511
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports FHD ⭐️" tvg-logo="" group-title="Sport",DEP | DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/158506
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports 2 HD COL" tvg-logo="" group-title="Sport",DEP | DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/257326
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports 2 SD ⭐️" tvg-logo="" group-title="Sport",DEP | DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/158513
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Extra  MX" tvg-logo="" group-title="Espn",DEP | ESPN Extra  MX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/21229
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1  PE" tvg-logo="" group-title="Espn",DEP | ESPN 1  PE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/220727
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1  SD ►℗" tvg-logo="" group-title="Espn",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219173
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 PE HD ►℗" tvg-logo="" group-title="Espn",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219172
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 HD" tvg-logo="" group-title="Espn",DEP | ESPN 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219171
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="" group-title="Espn",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/9380
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 MX SD" tvg-logo="" group-title="Espn",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185154
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2  PERU HD ►℗" tvg-logo="" group-title="Espn",DEP | ESPN 2  PERU HD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186705
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 AR" tvg-logo="" group-title="Espn",DEP | ESPN 2 AR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185666
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 MX" tvg-logo="" group-title="Espn",DEP | ESPN 2 MX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36393
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 MX HD" tvg-logo="" group-title="Espn",DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36391
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3  AR HD" tvg-logo="" group-title="Espn",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/21220
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3  MX" tvg-logo="" group-title="Espn",DEP | ESPN 3  MX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/9530
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3 AR" tvg-logo="" group-title="Espn",DEP | ESPN 3 AR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19459
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3 MX HD  ►℗" tvg-logo="" group-title="Espn",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186774
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Deportes SD" tvg-logo="" group-title="Espn",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54094
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Extra BRA" tvg-logo="" group-title="Espn",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/168997
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Deportes" tvg-logo="" group-title="Fox",DEP | FOX Deportes
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36396
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 ARG HD ►℗" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19652
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 HD BRA" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/48540
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 MEX HD" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19495
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 3 ARG HD ►℗" tvg-logo="" group-title="Sport",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19496
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 3 HD MEX" tvg-logo="" group-title="Sport",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/9538
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Premium HD AR" tvg-logo="" group-title="Espn",DEP | ESPN Premium HD AR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215252
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports Premium op2" tvg-logo="" group-title="Sport",DEP | FOX Sports Premium op2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/21298
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere 1 HD BRA" tvg-logo="" group-title="Premier",DEP | Premiere 1 HD BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56720
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere 3  BRA" tvg-logo="" group-title="Premier",DEP | Premiere 3  BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/49111
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere 5 HD BRA" tvg-logo="" group-title="Premier",DEP | Premiere 5 HD BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56716
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere 6 BRA" tvg-logo="" group-title="Premier",DEP | Premiere 6 BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56717
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere 7 BRA" tvg-logo="" group-title="Premier",DEP | Premiere 7 BRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56718
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | SKY Sports 16 HD" tvg-logo="" group-title="Sport",DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/149063
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | SKY Sports 24 HD" tvg-logo="" group-title="Sport",DEP | SKY Sports 24 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/149064
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TNT Sports AR" tvg-logo="" group-title="Sport",DEP | TNT Sports AR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/211363
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TNT Sports ARG" tvg-logo="" group-title="Sport",DEP | TNT Sports ARG
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36424
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TNT Sports 3 HD" tvg-logo="" group-title="Sport",DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19638
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TYC Sports Internacional HD" tvg-logo="" group-title="Sport",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/188939
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 1 HD COL" tvg-logo="" group-title="Sport",DEP | FOX Sports 1 HD COL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/272266
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Premium FHD" tvg-logo="" group-title="Espn",DEP | ESPN Premium FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/276163
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="Sport",SuperSport Tennis
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/469491
+#EXTINF:-1 tvg-ID="" tvg-name="BR | ALL Sports" tvg-logo="" group-title="Sport",BR | ALL Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236472
+#EXTINF:-1 tvg-ID="" tvg-name="BR | Band Sports HD" tvg-logo="" group-title="Sport",BR | Band Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236482
+#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN 2 HD" tvg-logo="" group-title="Espn",BR | ESPN 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236464
+#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN Brasil HD" tvg-logo="" group-title="Espn",BR | ESPN Brasil HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236456
+#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN EXtra HD" tvg-logo="" group-title="Espn",BR | ESPN EXtra HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236466
+#EXTINF:-1 tvg-ID="" tvg-name="BR | FOX Life HD" tvg-logo="" group-title="Fox",BR | FOX Life HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236499
+#EXTINF:-1 tvg-ID="" tvg-name="BR | FOX Premium 2 HD" tvg-logo="" group-title="Fox",BR | FOX Premium 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236488
+#EXTINF:-1 tvg-ID="" tvg-name="BR | FOX Sports 1" tvg-logo="" group-title="Sport",BR | FOX Sports 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236455
+#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 2 HD" tvg-logo="" group-title="Premier",BR | Premiere 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236469
+#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere Clubes HD" tvg-logo="" group-title="Premier",BR | Premiere Clubes HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236510
+#EXTINF:-1 tvg-ID="" tvg-name="BR | SporTV 3" tvg-logo="" group-title="Sport",BR | SporTV 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236454
+#EXTINF:-1 tvg-ID="" tvg-name="BR | SporTV 2 HD" tvg-logo="" group-title="Sport",BR | SporTV 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236468
+#EXTINF:-1 tvg-ID="" tvg-name="BR | SporTV 3 HD" tvg-logo="" group-title="Sport",BR | SporTV 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236459
+#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 1 HD" tvg-logo="" group-title="Premier",BR | Premiere 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236524
+#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 3 HD" tvg-logo="" group-title="Premier",BR | Premiere 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236568
+#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 4 HD" tvg-logo="" group-title="Premier",BR | Premiere 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236569
+#EXTINF:-1 tvg-ID="" tvg-name="BR | SporTV 1 HD" tvg-logo="" group-title="Sport",BR | SporTV 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236460
+#EXTINF:-1 tvg-ID="" tvg-name="BR | SporTV 2 FHD" tvg-logo="" group-title="Sport",BR | SporTV 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236461
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 501" tvg-logo="" group-title="Sport",FOX SPORTS 501
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/181214
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 502" tvg-logo="" group-title="Sport",FOX SPORTS 502
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/181215
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 503" tvg-logo="" group-title="Sport",FOX SPORTS 503
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/181216
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 507" tvg-logo="" group-title="Sport",FOX SPORTS 507
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/181218
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 506" tvg-logo="" group-title="Sport",Fox Sports 506
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209693
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 505" tvg-logo="" group-title="Sport",Fox Sports 505
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209694
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 504" tvg-logo="" group-title="Sport",Fox Sports 504
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209695
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="Espn",ESPN 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209699
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1" tvg-logo="" group-title="Espn",ESPN 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209700
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS NEWS" tvg-logo="" group-title="Sport",FOX SPORTS NEWS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209703
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga (ESPN+)" tvg-logo="" group-title="Espn",La Liga (ESPN+)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/440264
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga (SKY Sports)" tvg-logo="" group-title="Sport",La Liga (SKY Sports)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/440265
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sports + HD op2" tvg-logo="" group-title="Sport",CO | WIN Sports + HD op2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479415
+#EXTINF:-1 tvg-ID="" tvg-name="WIN - SPORTS  +  VIP 1" tvg-logo="" group-title="Sport",WIN - SPORTS  +  VIP 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485513
+#EXTINF:-1 tvg-ID="" tvg-name="WIN  SPORTS + VIP 2" tvg-logo="" group-title="Sport",WIN  SPORTS + VIP 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485514
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS + VIP 3" tvg-logo="" group-title="Sport",WIN SPORTS + VIP 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485515
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS+" tvg-logo="" group-title="Sport",WIN SPORTS+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485517
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS op2" tvg-logo="" group-title="Sport",WIN SPORTS op2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485522
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS" tvg-logo="" group-title="Sport",WIN SPORTS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485523
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 1 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506160
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 2 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506161
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 3 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506162
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 4 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506163
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 5 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506164
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Bundesliga 6 HD" tvg-logo="" group-title="Sky",DE: SKY Bundesliga 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506165
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 7 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506166
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Bundesliga 8 HD" tvg-logo="" group-title="Sky",DE: SKY Bundesliga 8 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506167
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY Sport Bundesliga 9 HD" tvg-logo="" group-title="Sport",DE: SKY Sport Bundesliga 9 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/506168
+#EXTINF:-1 tvg-ID="" tvg-name="Premiership | 01:40 PM CST | Bath vs. Bristol Bears" tvg-logo="" group-title="Premier",Premiership | 01:40 PM CST | Bath vs. Bristol Bears
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/516633
+#EXTINF:-1 tvg-ID="" tvg-name="001 LAT: Liga MX Femenil / MONTERREY vs TIGRES - 7:00PM - Fox Sports 2 HD" tvg-logo="" group-title="Sport",001 LAT: Liga MX Femenil / MONTERREY vs TIGRES - 7:00PM - Fox Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/516653
+#EXTINF:-1 tvg-ID="" tvg-name="008 USA: NBA 06 HD / KINGS @ SPURS 6:30PM - SUNS @ JAZZ 9:00PM - ESPN HD" tvg-logo="" group-title="Espn",008 USA: NBA 06 HD / KINGS @ SPURS 6:30PM - SUNS @ JAZZ 9:00PM - ESPN HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/516667
+#EXTINF:-1 tvg-ID="" tvg-name="008 LAT: ESPN HD" tvg-logo="" group-title="Espn",008 LAT: ESPN HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/516668
+#EXTINF:-1 tvg-ID="" tvg-name="AR Oman Sport" tvg-logo="" group-title="Sport",AR Oman Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58324
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BeIN Sports 1-HD" tvg-logo="" group-title="Sport",VIP BeIN Sports 1-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186761
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BeIN Sports 3-HD" tvg-logo="" group-title="Sport",VIP BeIN Sports 3-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186762
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BeIN Sports 2-HD" tvg-logo="" group-title="Sport",VIP BeIN Sports 2-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186763
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BeIN Sports 2" tvg-logo="" group-title="Sport",VIP BeIN Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186767
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BeIN Sports 5-HD" tvg-logo="" group-title="Sport",VIP BeIN Sports 5-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186769
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BeIN Sports Extra 1" tvg-logo="" group-title="Sport",VIP BeIN Sports Extra 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186772
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports News" tvg-logo="" group-title="Sport",AR: BeIN Sports News
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214653
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 1 Premium FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 1 Premium FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214654
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 3 Premium FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 3 Premium FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214655
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214656
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 2 FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214657
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 3 FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 3 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214658
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214659
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sports 10 FHD" tvg-logo="" group-title="Sport",AR: Bein Sports 10 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214660
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="Sport",FR: BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214661
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2 FHD" tvg-logo="" group-title="Sport",FR: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214662
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 8 FHD" tvg-logo="" group-title="Sport",FR: BEIN SPORTS 8 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214663
+#EXTINF:-1 tvg-ID="" tvg-name="EN: BEIN SPORTS 2 FHD" tvg-logo="" group-title="Sport",EN: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214664
+#EXTINF:-1 tvg-ID="" tvg-name="EN: BEIN SPORTS 5 FHD" tvg-logo="" group-title="Sport",EN: BEIN SPORTS 5 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214665
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS Premium 2 HD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS Premium 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214666
+#EXTINF:-1 tvg-ID="" tvg-name="EN: Bein Sport 12 FHD" tvg-logo="" group-title="Sport",EN: Bein Sport 12 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214667
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport Max 6 FHD" tvg-logo="" group-title="Sport",BeIN Sport Max 6 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214672
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport Max 5 FHD" tvg-logo="" group-title="Sport",BeIN Sport Max 5 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214673
+#EXTINF:-1 tvg-ID="" tvg-name="BS: beIN SPORTS 5 4K" tvg-logo="" group-title="Sport",BS: beIN SPORTS 5 4K
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214674
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 4 FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 4 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214675
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 7 FHD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS 7 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214676
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 9 FHD" tvg-logo="" group-title="Sport",FR: BEIN SPORTS 9 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214677
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 PREMIUM 4K Pure" tvg-logo="" group-title="Sport",beIN SPORTS 2 PREMIUM 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214679
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 PREMIUM 4K PURE" tvg-logo="" group-title="Sport",beIN SPORTS 3 PREMIUM 4K PURE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214680
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 2 4K Pure" tvg-logo="" group-title="Sport",beIN Sports 2 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214681
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 3 4K Pure" tvg-logo="" group-title="Sport",beIN Sports 3 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214682
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 4 4K Pure" tvg-logo="" group-title="Sport",beIN Sports 4 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214683
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 5 4K Pure" tvg-logo="" group-title="Sport",beIN Sports 5 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214684
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 6 4K Pure" tvg-logo="" group-title="Sport",beIN Sports 6 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214685
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 7 4K Pure" tvg-logo="" group-title="Sport",beIN Sports 7 4K Pure
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214686
+#EXTINF:-1 tvg-ID="" tvg-name="EN: Bein Sports 1 FHD" tvg-logo="" group-title="Sport",EN: Bein Sports 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214687
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS XTRA 1 FHD" tvg-logo="" group-title="Sport",beIN SPORTS XTRA 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214688
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS XTRA 2 FHD" tvg-logo="" group-title="Sport",beIN SPORTS XTRA 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214689
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports Max 1 HD" tvg-logo="" group-title="Sport",AR: beIN Sports Max 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214690
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports Max 2 HD" tvg-logo="" group-title="Sport",AR: beIN Sports Max 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214691
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports Max 3 HD" tvg-logo="" group-title="Sport",AR: beIN Sports Max 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214692
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports Max 4 HD" tvg-logo="" group-title="Sport",AR: beIN Sports Max 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214693
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport max 5 HD" tvg-logo="" group-title="Sport",AR: Bein sport max 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214694
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport max  6 HD" tvg-logo="" group-title="Sport",AR: Bein sport max  6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214695
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 1 HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214696
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 2-HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 2-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214697
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 3-HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 3-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214698
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 4-HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 4-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214699
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 5-HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 5-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214700
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 6-HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 6-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214701
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 9-HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 9-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214702
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VIP BeIN Sports 10 HD" tvg-logo="" group-title="Sport",AR: VIP BeIN Sports 10 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214703
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 11 HD" tvg-logo="" group-title="Sport",AR: Bein Sport 11 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214704
+#EXTINF:-1 tvg-ID="" tvg-name="BS: VIP BeIN Sports 12-HD" tvg-logo="" group-title="Sport",BS: VIP BeIN Sports 12-HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214705
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 1 SD" tvg-logo="" group-title="Sport",AR: Bein Sport 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214706
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 3 SD" tvg-logo="" group-title="Sport",AR: Bein Sport 3 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214707
+#EXTINF:-1 tvg-ID="" tvg-name="BS:  Bein Sport 4 SD" tvg-logo="" group-title="Sport",BS:  Bein Sport 4 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214708
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 5 SD" tvg-logo="" group-title="Sport",AR: Bein Sport 5 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214709
+#EXTINF:-1 tvg-ID="" tvg-name="BS:  Bein Sport 7 SD" tvg-logo="" group-title="Sport",BS:  Bein Sport 7 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214710
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 8 SD" tvg-logo="" group-title="Sport",AR: Bein Sport 8 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214711
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sports 9 SD" tvg-logo="" group-title="Sport",AR: Bein Sports 9 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214712
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sports 10 SD" tvg-logo="" group-title="Sport",AR: Bein Sports 10 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214713
+#EXTINF:-1 tvg-ID="" tvg-name="BS:  Bein Sport News HD" tvg-logo="" group-title="Sport",BS:  Bein Sport News HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214714
+#EXTINF:-1 tvg-ID="" tvg-name="||AR.BEIN|| BEIN SPORTS 11 HD" tvg-logo="" group-title="Sport",||AR.BEIN|| BEIN SPORTS 11 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214715
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN FOX REWAYAT" tvg-logo="" group-title="Fox",AR: BEIN FOX REWAYAT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214716
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS NEWS HD" tvg-logo="" group-title="Sport",AR: BEIN SPORTS NEWS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214720
+#EXTINF:-1 tvg-ID="" tvg-name="BS:  Bein Sport 6 SD" tvg-logo="" group-title="Sport",BS:  Bein Sport 6 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214721
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 2 SD" tvg-logo="" group-title="Sport",AR: Bein Sport 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214722
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 7 HD" tvg-logo="" group-title="Sport",AR: BeIN Sports 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214723
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="" group-title="Sport",beIN SPORTS XTRA 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214724
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="" group-title="Sport",beIN SPORTS XTRA 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214725
+#EXTINF:-1 tvg-ID="" tvg-name="AT:  BeIN SPORTS 2" tvg-logo="" group-title="Sport",AT:  BeIN SPORTS 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214726
+#EXTINF:-1 tvg-ID="" tvg-name="AT:  beIN SPORTS 3" tvg-logo="" group-title="Sport",AT:  beIN SPORTS 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214727
+#EXTINF:-1 tvg-ID="" tvg-name="AT: beIN SPORTS 1" tvg-logo="" group-title="Sport",AT: beIN SPORTS 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214728
+#EXTINF:-1 tvg-ID="" tvg-name="CA: beIN Sports HD" tvg-logo="" group-title="Sport",CA: beIN Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214729
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Bein Sports 1" tvg-logo="" group-title="Sport",UK: Bein Sports 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214730
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports 01" tvg-logo="" group-title="Sport",US: beIN Sports 01
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214731
+#EXTINF:-1 tvg-ID="" tvg-name="US:  beIN Sports 2" tvg-logo="" group-title="Sport",US:  beIN Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214732
+#EXTINF:-1 tvg-ID="" tvg-name="US:  beIN Sports 4 HD" tvg-logo="" group-title="Sport",US:  beIN Sports 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214733
+#EXTINF:-1 tvg-ID="" tvg-name="US:  beIN Sports 5 HD" tvg-logo="" group-title="Sport",US:  beIN Sports 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214734
+#EXTINF:-1 tvg-ID="" tvg-name="US:  beIN Sports 6 HD" tvg-logo="" group-title="Sport",US:  beIN Sports 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214735
+#EXTINF:-1 tvg-ID="" tvg-name="US:  beIN Sports USA HD" tvg-logo="" group-title="Sport",US:  beIN Sports USA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214736
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="" group-title="Sport",US: beIN SPORTS La Liga
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214737
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports N" tvg-logo="" group-title="Sport",US: beIN Sports N
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214738
+#EXTINF:-1 tvg-ID="" tvg-name="US: beIN Sports 07" tvg-logo="" group-title="Sport",US: beIN Sports 07
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214739
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 1 HD" tvg-logo="" group-title="Sport",TR: Bein Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214740
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 4 HD" tvg-logo="" group-title="Sport",TR: Bein Sports 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214741
+#EXTINF:-1 tvg-ID="" tvg-name="TR:  BEIN SPORTS 2 HD" tvg-logo="" group-title="Sport",TR:  BEIN SPORTS 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214742
+#EXTINF:-1 tvg-ID="" tvg-name="TR:  BEIN SPORTS 3 HD" tvg-logo="" group-title="Sport",TR:  BEIN SPORTS 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214743
+#EXTINF:-1 tvg-ID="" tvg-name="TR:  BEIN SPORTS Haber SD" tvg-logo="" group-title="Sport",TR:  BEIN SPORTS Haber SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214744
+#EXTINF:-1 tvg-ID="" tvg-name="LSP: VIP BeIN Sports USA" tvg-logo="" group-title="Sport",LSP: VIP BeIN Sports USA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214746
+#EXTINF:-1 tvg-ID="" tvg-name="A. SPORTS | DAZN BAR 2 HD" tvg-logo="" group-title="Sport",A. SPORTS | DAZN BAR 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209605
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT NEWS HD." tvg-logo="" group-title="Sport",SKY SPORT NEWS HD.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209606
+#EXTINF:-1 tvg-ID="" tvg-name="EURO SPORT 2XTRA HD." tvg-logo="" group-title="Sport",EURO SPORT 2XTRA HD.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209608
+#EXTINF:-1 tvg-ID="" tvg-name="A. SPORTS | DAZN BAR 1 HD." tvg-logo="" group-title="Sport",A. SPORTS | DAZN BAR 1 HD.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209621
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 1 HD." tvg-logo="" group-title="Sport",SKY SPORT 1 HD.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209622
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 2 HD." tvg-logo="" group-title="Sport",SKY SPORT 2 HD.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209623
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 3 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209646
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 4 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209648
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 5 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209650
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 6 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209652
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 7 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209654
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 8 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 8 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209655
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 9 HD" tvg-logo="" group-title="Sport",DE | Sky Sport 9 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209656
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Auto Motor Sport HD" tvg-logo="" group-title="Sport",DE | Auto Motor Sport HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209661
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Eurosport 1 HD" tvg-logo="" group-title="Sport",DE | Eurosport 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209663
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Eurosport 2 HD" tvg-logo="" group-title="Sport",DE | Eurosport 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209665
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sport1 FHD" tvg-logo="" group-title="Sport",DE | Sport1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209668
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT EN FRANCE" tvg-logo="" group-title="Sport",SPORT EN FRANCE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209682
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ FORMULE 1 HD" tvg-logo="" group-title="Canal+",CANAL+ FORMULE 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209683
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT" tvg-logo="" group-title="Sport",MOTORSPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209684
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Serie A" tvg-logo="" group-title="Sport",IT: Sky Sport Serie A
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/220441
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Golden Premier FHD" tvg-logo="" group-title="Premier",CINE | Golden Premier FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/222829
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Universal Premiere" tvg-logo="" group-title="Premier",CINE | Universal Premiere
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236380
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports Premium" tvg-logo="" group-title="Sport",DEP | FOX Sports Premium
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/158454
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Extra HD MX @" tvg-logo="" group-title="Espn",DEP | ESPN Extra HD MX @
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19485
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 AR SD  ►℗" tvg-logo="" group-title="Espn",DEP | ESPN 2 AR SD  ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/220900
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3 FHD NORTE" tvg-logo="" group-title="Espn",DEP | ESPN 3 FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40735
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3 FHD SUR" tvg-logo="" group-title="Espn",DEP | ESPN 3 FHD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185665
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 FHD NORTE" tvg-logo="" group-title="Espn",DEP | ESPN 2 FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185149
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 FHD NORTE" tvg-logo="" group-title="Espn",DEP | ESPN 1 FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/272499
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 FHD NORTE" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186573
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 SUR FHD ►℗" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 SUR FHD ►℗
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/186606
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 3 FHD NORTE" tvg-logo="" group-title="Sport",DEP | FOX Sports 3 FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/93563
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 3 SUR FHD" tvg-logo="" group-title="Sport",DEP | FOX Sports 3 SUR FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36389
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 4 FHD NORTE" tvg-logo="" group-title="Espn",DEP | ESPN 4 FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/224430
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 1 SUR  FHD" tvg-logo="" group-title="Sport",DEP | FOX Sports 1 SUR  FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36387
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TyC Sport  FHD" tvg-logo="" group-title="Sport",DEP | TyC Sport  FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19461
+#EXTINF:-1 tvg-ID="" tvg-name="CO | Claro Sports 2" tvg-logo="" group-title="Sport",CO | Claro Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/164261
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 1 SUR SD" tvg-logo="" group-title="Sport",DEP | FOX Sports 1 SUR SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/272265
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 SD SUR" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 SD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185155
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TyC Sport SD" tvg-logo="" group-title="Sport",DEP | TyC Sport SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/21222
+#EXTINF:-1 tvg-ID="" tvg-name="DK-- TV2 SPORT" tvg-logo="" group-title="Sport",DK-- TV2 SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58545
+#EXTINF:-1 tvg-ID="" tvg-name="Extreme Sports" tvg-logo="" group-title="Sport",Extreme Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/64661
+#EXTINF:-1 tvg-ID="" tvg-name="GR: nova sports 2 HD" tvg-logo="" group-title="Sport",GR: nova sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185094
+#EXTINF:-1 tvg-ID="" tvg-name="IT | Sky Sport Serie A HD" tvg-logo="" group-title="Sport",IT | Sky Sport Serie A HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55728
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Fox Sports 3 HD" tvg-logo="" group-title="Sport",NL: Fox Sports 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55744
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Fox Sports 6 HD" tvg-logo="" group-title="Sport",NL: Fox Sports 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55747
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FOX Sports 1 HD NL" tvg-logo="" group-title="Sport",NL:FOX Sports 1 HD NL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55742
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FOX Sports 4 HD NL" tvg-logo="" group-title="Sport",NL:FOX Sports 4 HD NL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55745
+#EXTINF:-1 tvg-ID="" tvg-name="PL-- Polsat Sport Fight FHD" tvg-logo="" group-title="Sport",PL-- Polsat Sport Fight FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/62909
+#EXTINF:-1 tvg-ID="" tvg-name="PT | SPORT TV 3" tvg-logo="" group-title="Sport",PT | SPORT TV 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40681
+#EXTINF:-1 tvg-ID="" tvg-name="RO-- Digi Sport 2 FHD" tvg-logo="" group-title="Sport",RO-- Digi Sport 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58534
+#EXTINF:-1 tvg-ID="" tvg-name="RO-- Digi Sport 3" tvg-logo="" group-title="Sport",RO-- Digi Sport 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58535
+#EXTINF:-1 tvg-ID="" tvg-name="RO-- Digi Sport 4" tvg-logo="" group-title="Sport",RO-- Digi Sport 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58536
+#EXTINF:-1 tvg-ID="" tvg-name="RO-- Look Sport" tvg-logo="" group-title="Sport",RO-- Look Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/62910
+#EXTINF:-1 tvg-ID="" tvg-name="Ru- Viasat Sport" tvg-logo="" group-title="Sport",Ru- Viasat Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/64660
+#EXTINF:-1 tvg-ID="" tvg-name="Sport klub HD" tvg-logo="" group-title="Sport",Sport klub HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/62920
+#EXTINF:-1 tvg-ID="" tvg-name="VIP Arena Sport 3 Srb" tvg-logo="" group-title="Sport",VIP Arena Sport 3 Srb
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58278
+#EXTINF:-1 tvg-ID="" tvg-name="ZIGGO SPORT EXTRA 1" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/64644
+#EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Extra2" tvg-logo="" group-title="Sport",Ziggo Sport Extra2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185082
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Sport",[PT] ELEVEN SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47447
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Sport",[PT] ELEVEN SPORTS 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47448
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Sport",[PT] ELEVEN SPORTS 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47449
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Sport",[PT] ELEVEN SPORTS 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47450
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] ELEVEN SPORTS 5 hd" tvg-logo="" group-title="Sport",[PT] ELEVEN SPORTS 5 hd
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47451
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Sport",[PT] ELEVEN SPORTS 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47452
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] EUROSPORT 1 HD" tvg-logo="" group-title="Sport",[PT] EUROSPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47454
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] KOMBAT SPORT HD" tvg-logo="" group-title="Sport",[PT] KOMBAT SPORT HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47456
+#EXTINF:-1 tvg-ID="" tvg-name="[PT] SPORTING TV" tvg-logo="" group-title="Sport",[PT] SPORTING TV
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47453
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1 EREDIVISIE" tvg-logo="" group-title="Espn",ESPN 1 EREDIVISIE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/216454
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] D Sport" tvg-logo="" group-title="Sport",[IN] D Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60317
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] DD Sports" tvg-logo="" group-title="Sport",[IN] DD Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60330
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] DD Sports IN" tvg-logo="" group-title="Sport",[IN] DD Sports IN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60331
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] STAR SPORTS 1 SD" tvg-logo="" group-title="Sport",[IN] STAR SPORTS 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60454
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] Star Sports Select 1 HD IN" tvg-logo="" group-title="Sport",[IN] Star Sports Select 1 HD IN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60457
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] Ten Sports 3 HD IN" tvg-logo="" group-title="Sport",[IN] Ten Sports 3 HD IN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60475
+#EXTINF:-1 tvg-ID="" tvg-name="[IN] Ten Sports IN" tvg-logo="" group-title="Sport",[IN] Ten Sports IN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/60476
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 4 HD" tvg-logo="" group-title="Sport",RMC Sport 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161069
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 5" tvg-logo="" group-title="Sport",RMC SPORT LIVE 5
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161070
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 6" tvg-logo="" group-title="Sport",RMC SPORT LIVE 6
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161071
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 7" tvg-logo="" group-title="Sport",RMC SPORT LIVE 7
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161072
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 9" tvg-logo="" group-title="Sport",RMC SPORT LIVE 9
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161074
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 11" tvg-logo="" group-title="Sport",RMC SPORT LIVE 11
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161076
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 12" tvg-logo="" group-title="Sport",RMC SPORT LIVE 12
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161077
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 8" tvg-logo="" group-title="Sport",BEIN SPORT MAX 8
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161086
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 9" tvg-logo="" group-title="Sport",BEIN SPORT MAX 9
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161087
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT MAX 10" tvg-logo="" group-title="Sport",BEIN SPORT MAX 10
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161088
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="Sport",EUROSPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161090
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SPORTS HD" tvg-logo="" group-title="Sport",CANAL+ SPORTS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161092
+#EXTINF:-1 tvg-ID="" tvg-name="FR: INFOSPORT+ HD" tvg-logo="" group-title="Sport",FR: INFOSPORT+ HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/184446
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS 1" tvg-logo="" group-title="Sport",BE: PLAY SPORTS 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196397
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS 2" tvg-logo="" group-title="Sport",BE: PLAY SPORTS 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196398
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VOO SPORT 1 FHD" tvg-logo="" group-title="Sport",BE: VOO SPORT 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196405
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VOO SPORT 2 HD" tvg-logo="" group-title="Sport",BE: VOO SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196406
+#EXTINF:-1 tvg-ID="" tvg-name="BE: ELEVENSPORT 2 (FR)" tvg-logo="" group-title="Sport",BE: ELEVENSPORT 2 (FR)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196408
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eleven Sports 1 HD+" tvg-logo="" group-title="Sport",BE: Eleven Sports 1 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196410
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eleven Sports 2 HD+" tvg-logo="" group-title="Sport",BE: Eleven Sports 2 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196411
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eleven Sports 3 HD+" tvg-logo="" group-title="Sport",BE: Eleven Sports 3 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196412
+#EXTINF:-1 tvg-ID="" tvg-name="FR PARIS PREMIERE FULL" tvg-logo="" group-title="Premier",FR PARIS PREMIERE FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196453
+#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ FULL" tvg-logo="" group-title="Canal+",FR CANAL+ FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196454
+#EXTINF:-1 tvg-ID="" tvg-name="FR Canal+ Sports FULL" tvg-logo="" group-title="Sport",FR Canal+ Sports FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196455
+#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ CINEMA FULL" tvg-logo="" group-title="Canal+",FR CANAL+ CINEMA FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196456
+#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ DECALE FULL" tvg-logo="" group-title="Canal+",FR CANAL+ DECALE FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196457
+#EXTINF:-1 tvg-ID="" tvg-name="FR Canal+ Family FULL" tvg-logo="" group-title="Canal+",FR Canal+ Family FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196458
+#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ SERIES FULL" tvg-logo="" group-title="Canal+",FR CANAL+ SERIES FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196459
+#EXTINF:-1 tvg-ID="" tvg-name="FR Cine Premier FULL" tvg-logo="" group-title="Premier",FR Cine Premier FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196460
+#EXTINF:-1 tvg-ID="" tvg-name="FR INFOSPORT FULL" tvg-logo="" group-title="Sport",FR INFOSPORT FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196530
+#EXTINF:-1 tvg-ID="" tvg-name="FR EUROSPORT 1 FHD" tvg-logo="" group-title="Sport",FR EUROSPORT 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196531
+#EXTINF:-1 tvg-ID="" tvg-name="FR EUROSPORT 2 FHD" tvg-logo="" group-title="Sport",FR EUROSPORT 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196532
+#EXTINF:-1 tvg-ID="" tvg-name="FR BEIN SPORTS 1 FHD" tvg-logo="" group-title="Sport",FR BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196533
+#EXTINF:-1 tvg-ID="" tvg-name="FR BEIN SPORTS 2 FHD" tvg-logo="" group-title="Sport",FR BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196534
+#EXTINF:-1 tvg-ID="" tvg-name="FR BEIN SPORTS 3 FHD" tvg-logo="" group-title="Sport",FR BEIN SPORTS 3 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196535
+#EXTINF:-1 tvg-ID="" tvg-name="FR RMC Sport 01 FULL" tvg-logo="" group-title="Sport",FR RMC Sport 01 FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196536
+#EXTINF:-1 tvg-ID="" tvg-name="FR RMC Sport 02 FULL" tvg-logo="" group-title="Sport",FR RMC Sport 02 FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196537
+#EXTINF:-1 tvg-ID="" tvg-name="FR RMC SPORT 03 FULL" tvg-logo="" group-title="Sport",FR RMC SPORT 03 FULL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196538
+#EXTINF:-1 tvg-ID="" tvg-name="FR RMC SPORT 04 HD" tvg-logo="" group-title="Sport",FR RMC SPORT 04 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196539
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX BUSINESS NETWORK HD" tvg-logo="" group-title="Fox",US: FOX BUSINESS NETWORK HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196558
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports California" tvg-logo="" group-title="Sport",US: NBC Sports California
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196596
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN" tvg-logo="" group-title="Espn",US: ESPN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196598
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX NEWS  ᴴᴰ" tvg-logo="" group-title="Fox",US: FOX NEWS  ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196612
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Sports 2" tvg-logo="" group-title="Sport",US: FOX Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196613
+#EXTINF:-1 tvg-ID="" tvg-name="US: GINX eSports ᴴᴰ" tvg-logo="" group-title="Sport",US: GINX eSports ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196671
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN U ᴴᴰ" tvg-logo="" group-title="Espn",US: ESPN U ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196672
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN 2 ᴴᴰ" tvg-logo="" group-title="Espn",US: ESPN 2 ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196674
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN Deportes ᴴᴰ" tvg-logo="" group-title="Espn",US: ESPN Deportes ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196676
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN US ᴴᴰ" tvg-logo="" group-title="Espn",ESPN US ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196677
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN NEWS ᴴᴰ" tvg-logo="" group-title="Espn",US: ESPN NEWS ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196678
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS 2 ᴴᴰ" tvg-logo="" group-title="Sport",US: FOX SPORTS 2 ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196680
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPER SPORT 1 HD" tvg-logo="" group-title="Sport",AF: SUPER SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196773
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPER SPORT 2 HD" tvg-logo="" group-title="Sport",AF: SUPER SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196774
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPER SPORT 3 HD" tvg-logo="" group-title="Sport",AF: SUPER SPORT 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196775
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPER SPORT 4 HD" tvg-logo="" group-title="Sport",AF: SUPER SPORT 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196776
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPER SPORT 5 HD" tvg-logo="" group-title="Sport",AF: SUPER SPORT 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196778
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX HD" tvg-logo="" group-title="Fox",ES: FOX HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196787
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Fox",ES: FOX LIFE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196788
+#EXTINF:-1 tvg-ID="" tvg-name="ES: EURO SPORT 1 HD" tvg-logo="" group-title="Sport",ES: EURO SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196834
+#EXTINF:-1 tvg-ID="" tvg-name="ES: EURO SPORT 2" tvg-logo="" group-title="Sport",ES: EURO SPORT 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196835
+#EXTINF:-1 tvg-ID="" tvg-name="NL: FOX NL 4K" tvg-logo="" group-title="Fox",NL: FOX NL 4K
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196860
+#EXTINF:-1 tvg-ID="" tvg-name="NL: FILM 1 PREMIERE HD" tvg-logo="" group-title="Premier",NL: FILM 1 PREMIERE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196877
+#EXTINF:-1 tvg-ID="" tvg-name="NL: EURO SPORT 1 HD" tvg-logo="" group-title="Sport",NL: EURO SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196882
+#EXTINF:-1 tvg-ID="" tvg-name="NL: EURO SPORT 2 HD" tvg-logo="" group-title="Sport",NL: EURO SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196883
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ZIGGO SPORT SELECT HD" tvg-logo="" group-title="Sport",NL: ZIGGO SPORT SELECT HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196884
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ZIGGO SPORT EXTRA 1 HD" tvg-logo="" group-title="Sport",NL: ZIGGO SPORT EXTRA 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196885
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="Sport",NL: ZIGGO SPORT GOLF HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196888
+#EXTINF:-1 tvg-ID="" tvg-name="NL: FOX SPORTS 1 HD" tvg-logo="" group-title="Sport",NL: FOX SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196889
+#EXTINF:-1 tvg-ID="" tvg-name="NL: FOX SPORTS 4 HD" tvg-logo="" group-title="Sport",NL: FOX SPORTS 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196890
+#EXTINF:-1 tvg-ID="" tvg-name="NL: FOX SPORTS 5 HD" tvg-logo="" group-title="Sport",NL: FOX SPORTS 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196891
+#EXTINF:-1 tvg-ID="" tvg-name="SE :TV3 Sport HD" tvg-logo="" group-title="Sport",SE :TV3 Sport HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196903
+#EXTINF:-1 tvg-ID="" tvg-name="SE :Viasat Film Premiere HD" tvg-logo="" group-title="Premier",SE :Viasat Film Premiere HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196919
+#EXTINF:-1 tvg-ID="" tvg-name="SE :Viasat Sport Premium" tvg-logo="" group-title="Sport",SE :Viasat Sport Premium
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196923
+#EXTINF:-1 tvg-ID="" tvg-name="SE :Viasat Sport HD" tvg-logo="" group-title="Sport",SE :Viasat Sport HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196924
+#EXTINF:-1 tvg-ID="" tvg-name="SE :Fox FHD" tvg-logo="" group-title="Fox",SE :Fox FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196942
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV 2 SPORT" tvg-logo="" group-title="Sport",DK: TV 2 SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196973
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV 3 SPORT 1" tvg-logo="" group-title="Sport",DK: TV 3 SPORT 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196975
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV 3 SPORT 2" tvg-logo="" group-title="Sport",DK: TV 3 SPORT 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196976
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Viasat Film Premiera" tvg-logo="" group-title="Premier",DK: Viasat Film Premiera
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196983
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Eurosport 2" tvg-logo="" group-title="Sport",DK: Eurosport 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197002
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Eurosport 1" tvg-logo="" group-title="Sport",DK: Eurosport 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197003
+#EXTINF:-1 tvg-ID="" tvg-name="GR: FOX" tvg-logo="" group-title="Fox",GR: FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197026
+#EXTINF:-1 tvg-ID="" tvg-name="GR: FOX LIFE" tvg-logo="" group-title="Fox",GR: FOX LIFE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197027
+#EXTINF:-1 tvg-ID="" tvg-name="GR: BLUESKY" tvg-logo="" group-title="Sky",GR: BLUESKY
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197033
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA PREMIERE 1 HD" tvg-logo="" group-title="Premier",GR: NOVA PREMIERE 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197060
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA PREMIERE 2 HD" tvg-logo="" group-title="Premier",GR: NOVA PREMIERE 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197061
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA PREMIERE 3 HD" tvg-logo="" group-title="Premier",GR: NOVA PREMIERE 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197062
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA PREMIERE 4 HD" tvg-logo="" group-title="Premier",GR: NOVA PREMIERE 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197063
+#EXTINF:-1 tvg-ID="" tvg-name="GR: EUROSPORT 1" tvg-logo="" group-title="Sport",GR: EUROSPORT 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197082
+#EXTINF:-1 tvg-ID="" tvg-name="GR: EUROSPORT 2" tvg-logo="" group-title="Sport",GR: EUROSPORT 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197083
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT HIGHLIGHTS" tvg-logo="" group-title="Sport",GR: OTE SPORT HIGHLIGHTS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197084
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 1 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197085
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 2 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197086
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 3 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197087
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 4 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197088
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 5 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197089
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 6 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197090
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 7 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197091
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 8 HD" tvg-logo="" group-title="Sport",GR: OTE SPORT 8 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197092
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1 HD" tvg-logo="" group-title="Sport",GR: NOVA SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197093
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2 HD" tvg-logo="" group-title="Sport",GR: NOVA SPORTS 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197094
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 3 HD" tvg-logo="" group-title="Sport",GR: NOVA SPORTS 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197095
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 4 HD" tvg-logo="" group-title="Sport",GR: NOVA SPORTS 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197096
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 5 HD" tvg-logo="" group-title="Sport",GR: NOVA SPORT 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197097
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Two" tvg-logo="" group-title="Sky",UK: Sky Two
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197103
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="" group-title="Sky",UK: Sky Cinema Comedy
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197104
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Crime" tvg-logo="" group-title="Sky",UK: Sky Cinema Crime
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197105
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Disney FHD" tvg-logo="" group-title="Sky",UK: Sky Cinema Disney FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197106
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema DramaRomance FHD" tvg-logo="" group-title="Sky",UK: Sky Cinema DramaRomance FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197107
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Family FHD" tvg-logo="" group-title="Sky",UK: Sky Cinema Family FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197108
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Atlantic" tvg-logo="" group-title="Sky",UK: Sky Atlantic
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197109
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="" group-title="Sky",UK: Sky Cinema Greats HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197110
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Hits" tvg-logo="" group-title="Sky",UK: Sky Cinema Hits
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197111
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="Sky",UK: Sky Cinema Premiere
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197112
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Select FHD" tvg-logo="" group-title="Sky",UK: Sky Cinema Select FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197113
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="Sport",UK: BT Sport 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197114
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="Sport",UK: BT Sport 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197115
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 3" tvg-logo="" group-title="Sport",UK: BT Sport 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197116
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EuroSport 1" tvg-logo="" group-title="Sport",UK: EuroSport 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197122
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EuroSport 2" tvg-logo="" group-title="Sport",UK: EuroSport 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197123
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="" group-title="Sport",UK: SKY SPORTS NEWS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197124
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="" group-title="Sport",UK: SKY SPORTS ACTION HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197125
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS ARENA HD" tvg-logo="" group-title="Sport",UK: SKY SPORTS ARENA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197126
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="" group-title="Sport",UK: SKY SPORTS CRICKET FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197127
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="" group-title="Sport",UK: SKY SPORTS GOLF HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197129
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="" group-title="Sky",UK: Sky Cinema Action FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197131
+#EXTINF:-1 tvg-ID="" tvg-name="World of Free Sports" tvg-logo="" group-title="Sport",World of Free Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197137
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky News UK" tvg-logo="" group-title="Sky",UK: Sky News UK
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197140
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1 FHD [MULTI-AUDIO]" tvg-logo="" group-title="Sport",RO: DIGI SPORT 1 FHD [MULTI-AUDIO]
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197196
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 2 FHD" tvg-logo="" group-title="Sport",RO: DIGI SPORT 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197197
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 3" tvg-logo="" group-title="Sport",RO: DIGI SPORT 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197198
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 4" tvg-logo="" group-title="Sport",RO: DIGI SPORT 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197199
+#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOK SPORT" tvg-logo="" group-title="Sport",RO: LOOK SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197200
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="Canal+",FR: CANAL+ HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197230
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAl+ CINEMA HD" tvg-logo="" group-title="Canal+",FR: CANAl+ CINEMA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197231
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FAMILY HD" tvg-logo="" group-title="Canal+",FR: CANAL+ FAMILY HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197232
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="" group-title="Canal+",FR: CANAL+ DECALE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197233
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE PREMIER HD" tvg-logo="" group-title="Premier",FR: CINE PREMIER HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197234
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE ᴴᴰ" tvg-logo="" group-title="Premier",FR: PARIS PREMIERE ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197254
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ CINEMA SD" tvg-logo="" group-title="Canal+",FR: CANAL+ CINEMA SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197385
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ DECALE SD" tvg-logo="" group-title="Canal+",FR: CANAL+ DECALE SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197386
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FAMILY SD" tvg-logo="" group-title="Canal+",FR: CANAL+ FAMILY SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197387
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ SERIES" tvg-logo="" group-title="Canal+",FR: CANAL+ SERIES
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197388
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="Premier",FR: CINE+ PREMIER
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197395
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ LIGUE 1 FHD" tvg-logo="" group-title="Canal+",FR: CANAL+ LIGUE 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197402
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC INFO TALK SPORT" tvg-logo="" group-title="Sport",FR: RMC INFO TALK SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197403
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 1 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197404
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 2 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197405
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 3 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197406
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 4 HD" tvg-logo="" group-title="Sport",EUROSPORT 360 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197407
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 5 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197408
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 6 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197409
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 7 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197410
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MOTORSPORT" tvg-logo="" group-title="Sport",FR: MOTORSPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197411
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ TOP 14 RUGBY FHD" tvg-logo="" group-title="Canal+",FR: CANAL+ TOP 14 RUGBY FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197438
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FORMULE 1 HD" tvg-logo="" group-title="Canal+",FR: CANAL+ FORMULE 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197439
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SPORT EN FRANCE" tvg-logo="" group-title="Sport",FR: SPORT EN FRANCE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197473
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX ACTION" tvg-logo="" group-title="Sky",AR: SKY FLIX ACTION
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197492
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX AFLAM 1" tvg-logo="" group-title="Sky",AR: SKY FLIX AFLAM 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197493
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX AFLAM 2" tvg-logo="" group-title="Sky",AR: SKY FLIX AFLAM 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197494
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX DRAMA" tvg-logo="" group-title="Sky",AR: SKY FLIX DRAMA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197495
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX COMEDY" tvg-logo="" group-title="Sky",AR: SKY FLIX COMEDY
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197496
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX HORROR" tvg-logo="" group-title="Sky",AR: SKY FLIX HORROR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197497
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX BOX OFFICE 1" tvg-logo="" group-title="Sky",AR: SKY FLIX BOX OFFICE 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197498
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX BOXOFFICE 2" tvg-logo="" group-title="Sky",AR: SKY FLIX BOXOFFICE 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197499
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX BOLLYWOODY" tvg-logo="" group-title="Sky",AR: SKY FLIX BOLLYWOODY
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197500
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX ANIME 1" tvg-logo="" group-title="Sky",AR: SKY FLIX ANIME 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197501
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Fox HD" tvg-logo="" group-title="Fox",TR: Fox HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197606
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN MOVIEs PREMIERE 1 HD" tvg-logo="" group-title="Premier",BEIN MOVIEs PREMIERE 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197609
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN MOVIEs PREMIERE 2 HD" tvg-logo="" group-title="Premier",TR: BEIN MOVIEs PREMIERE 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197610
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS HABER | ttNet" tvg-logo="" group-title="Sport",TR: beIN SPORTS HABER | ttNet
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197613
+#EXTINF:-1 tvg-ID="" tvg-name="TR: bEIN SPORTS 1 SD" tvg-logo="" group-title="Sport",TR: bEIN SPORTS 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197614
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" group-title="Sport",TR: beIN SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197615
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 2 HD+" tvg-logo="" group-title="Sport",TR: beIN SPORTS 2 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197616
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 SD" tvg-logo="" group-title="Sport",TR: beIN SPORTS 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197617
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 HD+" tvg-logo="" group-title="Sport",TR: beIN SPORTS 1 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197618
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="" group-title="Sport",TR: beIN SPORTS 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197619
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="" group-title="Sport",TR: beIN SPORTS 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197620
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" group-title="Sport",TR: beIN SPORTS 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197621
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 | yedek 1" tvg-logo="" group-title="Sport",TR: beIN SPORTS 1 | yedek 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197622
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS 1 | yedek 2" tvg-logo="" group-title="Sport",TR: beIN SPORTS 1 | yedek 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197623
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="" group-title="Sport",TR: beIN SPORTS MAX 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197624
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="" group-title="Sport",TR: beIN SPORTS MAX 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197625
+#EXTINF:-1 tvg-ID="" tvg-name="TR: S-SPORT 1 HD" tvg-logo="" group-title="Sport",TR: S-SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197626
+#EXTINF:-1 tvg-ID="" tvg-name="TR: S-SPORT 2 FHD" tvg-logo="" group-title="Sport",TR: S-SPORT 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197627
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="Sport",TR: EUROSPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197633
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="" group-title="Sport",TR: EUROSPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197634
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SKY NEWS ARABIA SD" tvg-logo="" group-title="Sky",AR: SKY NEWS ARABIA SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197718
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ABU DHABI SPORT 1 SD" tvg-logo="" group-title="Sport",AR: ABU DHABI SPORT 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197847
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ABU DHABI SPORT 2 SD" tvg-logo="" group-title="Sport",AR: ABU DHABI SPORT 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197848
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ABU DHABI SPORT 3 SD" tvg-logo="" group-title="Sport",AR: ABU DHABI SPORT 3 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197849
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI SPORT 1 HD" tvg-logo="" group-title="Sport",AR: DUBAI SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197850
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI SPORT 2 HD" tvg-logo="" group-title="Sport",AR: DUBAI SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197851
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI SPORT 3 HD" tvg-logo="" group-title="Sport",AR: DUBAI SPORT 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197852
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bahrain Sports 1 HD" tvg-logo="" group-title="Sport",AR: Bahrain Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197855
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bahrain Sports 2 HD" tvg-logo="" group-title="Sport",AR: Bahrain Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197856
+#EXTINF:-1 tvg-ID="" tvg-name="AR: JORDON SPORT SD" tvg-logo="" group-title="Sport",AR: JORDON SPORT SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197857
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ON TIME SPORTS SD" tvg-logo="" group-title="Sport",AR: ON TIME SPORTS SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197858
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ON TIME SPORTS 2 FHD" tvg-logo="" group-title="Sport",AR: ON TIME SPORTS 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197859
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ON TIME SPORTS 3" tvg-logo="" group-title="Sport",AR: ON TIME SPORTS 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197860
+#EXTINF:-1 tvg-ID="" tvg-name="AR: OMAN SPORT SD" tvg-logo="" group-title="Sport",AR: OMAN SPORT SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197861
+#EXTINF:-1 tvg-ID="" tvg-name="AR: IRAQIA SPORT FHD" tvg-logo="" group-title="Sport",AR: IRAQIA SPORT FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197862
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV SPORTS FHD" tvg-logo="" group-title="Sport",AR: KTV SPORTS FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197863
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV SPORTS PLUS HD" tvg-logo="" group-title="Sport",AR: KTV SPORTS PLUS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197864
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LIBYA SPORT ˢᵈ" tvg-logo="" group-title="Sport",AR: LIBYA SPORT ˢᵈ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197865
+#EXTINF:-1 tvg-ID="" tvg-name="AR: YAS SPORT SD" tvg-logo="" group-title="Sport",AR: YAS SPORT SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197869
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN MOVIES 1 PREMIERE" tvg-logo="" group-title="Premier",BEIN MOVIES 1 PREMIERE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197975
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN FOX MOVIES" tvg-logo="" group-title="Fox",BEIN FOX MOVIES
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197979
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN FOX REWAYAT HD" tvg-logo="" group-title="Fox",BeIN FOX REWAYAT HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197991
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Sharjah Sports FHD" tvg-logo="" group-title="Sport",AR: Sharjah Sports FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197994
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA Romance HD" tvg-logo="" group-title="Sky",SKY CINEMA Romance HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198030
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport NBA" tvg-logo="" group-title="Sport",IT: Sky Sport NBA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198031
+#EXTINF:-1 tvg-ID="" tvg-name="SKY UNO" tvg-logo="" group-title="Sky",SKY UNO
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198032
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY COMEDY" tvg-logo="" group-title="Sky",IT: SKY COMEDY
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198037
+#EXTINF:-1 tvg-ID="" tvg-name="SKY UNO" tvg-logo="" group-title="Sky",SKY UNO
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198041
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RAI SPORT" tvg-logo="" group-title="Sport",IT: RAI SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198069
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS UNO" tvg-logo="" group-title="Sport",SKY SPORTS UNO
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198070
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT FOTBALL" tvg-logo="" group-title="Sport",IT: SKY SPORT FOTBALL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198071
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORTS 24" tvg-logo="" group-title="Sport",IT: SKY SPORTS 24
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198072
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Arena HD" tvg-logo="" group-title="Sport",Sky Sport Arena HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198073
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT F1" tvg-logo="" group-title="Sport",SKY SPORT F1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198074
+#EXTINF:-1 tvg-ID="" tvg-name="EURO SPORT 1" tvg-logo="" group-title="Sport",EURO SPORT 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198075
+#EXTINF:-1 tvg-ID="" tvg-name="EURO SPORT 2" tvg-logo="" group-title="Sport",EURO SPORT 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198076
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 1HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 1HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198077
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 2HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 2HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198078
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 3HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 3HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198079
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 4HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 4HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198080
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 5HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 5HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198081
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 6HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 6HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198082
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 7HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 7HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198083
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 8HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 8HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198084
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY PRIMAFILA 11HD" tvg-logo="" group-title="Sky",IT: SKY PRIMAFILA 11HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198085
+#EXTINF:-1 tvg-ID="" tvg-name="SKY PRIMAFILA 12HD" tvg-logo="" group-title="Sky",SKY PRIMAFILA 12HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198086
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky TG 24 TG COM" tvg-logo="" group-title="Sky",IT: Sky TG 24 TG COM
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198090
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="" group-title="Fox",Fox Life
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198099
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 1" tvg-logo="" group-title="Sky",DE: SKY SELECT 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198198
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 2" tvg-logo="" group-title="Sky",DE: SKY SELECT 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198199
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 3" tvg-logo="" group-title="Sky",DE: SKY SELECT 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198200
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 4" tvg-logo="" group-title="Sky",DE: SKY SELECT 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198201
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 5" tvg-logo="" group-title="Sky",DE: SKY SELECT 5
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198202
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 6 HD" tvg-logo="" group-title="Sky",DE: Sky Select 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198203
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 7 HD" tvg-logo="" group-title="Sky",DE: Sky Select 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198204
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 8 HD" tvg-logo="" group-title="Sky",DE: Sky Select 8 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198205
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 9 HD" tvg-logo="" group-title="Sky",DE: Sky Select 9 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198206
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 10 HD" tvg-logo="" group-title="Sky",DE: Sky Select 10 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198207
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY KRIMI HD" tvg-logo="" group-title="Sky",DE: SKY KRIMI HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198208
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY EMOTION" tvg-logo="" group-title="Sky",DE: SKY EMOTION
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198209
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="Sky",DE: SKY ATLANTIC HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198211
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="" group-title="Sky",DE: SKY CINEMA FAMILY HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198212
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA 24 FHD" tvg-logo="" group-title="Sky",DE: SKY CINEMA 24 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198213
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA  1 FHD" tvg-logo="" group-title="Sky",DE: SKY CINEMA  1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198214
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="" group-title="Sky",DE: SKY CINEMA ACTION HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198215
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky 1 HD" tvg-logo="" group-title="Sky",DE: Sky 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198216
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" group-title="Sport",DE: SKY SPORT NEWS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198236
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EURO SPORT 1 HD +" tvg-logo="" group-title="Sport",DE: EURO SPORT 1 HD +
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198237
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EURO SPORT 2XTRA HD" tvg-logo="" group-title="Sport",DE: EURO SPORT 2XTRA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198238
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SPORT DIGITAL FUSSBALL FHD" tvg-logo="" group-title="Sport",DE: SPORT DIGITAL FUSSBALL FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198239
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SPORT 1 HD" tvg-logo="" group-title="Sport",DE: SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198240
+#EXTINF:-1 tvg-ID="" tvg-name="DE: FOX HD" tvg-logo="" group-title="Fox",DE: FOX HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198241
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="" group-title="Sport",DE: SKY SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198249
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 2 HD" tvg-logo="" group-title="Sport",SKY SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198250
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA HITS HD" tvg-logo="" group-title="Sky",DE: SKY CINEMA HITS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198254
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 1 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 1 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198255
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 2 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 2 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198256
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 3 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 3 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198257
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 4 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 4 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198258
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 5 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 5 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198259
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 6 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 6 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198260
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 7 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 7 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198261
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 8 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 8 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198262
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 9 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 9 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198263
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 10 HD+" tvg-logo="" group-title="Sky",DE: Sky Bundesliga 10 HD+
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198264
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Eagle Cinema Premiere HD" tvg-logo="" group-title="Premier",DE: Eagle Cinema Premiere HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198266
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198299
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198300
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198301
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198302
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 LOW" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 5 LOW
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198303
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ELEVEN SPORTS 6" tvg-logo="" group-title="Sport",PT:  ELEVEN SPORTS 6
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198304
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="Sport",PT: SPORT TV +
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198305
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="Sport",PT: SPORT TV 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198306
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  SPORT TV 2" tvg-logo="" group-title="Sport",PT:  SPORT TV 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198307
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  SPORT TV 4" tvg-logo="" group-title="Sport",PT:  SPORT TV 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198308
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  SPORT TV 3" tvg-logo="" group-title="Sport",PT:  SPORT TV 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198309
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 5" tvg-logo="" group-title="Sport",SPORT TV 5
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198310
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  EUROSPORT 1" tvg-logo="" group-title="Sport",PT:  EUROSPORT 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198311
+#EXTINF:-1 tvg-ID="" tvg-name="KOMBAT SPORT" tvg-logo="" group-title="Sport",KOMBAT SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198312
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="Sport",PT: SPORTING TV
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198318
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX" tvg-logo="" group-title="Fox",PT: FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198327
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="Fox",PT: FOX LIFE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198328
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="Fox",PT: FOX CRIME
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198329
+#EXTINF:-1 tvg-ID="" tvg-name="CA SPORTSNET ONE" tvg-logo="" group-title="Sport",CA SPORTSNET ONE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198356
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SPORTSNET 360 HD" tvg-logo="" group-title="Sport",CA | SPORTSNET 360 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198378
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Brasil HD" tvg-logo="" group-title="Espn",ESPN Brasil HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198423
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Atlantic" tvg-logo="" group-title="Sky",IT: Sky Atlantic
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215407
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport NBA" tvg-logo="" group-title="Sport",IT: Sky Sport NBA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215425
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT F1 HD" tvg-logo="" group-title="Sport",IT: SKY SPORT F1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215426
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 1" tvg-logo="" group-title="Sport",IT: Sky Sport 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215433
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Uno" tvg-logo="" group-title="Sport",IT: Sky Sport Uno
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215434
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn Sport 1 HD" tvg-logo="" group-title="Sport",IT: Dazn Sport 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215437
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RAI SPORT 1 HD" tvg-logo="" group-title="Sport",IT: RAI SPORT 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215441
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Rai Sport + HD" tvg-logo="" group-title="Sport",IT: Rai Sport + HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215443
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sport Italia HD" tvg-logo="" group-title="Sport",IT: Sport Italia HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215444
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Romance" tvg-logo="" group-title="Sky",IT: Sky Cinema Romance
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215447
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Uno +24 HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Uno +24 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215449
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Due HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Due HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215450
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Action HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Action HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215451
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Drama HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Drama HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215452
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Passion HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215453
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Family HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215454
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Uno" tvg-logo="" group-title="Sky",IT: Sky Cinema Uno
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215456
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Arte" tvg-logo="" group-title="Sky",IT: Sky Arte
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215457
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema Suspense HD" tvg-logo="" group-title="Sky",IT: Sky Cinema Suspense HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215458
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY Primafila 1 HD" tvg-logo="" group-title="Sky",IT: SKY Primafila 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215472
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY PrimaFila 2 HD" tvg-logo="" group-title="Sky",IT: SKY PrimaFila 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215473
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY Primafila 4 HD" tvg-logo="" group-title="Sky",IT: SKY Primafila 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215474
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY Primafila 5 HD" tvg-logo="" group-title="Sky",IT: SKY Primafila 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215475
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY Primafila 8 HD" tvg-logo="" group-title="Sky",IT: SKY Primafila 8 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215476
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY Primafila 7 HD" tvg-logo="" group-title="Sky",IT: SKY Primafila 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215477
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY Primafila 10 HD" tvg-logo="" group-title="Sky",IT: SKY Primafila 10 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215478
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Uno HD" tvg-logo="" group-title="Sky",IT: Sky Uno HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215481
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky History" tvg-logo="" group-title="Sky",IT: Sky History
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215495
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL+ Sport FHD" tvg-logo="" group-title="Sport",FR:  CANAL+ Sport FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227892
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL+ Decale HD" tvg-logo="" group-title="Canal+",FR:  CANAL+ Decale HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227897
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FAMILY" tvg-logo="" group-title="Canal+",FR: CANAL+ FAMILY
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227898
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  CINE PREMIER" tvg-logo="" group-title="Premier",FR:  CINE PREMIER
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227911
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EXTREME SPORTS HD" tvg-logo="" group-title="Sport",FR: EXTREME SPORTS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228039
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="Premier",FR: PARIS PREMIERE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228066
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL SPORT HD" tvg-logo="" group-title="Sport",FR:  CANAL SPORT HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228081
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  BFM SPORT" tvg-logo="" group-title="Sport",FR:  BFM SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228084
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  INFOSPORT  HD" tvg-logo="" group-title="Sport",FR:  INFOSPORT  HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228085
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Sport HD" tvg-logo="" group-title="Sport",FR: Canal Sport HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228086
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  EUROSPORT 2 HD" tvg-logo="" group-title="Sport",FR:  EUROSPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228096
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  EUROSPORT2" tvg-logo="" group-title="Sport",FR:  EUROSPORT2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228097
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EuroSport 2" tvg-logo="" group-title="Sport",FR: EuroSport 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228098
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Palestine Sport TV" tvg-logo="" group-title="Sport",FR: Palestine Sport TV
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228100
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC SPORT NEWS" tvg-logo="" group-title="Sport",FR:  RMC SPORT NEWS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228101
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="Sport",FR: RMC Sport 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228105
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="Sport",FR: RMC Sport 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228106
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT 5 HD" tvg-logo="" group-title="Sport",FR: RMC SPORT 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228107
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC Sport 5 HD Live" tvg-logo="" group-title="Sport",FR:  RMC Sport 5 HD Live
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228108
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC Sport 6 HD" tvg-logo="" group-title="Sport",FR:  RMC Sport 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228109
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="" group-title="Sport",FR: RMC Sport Live 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228110
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC Sport 6 HD Live" tvg-logo="" group-title="Sport",FR:  RMC Sport 6 HD Live
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228111
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC Sport 7 HD" tvg-logo="" group-title="Sport",FR:  RMC Sport 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228112
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="Sport",FR: RMC Sport Live 9 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228113
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC Sport 11 HD Live" tvg-logo="" group-title="Sport",FR:  RMC Sport 11 HD Live
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228114
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC SPORT LIVE 12 HD" tvg-logo="" group-title="Sport",FR:  RMC SPORT LIVE 12 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228115
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC SPORT LIVE 15 HD" tvg-logo="" group-title="Sport",FR:  RMC SPORT LIVE 15 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228116
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC SPORT LIVE 16 HD" tvg-logo="" group-title="Sport",FR:  RMC SPORT LIVE 16 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228117
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Bein Sport 1 HD" tvg-logo="" group-title="Sport",FR:  Bein Sport 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228118
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="" group-title="Sport",FR: BEIN SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228119
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  BeIN SPORTS 1 FHD" tvg-logo="" group-title="Sport",FR:  BeIN SPORTS 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228120
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  BEIN SPORT 3 HD" tvg-logo="" group-title="Sport",FR:  BEIN SPORT 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228121
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  BeIN SPORTS 3 FHD" tvg-logo="" group-title="Sport",FR:  BeIN SPORTS 3 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228122
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport MAX 4 HD" tvg-logo="" group-title="Sport",FR: Bein Sport MAX 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228123
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport MAX 5 HD" tvg-logo="" group-title="Sport",FR: Bein Sport MAX 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228124
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  beIN SPORTS MAX 7 HD" tvg-logo="" group-title="Sport",FR:  beIN SPORTS MAX 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228126
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  beinsports 8 MaX" tvg-logo="" group-title="Sport",FR:  beinsports 8 MaX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228127
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Bein Sport MaX 10" tvg-logo="" group-title="Sport",FR:  Bein Sport MaX 10
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228129
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  InfoSport+ HD" tvg-logo="" group-title="Sport",FR:  InfoSport+ HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228190
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  RMC Sport 10 HD" tvg-logo="" group-title="Sport",FR:  RMC Sport 10 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228191
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT 10 HD" tvg-logo="" group-title="Sport",FR: RMC SPORT 10 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228192
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  EUROSPORT 1HD" tvg-logo="" group-title="Sport",FR:  EUROSPORT 1HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228193
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ CINEMA HD" tvg-logo="" group-title="Canal+",FR: CANAL+ CINEMA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228201
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  BEIN SPORT 2 HD" tvg-logo="" group-title="Sport",FR:  BEIN SPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228202
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL+ Cinema HD" tvg-logo="" group-title="Canal+",FR:  CANAL+ Cinema HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228203
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+  SERIE HD" tvg-logo="" group-title="Canal+",FR: CANAL+  SERIE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228204
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Canal  Sport" tvg-logo="" group-title="Sport",FR:  Canal  Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228205
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+SPORT HD" tvg-logo="" group-title="Sport",FR: CANAL+SPORT HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228208
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  beinsports 6 MaX" tvg-logo="" group-title="Sport",FR:  beinsports 6 MaX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228209
+#EXTINF:-1 tvg-ID="" tvg-name="RU-  Viasat Sport East" tvg-logo="" group-title="Sport",RU-  Viasat Sport East
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235808
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Match Sports" tvg-logo="" group-title="Sport",RU: Match Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235821
+#EXTINF:-1 tvg-ID="" tvg-name="RU: FoX HD" tvg-logo="" group-title="Fox",RU: FoX HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235886
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Sport 1 HD" tvg-logo="" group-title="Sport",RU: Sport 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235891
+#EXTINF:-1 tvg-ID="" tvg-name="RU: РORTAL FOXMIX TV" tvg-logo="" group-title="Fox",RU: РORTAL FOXMIX TV
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235892
+#EXTINF:-1 tvg-ID="" tvg-name="RU:  Volzhsky Plus" tvg-logo="" group-title="Sky",RU:  Volzhsky Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235961
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Chernіvetsky Promіn HD" tvg-logo="" group-title="Sky",RU: Chernіvetsky Promіn HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/235977
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Astrakhan.Ru Sport" tvg-logo="" group-title="Sport",RU: Astrakhan.Ru Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236016
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Fan Sport" tvg-logo="" group-title="Sport",RU: Fan Sport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/236024
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="" group-title="Sport",PT: SPORT TV 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247064
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="" group-title="Sport",PT: SPORT TV 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247065
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="" group-title="Sport",PT: SPORT TV 3 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247066
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4 SD" tvg-logo="" group-title="Sport",PT: Sport TV 4 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247067
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5 SD" tvg-logo="" group-title="Sport",PT: SPORT TV 5 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247068
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 6 SD" tvg-logo="" group-title="Sport",PT: SPORT TV 6 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247069
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="Sport",PT: SPORT TV 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247070
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 2 HD" tvg-logo="" group-title="Sport",PT: Sport Tv 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247071
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Sport",PT: SPORT TV 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247072
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4 HD" tvg-logo="" group-title="Sport",PT: Sport TV 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247073
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 5 HD" tvg-logo="" group-title="Sport",PT: Sport TV 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247074
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 6 HD" tvg-logo="" group-title="Sport",PT: Sport Tv 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247075
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV + HD" tvg-logo="" group-title="Sport",PT: SPORT TV + HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247076
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Sport",PT: SPORT TV 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247077
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="Sport",PT: SPORT TV 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247078
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="" group-title="Sport",PT: Sport TV 3 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247079
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Sport",PT: SPORT TV 4 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247080
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="Sport",PT: SPORT TV 5 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247081
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="Sport",PT: SPORT TV 6 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247082
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247083
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247084
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247085
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247086
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 5
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247087
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 6
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247088
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="" group-title="Sport",PT: Eleven Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247089
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="" group-title="Sport",PT: Eleven Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247090
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="" group-title="Sport",PT: Eleven Sports 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247091
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="Sport",PT: Eleven Sports 4 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247092
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="Sport",PT: Eleven Sports 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247093
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="Sport",PT: Eleven Sports 6 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247094
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="" group-title="Sport",PT: Eleven Sports 1 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247095
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="" group-title="Sport",PT: Eleven Sports 2 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247096
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 3 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247097
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 4 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247098
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 5 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247099
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Sport",PT: ELEVEN SPORTS 6 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247100
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="Sport",PT: SPORT TV NBA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247101
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTING TV HD" tvg-logo="" group-title="Sport",PT: SPORTING TV HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247103
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT  1 HD" tvg-logo="" group-title="Sport",PT: EUROSPORT  1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247106
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="" group-title="Sport",PT: EUROSPORT 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247107
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EuroSport News HD" tvg-logo="" group-title="Sport",PT: EuroSport News HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247108
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Fox HD" tvg-logo="" group-title="Fox",PT: Fox HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247125
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX Comedy HD" tvg-logo="" group-title="Fox",PT: FOX Comedy HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247126
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX Crime HD" tvg-logo="" group-title="Fox",PT: FOX Crime HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247127
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX Movies HD" tvg-logo="" group-title="Fox",PT: FOX Movies HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247129
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SKY NEWS" tvg-logo="" group-title="Sky",PT: SKY NEWS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/247205
+#EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS 2 HD" tvg-logo="" group-title="Sport",IND: STAR SPORTS 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285717
+#EXTINF:-1 tvg-ID="" tvg-name="IND: DSPORTS" tvg-logo="" group-title="Sport",IND: DSPORTS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285722
+#EXTINF:-1 tvg-ID="" tvg-name="IND: DSPORTS 1" tvg-logo="" group-title="Sport",IND: DSPORTS 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285723
+#EXTINF:-1 tvg-ID="" tvg-name="IND: BOLLYWOOD PREMIER" tvg-logo="" group-title="Premier",IND: BOLLYWOOD PREMIER
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285758
+#EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS 3 SD" tvg-logo="" group-title="Sport",IND: STAR SPORTS 3 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285760
+#EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS SELECT 2" tvg-logo="" group-title="Sport",IND: STAR SPORTS SELECT 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285761
+#EXTINF:-1 tvg-ID="" tvg-name="IND: DD SPORTS" tvg-logo="" group-title="Sport",IND: DD SPORTS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285762
+#EXTINF:-1 tvg-ID="" tvg-name="IND: FOX LIFE" tvg-logo="" group-title="Fox",IND: FOX LIFE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285766
+#EXTINF:-1 tvg-ID="" tvg-name="IN : Star World Premier HD" tvg-logo="" group-title="Premier",IN : Star World Premier HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285778
+#EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS 1 HD" tvg-logo="" group-title="Sport",IND: STAR SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285793
+#EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS 1 HD" tvg-logo="" group-title="Sport",IND: STAR SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285794
+#EXTINF:-1 tvg-ID="" tvg-name="IND: STAR SPORTS SELECT 1" tvg-logo="" group-title="Sport",IND: STAR SPORTS SELECT 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/285795
+#EXTINF:-1 tvg-ID="" tvg-name="||CA|| SPT BEIN SPORTS" tvg-logo="" group-title="Sport",||CA|| SPT BEIN SPORTS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475423
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSMAN" tvg-logo="" group-title="Sport",SPORTSMAN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481623
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX" tvg-logo="" group-title="Fox",USA | FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481672
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 11 Los Angeles" tvg-logo="" group-title="Fox",USA | FOX 11 Los Angeles
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481673
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 13 Tampa" tvg-logo="" group-title="Fox",USA | FOX 13 Tampa
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481674
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 26 Houston" tvg-logo="" group-title="Fox",USA | FOX 26 Houston
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481675
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 29 Philadelphia" tvg-logo="" group-title="Fox",USA | FOX 29 Philadelphia
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481676
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 31 Denver" tvg-logo="" group-title="Fox",USA | FOX 31 Denver
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481677
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 35 Orlando" tvg-logo="" group-title="Fox",USA | FOX 35 Orlando
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481678
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 5 Atlanta" tvg-logo="" group-title="Fox",USA | FOX 5 Atlanta
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481679
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 5 New York" tvg-logo="" group-title="Fox",USA | FOX 5 New York
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481680
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 7 Miami" tvg-logo="" group-title="Fox",USA | FOX 7 Miami
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481681
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 8 Cleveland" tvg-logo="" group-title="Fox",USA | FOX 8 Cleveland
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481682
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX Business Network" tvg-logo="" group-title="Fox",USA | FOX Business Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481683
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX News" tvg-logo="" group-title="Fox",USA | FOX News
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481684
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Golden Premier" tvg-logo="" group-title="Premier",USA | Golden Premier
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481689
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX BOSTON" tvg-logo="" group-title="Fox",USA | FOX BOSTON
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481752
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX" tvg-logo="" group-title="Fox",USA: FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481874
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="Sport",USA: SPORTSMAN CHANNEL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/481965
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Wisconsin" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Wisconsin
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482087
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports West" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports West
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482088
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Sun *" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Sun *
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482089
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports South" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports South
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482090
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Southwest" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Southwest
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482091
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Southeast" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Southeast
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482092
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports San Diego" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports San Diego
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482093
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Ohio" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Ohio
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482094
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports North" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports North
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482095
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Midwest" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Midwest
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482096
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Florida" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Florida
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482097
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Detroit" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Detroit
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482098
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Arizona *" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Arizona *
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482099
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Kansas City" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Kansas City
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482100
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Indiana" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Indiana
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482101
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Bally Sports SoCal" tvg-logo="" group-title="Sport",SPORTS | Bally Sports SoCal
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482102
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Bally Sports Great Lakes" tvg-logo="" group-title="Sport",SPORTS | Bally Sports Great Lakes
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482103
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Bally Sports Oklahoma" tvg-logo="" group-title="Sport",SPORTS | Bally Sports Oklahoma
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482104
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Bally Sports New Orleans" tvg-logo="" group-title="Sport",SPORTS | Bally Sports New Orleans
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482105
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T Sports NET 2" tvg-logo="" group-title="Sport",SPORTS | AT&T Sports NET 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482106
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T SportsNet 2 West." tvg-logo="" group-title="Sport",SPORTS | AT&T SportsNet 2 West.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482107
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T Sportsnet Pittsburgh (@)" tvg-logo="" group-title="Sport",SPORTS | AT&T Sportsnet Pittsburgh (@)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482108
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T Sports US Encoder." tvg-logo="" group-title="Sport",SPORTS | AT&T Sports US Encoder.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482109
+#EXTINF:-1 tvg-ID="" tvg-name="BO | Tigo Sports 1 SD" tvg-logo="" group-title="Sport",BO | Tigo Sports 1 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485251
+#EXTINF:-1 tvg-ID="" tvg-name="BO | Tigo Sports 1 HD" tvg-logo="" group-title="Sport",BO | Tigo Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485252
+#EXTINF:-1 tvg-ID="" tvg-name="BO | Tigo Sports 2 SD" tvg-logo="" group-title="Sport",BO | Tigo Sports 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485253
+#EXTINF:-1 tvg-ID="" tvg-name="BO | Tigo Sports 2 HD" tvg-logo="" group-title="Sport",BO | Tigo Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485254
+#EXTINF:-1 tvg-ID="" tvg-name="BO | Tigo Sports 3 HD" tvg-logo="" group-title="Sport",BO | Tigo Sports 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485255
+#EXTINF:-1 tvg-ID="" tvg-name="BO | Tigo Sports 3 SD" tvg-logo="" group-title="Sport",BO | Tigo Sports 3 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/485256
+#EXTINF:-1 tvg-ID="" tvg-name="CR | Tigo Sports HD" tvg-logo="" group-title="Sport",CR | Tigo Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/182881
+#EXTINF:-1 tvg-ID="" tvg-name="CR | Tigo Sports FHD ⭐️" tvg-logo="" group-title="Sport",CR | Tigo Sports FHD ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/78408
+#EXTINF:-1 tvg-ID="" tvg-name="CL | TNT Sports 2" tvg-logo="" group-title="Sport",CL | TNT Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/12919
+#EXTINF:-1 tvg-ID="" tvg-name="GT | Claro Sports Guatemala" tvg-logo="" group-title="Sport",GT | Claro Sports Guatemala
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/179735
+#EXTINF:-1 tvg-ID="" tvg-name="ES | Fox life HD" tvg-logo="" group-title="Fox",ES | Fox life HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54504
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN 2 HD" tvg-logo="" group-title="Sport",SPORTS | ESPN 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54531
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN 2 SD" tvg-logo="" group-title="Sport",SPORTS | ESPN 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54532
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Deportes HD" tvg-logo="" group-title="Espn",DEP | ESPN Deportes HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54533
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN HD (Y)" tvg-logo="" group-title="Sport",SPORTS | ESPN HD (Y)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54529
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN News HD (I)" tvg-logo="" group-title="Sport",SPORTS | ESPN News HD (I)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54535
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN News SD" tvg-logo="" group-title="Sport",SPORTS | ESPN News SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54536
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN U HD (Y)" tvg-logo="" group-title="Sport",SPORTS | ESPN U HD (Y)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54537
+#EXTINF:-1 tvg-ID="" tvg-name="ET | FOX" tvg-logo="" group-title="Fox",ET | FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/71869
+#EXTINF:-1 tvg-ID="" tvg-name="FOX NEWS CHANNEL" tvg-logo="" group-title="Fox",FOX NEWS CHANNEL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56195
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 3 HD(X)" tvg-logo="" group-title="Sport",FR: Bein Sports 3 HD(X)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55576
+#EXTINF:-1 tvg-ID="" tvg-name="FR] EUROSPORT 1  ᴴᴰ" tvg-logo="" group-title="Sport",FR] EUROSPORT 1  ᴴᴰ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47617
+#EXTINF:-1 tvg-ID="" tvg-name="PY |  Tigo Sports 2" tvg-logo="" group-title="Sport",PY |  Tigo Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56706
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT LIVE 6" tvg-logo="" group-title="Sport",RMC SPORT LIVE 6
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/69485
+#EXTINF:-1 tvg-ID="" tvg-name="SV | Tigo Sports" tvg-logo="" group-title="Sport",SV | Tigo Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/149065
+#EXTINF:-1 tvg-ID="" tvg-name="UK SKY ACTION(i)" tvg-logo="" group-title="Sky",UK SKY ACTION(i)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56538
+#EXTINF:-1 tvg-ID="" tvg-name="UK SKY CRIME & THRILLER(M)" tvg-logo="" group-title="Sky",UK SKY CRIME & THRILLER(M)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/52231
+#EXTINF:-1 tvg-ID="" tvg-name="UK SKY SCI-FI & HORROR(I)" tvg-logo="" group-title="Sky",UK SKY SCI-FI & HORROR(I)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56539
+#EXTINF:-1 tvg-ID="" tvg-name="UK SKY TWO" tvg-logo="" group-title="Sky",UK SKY TWO
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/52233
+#EXTINF:-1 tvg-ID="" tvg-name="UK |  Sky Cinema Greats" tvg-logo="" group-title="Sky",UK |  Sky Cinema Greats
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54189
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY ARTS" tvg-logo="" group-title="Sky",UK: SKY ARTS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/52236
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY ATLANTIC" tvg-logo="" group-title="Sky",UK: SKY ATLANTIC
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/52234
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Select FHD(I)" tvg-logo="" group-title="Sky",UK: Sky Cinema Select FHD(I)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56546
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY NEWS(I)" tvg-logo="" group-title="Sky",UK: SKY NEWS(I)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/52235
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Universal Premiere FHD SUR" tvg-logo="" group-title="Premier",CINE | Universal Premiere FHD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198730
+#EXTINF:-1 tvg-ID="" tvg-name="PE | Directv Sports +" tvg-logo="" group-title="Sport",PE | Directv Sports +
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/69954
+#EXTINF:-1 tvg-ID="" tvg-name="MX | AYM Sports (R)" tvg-logo="" group-title="Sport",MX | AYM Sports (R)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/9540
+#EXTINF:-1 tvg-ID="" tvg-name="CL | TNT Sports Estadio" tvg-logo="" group-title="Sport",CL | TNT Sports Estadio
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/21961
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TNT Sports FHD" tvg-logo="" group-title="Sport",DEP | TNT Sports FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/224369
+#EXTINF:-1 tvg-ID="" tvg-name="PA | CableOnda Sports HD (G)" tvg-logo="" group-title="Sport",PA | CableOnda Sports HD (G)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55621
+#EXTINF:-1 tvg-ID="" tvg-name="HN | Tigo Sports" tvg-logo="" group-title="Sport",HN | Tigo Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55716
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sport+ SD ⭐️" tvg-logo="" group-title="Sport",CO | WIN Sport+ SD ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/12759
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sport+ FHD⚽️ ⭐️" tvg-logo="" group-title="Sport",CO | WIN Sport+ FHD⚽️ ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/12840
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sports SD" tvg-logo="" group-title="Sport",CO | WIN Sports SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/12851
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 HD ES" tvg-logo="" group-title="Sport",Eurosport 1 HD ES
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47435
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 HD ES" tvg-logo="" group-title="Sport",Eurosport 2 HD ES
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47437
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Golf Channel" tvg-logo="" group-title="Sport",SPORTS | Golf Channel
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/9372
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BOX Nation" tvg-logo="" group-title="Sport",SPORTS | BOX Nation
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/35387
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX Soccer  Plus" tvg-logo="" group-title="Sport",SPORTS | FOX Soccer  Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36057
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | WWE Network" tvg-logo="" group-title="Sport",SPORTS | WWE Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36426
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | UFC Fight Pass" tvg-logo="" group-title="Sport",SPORTS | UFC Fight Pass
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36427
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | PAC 12 Oregon" tvg-logo="" group-title="Sport",SPORTS | PAC 12 Oregon
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36428
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | PAC 12 Mountain" tvg-logo="" group-title="Sport",SPORTS | PAC 12 Mountain
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36430
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | YES Network" tvg-logo="" group-title="Sport",SPORTS | YES Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36432
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NFL Network" tvg-logo="" group-title="Sport",SPORTS | NFL Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36433
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NHL Network" tvg-logo="" group-title="Sport",SPORTS | NHL Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36435
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | MLB Network" tvg-logo="" group-title="Sport",SPORTS | MLB Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/36436
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX Sports 1" tvg-logo="" group-title="Sport",SPORTS | FOX Sports 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/37880
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX Sports 2" tvg-logo="" group-title="Sport",SPORTS | FOX Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/37956
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN" tvg-logo="" group-title="Sport",SPORTS | ESPN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/37960
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN News" tvg-logo="" group-title="Sport",SPORTS | ESPN News
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/37961
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN U" tvg-logo="" group-title="Sport",SPORTS | ESPN U
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/37962
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Marquee Sports Network" tvg-logo="" group-title="Sport",SPORTS | Marquee Sports Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/37963
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TSN 5" tvg-logo="" group-title="Sport",SPORTS | TSN 5
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40689
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TSN 1" tvg-logo="" group-title="Sport",SPORTS | TSN 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40690
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TSN 2" tvg-logo="" group-title="Sport",SPORTS | TSN 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40691
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TSN 3" tvg-logo="" group-title="Sport",SPORTS | TSN 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40692
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TSN 4" tvg-logo="" group-title="Sport",SPORTS | TSN 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40693
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | SportsNet 360" tvg-logo="" group-title="Sport",SPORTS | SportsNet 360
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/41194
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Bay Area" tvg-logo="" group-title="Sport",SPORTS | NBCSN Bay Area
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/41312
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NESN HD" tvg-logo="" group-title="Sport",SPORTS | NESN HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/46560
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NESN Plus" tvg-logo="" group-title="Sport",SPORTS | NESN Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/46566
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | SportsNet Ontario" tvg-logo="" group-title="Sport",SPORTS | SportsNet Ontario
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47460
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX Sports Prime Ticket" tvg-logo="" group-title="Sport",SPORTS | FOX Sports Prime Ticket
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47636
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX College Sports Pacific" tvg-logo="" group-title="Sport",SPORTS | FOX College Sports Pacific
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47640
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | MAV TV" tvg-logo="" group-title="Sport",SPORTS | MAV TV
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47645
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Boston" tvg-logo="" group-title="Sport",SPORTS | NBCSN Boston
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47647
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN California" tvg-logo="" group-title="Sport",SPORTS | NBCSN California
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47648
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Chicago" tvg-logo="" group-title="Sport",SPORTS | NBCSN Chicago
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47649
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Northwest" tvg-logo="" group-title="Sport",SPORTS | NBCSN Northwest
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47650
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Philadelphia" tvg-logo="" group-title="Sport",SPORTS | NBCSN Philadelphia
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47651
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | World Fishing Network" tvg-logo="" group-title="Sport",SPORTS | World Fishing Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47653
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | SNY HD" tvg-logo="" group-title="Sport",SPORTS | SNY HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47655
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | SEC Network" tvg-logo="" group-title="Sport",SPORTS | SEC Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47656
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports North" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports North
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47660
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Game Show Network" tvg-logo="" group-title="Sport",SPORTS | Game Show Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47673
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Outdoor Channel HD" tvg-logo="" group-title="Sport",SPORTS | Outdoor Channel HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47677
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | SportsMan Channel" tvg-logo="" group-title="Sport",SPORTS | SportsMan Channel
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47729
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Red Bull TV HD" tvg-logo="" group-title="Sport",SPORTS | Red Bull TV HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47813
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Fight Box" tvg-logo="" group-title="Sport",SPORTS | Fight Box
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/48553
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBC Sports Network" tvg-logo="" group-title="Sport",SPORTS | NBC Sports Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/48620
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Cheddar HD" tvg-logo="" group-title="Sport",SPORTS | Cheddar HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/49098
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Longhorn Network" tvg-logo="" group-title="Sport",SPORTS | Longhorn Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/50300
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | WE TV" tvg-logo="" group-title="Sport",SPORTS | WE TV
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/50686
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBA TV FHD" tvg-logo="" group-title="Sport",SPORTS | NBA TV FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/51191
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | UFC TV HD" tvg-logo="" group-title="Sport",SPORTS | UFC TV HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/51293
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Fight Network" tvg-logo="" group-title="Sport",SPORTS | Fight Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/51820
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ACC Network" tvg-logo="" group-title="Sport",SPORTS | ACC Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/52162
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Stadium 1" tvg-logo="" group-title="Sport",SPORTS | Stadium 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/53186
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | PAC 12 Arizona HD" tvg-logo="" group-title="Sport",SPORTS | PAC 12 Arizona HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/53201
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | PAC 12 Bay Area HD" tvg-logo="" group-title="Sport",SPORTS | PAC 12 Bay Area HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/53202
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | PAC 12 Los Angeles HD" tvg-logo="" group-title="Sport",SPORTS | PAC 12 Los Angeles HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/53203
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | PAC 12 Washington HD" tvg-logo="" group-title="Sport",SPORTS | PAC 12 Washington HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/53204
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | SportsNet New York" tvg-logo="" group-title="Sport",SPORTS | SportsNet New York
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/53212
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | MSG 2" tvg-logo="" group-title="Sport",SPORTS | MSG 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54633
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | beIN Sports USA" tvg-logo="" group-title="Sport",SPORTS | beIN Sports USA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55547
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BIG TEN Network" tvg-logo="" group-title="Sport",SPORTS | BIG TEN Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55548
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX Sports 2" tvg-logo="" group-title="Sport",SPORTS | FOX Sports 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55553
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Oklahoma" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Oklahoma
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55557
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Chicago Plus" tvg-logo="" group-title="Sport",SPORTS | NBCSN Chicago Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55561
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Washington Plus" tvg-logo="" group-title="Sport",SPORTS | NBCSN Washington Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55562
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | NBCSN Washington" tvg-logo="" group-title="Sport",SPORTS | NBCSN Washington
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55563
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Tennis Channel" tvg-logo="" group-title="Sport",SPORTS | Tennis Channel
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55564
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TVG Network" tvg-logo="" group-title="Sport",SPORTS | TVG Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55565
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Pac 12 Network" tvg-logo="" group-title="Sport",SPORTS | Pac 12 Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/56363
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | 333 (2015)" tvg-logo="" group-title="Sport",SPORTS | 333 (2015)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/84753
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Stadium 3" tvg-logo="" group-title="Sport",SPORTS | Stadium 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/100647
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Stadium 2" tvg-logo="" group-title="Sport",SPORTS | Stadium 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/100648
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | FOX College Sports Atlantic" tvg-logo="" group-title="Sport",SPORTS | FOX College Sports Atlantic
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/108734
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | beIN Sports 02" tvg-logo="" group-title="Sport",SPORTS | beIN Sports 02
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/165840
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | beIN Sports 04" tvg-logo="" group-title="Sport",SPORTS | beIN Sports 04
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/165841
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | beIN Sports 06" tvg-logo="" group-title="Sport",SPORTS | beIN Sports 06
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/165843
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN 2 HD" tvg-logo="" group-title="Sport",SPORTS | ESPN 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/170950
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN Deportes" tvg-logo="" group-title="Sport",SPORTS | ESPN Deportes
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/170951
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | TVG2 HD" tvg-logo="" group-title="Sport",SPORTS | TVG2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/170955
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | CBS Sports Network HD" tvg-logo="" group-title="Sport",SPORTS | CBS Sports Network HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/181053
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | beIN Sports" tvg-logo="" group-title="Sport",SPORTS | beIN Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218101
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Spectrum SportsNet Lakers" tvg-logo="" group-title="Sport",SPORTS | Spectrum SportsNet Lakers
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238689
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Root Sports NW" tvg-logo="" group-title="Sport",SPORTS | Root Sports NW
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238690
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | MASN" tvg-logo="" group-title="Sport",SPORTS | MASN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238691
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Arizona Plus" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Arizona Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238694
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports New Orleans Plus" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports New Orleans Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238699
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Altitude Sports" tvg-logo="" group-title="Sport",SPORTS | Altitude Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238703
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T SportsNet PITT" tvg-logo="" group-title="Sport",SPORTS | AT&T SportsNet PITT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238704
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T SportsNet SW" tvg-logo="" group-title="Sport",SPORTS | AT&T SportsNet SW
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238705
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Indiana" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Indiana
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238706
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports South" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports South
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238708
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Southeast" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Southeast
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238709
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | BALLY Sports Southwest Plus" tvg-logo="" group-title="Sport",SPORTS | BALLY Sports Southwest Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238711
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Fubo Sports Network" tvg-logo="" group-title="Sport",SPORTS | Fubo Sports Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/238714
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | One GOLF" tvg-logo="" group-title="Sport",SPORTS | One GOLF
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/241528
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Bein Sports XTRA Ñ" tvg-logo="" group-title="Sport",DEP | Bein Sports XTRA Ñ
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/259731
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 1 HD MEX" tvg-logo="" group-title="Sport",DEP | FOX Sports 1 HD MEX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/198785
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sports HD⚽️ ⭐️" tvg-logo="" group-title="Sport",CO | WIN Sports HD⚽️ ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/395945
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sports+ HD" tvg-logo="" group-title="Sport",CO | WIN Sports+ HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/395946
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Universal Premiere FHD NORTE" tvg-logo="" group-title="Premier",CINE | Universal Premiere FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439739
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1  SUR... FHD" tvg-logo="" group-title="Espn",DEP | ESPN 1  SUR... FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439752
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1  SUR FHD.." tvg-logo="" group-title="Espn",DEP | ESPN 1  SUR FHD..
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439753
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1  AR FHD." tvg-logo="" group-title="Espn",DEP | ESPN 1  AR FHD.
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439754
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Extra ARG FHD" tvg-logo="" group-title="Espn",DEP | ESPN Extra ARG FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439755
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 FHD SUR ." tvg-logo="" group-title="Espn",DEP | ESPN 2 FHD SUR .
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439756
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 FHD SUR" tvg-logo="" group-title="Espn",DEP | ESPN 2 FHD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439757
+#EXTINF:-1 tvg-ID="" tvg-name="CL | TNT Sports 3 SD" tvg-logo="" group-title="Sport",CL | TNT Sports 3 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439763
+#EXTINF:-1 tvg-ID="" tvg-name="CL | TNT Sports 2 SD" tvg-logo="" group-title="Sport",CL | TNT Sports 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439764
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 4 SD SUR" tvg-logo="" group-title="Espn",DEP | ESPN 4 SD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439770
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 3 SD SUR" tvg-logo="" group-title="Espn",DEP | ESPN 3 SD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439771
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 SD SUR ." tvg-logo="" group-title="Espn",DEP | ESPN 2 SD SUR .
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439772
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 SD SUR" tvg-logo="" group-title="Espn",DEP | ESPN 2 SD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439773
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 SD  COL" tvg-logo="" group-title="Espn",DEP | ESPN 1 SD  COL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439774
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 SD CH" tvg-logo="" group-title="Espn",DEP | ESPN 1 SD CH
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439775
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Universal Premiere OESTE FHD NORTE" tvg-logo="" group-title="Premier",CINE | Universal Premiere OESTE FHD NORTE
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439785
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 4 SD" tvg-logo="" group-title="Espn",DEP | ESPN 4 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439801
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 SD" tvg-logo="" group-title="Espn",DEP | ESPN 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439802
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 2 SD" tvg-logo="" group-title="Sport",DEP | FOX Sports 2 SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439803
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports +| Guatemala" tvg-logo="" group-title="Sport",Tigo Sports +| Guatemala
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/449602
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Golden Premier 2" tvg-logo="" group-title="Premier",CINE | Golden Premier 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/453359
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Multipremier HD" tvg-logo="" group-title="Premier",CINE | Multipremier HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/453505
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN Extra HD SUR" tvg-logo="" group-title="Espn",DEP | ESPN Extra HD SUR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/454717
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 1 MEX" tvg-logo="" group-title="Sport",DEP | FOX Sports 1 MEX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/19632
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | TYC Sports HD" tvg-logo="" group-title="Sport",DEP | TYC Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/454718
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 1 ARG HD" tvg-logo="" group-title="Espn",DEP | ESPN 1 ARG HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/454719
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 BR" tvg-logo="" group-title="Espn",DEP | ESPN 2 BR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/456549
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere 2" tvg-logo="" group-title="Premier",DEP | Premiere 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/456656
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Premiere Clubes HD" tvg-logo="" group-title="Premier",DEP | Premiere Clubes HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/456657
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports 2 FHD ⭐️" tvg-logo="" group-title="Sport",DEP | DirecTV Sports 2 FHD ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/456658
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports SD ⭐️" tvg-logo="" group-title="Sport",DEP | DirecTV Sports SD ⭐️
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/456659
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports HD COL" tvg-logo="" group-title="Sport",DEP | DirecTV Sports HD COL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/456660
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Rugby" tvg-logo="" group-title="Sport",SuperSport Rugby
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233403
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Motorsport" tvg-logo="" group-title="Sport",SuperSport Motorsport
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233405
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport MaXimo 1" tvg-logo="" group-title="Sport",SuperSport MaXimo 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233406
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="Sport",SuperSport Grandstand
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233407
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Golf" tvg-logo="" group-title="Sport",SuperSport Golf
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233408
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Cricket" tvg-logo="" group-title="Sport",SuperSport Cricket
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233417
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Blitz" tvg-logo="" group-title="Sport",SuperSport Blitz
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233418
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Action" tvg-logo="" group-title="Sport",SuperSport Action
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233419
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 4" tvg-logo="" group-title="Sport",SuperSport Variety 4
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233423
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 3" tvg-logo="" group-title="Sport",SuperSport Variety 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233424
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 2" tvg-logo="" group-title="Sport",SuperSport Variety 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233425
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 1" tvg-logo="" group-title="Sport",SuperSport Variety 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233426
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Football" tvg-logo="" group-title="Sport",SuperSport Football
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233427
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="Sport",SuperSport La Liga
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233428
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="Sport",SuperSport Premier League
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233429
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport PSL" tvg-logo="" group-title="Sport",SuperSport PSL
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/233430
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT EXTRA 1" tvg-logo="" group-title="Sport",UK: BT SPORT EXTRA 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197117
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT EXTRA 2" tvg-logo="" group-title="Sport",UK: BT SPORT EXTRA 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197118
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT EXTRA 3" tvg-logo="" group-title="Sport",UK: BT SPORT EXTRA 3
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197119
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT  8" tvg-logo="" group-title="Sport",UK: BT SPORT  8
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197120
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T Sports NET c" tvg-logo="" group-title="Sport",SPORTS | AT&T Sports NET c
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/467575
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T Sportsnet Rocky Mountain" tvg-logo="" group-title="Sport",SPORTS | AT&T Sportsnet Rocky Mountain
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/467576
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Claro Sports 1 HD" tvg-logo="" group-title="Sport",DEP | Claro Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/469052
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Claro Sports 2 HD" tvg-logo="" group-title="Sport",DEP | Claro Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/469053
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Golden Premiere 2 NORTE HD" tvg-logo="" group-title="Premier",CINE | Golden Premiere 2 NORTE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/469057
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Golden Premiere NORTE HD" tvg-logo="" group-title="Premier",CINE | Golden Premiere NORTE HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/469058
+#EXTINF:-1 tvg-ID="" tvg-name="TIGO SPORTS HD (HN)" tvg-logo="" group-title="Sport",TIGO SPORTS HD (HN)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/471057
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Kansas City (WDAF)" tvg-logo="" group-title="Fox",FOX Kansas City (WDAF)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475424
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Austin HD (KTBC-TV)" tvg-logo="" group-title="Fox",FOX-Austin HD (KTBC-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475444
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Atlanta HD (WAGA-TV)" tvg-logo="" group-title="Fox",FOX-Atlanta HD (WAGA-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475445
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Dallas HD (KDFW-TV)" tvg-logo="" group-title="Fox",FOX-Dallas HD (KDFW-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475446
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Denver HD (KDVR-TV)" tvg-logo="" group-title="Fox",FOX-Denver HD (KDVR-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475447
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Los Angeles HD (KTTV-TV)" tvg-logo="" group-title="Fox",FOX-Los Angeles HD (KTTV-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475448
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-New York HD (WNYW-TV)" tvg-logo="" group-title="Fox",FOX-New York HD (WNYW-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475449
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Phoenix HD (KSAZ-TV)" tvg-logo="" group-title="Fox",FOX-Phoenix HD (KSAZ-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475450
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Tampa Bay HD (WFTX-TV)" tvg-logo="" group-title="Fox",FOX-Tampa Bay HD (WFTX-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475451
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Washington HD (KCPQ-TV)" tvg-logo="" group-title="Fox",FOX-Washington HD (KCPQ-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475452
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Kansas City (WDAF)" tvg-logo="" group-title="Fox",FOX Kansas City (WDAF)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475463
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Austin HD (KTBC-TV)" tvg-logo="" group-title="Fox",FOX-Austin HD (KTBC-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475484
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Atlanta HD (WAGA-TV)" tvg-logo="" group-title="Fox",FOX-Atlanta HD (WAGA-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475485
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Dallas HD (KDFW-TV)" tvg-logo="" group-title="Fox",FOX-Dallas HD (KDFW-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475486
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Denver HD (KDVR-TV)" tvg-logo="" group-title="Fox",FOX-Denver HD (KDVR-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475487
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Los Angeles HD (KTTV-TV)" tvg-logo="" group-title="Fox",FOX-Los Angeles HD (KTTV-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475488
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-New York HD (WNYW-TV)" tvg-logo="" group-title="Fox",FOX-New York HD (WNYW-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475489
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Phoenix HD (KSAZ-TV)" tvg-logo="" group-title="Fox",FOX-Phoenix HD (KSAZ-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475490
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Tampa Bay HD (WFTX-TV)" tvg-logo="" group-title="Fox",FOX-Tampa Bay HD (WFTX-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475491
+#EXTINF:-1 tvg-ID="" tvg-name="FOX-Washington HD (KCPQ-TV)" tvg-logo="" group-title="Fox",FOX-Washington HD (KCPQ-TV)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/475492
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Bein Sports HD" tvg-logo="" group-title="Sport",CA: Bein Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479134
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Fox FHD" tvg-logo="" group-title="Fox",CA: Fox FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479219
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Fox Sports Racing HD" tvg-logo="" group-title="Sport",CA: Fox Sports Racing HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479220
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet 360 HD" tvg-logo="" group-title="Sport",CA: Sportsnet 360 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479285
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet East HD" tvg-logo="" group-title="Sport",CA: Sportsnet East HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479286
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet New York HD" tvg-logo="" group-title="Sport",CA: Sportsnet New York HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479287
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet One HD" tvg-logo="" group-title="Sport",CA: Sportsnet One HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479288
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet Ontario HD" tvg-logo="" group-title="Sport",CA: Sportsnet Ontario HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479289
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet Pacific FHD" tvg-logo="" group-title="Sport",CA: Sportsnet Pacific FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479290
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet Pacific HD" tvg-logo="" group-title="Sport",CA: Sportsnet Pacific HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479291
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sportsnet West FHD" tvg-logo="" group-title="Sport",CA: Sportsnet West FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479292
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Spt - Sportsnet 360" tvg-logo="" group-title="Sport",CA: Spt - Sportsnet 360
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479293
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Sports Ch 368" tvg-logo="" group-title="Sport",CA: Super Sports Ch 368
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479301
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Sports Ch 422" tvg-logo="" group-title="Sport",CA: Super Sports Ch 422
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479302
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Sports Ch 433 -" tvg-logo="" group-title="Sport",CA: Super Sports Ch 433 -
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479303
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Sports Ch 433" tvg-logo="" group-title="Sport",CA: Super Sports Ch 433
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479304
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Sports Ch 436" tvg-logo="" group-title="Sport",CA: Super Sports Ch 436
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479305
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Sports Ch 440 -" tvg-logo="" group-title="Sport",CA: Super Sports Ch 440 -
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479306
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVa Sports 1 HD" tvg-logo="" group-title="Sport",CA: TVa Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479323
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVa Sports 2 HD" tvg-logo="" group-title="Sport",CA: TVa Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479324
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVa Sports" tvg-logo="" group-title="Sport",CA: TVa Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479325
+#EXTINF:-1 tvg-ID="" tvg-name="CA:TVa Sports Fr" tvg-logo="" group-title="Sport",CA:TVa Sports Fr
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479334
+#EXTINF:-1 tvg-ID="" tvg-name="[Ca] Fox News" tvg-logo="" group-title="Fox",[Ca] Fox News
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479338
+#EXTINF:-1 tvg-ID="" tvg-name="CA | BEIN Sports Canadá HD**" tvg-logo="" group-title="Sport",CA | BEIN Sports Canadá HD**
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479353
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TVA Sports HD" tvg-logo="" group-title="Sport",CA | TVA Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479358
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Sports Net 360 HD" tvg-logo="" group-title="Sport",CA | Sports Net 360 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479359
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Sports Net One HD" tvg-logo="" group-title="Sport",CA | Sports Net One HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/479360
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Fubo Sports" tvg-logo="" group-title="Sport",SPORTS | Fubo Sports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/482181
+#EXTINF:-1 tvg-ID="" tvg-name="GUAT ®|  TIGO SPORTS HD" tvg-logo="" group-title="Sport",GUAT ®|  TIGO SPORTS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/486394
+#EXTINF:-1 tvg-ID="" tvg-name="GUAT ®|  TIGO SPORTS SD" tvg-logo="" group-title="Sport",GUAT ®|  TIGO SPORTS SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/486395
+#EXTINF:-1 tvg-ID="" tvg-name="CO | WIN Sports+ SD op2" tvg-logo="" group-title="Sport",CO | WIN Sports+ SD op2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/505449
+#EXTINF:-1 tvg-ID="" tvg-name="CINE | Golden Premier" tvg-logo="" group-title="Premier",CINE | Golden Premier
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/67425
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | FOX Sports 1  AR" tvg-logo="" group-title="Sport",DEP | FOX Sports 1  AR
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/158518
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | MSG" tvg-logo="" group-title="Sport",SPORTS | MSG
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218189
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | Spectrum Sportsnet" tvg-logo="" group-title="Sport",SPORTS | Spectrum Sportsnet
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218236
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | GINX ESports" tvg-logo="" group-title="Sport",SPORTS | GINX ESports
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218493
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | ESPN 1" tvg-logo="" group-title="Sport",SPORTS | ESPN 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218736
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS | AT&T Sportsnet South West" tvg-logo="" group-title="Sport",SPORTS | AT&T Sportsnet South West
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219167
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports HD ARG" tvg-logo="" group-title="Sport",DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/310509
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports 1 SD ECU" tvg-logo="" group-title="Sport",DEP | DirecTV Sports 1 SD ECU
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/310516
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports + HD" tvg-logo="" group-title="Sport",DEP | DirecTV Sports + HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/310519
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports HD ARG" tvg-logo="" group-title="Sport",DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/310533
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports + SD" tvg-logo="" group-title="Sport",DEP | DirecTV Sports + SD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/310535
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DirecTV Sports HD ECU" tvg-logo="" group-title="Sport",DEP | DirecTV Sports HD ECU
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/310536
+#EXTINF:-1 tvg-ID="" tvg-name="UR | VTV Sports HD" tvg-logo="" group-title="Sport",UR | VTV Sports HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/394850
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="Sport",BT Sport 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40683
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="Sport",BT Sport 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40684
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="Sport",BT Sport 3 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40685
+#EXTINF:-1 tvg-ID="" tvg-name="BT SPORT ESPN" tvg-logo="" group-title="Sport",BT SPORT ESPN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/54233
+#EXTINF:-1 tvg-ID="" tvg-name="Eir Sport 1" tvg-logo="" group-title="Sport",Eir Sport 1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47665
+#EXTINF:-1 tvg-ID="" tvg-name="Eir Sport 2" tvg-logo="" group-title="Sport",Eir Sport 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47666
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55732
+#EXTINF:-1 tvg-ID="" tvg-name="Premier Sports 1 HD" tvg-logo="" group-title="Sport",Premier Sports 1 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47624
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER SPORTS 2" tvg-logo="" group-title="Sport",PREMIER SPORTS 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/55726
+#EXTINF:-1 tvg-ID="" tvg-name="Premier Sports 2 HD" tvg-logo="" group-title="Sport",Premier Sports 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47625
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Action HD" tvg-logo="" group-title="Sport",Sky Sports Action HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40703
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS F1" tvg-logo="" group-title="Sport",SKY SPORTS F1
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/49104
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Golf HD" tvg-logo="" group-title="Sport",Sky Sports Golf HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/51323
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Main Events" tvg-logo="" group-title="Sport",Sky Sports Main Events
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47627
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports MIX" tvg-logo="" group-title="Sport",Sky Sports MIX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47628
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League HD" tvg-logo="" group-title="Sport",Sky Sports Premier League HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/40707
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Racing" tvg-logo="" group-title="Sport",Sky Sports Racing
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47629
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football HD" tvg-logo="" group-title="Sport",Sky Sports Football HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/183600
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News FHD" tvg-logo="" group-title="Sport",Sky Sports News FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/183602
+#EXTINF:-1 tvg-ID="" tvg-name="VIP Sky Sport NBA IT(S)" tvg-logo="" group-title="Sport",VIP Sky Sport NBA IT(S)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/58309
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN" tvg-logo="" group-title="Espn",USA | ESPN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218143
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN News" tvg-logo="" group-title="Espn",USA | ESPN News
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218144
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN U" tvg-logo="" group-title="Espn",USA | ESPN U
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218145
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX" tvg-logo="" group-title="Fox",USA | FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218148
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 11 Los Angeles" tvg-logo="" group-title="Fox",USA | FOX 11 Los Angeles
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218149
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 13 Tampa" tvg-logo="" group-title="Fox",USA | FOX 13 Tampa
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218150
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 26 Houston" tvg-logo="" group-title="Fox",USA | FOX 26 Houston
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218151
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 29 Philadelphia" tvg-logo="" group-title="Fox",USA | FOX 29 Philadelphia
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218152
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 31 Denver" tvg-logo="" group-title="Fox",USA | FOX 31 Denver
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218153
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 35 Orlando" tvg-logo="" group-title="Fox",USA | FOX 35 Orlando
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218154
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 4 Dallas" tvg-logo="" group-title="Fox",USA | FOX 4 Dallas
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218155
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 5 Atlanta" tvg-logo="" group-title="Fox",USA | FOX 5 Atlanta
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218156
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 5 New York" tvg-logo="" group-title="Fox",USA | FOX 5 New York
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218157
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 7 Miami" tvg-logo="" group-title="Fox",USA | FOX 7 Miami
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218158
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 8 Cleveland" tvg-logo="" group-title="Fox",USA | FOX 8 Cleveland
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218159
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX Business Network" tvg-logo="" group-title="Fox",USA | FOX Business Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218160
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX Soccer Plus" tvg-logo="" group-title="Fox",USA | FOX Soccer Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218163
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Golden Premier" tvg-logo="" group-title="Premier",USA | Golden Premier
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218171
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports Bay Area" tvg-logo="" group-title="Sport",USA | NBC Sports Bay Area
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218207
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports Boston" tvg-logo="" group-title="Sport",USA | NBC Sports Boston
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218208
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports California" tvg-logo="" group-title="Sport",USA | NBC Sports California
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218209
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports Chicago" tvg-logo="" group-title="Sport",USA | NBC Sports Chicago
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218210
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports Northwest" tvg-logo="" group-title="Sport",USA | NBC Sports Northwest
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218211
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports Philadelphia" tvg-logo="" group-title="Sport",USA | NBC Sports Philadelphia
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218212
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sports Washington" tvg-logo="" group-title="Sport",USA | NBC Sports Washington
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218213
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX BOSTON" tvg-logo="" group-title="Fox",USA | FOX BOSTON
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218301
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NESN SPORT" tvg-logo="" group-title="Sport",USA | NESN SPORT
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218304
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPORTNET LA Dodgers" tvg-logo="" group-title="Sport",USA | SPORTNET LA Dodgers
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218315
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Adventure Sports Network" tvg-logo="" group-title="Sport",USA | Adventure Sports Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218364
+#EXTINF:-1 tvg-ID="" tvg-name="USA | beIN Sports 11" tvg-logo="" group-title="Sport",USA | beIN Sports 11
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218374
+#EXTINF:-1 tvg-ID="" tvg-name="USA | beIN Sports 12" tvg-logo="" group-title="Sport",USA | beIN Sports 12
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218375
+#EXTINF:-1 tvg-ID="" tvg-name="USA | beIN Sports N" tvg-logo="" group-title="Sport",USA | beIN Sports N
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218376
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN" tvg-logo="" group-title="Espn",USA | ESPN
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218457
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN 2" tvg-logo="" group-title="Espn",USA | ESPN 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218458
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN Goal Line" tvg-logo="" group-title="Espn",USA | ESPN Goal Line
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218460
+#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN U" tvg-logo="" group-title="Espn",USA | ESPN U
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218461
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Fox Business" tvg-logo="" group-title="Fox",USA | Fox Business
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218464
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Fox Soccer Plus" tvg-logo="" group-title="Fox",USA | Fox Soccer Plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218467
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPECTRUM Sportsnet" tvg-logo="" group-title="Sport",USA | SPECTRUM Sportsnet
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218587
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPORTSNET 360" tvg-logo="" group-title="Sport",USA | SPORTSNET 360
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218588
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPORTSNET LA" tvg-logo="" group-title="Sport",USA | SPORTSNET LA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218589
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPORTSNET One" tvg-logo="" group-title="Sport",USA | SPORTSNET One
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218590
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPORTSNET Ontario" tvg-logo="" group-title="Sport",USA | SPORTSNET Ontario
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218591
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPORTSNET World" tvg-logo="" group-title="Sport",USA | SPORTSNET World
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218593
+#EXTINF:-1 tvg-ID="" tvg-name="US:  beIN Sports 7 HD" tvg-logo="" group-title="Sport",US:  beIN Sports 7 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218669
+#EXTINF:-1 tvg-ID="" tvg-name="US: SKY CINEMA ACTION" tvg-logo="" group-title="Sky",US: SKY CINEMA ACTION
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218677
+#EXTINF:-1 tvg-ID="" tvg-name="US:  Espn Deportes HD" tvg-logo="" group-title="Espn",US:  Espn Deportes HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218701
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX 2 HD" tvg-logo="" group-title="Fox",US: FOX 2 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218711
+#EXTINF:-1 tvg-ID="" tvg-name="US:  ESPN USA FHD" tvg-logo="" group-title="Espn",US:  ESPN USA FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218712
+#EXTINF:-1 tvg-ID="" tvg-name="US: ATT SportsNet Southwest" tvg-logo="" group-title="Sport",US: ATT SportsNet Southwest
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218733
+#EXTINF:-1 tvg-ID="" tvg-name="US: FoX Deportes" tvg-logo="" group-title="Fox",US: FoX Deportes
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218744
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN Longhorn Network" tvg-logo="" group-title="Espn",US: ESPN Longhorn Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218746
+#EXTINF:-1 tvg-ID="" tvg-name="US:  CBS Sports Network" tvg-logo="" group-title="Sport",US:  CBS Sports Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218754
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN plus" tvg-logo="" group-title="Espn",US: ESPN plus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218757
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Chicago" tvg-logo="" group-title="Sport",US: NBC Sports Chicago
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218759
+#EXTINF:-1 tvg-ID="" tvg-name="US:  BeIN SPORTS HD" tvg-logo="" group-title="Sport",US:  BeIN SPORTS HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218764
+#EXTINF:-1 tvg-ID="" tvg-name="US: Bein Sports USA HD" tvg-logo="" group-title="Sport",US: Bein Sports USA HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218767
+#EXTINF:-1 tvg-ID="" tvg-name="US: Sportsnet LA" tvg-logo="" group-title="Sport",US: Sportsnet LA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218780
+#EXTINF:-1 tvg-ID="" tvg-name="US:  ESPN U HD" tvg-logo="" group-title="Espn",US:  ESPN U HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218791
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC Sports Northeast" tvg-logo="" group-title="Sport",US: NBC Sports Northeast
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218796
+#EXTINF:-1 tvg-ID="" tvg-name="US:  FOX Business Network HD" tvg-logo="" group-title="Fox",US:  FOX Business Network HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218801
+#EXTINF:-1 tvg-ID="" tvg-name="US:  FOX Boston" tvg-logo="" group-title="Fox",US:  FOX Boston
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218847
+#EXTINF:-1 tvg-ID="" tvg-name="US: FoX Atlanta" tvg-logo="" group-title="Fox",US: FoX Atlanta
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218886
+#EXTINF:-1 tvg-ID="" tvg-name="US: FNTSY Sports Network" tvg-logo="" group-title="Sport",US: FNTSY Sports Network
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218919
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX 29 Philadelphia" tvg-logo="" group-title="Fox",USA: FOX 29 Philadelphia
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218944
+#EXTINF:-1 tvg-ID="" tvg-name="US: Sports man Channel" tvg-logo="" group-title="Sport",US: Sports man Channel
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218949
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Tampa" tvg-logo="" group-title="Fox",US: FOX Tampa
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218956
+#EXTINF:-1 tvg-ID="" tvg-name="US: ESPN 2" tvg-logo="" group-title="Espn",US: ESPN 2
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218975
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Columbus" tvg-logo="" group-title="Fox",US: FOX Columbus
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218993
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Cleveland" tvg-logo="" group-title="Fox",US: FOX Cleveland
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218994
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Buffalo" tvg-logo="" group-title="Fox",US: FOX Buffalo
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218995
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Boston" tvg-logo="" group-title="Fox",US: FOX Boston
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218996
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Belmont" tvg-logo="" group-title="Fox",US: FOX Belmont
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218997
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Baltimore" tvg-logo="" group-title="Fox",US: FOX Baltimore
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218998
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Austin" tvg-logo="" group-title="Fox",US: FOX Austin
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/218999
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Indianapolis" tvg-logo="" group-title="Fox",US: FOX Indianapolis
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219022
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Jacksonville" tvg-logo="" group-title="Fox",US: FOX Jacksonville
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219023
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Kansas City" tvg-logo="" group-title="Fox",US: FOX Kansas City
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219024
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Los Angeles" tvg-logo="" group-title="Fox",US: FOX Los Angeles
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219025
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Miami" tvg-logo="" group-title="Fox",US: FOX Miami
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219026
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Milwaukee" tvg-logo="" group-title="Fox",US: FOX Milwaukee
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219027
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Ocala" tvg-logo="" group-title="Fox",US: FOX Ocala
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219028
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Orlando" tvg-logo="" group-title="Fox",US: FOX Orlando
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219029
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Minneapolis" tvg-logo="" group-title="Fox",US: FOX Minneapolis
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219030
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Sacramento" tvg-logo="" group-title="Fox",US: FOX Sacramento
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219031
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX San Antonio" tvg-logo="" group-title="Fox",US: FOX San Antonio
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219032
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX San Francisco" tvg-logo="" group-title="Fox",US: FOX San Francisco
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219033
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPORTSNET ONTARIO HD" tvg-logo="" group-title="Sport",US: SPORTSNET ONTARIO HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219045
+#EXTINF:-1 tvg-ID="" tvg-name="US: SportsNet One HD" tvg-logo="" group-title="Sport",US: SportsNet One HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219049
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WV CLARKSBURG FOX" tvg-logo="" group-title="Fox",USA: WV CLARKSBURG FOX
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219062
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Nashville" tvg-logo="" group-title="Fox",US: FOX Nashville
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219092
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX New Orleans" tvg-logo="" group-title="Fox",US: FOX New Orleans
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219093
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Pittsburgh" tvg-logo="" group-title="Fox",US: FOX Pittsburgh
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219094
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Salt Lake City" tvg-logo="" group-title="Fox",US: FOX Salt Lake City
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219096
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX San Diego" tvg-logo="" group-title="Fox",US: FOX San Diego
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219097
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX PHILADELPHIA PA WTXF" tvg-logo="" group-title="Fox",US: FOX PHILADELPHIA PA WTXF
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219106
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX Dallas" tvg-logo="" group-title="Fox",US: FOX Dallas
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219118
+#EXTINF:-1 tvg-ID="" tvg-name="US: New York FOX WNYW" tvg-logo="" group-title="Fox",US: New York FOX WNYW
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219148
+#EXTINF:-1 tvg-ID="" tvg-name="US: SPECTRUM SPORTSNET" tvg-logo="" group-title="Sport",US: SPECTRUM SPORTSNET
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/219169
+#EXTINF:-1 tvg-ID="" tvg-name="Diamond Foxxx Seduced by a Cougar (Naughty America)" tvg-logo="" group-title="Fox",Diamond Foxxx Seduced by a Cougar (Naughty America)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/484245
+#EXTINF:-1 tvg-ID="" tvg-name="Reagan Foxx My Friends Hot Mom (Naughty America)" tvg-logo="" group-title="Fox",Reagan Foxx My Friends Hot Mom (Naughty America)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/484276
+#EXTINF:-1 tvg-ID="" tvg-name="Mila Fox CASTING" tvg-logo="" group-title="Fox",Mila Fox CASTING
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/484480
