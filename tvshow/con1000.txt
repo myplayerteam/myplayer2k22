@@ -670,8 +670,6 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209665
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209668
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT EN FRANCE" tvg-logo="" group-title="Sport",SPORT EN FRANCE
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209682
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ FORMULE 1 HD" tvg-logo="" group-title="Canal+",CANAL+ FORMULE 1 HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209683
 #EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT" tvg-logo="" group-title="Sport",MOTORSPORT
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/209684
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Serie A" tvg-logo="" group-title="Sport",IT: Sky Sport Serie A
@@ -810,8 +808,6 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161087
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161088
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="Sport",EUROSPORT 2 HD
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161090
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SPORTS HD" tvg-logo="" group-title="Sport",CANAL+ SPORTS HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/161092
 #EXTINF:-1 tvg-ID="" tvg-name="FR: INFOSPORT+ HD" tvg-logo="" group-title="Sport",FR: INFOSPORT+ HD
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/184446
 #EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS 1" tvg-logo="" group-title="Sport",BE: PLAY SPORTS 1
@@ -832,18 +828,6 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196411
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196412
 #EXTINF:-1 tvg-ID="" tvg-name="FR PARIS PREMIERE FULL" tvg-logo="" group-title="Premier",FR PARIS PREMIERE FULL
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196453
-#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ FULL" tvg-logo="" group-title="Canal+",FR CANAL+ FULL
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196454
-#EXTINF:-1 tvg-ID="" tvg-name="FR Canal+ Sports FULL" tvg-logo="" group-title="Sport",FR Canal+ Sports FULL
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196455
-#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ CINEMA FULL" tvg-logo="" group-title="Canal+",FR CANAL+ CINEMA FULL
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196456
-#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ DECALE FULL" tvg-logo="" group-title="Canal+",FR CANAL+ DECALE FULL
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196457
-#EXTINF:-1 tvg-ID="" tvg-name="FR Canal+ Family FULL" tvg-logo="" group-title="Canal+",FR Canal+ Family FULL
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196458
-#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ SERIES FULL" tvg-logo="" group-title="Canal+",FR CANAL+ SERIES FULL
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196459
 #EXTINF:-1 tvg-ID="" tvg-name="FR Cine Premier FULL" tvg-logo="" group-title="Premier",FR Cine Premier FULL
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196460
 #EXTINF:-1 tvg-ID="" tvg-name="FR INFOSPORT FULL" tvg-logo="" group-title="Sport",FR INFOSPORT FULL
@@ -1054,30 +1038,12 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197198
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197199
 #EXTINF:-1 tvg-ID="" tvg-name="RO: LOOK SPORT" tvg-logo="" group-title="Sport",RO: LOOK SPORT
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197200
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="Canal+",FR: CANAL+ HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197230
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAl+ CINEMA HD" tvg-logo="" group-title="Canal+",FR: CANAl+ CINEMA HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197231
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FAMILY HD" tvg-logo="" group-title="Canal+",FR: CANAL+ FAMILY HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197232
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="" group-title="Canal+",FR: CANAL+ DECALE HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197233
 #EXTINF:-1 tvg-ID="" tvg-name="FR: CINE PREMIER HD" tvg-logo="" group-title="Premier",FR: CINE PREMIER HD
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197234
 #EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE ᴴᴰ" tvg-logo="" group-title="Premier",FR: PARIS PREMIERE ᴴᴰ
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197254
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ CINEMA SD" tvg-logo="" group-title="Canal+",FR: CANAL+ CINEMA SD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197385
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ DECALE SD" tvg-logo="" group-title="Canal+",FR: CANAL+ DECALE SD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197386
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FAMILY SD" tvg-logo="" group-title="Canal+",FR: CANAL+ FAMILY SD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197387
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ SERIES" tvg-logo="" group-title="Canal+",FR: CANAL+ SERIES
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197388
 #EXTINF:-1 tvg-ID="" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="Premier",FR: CINE+ PREMIER
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197395
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ LIGUE 1 FHD" tvg-logo="" group-title="Canal+",FR: CANAL+ LIGUE 1 FHD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197402
 #EXTINF:-1 tvg-ID="" tvg-name="FR: RMC INFO TALK SPORT" tvg-logo="" group-title="Sport",FR: RMC INFO TALK SPORT
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197403
 #EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 360 1 HD" tvg-logo="" group-title="Sport",FR: EUROSPORT 360 1 HD
@@ -1096,10 +1062,6 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197409
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197410
 #EXTINF:-1 tvg-ID="" tvg-name="FR: MOTORSPORT" tvg-logo="" group-title="Sport",FR: MOTORSPORT
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197411
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ TOP 14 RUGBY FHD" tvg-logo="" group-title="Canal+",FR: CANAL+ TOP 14 RUGBY FHD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197438
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FORMULE 1 HD" tvg-logo="" group-title="Canal+",FR: CANAL+ FORMULE 1 HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197439
 #EXTINF:-1 tvg-ID="" tvg-name="FR: SPORT EN FRANCE" tvg-logo="" group-title="Sport",FR: SPORT EN FRANCE
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197473
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SKY FLIX ACTION" tvg-logo="" group-title="Sky",AR: SKY FLIX ACTION
@@ -1432,12 +1394,6 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215478
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215481
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sky History" tvg-logo="" group-title="Sky",IT: Sky History
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215495
-#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL+ Sport FHD" tvg-logo="" group-title="Sport",FR:  CANAL+ Sport FHD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227892
-#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL+ Decale HD" tvg-logo="" group-title="Canal+",FR:  CANAL+ Decale HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227897
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ FAMILY" tvg-logo="" group-title="Canal+",FR: CANAL+ FAMILY
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227898
 #EXTINF:-1 tvg-ID="" tvg-name="FR:  CINE PREMIER" tvg-logo="" group-title="Premier",FR:  CINE PREMIER
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/227911
 #EXTINF:-1 tvg-ID="" tvg-name="FR: EXTREME SPORTS HD" tvg-logo="" group-title="Sport",FR: EXTREME SPORTS HD
@@ -1516,18 +1472,10 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228191
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228192
 #EXTINF:-1 tvg-ID="" tvg-name="FR:  EUROSPORT 1HD" tvg-logo="" group-title="Sport",FR:  EUROSPORT 1HD
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228193
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+ CINEMA HD" tvg-logo="" group-title="Canal+",FR: CANAL+ CINEMA HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228201
 #EXTINF:-1 tvg-ID="" tvg-name="FR:  BEIN SPORT 2 HD" tvg-logo="" group-title="Sport",FR:  BEIN SPORT 2 HD
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228202
-#EXTINF:-1 tvg-ID="" tvg-name="FR:  CANAL+ Cinema HD" tvg-logo="" group-title="Canal+",FR:  CANAL+ Cinema HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228203
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+  SERIE HD" tvg-logo="" group-title="Canal+",FR: CANAL+  SERIE HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228204
 #EXTINF:-1 tvg-ID="" tvg-name="FR:  Canal  Sport" tvg-logo="" group-title="Sport",FR:  Canal  Sport
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228205
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+SPORT HD" tvg-logo="" group-title="Sport",FR: CANAL+SPORT HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228208
 #EXTINF:-1 tvg-ID="" tvg-name="FR:  beinsports 6 MaX" tvg-logo="" group-title="Sport",FR:  beinsports 6 MaX
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/228209
 #EXTINF:-1 tvg-ID="" tvg-name="RU-  Viasat Sport East" tvg-logo="" group-title="Sport",RU-  Viasat Sport East
