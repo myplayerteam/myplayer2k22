@@ -321,6 +321,495 @@ http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/59934
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="AE: Yas TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/92a0bf96d4ab9376e8d1e8750326186a.png" group-title="UAE ➾ Sports",AE: Yas TV
-http://iptvmedia.live:8080/GenIptvLast/gRta4RvjFMPBRRTTb5/22009
-
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 1 HD " tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 1 HD 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1638
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 2 HD " tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 2 HD 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1639
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 3 HD" tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1640
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 4 HD" tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 4 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1641
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 5 HD" tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 5 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1642
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 6 HD" tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 6 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1643
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 7 HD" tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 7 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1644
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NETFLIX FILM 8 HD" tvg-logo="" group-title="France netflix",|FR| NETFLIX FILM 8 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1645
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Magico CINEMA HD" tvg-logo="" group-title="France netflix",|FR| Magico CINEMA HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1646
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Magico CINEMA ACTION HD" tvg-logo="" group-title="France netflix",|FR| Magico CINEMA ACTION HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1647
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Magico CINEMA COMEDY HD" tvg-logo="" group-title="France netflix",|FR| Magico CINEMA COMEDY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1649
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Magico CINEMA DRAME 1 HD" tvg-logo="" group-title="France netflix",|FR| Magico CINEMA DRAME 1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1650
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Netfllix CINEMA GOLD HD" tvg-logo="" group-title="France netflix",|FR| Netfllix CINEMA GOLD HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1651
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/TF1.png" group-title="FR: TNT FHD",|FR| TF1 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/58
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE2.png" group-title="FR: TNT FHD",|FR| FRANCE 2 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/59
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE3.png" group-title="FR: TNT FHD",|FR| FRANCE 3 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/60
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ARTE FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/ARTE.png" group-title="FR: TNT FHD",|FR| ARTE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/61
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/M6.png" group-title="FR: TNT FHD",|FR| M6 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/62
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/FRANCE5.png" group-title="FR: TNT FHD",|FR| FRANCE 5 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/63
+#EXTINF:-1 tvg-id="" tvg-name="|FR| C8 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/C8.png" group-title="FR: TNT FHD",|FR| C8 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/64
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/W9.png" group-title="FR: TNT FHD",|FR| W9 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/65
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/TMC-1.png" group-title="FR: TNT FHD",|FR| TMC FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/66
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TFX FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/TFX.png" group-title="FR: TNT FHD",|FR| TFX FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/67
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="FR: TNT FHD",|FR| NRJ 12 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/68
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE4.png" group-title="FR: TNT FHD",|FR| FRANCE 4 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/69
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM TV FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="FR: TNT FHD",|FR| BFM TV FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/70
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CNEWS FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/CANALNEWSHD-1.png" group-title="FR: TNT FHD",|FR| CNEWS FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/71
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/CSTAR.png" group-title="FR: TNT FHD",|FR| CSTAR FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/72
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GULLI FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/GULLI.png" group-title="FR: Enfant",|FR| GULLI FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/73
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L'EQUIPE FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/LEQUIPE.png" group-title="FR: TNT FHD",|FR| L'EQUIPE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/74
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SERIES/FILMS FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TF1FILMSSERIES.png" group-title="FR: TNT FHD",|FR| TF1 SERIES/FILMS FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/75
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 6TER FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/6TER.png" group-title="FR: TNT FHD",|FR| 6TER FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/76
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="FR: TNT FHD",|FR| RMC STORY FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/77
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/RMCDECOUVERTE.png" group-title="FR: TNT FHD",|FR| RMC DECOUVERTE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/78
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/PARISPREMIERE.png" group-title="FR: TNT FHD",|FR| CHERIE 25 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/79
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20140322113912/logopedia/images/b/b8/800px-TF1_1990_%28bis%29.svg.png" group-title="FR: TNT HD",|FR| TF1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/215
+#EXTINF:-1 tvg-id="" tvg-name="|FR| France 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1200px-France_2_2018.svg.png" group-title="FR: TNT HD",|FR| France 2 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/216
+#EXTINF:-1 tvg-id="" tvg-name="|FR| France 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1199px-France_3_2018.svg.png" group-title="FR: TNT HD",|FR| France 3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/217
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CANAL+.png" group-title="FR: TNT HD",|FR| CANAL+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/218
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Arte HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/ARTE.png" group-title="FR: TNT HD",|FR| Arte HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/219
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/M6.png" group-title="FR: TNT HD",|FR| M6
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/220
+#EXTINF:-1 tvg-id="" tvg-name="|FR| France 5 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE5.png" group-title="FR: TNT HD",|FR| France 5 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/221
+#EXTINF:-1 tvg-id="" tvg-name="|FR| C8" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/C8.png" group-title="FR: TNT HD",|FR| C8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/222
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/W9.png" group-title="FR: TNT HD",|FR| W9
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/223
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TMC.png" group-title="FR: TNT HD",|FR| TMC
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/224
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TFX" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TFX.png" group-title="FR: TNT HD",|FR| TFX
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/225
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="FR: TNT HD",|FR| NRJ 12 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/226
+#EXTINF:-1 tvg-id="" tvg-name="|FR| France 4 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/FRANCE4.png" group-title="FR: TNT HD",|FR| France 4 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/227
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/BFMTV.png" group-title="FR: TNT HD",|FR| BFM TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/228
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CNEWS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/CNEWS.png" group-title="FR: TNT HD",|FR| CNEWS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/229
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/CSTAR.png" group-title="FR: TNT HD",|FR| CSTAR
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/230
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Gulli" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/GULLI.png" group-title="FR: TNT HD",|FR| Gulli
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/231
+#EXTINF:-1 tvg-id="" tvg-name="|FR| France O" tvg-logo="http://54.36.106.182:8081/logo/fr0.jpg" group-title="FR: TNT HD",|FR| France O
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/232
+#EXTINF:-1 tvg-id="" tvg-name="|FR| l'Equipe 21 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/LEQUIPE.png" group-title="FR: SPORTS",|FR| l'Equipe 21 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/233
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SERIES FILMS HD" tvg-logo="" group-title="FR: TNT HD",|FR| TF1 SERIES FILMS HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/234
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 6ter HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/6TER.png" group-title="FR: TNT HD",|FR| 6ter HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/235
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Story HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/RMCSTORYFHD.png" group-title="FR: TNT HD",|FR| RMC Story HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/236
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/RMCDECOUVERTEHD.png" group-title="FR: TNT HD",|FR| RMC DECOUVERTE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/237
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE 25 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1200px-Logo_Ch%C3%A9rie_25.svg.png" group-title="FR: TNT HD",|FR| CHERIE 25 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/238
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC1.png" group-title="FR: RMC SPORT",|FR| RMC SPORT 1 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC2.png" group-title="FR: RMC SPORT",|FR| RMC SPORT 2 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/94
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC3.png" group-title="FR: RMC SPORT",|FR| RMC SPORT 3 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/95
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 4 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC4.png" group-title="FR: RMC SPORT",|FR| RMC SPORT 4 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/96
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 1 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/RMC1.png" group-title="FR: RMC SPORT",|FR| RMC Sport 1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/97
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 2 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/RMC2.png" group-title="FR: RMC SPORT",|FR| RMC Sport 2 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/98
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 3 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/RMC3.png" group-title="FR: RMC SPORT",|FR| RMC Sport 3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/99
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 4 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/RMC4.png" group-title="FR: RMC SPORT",|FR| RMC Sport 4 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/100
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 1 Access HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMCAC1.png" group-title="FR: RMC SPORT",|FR| RMC Sport 1 Access HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/101
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 2 Access HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMCAC2.png" group-title="FR: RMC SPORT",|FR| RMC Sport 2 Access HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/102
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport 3 Access HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMCAC3.png" group-title="FR: RMC SPORT",|FR| RMC Sport 3 Access HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/103
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 5 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC5.png" group-title="FR: RMC SPORT",|FR| RMC Sport Live 5 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/104
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 6 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC6.png" group-title="FR: RMC SPORT",|FR| RMC Sport Live 6 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/105
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 7 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC8.png" group-title="FR: RMC SPORT",|FR| RMC Sport Live 7 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/106
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 8 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC8.png" group-title="FR: RMC SPORT",|FR| RMC Sport Live 8 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/107
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 9 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC9.png" group-title="FR: RMC SPORT",|FR| RMC Sport Live 9 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/108
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 10 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/RMC10.png" group-title="FR: RMC SPORT",|FR| RMC Sport Live 10 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/109
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 11 HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport Live 11 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/110
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 12 HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport Live 12 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/111
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 13 HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport Live 13 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/112
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 14 HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport Live 14 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/113
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 15 HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport Live 15 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/114
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 16 HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport Live 16 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/115
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT NEWS FHD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC SPORT NEWS FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/116
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport News HD" tvg-logo="" group-title="FR: RMC SPORT",|FR| RMC Sport News HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/117
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN1FRFHD.png" group-title="FR: BEIN SPORTS FR",|FR| BEIN SPORTS 1 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/170
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png" group-title="FR: BEIN SPORTS FR",|FR| BEIN SPORTS 2 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/171
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN3FRFHD.png" group-title="FR: BEIN SPORTS FR",|FR| BEIN SPORTS 3 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/172
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports 1" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEIN1FRHD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/173
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports 2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR2HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/174
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports 3" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR3HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports 3
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/175
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 4" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX4HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 4
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/176
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 5" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX5HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 5
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/177
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 6" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX6HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 6
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/178
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 7" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX7HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 7
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/179
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 8" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX8HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/180
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 9" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX9.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 9
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/181
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sports MAX 10" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX10HD.png" group-title="FR: BEIN SPORTS FR",|FR| BeIN Sports MAX 10
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/182
+#EXTINF:-1 tvg-id="" tvg-name="===== CANALSAT FHD =====" tvg-logo="" group-title="FR: CANAL SAT ",===== CANALSAT FHD =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/118
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/CANAL+CINEMA.png" group-title="FR: CANAL SAT ",|FR| CANAL+ CINEMA FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/119
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ DECALE FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/CANAL+DECALE.png" group-title="FR: CANAL SAT ",|FR| CANAL+ DECALE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/120
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/CANAL+FAMILY.png" group-title="FR: CANAL SAT ",|FR| CANAL+ FAMILY FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/121
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/CANAL+SERIES.png" group-title="FR: CANAL SAT ",|FR| CANAL+ SERIES FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/122
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ PREMIER FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/CINE+PREMIER.png" group-title="FR: CANAL SAT ",|FR| CINE+ PREMIER FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/123
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FRISSON FHD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/CINE+FRISSON.png" group-title="FR: CANAL SAT ",|FR| CINE+ FRISSON FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/124
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FAMIZ FHD" tvg-logo="http://54.36.106.182:8081/logo/cinmf.png" group-title="FR: CANAL SAT ",|FR| CINE+ FAMIZ FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/125
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLASSIC FHD" tvg-logo="http://54.36.106.182:8081/logo/cinmc.png" group-title="FR: CANAL SAT ",|FR| CINE+ CLASSIC FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/126
+#EXTINF:-1 tvg-id="" tvg-name="|FR6 CINE+ CLUB FHD" tvg-logo="" group-title="FR: CANAL SAT ",|FR6 CINE+ CLUB FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/127
+#EXTINF:-1 tvg-id="" tvg-name="===== CANALSAT =====" tvg-logo="" group-title="FR: CANAL SAT ",===== CANALSAT =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/128
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA" tvg-logo="http://54.36.106.182:8081/logo/can+.png" group-title="FR: CANAL SAT ",|FR| CANAL+ CINEMA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/129
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ DECALE" tvg-logo="" group-title="FR: CANAL SAT ",|FR| CANAL+ DECALE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/130
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CANAL+FAMILY.png" group-title="FR: CANAL SAT ",|FR| CANAL+ FAMILY
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/131
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CANAL+SERIES.png" group-title="FR: CANAL SAT ",|FR| CANAL+ SERIES
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/132
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CANAL+SPORT.png" group-title="FR: CANAL SAT ",|FR| CANAL+ SPORT
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/133
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ PREMIER" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CINE+PREMIER.png" group-title="FR: CANAL SAT ",|FR| CINE+ PREMIER
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/134
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FRISSON" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CINE+FRISSON.png" group-title="FR: CANAL SAT ",|FR| CINE+ FRISSON
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/135
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FAMIZ" tvg-logo="http://54.36.106.182:8081/logo/cinmf.png" group-title="FR: CANAL SAT ",|FR| CINE+ FAMIZ
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/136
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ EMOTION" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CINE+EMOTION.png" group-title="FR: CANAL SAT ",|FR| CINE+ EMOTION
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/137
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLASSIC" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CINE+CLASSIC.png" group-title="FR: CANAL SAT ",|FR| CINE+ CLASSIC
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/138
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLUB" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CINE+CLUB.png" group-title="FR: CANAL SAT ",|FR| CINE+ CLUB
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/139
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS MAX" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/OCSMAX.png" group-title="FR: CANAL SAT ",|FR| OCS MAX
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/140
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS CITY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/OCSCITY.png" group-title="FR: CANAL SAT ",|FR| OCS CITY
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/141
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS GEANTS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/OCSGEANTS.png" group-title="FR: CANAL SAT ",|FR| OCS GEANTS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/142
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS CHOC" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/OCSCHOC.png" group-title="FR: CANAL SAT ",|FR| OCS CHOC
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/143
+#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 1" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-CANADA/SUPERECRAN.png" group-title="FR: CANAL SAT ",[CA-FR] SUPER ECRAN 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/144
+#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-CANADA/SUPERECRAN.png" group-title="FR: CANAL SAT ",[CA-FR] SUPER ECRAN 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/145
+#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 3" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-CANADA/SUPERECRAN.png" group-title="FR: CANAL SAT ",[CA-FR] SUPER ECRAN 3
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/146
+#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 4" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-CANADA/SUPERECRAN.png" group-title="FR: CANAL SAT ",[CA-FR] SUPER ECRAN 4
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/147
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEH265/ALTICESTUDIO.png" group-title="FR: CANAL SAT ",|FR| ALTICE STUDIO HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/148
+#EXTINF:-1 tvg-id="" tvg-name="|FR| WARNER TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/WARNERTV.png" group-title="FR: CANAL SAT ",|FR| WARNER TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/149
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TCM CINEMA" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/TCMCINEMA.png" group-title="FR: CANAL SAT ",|FR| TCM CINEMA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/150
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Paramount Channel HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/PARAMOUNTDECALE.png" group-title="FR: CANAL SAT ",|FR| Paramount Channel HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/151
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Paramount Channel Decale HD" tvg-logo="" group-title="FR: CANAL SAT ",|FR| Paramount Channel Decale HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/152
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ACTION HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/ACTION.png" group-title="FR: CANAL SAT ",|FR| ACTION HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/153
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/CINE+CLUB.png" group-title="FR: CANAL SAT ",|FR| SERIE CLUB HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/154
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SYFY HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/SYFY.png" group-title="FR: CANAL SAT ",|FR| SYFY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/155
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 13EME RUE HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/13EMERUE.png" group-title="FR: CANAL SAT ",|FR| 13EME RUE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/156
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/AB1.png" group-title="FR: CANAL SAT ",|FR| AB1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/157
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB3 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BELGIUM/AB3.png" group-title="FR: CANAL SAT ",|FR| AB3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/158
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/PARISPREMIERE.png" group-title="FR: CANAL SAT ",|FR| PARIS PREMIERE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/159
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RTL 9 HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/RTL9.png" group-title="FR: CANAL SAT ",|FR| RTL 9 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/160
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BET HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/BET.png" group-title="FR: CANAL SAT ",|FR| BET HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/161
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/COMEDIE+.png" group-title="FR: CANAL SAT ",|FR| COMEDIE+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/162
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MY COMEDY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-CANADA/MYCOMEDY.png" group-title="FR: CANAL SAT ",|FR| MY COMEDY
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/163
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV Breizh" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/TVBREIZH.png" group-title="FR: CANAL SAT ",|FR| TV Breizh
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/165
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TEVA.png" group-title="FR: CANAL SAT ",|FR| TEVA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/166
+#EXTINF:-1 tvg-id="" tvg-name="|FR| E! ENTERTAINMENT HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/EENTERTAINEMENT.png" group-title="FR: CANAL SAT ",|FR| E! ENTERTAINMENT HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/167
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/MTV.png" group-title="FR: CANAL SAT ",|FR| MTV HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/168
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MCM" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/MCM.png" group-title="FR: CANAL SAT ",|FR| MCM
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/169
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PIWI+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="FR: Enfant",|FR| PIWI+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/184
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Tiji" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TIJI.png" group-title="FR: Enfant",|FR| Tiji
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/185
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/DISNEYCHANNELFHD.png" group-title="FR: Enfant",|FR| DISNEY CHANNEL
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/186
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CINEMA" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/DISNEY+.png" group-title="FR: Enfant",|FR| DISNEY CINEMA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/187
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY JUNIOR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/DISNEYJUNIOR.png" group-title="FR: Enfant",|FR| DISNEY JUNIOR
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/188
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY XD" tvg-logo="https://partnersmy.com/wp-content/uploads/2020/03/Disney_Plus_logo-300x300.png" group-title="FR: Enfant",|FR| DISNEY XD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/189
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON" tvg-logo="https://static.epg.best/fr/Nickelodeon.fr.png" group-title="FR: Enfant",|FR| NICKELODEON
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/190
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Nickelodeon_Junior.svg/1200px-Nickelodeon_Junior.svg.png" group-title="FR: Enfant",|FR| NICKELODEON JUNIOR
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/191
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON TEEN" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/NICK4TEEN.png" group-title="FR: Enfant",|FR| NICKELODEON TEEN
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/192
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Boomerang" tvg-logo="https://static.epg.best/fr/Boomerang.fr.png" group-title="FR: Enfant",|FR| Boomerang
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/193
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOING" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/BOING.png" group-title="FR: Enfant",|FR| BOING
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/194
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELETOON+" tvg-logo="https://static.epg.best/fr/TeleToonPlus.fr.png" group-title="FR: Enfant",|FR| TELETOON+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/195
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Canal J" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="FR: Enfant",|FR| Canal J
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/196
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CARTOON NETWORK" tvg-logo="https://static.epg.best/fr/CartoonNetwork.fr.png" group-title="FR: Enfant",|FR| CARTOON NETWORK
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/197
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Toonami" tvg-logo="http://144.217.176.177/private/174325_French_TV_logo_Pack_1.1.4.3_-_Simple/Simple/toonami-fr.png" group-title="FR: Enfant",|FR| Toonami
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/198
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MANGAS HD" tvg-logo="https://static.epg.best/fr/Mangas.fr.png" group-title="FR: Enfant",|FR| MANGAS HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/199
+#EXTINF:-1 tvg-id="" tvg-name="|FR| J-ONE HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/JONE.png" group-title="FR: Enfant",|FR| J-ONE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/200
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Game One" tvg-logo="https://static.epg.best/fr/GameOne.fr.png" group-title="FR: Enfant",|FR| Game One
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/201
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/INFOSPORT.png" group-title="FR: SPORTS",|FR| INFOSPORT+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/205
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/FOOT+.png" group-title="FR: SPORTS",|FR| FOOT+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/206
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/EUROSPORT1.png" group-title="FR: SPORTS",|FR| EUROSPORT 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/208
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/EUROSPORT2.png" group-title="FR: SPORTS",|FR| EUROSPORT 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/209
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Auto Moto HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/AUTOMOTO.png" group-title="FR: SPORTS",|FR| Auto Moto HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/211
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Equidia HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/EQUIDIALIVE.png" group-title="FR: SPORTS",|FR| Equidia HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/212
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF  HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/GOLFCHANNEL.png" group-title="FR: SPORTS",|FR| GOLF  HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/213
+#EXTINF:-1 tvg-id="" tvg-name="===== DECOUVERTES =====" tvg-logo="" group-title="FR: Autre chaines ",===== DECOUVERTES =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/240
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CRIMEDISTRICT.png" group-title="FR: Autre chaines ",|FR| CRIME DISTRICT HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/243
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYCHANNEL.png" group-title="FR: Autre chaines ",|FR| DISCOVERY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/244
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY SCI HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYSCIENCE.png" group-title="FR: Autre chaines ",|FR| DISCOVERY SCI HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/245
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYINVESTIGATION.png" group-title="FR: Autre chaines ",|FR| DISCOVERY INVESTIGATION HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/246
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYFAMILY.png" group-title="FR: Autre chaines ",|FR| DISCOVERY FAMILY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/247
+#EXTINF:-1 tvg-id="" tvg-name="|FR| National Geographic HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/NATGEO.png" group-title="FR: Autre chaines ",|FR| National Geographic HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/249
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Nat geo Wild" tvg-logo="http://epg.justco.cc/guide/logos/NAT GEO WILD.png" group-title="FR: Autre chaines ",|FR| Nat geo Wild
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/250
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE +" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/PLANET+.png" group-title="FR: Autre chaines ",|FR| PLANETE +
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/251
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ CI HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/PLANETCI.png" group-title="FR: Autre chaines ",|FR| PLANETE+ CI HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/252
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE A&E" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/PLANETAE.png" group-title="FR: Autre chaines ",|FR| PLANETE A&E
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/253
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Histoire" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/HISTOIRE.png" group-title="FR: Autre chaines ",|FR| Histoire
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/254
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOUTE L'HISTOIRE HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TOUTELHISTOIRE.png" group-title="FR: Autre chaines ",|FR| TOUTE L'HISTOIRE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/255
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Voyage HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/VOYAGE.png" group-title="FR: Autre chaines ",|FR| Voyage HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/256
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SEASONS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/SEASONS.png" group-title="FR: Autre chaines ",|FR| SEASONS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/257
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/ANIMAUX.png" group-title="FR: Autre chaines ",|FR| ANIMAUX HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/258
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CHASSEEPECHE.png" group-title="FR: Autre chaines ",|FR| CHASSE ET PECHE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/259
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Ushuaia TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/USHUAIA.png" group-title="FR: Autre chaines ",|FR| Ushuaia TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/260
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SCIENCES ET VIE TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/SCIENCESETVIE.png" group-title="FR: Autre chaines ",|FR| SCIENCES ET VIE TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/261
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TREK HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TREKTV.png" group-title="FR: Autre chaines ",|FR| TREK HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/264
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/MTVHITS.png" group-title="FR: Autre chaines ",|FR| MTV HITS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/265
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV DANCE" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/MTV.png" group-title="FR: Autre chaines ",|FR| MTV DANCE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/266
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ HITS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/NRJHITS.png" group-title="FR: Autre chaines ",|FR| NRJ HITS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/267
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 Music" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/M6MUSIC.png" group-title="FR: Autre chaines ",|FR| M6 Music
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/268
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE URBAN" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/TRACEURBAN.png" group-title="FR: Autre chaines ",|FR| TRACE URBAN
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/269
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE AFRICA" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/TRACEAFRICA.png" group-title="FR: Autre chaines ",|FR| TRACE AFRICA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/270
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE TOCA" tvg-logo="https://fr.trace.tv/trace-kitoko/wp-content/uploads/sites/43/2018/04/TRACE-logo-kitoko-01.png" group-title="FR: Autre chaines ",|FR| TRACE TOCA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/272
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE MZIKI" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="FR: Autre chaines ",|FR| TRACE MZIKI
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/273
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE NAIJA" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="FR: Autre chaines ",|FR| TRACE NAIJA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/274
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE TOCA" tvg-logo="" group-title="FR: Autre chaines ",|FR| TRACE TOCA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/275
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Bblack! Classik" tvg-logo="" group-title="FR: Autre chaines ",|FR| Bblack! Classik
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/276
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Bblack! Africa" tvg-logo="" group-title="FR: Autre chaines ",|FR| Bblack! Africa
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/277
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Bblack! Caribbean" tvg-logo="" group-title="FR: Autre chaines ",|FR| Bblack! Caribbean
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/278
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Mezzo" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPAIN/MEZZO.png" group-title="FR: Autre chaines ",|FR| Mezzo
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/279
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Mezzo Live HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/MEZZOLIVE.png" group-title="FR: Autre chaines ",|FR| Mezzo Live HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/280
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RFM TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/RFMTV.png" group-title="FR: Autre chaines ",|FR| RFM TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/282
+#EXTINF:-1 tvg-id="" tvg-name="===== GENERALISTE =====" tvg-logo="" group-title="FR: Autre chaines ",===== GENERALISTE =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/283
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV3V" tvg-logo="" group-title="FR: Autre chaines ",|FR| TV3V
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/289
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV5 STYLE" tvg-logo="" group-title="FR: Autre chaines ",|FR| TV5 STYLE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/290
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV8" tvg-logo="" group-title="FR: Autre chaines ",|FR| TV8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/292
+#EXTINF:-1 tvg-id="" tvg-name="===== CHAINES INFOS =====" tvg-logo="" group-title="FR: Autre chaines ",===== CHAINES INFOS =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/295
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM Business" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/BFMBUSSINESS.png" group-title="FR: Autre chaines ",|FR| BFM Business
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/296
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM PARIS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCESD/BFMPARIS.png" group-title="FR: Autre chaines ",|FR| BFM PARIS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/297
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/300px-TV5_%28logo%29.svg.png" group-title="FR: Autre chaines ",TV5 MONDE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/298
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EURONEWS HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="FR: Autre chaines ",|FR| EURONEWS HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/299
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 24" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/FRANCE24.png" group-title="FR: Autre chaines ",|FR| FRANCE 24
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/300
+#EXTINF:-1 tvg-id="" tvg-name="|FR| France info" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEFHD/FRANCEINFO.png" group-title="FR: Autre chaines ",|FR| France info
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/301
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LCI HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/LCI.png" group-title="FR: Autre chaines ",|FR| LCI HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/302
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LCP" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/LCP.png" group-title="FR: Autre chaines ",|FR| LCP
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/303
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RT FRANCE" tvg-logo="http://178.62.208.219/picons/rtfrancepitcon.png" group-title="FR: Autre chaines ",|FR| RT FRANCE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/304
+#EXTINF:-1 tvg-id="" tvg-name="FR: La chaine meteo " tvg-logo="" group-title="FR: TNT FHD",FR: La chaine meteo 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/83669
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal +360" tvg-logo="" group-title="FR: SPORTS",FR:Canal +360
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/124679
+#EXTINF:-1 tvg-id="" tvg-name="FR: Regby + HD " tvg-logo="" group-title="FR: SPORTS",FR: Regby + HD 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/80286
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93910
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93911
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 3
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93912
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="http://starsat123.com:8080/images/9251a8343c8252e23739a689b8a7f8d6.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 4
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93913
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="http://iptv-tn.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 5
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93914
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 6" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 6
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93915
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 7
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93916
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="http://starsat123.com:8080/images/9251a8343c8252e23739a689b8a7f8d6.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93917
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 9" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 9
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93918
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 10" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 10
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93919
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 11" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 11
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93920
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 12" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 12
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93921
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 13" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 13
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93922
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 14" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 14
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93923
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 15" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 15
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93924
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 16" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 16
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93925
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 17" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 17
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93926
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 18" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 18
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93927
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 19" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 19
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93928
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 20" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="♣♦♣------|FR| A LA CARTE |FR|-----♣♦♣",A LA CARTE 20
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93929
