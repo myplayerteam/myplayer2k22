@@ -1,3 +1,4 @@
+(myplayer)All TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/allfree.txt
 (myplayer)All Movies,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Ba Zaw MyanmarTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/bz.txt
 (myplayer)BroSnowLake,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
