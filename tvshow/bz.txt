@@ -531,7 +531,7 @@ http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MINGALARPER" tvg-logo="" group-title="BaZawMyanmar2",MINGALARPER
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="***SPORT CHANNEL***" tvg-logo="" group-title="BaZawMyanmar2",***SPORT CHANNEL***
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl5EBACly2TXJe5wZ2nlAbGY/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5EBACly2TXJe5wZ2nlAbGY/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sony Ten1" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten1
 http://150.95.25.221:8000/Sony%20Ten1?u=QqIIlllWqdhlknuof:p=15310546456189
 #EXTINF:-1 tvg-ID="" tvg-name="Sony Ten2" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten2
@@ -543,41 +543,41 @@ http://150.95.25.221:8000/Sony%20Ten4?u=QqIIlllWqdhlknuof:p=15310546456189
 #EXTINF:-1 tvg-ID="" tvg-name="Sony Ten5" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten5
 http://150.95.25.221:8000/Sony%20Ten5?u=QqIIlllWqdhlknuof:p=15310546456189
 #EXTINF:-1 tvg-ID="" tvg-name="CCTV-5+" tvg-logo="" group-title="BaZawMyanmar2",CCTV-5+
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlxNlHyNRCdxf_p1uVGytfyY/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxNlHyNRCdxf_p1uVGytfyY/ts
 #EXTINF:-1 tvg-ID="" tvg-name="EPL 5 SD" tvg-logo="" group-title="BaZawMyanmar2",EPL 5 SD
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyzmyjRF1CjKogXOsYOlAG4/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyzmyjRF1CjKogXOsYOlAG4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="EPL 5 (Live)" tvg-logo="" group-title="BaZawMyanmar2",EPL 5 (Live)
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl_tmRInFc666DjNNMcN2r2A/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_tmRInFc666DjNNMcN2r2A/ts
 #EXTINF:-1 tvg-ID="" tvg-name="TPF 1 Live" tvg-logo="" group-title="BaZawMyanmar2",TPF 1 Live
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl6vODet0UhCkcq4RTCw19J8/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6vODet0UhCkcq4RTCw19J8/ts
 #EXTINF:-1 tvg-ID="" tvg-name="TPF 2 Live" tvg-logo="" group-title="BaZawMyanmar2",TPF 2 Live
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl9aWiGAqlnjg62yFgsUNQ9s/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9aWiGAqlnjg62yFgsUNQ9s/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Prima Sports" tvg-logo="" group-title="BaZawMyanmar2",Prima Sports
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl0hxsbxgePWa1nwN9I2nuIY/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0hxsbxgePWa1nwN9I2nuIY/ts
 #EXTINF:-1 tvg-ID="" tvg-name="VSport Football" tvg-logo="" group-title="BaZawMyanmar2",VSport Football
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl9hsL3a4mlylxboch0nOGhY/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9hsL3a4mlylxboch0nOGhY/ts
 #EXTINF:-1 tvg-ID="" tvg-name="V Sport 1" tvg-logo="" group-title="BaZawMyanmar2",V Sport 1
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl6ZzfTetSU2_rx5zDZDhVzA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6ZzfTetSU2_rx5zDZDhVzA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="V Sport 2" tvg-logo="" group-title="BaZawMyanmar2",V Sport 2
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl2vzwb9JwtkqhNk-hWNjP5E/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2vzwb9JwtkqhNk-hWNjP5E/ts
 #EXTINF:-1 tvg-ID="" tvg-name="AIS PLAY" tvg-logo="" group-title="BaZawMyanmar2",AIS PLAY
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl_ku6UgVrwhJT5_iMOTK404/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_ku6UgVrwhJT5_iMOTK404/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1 Thailand" tvg-logo="" group-title="BaZawMyanmar2",Beinsport 1 Thailand
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Beinsport 2 Thailand" tvg-logo="" group-title="BaZawMyanmar2",Beinsport 2 Thailand
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Beinsport 3 Malay" tvg-logo="" group-title="BaZawMyanmar2",Beinsport 3 Malay
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl_Yrk7IjRqVnJqzGBt8aTVM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_Yrk7IjRqVnJqzGBt8aTVM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Orange Sport 2" tvg-logo="" group-title="BaZawMyanmar2",Orange Sport 2
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl-ouiKm7SGSarfLqLrbN-wM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-ouiKm7SGSarfLqLrbN-wM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Orange Sport 3" tvg-logo="" group-title="BaZawMyanmar2",Orange Sport 3
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlzcasgoAh0h4VhGrIIN5Y8I/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzcasgoAh0h4VhGrIIN5Y8I/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Truesport 1" tvg-logo="" group-title="BaZawMyanmar2",Truesport 1
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl8OnnnEaytPadbpmCKdHsWo/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8OnnnEaytPadbpmCKdHsWo/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Truesport 3" tvg-logo="" group-title="BaZawMyanmar2",Truesport 3
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl66TzlVb6nq34NGnsPOz2sw/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl66TzlVb6nq34NGnsPOz2sw/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Truesport 7" tvg-logo="" group-title="BaZawMyanmar2",Truesport 7
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl8oHvpNi_hC9I_m4Lv8Vk80/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8oHvpNi_hC9I_m4Lv8Vk80/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Tyc sports" tvg-logo="" group-title="BaZawMyanmar2",Tyc sports
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FoxSport" tvg-logo="" group-title="BaZawMyanmar2",FoxSport
@@ -595,41 +595,41 @@ http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TNT sports" tvg-logo="" group-title="BaZawMyanmar2",TNT sports
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Play sports 1" tvg-logo="" group-title="BaZawMyanmar2",Play sports 1
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl3kFWcXJMnJL8jNJaJSQam0/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3kFWcXJMnJL8jNJaJSQam0/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Play Sports 2" tvg-logo="" group-title="BaZawMyanmar2",Play Sports 2
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl4Zz6iH0ZhEjSD_HVIZ0gD8/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl4Zz6iH0ZhEjSD_HVIZ0gD8/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Play Sports 3" tvg-logo="" group-title="BaZawMyanmar2",Play Sports 3
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl_vyENtwElmrR-k3yCB2cNM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_vyENtwElmrR-k3yCB2cNM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Arenasport 3 Premium" tvg-logo="" group-title="BaZawMyanmar2",Arenasport 3 Premium
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl0HPWIeGlyCBPghGnM0wUR8/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0HPWIeGlyCBPghGnM0wUR8/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Laliga 1 HD" tvg-logo="" group-title="BaZawMyanmar2",Laliga 1 HD
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl29kPw4re7KvaR6NmSpX9HE/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl29kPw4re7KvaR6NmSpX9HE/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Laliga 2 HD" tvg-logo="" group-title="BaZawMyanmar2",Laliga 2 HD
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl_kHCtIFZz8udPXmAyAEejQ/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_kHCtIFZz8udPXmAyAEejQ/ts
 #EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 1" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 1
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/ts
 #EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 2" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 2
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/ts
 #EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 3" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 3
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
 #EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 4" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 4
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
 #EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 5" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 5
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Supersport Football HD" tvg-logo="" group-title="BaZawMyanmar2",Supersport Football HD
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlxOs91Cs9nq65aUsUloUdVs/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxOs91Cs9nq65aUsUloUdVs/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Astro Super Sport Plus" tvg-logo="" group-title="BaZawMyanmar2",Astro Super Sport Plus
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl1buSKmnQ81u9Ls0uWBD128/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1buSKmnQ81u9Ls0uWBD128/ts
 #EXTINF:-1 tvg-ID="" tvg-name="NBC GOLF" tvg-logo="" group-title="BaZawMyanmar2",NBC GOLF
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlxiSQcA5a1l2Y_cf9YX_9bA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxiSQcA5a1l2Y_cf9YX_9bA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="One Golf" tvg-logo="" group-title="BaZawMyanmar2",One Golf
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl8b3t5VZXyc97pJ5_GtC8XU/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8b3t5VZXyc97pJ5_GtC8XU/ts
 #EXTINF:-1 tvg-ID="" tvg-name="V Golf" tvg-logo="" group-title="BaZawMyanmar2",V Golf
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl--maCWjGjdajPN_M0PK68w/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl--maCWjGjdajPN_M0PK68w/ts
 #EXTINF:-1 tvg-ID="" tvg-name="SSC Sport (Saudi League)" tvg-logo="" group-title="BaZawMyanmar2",SSC Sport (Saudi League)
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl3geb_0XzGc1tzRqR4_p0Q4/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3geb_0XzGc1tzRqR4_p0Q4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 4" tvg-logo="" group-title="BaZawMyanmar2",SSC Sport 4
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlzOtVtP8SO3-z_rTE9Fea2I/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzOtVtP8SO3-z_rTE9Fea2I/ts
 #EXTINF:-1 tvg-ID="" tvg-name="MUTV Sport" tvg-logo="" group-title="BaZawMyanmar2",MUTV Sport
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="UFC Network" tvg-logo="" group-title="BaZawMyanmar2",UFC Network
@@ -791,51 +791,51 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Zee tv" tvg-logo="" group-title="BaZawMyanmar2",Zee tv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SUN LIFE" tvg-logo="" group-title="BaZawMyanmar2",SUN LIFE
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl8LBi54SQc4GwcoDjI5-sIQ/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8LBi54SQc4GwcoDjI5-sIQ/ts
 #EXTINF:-1 tvg-ID="" tvg-name="*** INTER MOVIE ***" tvg-logo="" group-title="BaZawMyanmar2",*** INTER MOVIE ***
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl0LwRzb0a57Zk19e8HtvDZg/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0LwRzb0a57Zk19e8HtvDZg/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Hits Movies" tvg-logo="" group-title="BaZawMyanmar2",Hits Movies
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyNzciCVxOC9znorhDgImy4/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyNzciCVxOC9znorhDgImy4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="WB TV" tvg-logo="" group-title="BaZawMyanmar2",WB TV
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyc9hiPIREi_kr1mXwzyxNc/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyc9hiPIREi_kr1mXwzyxNc/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Thrill" tvg-logo="" group-title="BaZawMyanmar2",Thrill
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rock Entertainment" tvg-logo="" group-title="BaZawMyanmar2",Rock Entertainment
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlx1Civv5mi1tyUWWDVukcfw/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx1Civv5mi1tyUWWDVukcfw/ts
 #EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="BaZawMyanmar2",AXN
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl_2yhWOFc2Q3pEzSy5_-EWA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_2yhWOFc2Q3pEzSy5_-EWA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Kix" tvg-logo="" group-title="BaZawMyanmar2",Kix
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Celestial Classic Movie" tvg-logo="" group-title="BaZawMyanmar2",Celestial Classic Movie
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl2E_WuNa1YtP3ULw8BlAxII/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_WuNa1YtP3ULw8BlAxII/ts
 #EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="BaZawMyanmar2",HBO
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyG_8JdsZAgU4upYT0WZXH4/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyG_8JdsZAgU4upYT0WZXH4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="" group-title="BaZawMyanmar2",Cinemax
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl5LmvFhDsDjByK908iJcLoI/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5LmvFhDsDjByK908iJcLoI/ts
 #EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV" tvg-logo="" group-title="BaZawMyanmar2",SINEMA TV
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyRsgZuGR_-XzBqFwv9MoH8/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyRsgZuGR_-XzBqFwv9MoH8/ts
 #EXTINF:-1 tvg-ID="" tvg-name="HBO Europe" tvg-logo="" group-title="BaZawMyanmar2",HBO Europe
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlz_CrflmVYrD5G0BcDWJE1Q/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz_CrflmVYrD5G0BcDWJE1Q/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Filmbox Family" tvg-logo="" group-title="BaZawMyanmar2",Filmbox Family
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl6LpQiekz7GfZRORfe4aPmw/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6LpQiekz7GfZRORfe4aPmw/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Classic Movies" tvg-logo="" group-title="BaZawMyanmar2",Classic Movies
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl3AkptNnCwjldprfeZrIij4/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3AkptNnCwjldprfeZrIij4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Movies" tvg-logo="" group-title="BaZawMyanmar2",Movies
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlwSQQtC43Qw5H0H_NL-SAPM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlwSQQtC43Qw5H0H_NL-SAPM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="" group-title="BaZawMyanmar2",MNC TV
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl-02vkPxtmtw2vT-SncNMqc/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-02vkPxtmtw2vT-SncNMqc/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Movie Sphere" tvg-logo="" group-title="BaZawMyanmar2",Movie Sphere
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl2E_yWU2klkocUdTCWkJqs0/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_yWU2klkocUdTCWkJqs0/ts
 #EXTINF:-1 tvg-ID="" tvg-name="World Fashion" tvg-logo="" group-title="BaZawMyanmar2",World Fashion
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl3lzSZaOIL7XywdeW13nyMM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3lzSZaOIL7XywdeW13nyMM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="***Cartoon Kids***" tvg-logo="" group-title="BaZawMyanmar2",***Cartoon Kids***
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlxoQgECaff55nItbnlnEtaE/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxoQgECaff55nItbnlnEtaE/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Babyshark TV" tvg-logo="" group-title="BaZawMyanmar2",Babyshark TV
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl37digAXKK63jRSEZ6VtaY0/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl37digAXKK63jRSEZ6VtaY0/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cbeebies" tvg-logo="" group-title="BaZawMyanmar2",Cbeebies
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl9MZWPMEXNClTdI3AbxjFzE/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9MZWPMEXNClTdI3AbxjFzE/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Animax MM" tvg-logo="" group-title="BaZawMyanmar2",Animax MM
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="BaZawMyanmar2",Boomerang
 https://ctrl.laotv.la/live/Boomerang/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CartoonNetowrk" tvg-logo="" group-title="BaZawMyanmar2",CartoonNetowrk
@@ -855,19 +855,19 @@ http://vthanhtivi.pw:5000/bbcearth/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery" tvg-logo="" group-title="BaZawMyanmar2",Discovery
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="BaZawMyanmar2",Animal Planet
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Love Nature" tvg-logo="" group-title="BaZawMyanmar2",Love Nature
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="BaZawMyanmar2",Discovery Channel
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl3PW6tyAlOu6yqRSk4l0Mf0/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3PW6tyAlOu6yqRSk4l0Mf0/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Asia" tvg-logo="" group-title="BaZawMyanmar2",Discovery Asia
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="BaZawMyanmar2",Animal Planet
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlywiVWv93BI1KhbLgA2umoQ/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlywiVWv93BI1KhbLgA2umoQ/ts
 #EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="" group-title="BaZawMyanmar2",History
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl8ZXzuSVMaX6vdE2OJre7lA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8ZXzuSVMaX6vdE2OJre7lA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Documentry 1" tvg-logo="" group-title="BaZawMyanmar2",Documentry 1
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAlys5DTRyg6wmoWUu0jV0uRU/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlys5DTRyg6wmoWUu0jV0uRU/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Adventure 4K" tvg-logo="" group-title="BaZawMyanmar2",Adventure 4K
 http://150.95.25.221:8000/Adventure%204K?u=QqIIlllWqdhlknuof:p=15310546456189
 #EXTINF:-1 tvg-ID="" tvg-name="***Myanmar Movie***" tvg-logo="" group-title="BaZawMyanmar2",***Myanmar Movie***
@@ -883,16 +883,16 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MWD HD SCHOOL" tvg-logo="" group-title="BaZawMyanmar2",MWD HD SCHOOL
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Series 1" tvg-logo="" group-title="BaZawMyanmar2",Series 1
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Series 2" tvg-logo="" group-title="BaZawMyanmar2",Series 2
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Movies 3" tvg-logo="" group-title="BaZawMyanmar2",Movies 3
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Movies 4" tvg-logo="" group-title="BaZawMyanmar2",Movies 4
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Movies 5" tvg-logo="" group-title="BaZawMyanmar2",Movies 5
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Chinese Drama" tvg-logo="" group-title="BaZawMyanmar2",Chinese Drama
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl7itaYq8FGIj0DHHQChdymM/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7itaYq8FGIj0DHHQChdymM/ts
 #EXTINF:-1 tvg-ID="" tvg-name="Myanmar Speaker Movie" tvg-logo="" group-title="BaZawMyanmar2",Myanmar Speaker Movie
-http://150.95.19.148:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/ts
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/ts
