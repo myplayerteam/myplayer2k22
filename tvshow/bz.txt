@@ -1,105 +1,105 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-football-vn.png", ON Football
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-sports-vn.png", ON Sport
-https://code.vthanhtivi.pw/getlink/onlive/onsports/83031.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-sports-plus-vn.png", ON Sport+
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/83075.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-sports-news-vn.png", ON Sport News
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/83077.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png", CCTV5 SPORT
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Kvbj6ZSr/IMG-20231116-135127.jpg",Live
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1542295803.m3u8
-https://video-weaver.bkk02.hls.ttvnw.net/v1/playlist/Cr8FR03z6s4gtIU7chB6VXLNxUUPJ0JPRFSK53NeXMpJrzlb2SwHP5xYXS2Rzjm4tEZmrzjD88PdVmUrowrz_8sQFtRa4SvNv20QSsJJng8NVlB8ye-4S-vQrZIgB5W8DE55ltiVnNPW5zE7tKjFun54Wkpuc18xQcvVmM6W5hIKP6GBJ6VsvVbV_wuK-GuOhAfxEXZ1tU6M-F7snbvAAy4HStzKv8sZNXm867-Ds8ByImM00mcbVa0FSoxButjtdqgZb6ZRGNPAPkTof4fReyAsl-qnYR6z3LkdwkgfPfu2FBsxYmgVbnbXmefXI-t1LzbjSOh_WO_r1Tzoee46036C90oSFyS1J8BYQ-K40NmoBbgCkky6d-AABzxCdt0EopYxWoegEfpv-BsF0QrzVhrWj47fPXrTgaJeOh68Gldayl--VD6_M6B-fs8e7W4f2PODGIsuXP71HYJYWVNXM1JiMLTIGZ8fHhjvvcPFaPXd62CJU7KbnT-c9ipNt_8LxLVgeYdWjQOheqyc3Xt7g0LoFRZTpLnPzBKQoLKN8fCKZ_q0fQ6Ycn0ipE48skiddi30ye9pQUvlx80p8hcJJztRrNBz0RgIEo6VPm5-v9ZANlyGTEN4a_V9nHRND8ysFLwd38F4SriKInoawx6x_iHJaDWgFdIzTaKXAEp7IoW8D7gFSRdkEfCG4RlvTKf5ji3rjQ8JnO5bvpqYGpN8dzYbDVTicdoFCcK9igHxQ8n77IXFy5XGFUyRXxTefyMM5Q34QZ06x8jgslU9wA_PFBAzGwnzAjTPHY6Lgs48KnqWgE1x2NLdiyQ7f2lTZeOiNqk3bY5vRyTZw_XmehNycy_3qNfFcMywBVNcSmjWA1JUPMQPK0_YNmFNQ_Km2wax1Humo5HJ6rUyCkPVx4B2mvgyn5QBeWOg6BkIIjgHbhpzDhoM4QiQpGeSs4HBJYEjIAEqCXVzLXdlc3QtMjCBCA.m3u8
-https://live6.xiangmirong.com/live/26748567.flv?auth_key=1700043901-0-245726-d76332f901571064577a28cefad784fe
-
-#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 1
-http://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 2
-http://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjppBAqOLlpUZOueX4Ptcucg96ZgSw5xyQlA&usqp=CAU",Live 3
-https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhX1jhO5KxjPPDH4hRFPXaZ-I0Q24qKBXWw&usqp=CAU", group-title="LIVE NOW", BZ LIVE EPL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 1
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSF9pMTa7OueejJhjhkUd8MM/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 2
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSK_-NMXKwH-ndmyYgPOmCv4/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 3
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSNo4k7SAy8K3P6yqaE0O_VM/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 4
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSMUAj5abReKDrvp6DiedCl4/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 SD For Slow Network
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSGM8oOmxvlYUNK64JymJRsk/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live)
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSLJh34Ldc9rKtIciP-4KKkE/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live HD)
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSLJh34Ldc9rKtIciP-4KKkE/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 6 Highlight
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSL4bbXeDLoG7ZUskJX7kadA/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 7
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSFM1U8-cNJqJuRM0k7Z56yM/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjppBAqOLlpUZOueX4Ptcucg96ZgSw5xyQlA&usqp=CAU",Live
+https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/FsQFSPnW/23454629-ico-copy-300x200.png",Canal+ Sports 1
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSFwZobTE0438wpsuL2IE1eg/ts
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/4dzqR1by/23454630-ico-copy-300x200.png",Canal+ Sports 2
-http://15.235.212.156:25461/play/ndboWqziHLi7iwyvMEWnSKKpmJxD0uzRITNr9RgMV8Q/ts
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 1
+http://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 2
+http://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/WeTRNRu.jpg", ARENA SPORT 1
+http://93.155.227.38:555/m3u8/arenasport1.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/O3G4NU5.jpg", ARENA SPORT 2
+http://93.155.227.38:555/m3u8/arenasport2.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/UUJqMIA.jpg", ARENA SPORT 3
+http://93.155.227.38:555/m3u8/arenasport3.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mnq7IGn.jpg", ARENA SPORT 4
+http://93.155.227.38:555/m3u8/arenasport4.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/7IC5jwb.jpg", ARENA SPORT 5 
+http://93.155.227.38:555/m3u8/arenasport5.m3u8
+
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/C9k2xRY.jpg", Maharbawdi 
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg", MRTV4
-http://183.89.246.119:8881/play/a07u/index.m3u8
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg", Channel7
-http://183.89.246.119:8881/play/a07v/index.m3u8
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png", Mizzima Tv
-http://183.89.246.119:8881/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png", Mizzima Tv+
-http://183.89.246.119:8881/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/ZWo91Vr.jpg", VOA Tv
+https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/Ezh3nBS.jpg", DVB TV
+https://www.dailymotion.com/cdn/live/video/x8e61qj.m3u8?sec=TZkQaBVi_w4yxv68hWndvl-zk8i9m71LbSTdghPqFcWmEt1i_aAc0fFnjyF0rASj&dmTs=739817&dmV1st=48d18c86-fc51-4d66-a6bf-32b89f21e925
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png", Mahar ESport
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg", FortuneTv
-http://183.89.246.119:8881/play/a082/index.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-80x80-d7c.jpg", Channelk
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-80x80-31b.jpg", YTV
-http://183.89.246.119:8881/play/a081/index.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-80x80-92d.jpg",5Plus
-http://183.89.246.119:8881/play/a07w/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channelicon/mrtvent-80x80-26a.jpg", Channel Me
-http://183.89.246.119:8881/play/a07t/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-80x80-7b1.jpg",Channel9
-http://183.89.246.119:8881/play/a07y/index.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg", MITV
-http://183.89.246.119:8881/play/a07r/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mntv/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/f4PWvrW.jpg",MRTV Farmfrs
-http://183.89.246.119:8881/play/a07p/index.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-80x80-d7c.jpg", MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5aLFslk.jpg", MRTV NRC
-http://183.89.246.119:8881/play/a07o/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV News
-http://183.89.246.119:8881/play/a07m/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://tvtolive.com/wp-content/uploads/MRTV-Sport-tvtolive.com_.jpg", MRTV Sport
-http://183.89.246.119:8881/play/a07q/index.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV Parliament
-http://183.89.246.119:8881/play/a07n/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/s2fDBbmJ/Picsart-22-10-15-20-00-02-106.jpg", MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png", TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/PJxsMk9t/Picsart-22-11-20-15-39-09-245.png", iWAR
@@ -130,7 +130,12 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png", Bein Sport2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-hero.png", Bein Sport3
-https://ctrl.laotv.la/live/Bsport3/index.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png", True EPL1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png", True EPL2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png", SonySport1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png", SonySport2
@@ -139,13 +144,6 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png", SonySport4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png", True EPL1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png", True EPL2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/20b89491-9c17-4a31-a050-193a8ba939bd.png", PPTV HD36
-https://ctrl.laotv.la/live/PPTVHD/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png", SonySport5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://telecomdrive.com/wp-content/uploads/2016/07/reliance-jio-logo.jpg", Jio Laliga
@@ -158,73 +156,77 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/inde
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://tvonlinevn.com/wp-content/uploads/2018/07/large_sctv15.jpg", SCTV15
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-football-vn.png", ON Football
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/playlist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-sports-vn.png", ON Sport
+https://code.vthanhtivi.pw/getlink/onlive/onsports/83031.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-sports-plus-vn.png", ON Sport+
+https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/83075.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-sports-news-vn.png", ON Sport News
+https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/83077.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png", CCTV5 SPORT
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/fcc4c738-1a79-44e2-a909-9d9ce3348b82.png", Workpoint
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://shipyours.com/wp-content/uploads/2019/11/workpoint.png", Workpoint
 https://ctrl.laotv.la/live/WorkPoint/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230323/video/d7c937f5-1f07-495c-9d69-eb974a91a83e.jpeg", OneHD
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMKJ34PPUUF33GoEj-5xKe1jLypCa3sV7zUs8acDZXv3_vi_YA", OneHD
 https://ctrl.laotv.la/live/OneHD/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/fbcc05df-ab6f-4559-b932-248dccf9c85c.png", GMM25
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBW2CJWm5K6x0EVgsl8HknXbOG6WrbWZU6w&usqp=CAU", GMM25
 https://ctrl.laotv.la/live/GMM25/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/e797c4ed-4c76-4b8d-a881-09b27905edad.jpg", CH3 HD
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDq_vKRq5hDPZrDJuKyX--8Z63zf7FFr-ZOw&usqp=CAU", CH3 HD
 https://ctrl.laotv.la/live/3HD/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/e1f5b7e5-16c1-4936-9f52-0b948c18900c.png", CH5
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png", CH5
 https://ctrl.laotv.la/live/Thai5/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230519/video/04085ab0-a6af-4e89-b395-6e7e0cf6b470.png", AMARIN TV HD
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919", AMARIN TV HD
 https://ctrl.laotv.la/live/AMARINTVHD/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/7f72bd64-70c8-4d5a-ae7b-f78945688188.png", THAIRATH TV HD
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png", THAIRATH TV HD
 https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/d6b5780f-d6bb-4da9-a64c-de6d78124a9e.png", NationTV
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png", NationTV
 https://ctrl.laotv.la/live/NationTV/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/806eb55e-d8ce-46c9-904d-7701caaeafcc.png", NBT
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfR5abJbXWEirZWC4UGycIqLXIgy2saWmjA&usqp=CAU", NBT
 https://ctrl.laotv.la/live/NBT/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230420/video/9f94a26f-4a56-407e-98e1-e54ccd4deec2.jpg", MONO29
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO29
 https://ctrl.laotv.la/live/Mono29/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/57f8c7b4-bd8d-4ad0-954f-5445833b849a.png", Thai PBS
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS
 https://ctrl.laotv.la/live/ThaiPBS/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/3bbe12fc-c38e-4746-9deb-30392fb3d5ef.png", True4U
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/sportarticle/2015/11/19/b386a49f-cadf-4530-a8d6-2cd8b3bb9d20.png", True4U
 https://ctrl.laotv.la/live/True4U/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/ca80bc1c-d564-4b85-b2f6-5c8327ae10ab.png", CH8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png", CH8
 https://ctrl.laotv.la/live/CH8/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/68ba60f7-92e6-4fa3-a6cb-16e1b6e683c0.png", MCOT9
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MCOT-Modernnine_TV_EN_2002.svg/1200px-MCOT-Modernnine_TV_EN_2002.svg.png", MCOT9
 https://ctrl.laotv.la/live/Mcot/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef-b1f6ba3949f6.png", T Sports 7
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/T_Sports_Channel_Logo.png/revision/latest?cb=20211129065757", T Sports 7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/83aae5ac-bb3a-49e6-a2d1-3e88d75e066d.png", TNN2
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSpueaPU3G0XYbv7HfXKsz63I5V3Hz-y7K_eK3Xhds7g&s", TNN2
 https://ctrl.laotv.la/live/TNN2/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/821f2809-ffdb-42ff-b6eb-4331754341d7.png", TNN24
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszzIhCMpNrcQL_dqZOQJmeXf0EODxsenvWg&usqp=CAU", TNN24
 https://ctrl.laotv.la/live/TNN24/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/e0e25d1f-2a79-46ad-8817-7ad690948fd1.png", JKN18
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieuUyodtdRhBgRgy21acdKfgV370CdAu94g&usqp=CAU", JKN18
 https://ctrl.laotv.la/live/JKN18/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/44bda67e-5e21-479e-aa78-1956ba229382.jpg", CH7 HD
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png", CH7 HD
 https://ctrl.laotv.la/live/Thai7/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkERa6Af9sMwZwrtTSkiSSrKT99MfWDvZnEg&usqp=CAU", PPTV HD36
+https://ctrl.laotv.la/live/PPTVHD/index.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png", AXN
-http://200.24.206.132:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png", FX
-http://200.24.206.132:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png", HBO2
-http://200.24.206.132:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png", HBO Family
-http://200.24.206.132:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png", HBO POP
-http://200.24.206.132:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png", HBO Plus
-http://200.24.206.132:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO Signature
-http://200.24.206.132:8000/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png", HBO XTREME
-http://200.24.206.132:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-us-uk.png", Sony Movie
-http://200.24.206.132:8000/play/a00v/index.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/U4MwDv1.jpg", HISTORY 2 
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/YKz92Tm.jpg", FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/zd0xVpG.jpg", ACTION MOVIE
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/zvaxiWq.jpg", BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Carttoon" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_th.png", Boomerang
@@ -269,7 +271,18 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" group-title="World New" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
+http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport2
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS",CHAMPION 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
@@ -298,27 +311,12 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
-
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
-http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport2
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxJC64Lk/IMG-20231018-124932.png" group-title="SPORTS",TrueSport3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png",Sony Ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 group-title="SPRTS" tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png",Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport2
@@ -355,12 +353,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65G89mDN/IMG-20231018-132839.png" group-title="SPORTS",Adsport2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png" group-title="SPORTS",DUBAISPORT
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png" group-title="SPORTS",DUBAISPORT2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png" group-title="SPORTS",DUBAISPORT3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvcMF12C/IMG-20231018-130006.png" group-title="SPORTS",ESPN
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvcMF12C/IMG-20231018-130006.png" group-title="SPORTS",ESPNVIVO2
@@ -387,16 +380,6 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydbYX64b/IMG-20231018-131209.png" group-title="SPORTS", BEINSPORT2 THAI
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1group-title="SPORTS",adsport1
-https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",adsport2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",dubaisport
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",dubaisport2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",dubaisport3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1,fubol1
 http://bl.uma.media:80/live/126863/HLS/6866944_4/2/1/playlist.m3u8
@@ -540,517 +523,4 @@ http://www.zegomovie.com/Videos/Pele/index.m3u8
 http://www.zegomovie.com/Videos/HereandThere/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Ready or Knot2021
 http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="MINGALARPER" tvg-logo="" group-title="BaZawMyanmar2",MINGALARPER
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="***SPORT CHANNEL***" tvg-logo="" group-title="BaZawMyanmar2",***SPORT CHANNEL***
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5EBACly2TXJe5wZ2nlAbGY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten1" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten1
-http://150.95.25.221:8000/Sony%20Ten1?u=QqIIlllWqdhlknuof:p=15310546456189
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten2" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten2
-http://150.95.25.221:8000/Sony%20Ten2?u=QqIIlllWqdhlknuof:p=15310546456189
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten3" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten3
-http://150.95.25.221:8000/Sony%20Ten3?u=QqIIlllWqdhlknuof:p=15310546456189
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten4" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten4
-http://150.95.25.221:8000/Sony%20Ten4?u=QqIIlllWqdhlknuof:p=15310546456189
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten5" tvg-logo="" group-title="BaZawMyanmar2",Sony Ten5
-http://150.95.25.221:8000/Sony%20Ten5?u=QqIIlllWqdhlknuof:p=15310546456189
-#EXTINF:-1 tvg-ID="" tvg-name="CCTV-5+" tvg-logo="" group-title="BaZawMyanmar2",CCTV-5+
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxNlHyNRCdxf_p1uVGytfyY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL 5 SD" tvg-logo="" group-title="BaZawMyanmar2",EPL 5 SD
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyzmyjRF1CjKogXOsYOlAG4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="EPL 5 (Live)" tvg-logo="" group-title="BaZawMyanmar2",EPL 5 (Live)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_tmRInFc666DjNNMcN2r2A/ts
-#EXTINF:-1 tvg-ID="" tvg-name="TPF 1 Live" tvg-logo="" group-title="BaZawMyanmar2",TPF 1 Live
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6vODet0UhCkcq4RTCw19J8/ts
-#EXTINF:-1 tvg-ID="" tvg-name="TPF 2 Live" tvg-logo="" group-title="BaZawMyanmar2",TPF 2 Live
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9aWiGAqlnjg62yFgsUNQ9s/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Prima Sports" tvg-logo="" group-title="BaZawMyanmar2",Prima Sports
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0hxsbxgePWa1nwN9I2nuIY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="VSport Football" tvg-logo="" group-title="BaZawMyanmar2",VSport Football
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9hsL3a4mlylxboch0nOGhY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V Sport 1" tvg-logo="" group-title="BaZawMyanmar2",V Sport 1
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6ZzfTetSU2_rx5zDZDhVzA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V Sport 2" tvg-logo="" group-title="BaZawMyanmar2",V Sport 2
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2vzwb9JwtkqhNk-hWNjP5E/ts
-#EXTINF:-1 tvg-ID="" tvg-name="AIS PLAY" tvg-logo="" group-title="BaZawMyanmar2",AIS PLAY
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_ku6UgVrwhJT5_iMOTK404/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1 Thailand" tvg-logo="" group-title="BaZawMyanmar2",Beinsport 1 Thailand
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 2 Thailand" tvg-logo="" group-title="BaZawMyanmar2",Beinsport 2 Thailand
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 3 Malay" tvg-logo="" group-title="BaZawMyanmar2",Beinsport 3 Malay
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_Yrk7IjRqVnJqzGBt8aTVM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Orange Sport 2" tvg-logo="" group-title="BaZawMyanmar2",Orange Sport 2
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-ouiKm7SGSarfLqLrbN-wM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Orange Sport 3" tvg-logo="" group-title="BaZawMyanmar2",Orange Sport 3
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzcasgoAh0h4VhGrIIN5Y8I/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Truesport 1" tvg-logo="" group-title="BaZawMyanmar2",Truesport 1
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8OnnnEaytPadbpmCKdHsWo/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Truesport 3" tvg-logo="" group-title="BaZawMyanmar2",Truesport 3
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl66TzlVb6nq34NGnsPOz2sw/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Truesport 7" tvg-logo="" group-title="BaZawMyanmar2",Truesport 7
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8oHvpNi_hC9I_m4Lv8Vk80/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tyc sports" tvg-logo="" group-title="BaZawMyanmar2",Tyc sports
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FoxSport" tvg-logo="" group-title="BaZawMyanmar2",FoxSport
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FoxSport 2" tvg-logo="" group-title="BaZawMyanmar2",FoxSport 2
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="" group-title="BaZawMyanmar2",Fox Sports 3
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Espn" tvg-logo="" group-title="BaZawMyanmar2",Espn
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Espn 2" tvg-logo="" group-title="BaZawMyanmar2",Espn 2
-http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Espn 3" tvg-logo="" group-title="BaZawMyanmar2",Espn 3
-http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT sports" tvg-logo="" group-title="BaZawMyanmar2",TNT sports
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Play sports 1" tvg-logo="" group-title="BaZawMyanmar2",Play sports 1
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3kFWcXJMnJL8jNJaJSQam0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Play Sports 2" tvg-logo="" group-title="BaZawMyanmar2",Play Sports 2
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl4Zz6iH0ZhEjSD_HVIZ0gD8/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Play Sports 3" tvg-logo="" group-title="BaZawMyanmar2",Play Sports 3
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_vyENtwElmrR-k3yCB2cNM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arenasport 3 Premium" tvg-logo="" group-title="BaZawMyanmar2",Arenasport 3 Premium
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0HPWIeGlyCBPghGnM0wUR8/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Laliga 1 HD" tvg-logo="" group-title="BaZawMyanmar2",Laliga 1 HD
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl29kPw4re7KvaR6NmSpX9HE/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Laliga 2 HD" tvg-logo="" group-title="BaZawMyanmar2",Laliga 2 HD
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_kHCtIFZz8udPXmAyAEejQ/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 1" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 1
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 2" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 2
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 3" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 3
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 4" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 4
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN 5" tvg-logo="" group-title="BaZawMyanmar2",ELEVEN 5
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Supersport Football HD" tvg-logo="" group-title="BaZawMyanmar2",Supersport Football HD
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxOs91Cs9nq65aUsUloUdVs/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Astro Super Sport Plus" tvg-logo="" group-title="BaZawMyanmar2",Astro Super Sport Plus
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1buSKmnQ81u9Ls0uWBD128/ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBC GOLF" tvg-logo="" group-title="BaZawMyanmar2",NBC GOLF
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxiSQcA5a1l2Y_cf9YX_9bA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="One Golf" tvg-logo="" group-title="BaZawMyanmar2",One Golf
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8b3t5VZXyc97pJ5_GtC8XU/ts
-#EXTINF:-1 tvg-ID="" tvg-name="V Golf" tvg-logo="" group-title="BaZawMyanmar2",V Golf
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl--maCWjGjdajPN_M0PK68w/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport (Saudi League)" tvg-logo="" group-title="BaZawMyanmar2",SSC Sport (Saudi League)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3geb_0XzGc1tzRqR4_p0Q4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Sport 4" tvg-logo="" group-title="BaZawMyanmar2",SSC Sport 4
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzOtVtP8SO3-z_rTE9Fea2I/ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUTV Sport" tvg-logo="" group-title="BaZawMyanmar2",MUTV Sport
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="UFC Network" tvg-logo="" group-title="BaZawMyanmar2",UFC Network
-https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Sport Stars" tvg-logo="" group-title="BaZawMyanmar2",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="EDGE SPORTS" tvg-logo="" group-title="BaZawMyanmar2",EDGE SPORTS
-http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX WWW SPORTS" tvg-logo="" group-title="BaZawMyanmar2",FOX WWW SPORTS
-http://208.86.19.13:81/103.stream/index.m3u8?
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 1" tvg-logo="" group-title="BaZawMyanmar2",TNT Sports 1
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 2" tvg-logo="" group-title="BaZawMyanmar2",TNT Sports 2
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 3" tvg-logo="" group-title="BaZawMyanmar2",TNT Sports 3
-http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 4" tvg-logo="" group-title="BaZawMyanmar2",TNT Sports 4
-http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT WWE Sports 5" tvg-logo="" group-title="BaZawMyanmar2",TNT WWE Sports 5
-http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Red-Bull-TV HD" tvg-logo="" group-title="BaZawMyanmar2",Red-Bull-TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV Sports SD" tvg-logo="" group-title="BaZawMyanmar2",Red Bull TV Sports SD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PTV sports Live" tvg-logo="" group-title="BaZawMyanmar2",PTV sports Live
-http://175.107.244.52:4457/play/a08g/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Star Sports 1HD" tvg-logo="" group-title="BaZawMyanmar2",Star Sports 1HD
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Star sports 1SD" tvg-logo="" group-title="BaZawMyanmar2",Star sports 1SD
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVS Sports Bureau" tvg-logo="" group-title="BaZawMyanmar2",TVS Sports Bureau
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bahrain Sports 2" tvg-logo="" group-title="BaZawMyanmar2",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 4 Brazil" tvg-logo="" group-title="BaZawMyanmar2",TNT Sports 4 Brazil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sport en France" tvg-logo="" group-title="BaZawMyanmar2",Sport en France
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="BaZawMyanmar2",TVRI Sport
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bahrain Sports 1" tvg-logo="" group-title="BaZawMyanmar2",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Idman TV" tvg-logo="" group-title="BaZawMyanmar2",Idman TV
-http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SSC Action Waleed" tvg-logo="" group-title="BaZawMyanmar2",SSC Action Waleed
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="M-Net Sport" tvg-logo="" group-title="BaZawMyanmar2",M-Net Sport
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEK Sports West" tvg-logo="" group-title="BaZawMyanmar2",BEK Sports West
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="EDGEsport" tvg-logo="" group-title="BaZawMyanmar2",EDGEsport
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="One Golf" tvg-logo="" group-title="BaZawMyanmar2",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="W14DK-D5" tvg-logo="" group-title="BaZawMyanmar2",W14DK-D5
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports",Start" tvg-logo="" group-title="BaZawMyanmar2",Sports",Start
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WAPA-DT2" tvg-logo="" group-title="BaZawMyanmar2",WAPA-DT2
-https://live.field59.com/wapa/wapa2/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Ovacion TV" tvg-logo="" group-title="BaZawMyanmar2",Ovacion TV
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="All Sports" tvg-logo="" group-title="BaZawMyanmar2",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SKI TV" tvg-logo="" group-title="BaZawMyanmar2",SKI TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVS Women Sports" tvg-logo="" group-title="BaZawMyanmar2",TVS Women Sports
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Connect" tvg-logo="" group-title="BaZawMyanmar2",Sports Connect
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sportv 4k" tvg-logo="" group-title="BaZawMyanmar2",Sportv 4k
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
-#EXTINF:-1 tvg-ID="" tvg-name="Star +2" tvg-logo="" group-title="BaZawMyanmar2",Star +2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
-#EXTINF:-1 tvg-ID="" tvg-name="Star +1" tvg-logo="" group-title="BaZawMyanmar2",Star +1
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
-#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT PLUS 4HD" tvg-logo="" group-title="BaZawMyanmar2",PARAMOUNT PLUS 4HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
-#EXTINF:-1 tvg-ID="" tvg-name="Paramount plus 3" tvg-logo="" group-title="BaZawMyanmar2",Paramount plus 3
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
-#EXTINF:-1 tvg-ID="" tvg-name="Paramount plus 2" tvg-logo="" group-title="BaZawMyanmar2",Paramount plus 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
-#EXTINF:-1 tvg-ID="" tvg-name="Paramount plus 1 hd" tvg-logo="" group-title="BaZawMyanmar2",Paramount plus 1 hd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
-#EXTINF:-1 tvg-ID="" tvg-name="Caze tv hd" tvg-logo="" group-title="BaZawMyanmar2",Caze tv hd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
-#EXTINF:-1 tvg-ID="" tvg-name="Globo minas 4Kk" tvg-logo="" group-title="BaZawMyanmar2",Globo minas 4Kk
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
-#EXTINF:-1 tvg-ID="" tvg-name="Sportv 3 HD" tvg-logo="" group-title="BaZawMyanmar2",Sportv 3 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
-#EXTINF:-1 tvg-ID="" tvg-name="TNT HD" tvg-logo="" group-title="BaZawMyanmar2",TNT HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
-#EXTINF:-1 tvg-ID="" tvg-name="Band Nordeste HD" tvg-logo="" group-title="BaZawMyanmar2",Band Nordeste HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
-#EXTINF:-1 tvg-ID="" tvg-name="Jovem pan 4kk" tvg-logo="" group-title="BaZawMyanmar2",Jovem pan 4kk
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/25
-#EXTINF:-1 tvg-ID="" tvg-name="Globo news df" tvg-logo="" group-title="BaZawMyanmar2",Globo news df
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
-#EXTINF:-1 tvg-ID="" tvg-name="Band sports 4kk" tvg-logo="" group-title="BaZawMyanmar2",Band sports 4kk
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
-#EXTINF:-1 tvg-ID="" tvg-name="CNN BRASIL hdd" tvg-logo="" group-title="BaZawMyanmar2",CNN BRASIL hdd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA hd" tvg-logo="" group-title="BaZawMyanmar2",GLOBO INTEGRAÇÃO JUIZ DE FORA hd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/21
-#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="" group-title="BaZawMyanmar2",FX
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
-#EXTINF:-1 tvg-ID="" tvg-name="HBO MAX 2 HD" tvg-logo="" group-title="BaZawMyanmar2",HBO MAX 2 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/19
-#EXTINF:-1 tvg-ID="" tvg-name="Band sp 4kk" tvg-logo="" group-title="BaZawMyanmar2",Band sp 4kk
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18
-#EXTINF:-1 tvg-ID="" tvg-name="Amazon Prime video 1 4k" tvg-logo="" group-title="BaZawMyanmar2",Amazon Prime video 1 4k
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/17
-#EXTINF:-1 tvg-ID="" tvg-name="Sbt 4k" tvg-logo="" group-title="BaZawMyanmar2",Sbt 4k
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
-#EXTINF:-1 tvg-ID="" tvg-name="Sportv 1 HD" tvg-logo="" group-title="BaZawMyanmar2",Sportv 1 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-#EXTINF:-1 tvg-ID="" tvg-name="Amazon 2 HD" tvg-logo="" group-title="BaZawMyanmar2",Amazon 2 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/13
-#EXTINF:-1 tvg-ID="" tvg-name="Globo bahia 4K" tvg-logo="" group-title="BaZawMyanmar2",Globo bahia 4K
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12
-#EXTINF:-1 tvg-ID="" tvg-name="Sportv 2 HD" tvg-logo="" group-title="BaZawMyanmar2",Sportv 2 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-#EXTINF:-1 tvg-ID="" tvg-name="Record HD" tvg-logo="" group-title="BaZawMyanmar2",Record HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery channel HD" tvg-logo="" group-title="BaZawMyanmar2",Discovery channel HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
-#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 hd" tvg-logo="" group-title="BaZawMyanmar2",Premiere 3 hd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6
-#EXTINF:-1 tvg-ID="" tvg-name="Globo rj 4kk" tvg-logo="" group-title="BaZawMyanmar2",Globo rj 4kk
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/5
-#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 hd" tvg-logo="" group-title="BaZawMyanmar2",Premiere 2 hd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
-#EXTINF:-1 tvg-ID="" tvg-name="***INDIA MOVIE***" tvg-logo="" group-title="BaZawMyanmar2",***INDIA MOVIE***
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="&tv" tvg-logo="" group-title="BaZawMyanmar2",&tv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="&picture" tvg-logo="" group-title="BaZawMyanmar2",&picture
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Kannada" tvg-logo="" group-title="BaZawMyanmar2",Zee Kannada
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee bangla sd" tvg-logo="" group-title="BaZawMyanmar2",Zee bangla sd
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee bangla hd" tvg-logo="" group-title="BaZawMyanmar2",Zee bangla hd
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee cinema BANGLA" tvg-logo="" group-title="BaZawMyanmar2",Zee cinema BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Marathi" tvg-logo="" group-title="BaZawMyanmar2",Zee Marathi
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee anmol" tvg-logo="" group-title="BaZawMyanmar2",Zee anmol
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee cinemalu" tvg-logo="" group-title="BaZawMyanmar2",Zee cinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee cinema" tvg-logo="" group-title="BaZawMyanmar2",Zee cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Bollywood " tvg-logo="" group-title="BaZawMyanmar2",Zee Bollywood 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Music India" tvg-logo="" group-title="BaZawMyanmar2",Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Zee tv" tvg-logo="" group-title="BaZawMyanmar2",Zee tv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SUN LIFE" tvg-logo="" group-title="BaZawMyanmar2",SUN LIFE
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8LBi54SQc4GwcoDjI5-sIQ/ts
-#EXTINF:-1 tvg-ID="" tvg-name="*** INTER MOVIE ***" tvg-logo="" group-title="BaZawMyanmar2",*** INTER MOVIE ***
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0LwRzb0a57Zk19e8HtvDZg/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Hits Movies" tvg-logo="" group-title="BaZawMyanmar2",Hits Movies
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyNzciCVxOC9znorhDgImy4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="WB TV" tvg-logo="" group-title="BaZawMyanmar2",WB TV
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyc9hiPIREi_kr1mXwzyxNc/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Thrill" tvg-logo="" group-title="BaZawMyanmar2",Thrill
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Rock Entertainment" tvg-logo="" group-title="BaZawMyanmar2",Rock Entertainment
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx1Civv5mi1tyUWWDVukcfw/ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="BaZawMyanmar2",AXN
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_2yhWOFc2Q3pEzSy5_-EWA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Kix" tvg-logo="" group-title="BaZawMyanmar2",Kix
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Celestial Classic Movie" tvg-logo="" group-title="BaZawMyanmar2",Celestial Classic Movie
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_WuNa1YtP3ULw8BlAxII/ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="BaZawMyanmar2",HBO
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyG_8JdsZAgU4upYT0WZXH4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="" group-title="BaZawMyanmar2",Cinemax
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5LmvFhDsDjByK908iJcLoI/ts
-#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV" tvg-logo="" group-title="BaZawMyanmar2",SINEMA TV
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyRsgZuGR_-XzBqFwv9MoH8/ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Europe" tvg-logo="" group-title="BaZawMyanmar2",HBO Europe
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz_CrflmVYrD5G0BcDWJE1Q/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Family" tvg-logo="" group-title="BaZawMyanmar2",Filmbox Family
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6LpQiekz7GfZRORfe4aPmw/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Classic Movies" tvg-logo="" group-title="BaZawMyanmar2",Classic Movies
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3AkptNnCwjldprfeZrIij4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Movies" tvg-logo="" group-title="BaZawMyanmar2",Movies
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlwSQQtC43Qw5H0H_NL-SAPM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="" group-title="BaZawMyanmar2",MNC TV
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-02vkPxtmtw2vT-SncNMqc/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Movie Sphere" tvg-logo="" group-title="BaZawMyanmar2",Movie Sphere
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_yWU2klkocUdTCWkJqs0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="World Fashion" tvg-logo="" group-title="BaZawMyanmar2",World Fashion
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3lzSZaOIL7XywdeW13nyMM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="***Cartoon Kids***" tvg-logo="" group-title="BaZawMyanmar2",***Cartoon Kids***
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlxoQgECaff55nItbnlnEtaE/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Babyshark TV" tvg-logo="" group-title="BaZawMyanmar2",Babyshark TV
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl37digAXKK63jRSEZ6VtaY0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cbeebies" tvg-logo="" group-title="BaZawMyanmar2",Cbeebies
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9MZWPMEXNClTdI3AbxjFzE/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animax MM" tvg-logo="" group-title="BaZawMyanmar2",Animax MM
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="BaZawMyanmar2",Boomerang
-https://ctrl.laotv.la/live/Boomerang/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CartoonNetowrk" tvg-logo="" group-title="BaZawMyanmar2",CartoonNetowrk
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Animax HD" tvg-logo="" group-title="BaZawMyanmar2",Animax HD
-http://vthanhtivi.pw:5000/animax/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="" group-title="BaZawMyanmar2",Baby TV
-http://37.48.101.149:7017/play/a01y/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BabyFirst" tvg-logo="" group-title="BaZawMyanmar2",BabyFirst
-http://191.97.49.196:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids" tvg-logo="" group-title="BaZawMyanmar2",Discovery Kids
-http://191.97.49.196:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="***Science***" tvg-logo="" group-title="BaZawMyanmar2",***Science***
-http://vthanhtivi.pw:5000/animal/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BBC Earth" tvg-logo="" group-title="BaZawMyanmar2",BBC Earth
-http://vthanhtivi.pw:5000/bbcearth/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery" tvg-logo="" group-title="BaZawMyanmar2",Discovery
-https://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="BaZawMyanmar2",Animal Planet
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Love Nature" tvg-logo="" group-title="BaZawMyanmar2",Love Nature
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="BaZawMyanmar2",Discovery Channel
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3PW6tyAlOu6yqRSk4l0Mf0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Asia" tvg-logo="" group-title="BaZawMyanmar2",Discovery Asia
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="BaZawMyanmar2",Animal Planet
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlywiVWv93BI1KhbLgA2umoQ/ts
-#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="" group-title="BaZawMyanmar2",History
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl8ZXzuSVMaX6vdE2OJre7lA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Documentry 1" tvg-logo="" group-title="BaZawMyanmar2",Documentry 1
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlys5DTRyg6wmoWUu0jV0uRU/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Adventure 4K" tvg-logo="" group-title="BaZawMyanmar2",Adventure 4K
-http://150.95.25.221:8000/Adventure%204K?u=QqIIlllWqdhlknuof:p=15310546456189
-#EXTINF:-1 tvg-ID="" tvg-name="***Myanmar Movie***" tvg-logo="" group-title="BaZawMyanmar2",***Myanmar Movie***
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVM" tvg-logo="" group-title="BaZawMyanmar2",TVM
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GOLDENLAND" tvg-logo="" group-title="BaZawMyanmar2",GOLDENLAND
-http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MWDVARIETY" tvg-logo="" group-title="BaZawMyanmar2",MWDVARIETY
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CLIGHT" tvg-logo="" group-title="BaZawMyanmar2",CLIGHT
-http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MWD HD SCHOOL" tvg-logo="" group-title="BaZawMyanmar2",MWD HD SCHOOL
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Series 1" tvg-logo="" group-title="BaZawMyanmar2",Series 1
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Series 2" tvg-logo="" group-title="BaZawMyanmar2",Series 2
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Movies 3" tvg-logo="" group-title="BaZawMyanmar2",Movies 3
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Movies 4" tvg-logo="" group-title="BaZawMyanmar2",Movies 4
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Movies 5" tvg-logo="" group-title="BaZawMyanmar2",Movies 5
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Chinese Drama" tvg-logo="" group-title="BaZawMyanmar2",Chinese Drama
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7itaYq8FGIj0DHHQChdymM/ts
-#EXTINF:-1 tvg-ID="" tvg-name="Myanmar Speaker Movie" tvg-logo="" group-title="BaZawMyanmar2",Myanmar Speaker Movie
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/ts
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TheRoundup" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TheRoundup
-http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",ThorGodofThunder2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",ThorGodofThunder2022
-http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",DoctorStrange" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",DoctorStrange
-http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Interceptor" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Interceptor
-http://www.zegomovie.com/Videos/Interceptor/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Major2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Major2022
-http://www.zegomovie.com/Videos/Major/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Jurassic World2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Jurassic World2022
-http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",BlowBlack2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",BlowBlack2022
-http://www.zegomovie.com/Videos/Blowback/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",IronCross TheRoadNormandy2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",IronCross TheRoadNormandy2022
-http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Beast2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Beast2022
-http://www.zegomovie.com/Videos/Beast2022/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",KGFChapter2" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",KGFChapter2
-http://www.zegomovie.com/Videos/KGFChapter2/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",9Bullets" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",9Bullets
-http://www.zegomovie.com/Videos/9Bullets/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Ghani2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Ghani2022
-http://www.zegomovie.com/Videos/Ghani/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TheVault2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TheVault2021
-http://www.zegomovie.com/Videos/TheVault/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TheLostCity" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TheLostCity
-http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Uncharted" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Uncharted
-http://www.zegomovie.com/Videos/Uncharted/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",OhMyDog" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",OhMyDog
-http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",EtharkkumThunindhavan" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",EtharkkumThunindhavan
-http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",SuperMachi" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",SuperMachi
-http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Morbius" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Morbius
-http://www.zegomovie.com/Videos/Morbius/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",RRR" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",RRR
-http://www.zegomovie.com/Videos/RRR/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Restless" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Restless
-http://www.zegomovie.com/Videos/Restless/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",AnotherMe" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",AnotherMe
-http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",AManCalledHero" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",AManCalledHero
-http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",GasolineAlley" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",GasolineAlley
-http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",ProjectGemini" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",ProjectGemini
-http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Vesper2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Vesper2022
-https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Hunt2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Hunt2022
-https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",BulletTrain2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",BulletTrain2022
-https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Poikkalkuthirai" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Poikkalkuthirai
-https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",PonManickavel" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",PonManickavel
-http://www.zegomovie.com/Videos/PonManickavel/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",ArmyofThieves2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",ArmyofThieves2021
-http://www.zegomovie.com/Videos/ArmyofThieves/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",QueensReturn2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",QueensReturn2021
-http://www.zegomovie.com/Videos/QueensReturn/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Rudra Thandavam2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Rudra Thandavam2021
-http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TheEast2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TheEast2021
-http://www.zegomovie.com/Videos/TheEast/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",SpiderManNoWayHome2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",SpiderManNoWayHome2021
-http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",HomeSweetHome2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",HomeSweetHome2021
-http://www.zegomovie.com/Videos/HomeSweetHome/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",NightRaiders2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",NightRaiders2021
-http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",RedNotice2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",RedNotice2021
-http://www.zegomovie.com/Videos/RedNotice/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",No Time to Die 2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",No Time to Die 2021
-http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Venom2" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Venom2
-http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",RgingFire2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",RgingFire2021
-http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Flight2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Flight2021
-http://www.zegomovie.com:80/Videos/Flight/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",ShowMetheGhost" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",ShowMetheGhost
-http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TheStronghold2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TheStronghold2021
-http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",FREE GUY 2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",FREE GUY 2021
-http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",BellBottom2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",BellBottom2021
-http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",BreakThrough2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",BreakThrough2021
-http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",The Medium2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",The Medium2021
-http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Kaadan2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Kaadan2021
-http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",SINK HOLE 2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",SINK HOLE 2021
-http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TheCardCounter2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TheCardCounter2021
-http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",NIGHT BOOK2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",NIGHT BOOK2021
-http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",PawPatrol2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",PawPatrol2021
-http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",The Protege2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",The Protege2021
-http://www.zegomovie.com/Videos/TheProtege/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",The Rebal of PT218" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",The Rebal of PT218
-http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Sherni 2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Sherni 2021
-http://www.zegomovie.com/Videos/Sherni/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",BhootPoolice2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",BhootPoolice2021
-http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",TuckJagadish2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",TuckJagadish2021
-http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Kate2022" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Kate2022
-http://www.zegomovie.com/Videos/Kate/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES",Pele2021" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES",Pele2021
-http://www.zegomovie.com/Videos/Pele/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES2" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES2
-http://www.zegomovie.com/Videos/HereandThere/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUBMOVIES1" tvg-logo="" group-title="BaZawMyanmar2",MMSUBMOVIES1
-http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_MissionRescue" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_MissionRescue
-http://www.zegomovie.com/Videos/MissionRescue72/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_The Oder" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_The Oder
-http://www.zegomovie.com/Videos/TheOrder01/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_Dhoomam23" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_Dhoomam23
-http://www.zegomovie.com/Videos/Dhoomam23/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_XTremeRiders23" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_XTremeRiders23
-http://www.zegomovie.com/Videos/XTremeRiders23/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_TheOldOak" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_TheOldOak
-http://www.zegomovie.com/Videos/TheOldOak23/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_TheAbode" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_TheAbode
-http://www.zegomovie.com/Videos/TheAbode23/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_FightsBreakSphere" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_FightsBreakSphere
-http://www.zegomovie.com/Videos/FightsBreakSphere23/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMSUB_InTheLand" tvg-logo="" group-title="BaZawMyanmar2",MMSUB_InTheLand
-http://www.zegomovie.com/Videos/InTheLandOfSaintsAndSinners23/index.m3u8
 
