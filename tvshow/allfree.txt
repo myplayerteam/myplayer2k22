@@ -23,7 +23,7 @@ https://ctrl.laotv.la/live/Mono29/index.m3u8
 https://ctrl.laotv.la/live/ThaiPBS/index.m3u8
 #EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/3bbe12fc-c38e-4746-9deb-30392fb3d5ef.png",True4U
 https://ctrl.laotv.la/live/True4U/index.m3u8
-#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/CH8TH_2022.png",CH8
+#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://i.imgur.com/S9SQm3Y.png",CH8
 https://ctrl.laotv.la/live/CH8/index.m3u8
 #EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/68ba60f7-92e6-4fa3-a6cb-16e1b6e683c0.png",MCOT9
 https://ctrl.laotv.la/live/Mcot/index.m3u8
@@ -35,7 +35,7 @@ https://ctrl.laotv.la/live/TNN24/index.m3u8
 https://ctrl.laotv.la/live/JKN18/index.m3u8
 #EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/44bda67e-5e21-479e-aa78-1956ba229382.jpg",CH7 HD
 https://ctrl.laotv.la/live/Thai7/index.m3u8
-#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg",PPTV HD
+#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://i.imgur.com/9Qa7ofv.png",PPTV HD
 https://ctrl.laotv.la/live/PPTVHD/index.m3u8
 #EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef-b1f6ba3949f6.png",T Sports 7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
