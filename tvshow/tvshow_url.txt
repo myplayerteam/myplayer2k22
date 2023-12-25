@@ -1,5 +1,5 @@
 (myplayer)Ba Zaw MyanmarTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/bz.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
-(myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
+(myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
 (myplayer)TV Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/alltv.txt
 (myplayer)All TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/allfree.txt
