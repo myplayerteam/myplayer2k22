@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1, True Premier  1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1, True Premier 2
