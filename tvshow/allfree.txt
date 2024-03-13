@@ -107,3 +107,208 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 group-title="🇧🇳| Brunei" tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name=" Mahar Bhawdi" tvg-logo="" group-title="MM", Mahar Bhawdi
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MRTV-4 HD" tvg-logo="" group-title="MM", MRTV-4 HD
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MRTV-4 SD" tvg-logo="" group-title="MM", MRTV-4 SD
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Channel-7 HD" tvg-logo="" group-title="MM", Channel-7 HD
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Channel-7 SD" tvg-logo="" group-title="MM", Channel-7 SD
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Mahar" tvg-logo="" group-title="MM", Mahar
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Mahar Esport" tvg-logo="" group-title="MM", Mahar Esport
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Channel-K" tvg-logo="" group-title="MM", Channel-K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" FortuneTv" tvg-logo="" group-title="MM", FortuneTv
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" 5Plus" tvg-logo="" group-title="MM", 5Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MSC Movie" tvg-logo="" group-title="MM", MSC Movie
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" TVM" tvg-logo="" group-title="MM", TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MVMTv" tvg-logo="" group-title="MM", MVMTv
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MITV" tvg-logo="" group-title="MM", MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MNTV" tvg-logo="" group-title="MM", MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MRTV Entertainment" tvg-logo="" group-title="MM", MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Music" tvg-logo="" group-title="MM", Music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Light" tvg-logo="" group-title="MM", Light
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Golden Land" tvg-logo="" group-title="MM", Golden Land
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MRTV" tvg-logo="" group-title="MM", MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MRTV NRC" tvg-logo="" group-title="MM", MRTV NRC
+https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MRTV Hluttaw" tvg-logo="" group-title="MM", MRTV Hluttaw
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MWD HD" tvg-logo="" group-title="MM", MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MWD Variety" tvg-logo="" group-title="MM", MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MWD School" tvg-logo="" group-title="MM", MWD School
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" SetantaSports1" tvg-logo="" group-title="SPORT", SetantaSports1
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" SetantaSports2" tvg-logo="" group-title="SPORT", SetantaSports2
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" True EPL1" tvg-logo="" group-title="SPORT", True EPL1
+https://edge2.laotv.la/live/TSport1/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" True EPL2" tvg-logo="" group-title="SPORT", True EPL2
+https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" True Bin1" tvg-logo="" group-title="SPORT", True Bin1
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" True Bin2" tvg-logo="" group-title="SPORT", True Bin2
+https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" K+Sport1" tvg-logo="" group-title="SPORT", K+Sport1
+http://b4tv.live/b4tv/b4tv/20.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" SS SELECT1" tvg-logo="" group-title="SPORT", SS SELECT1
+http://myanmar.webhop.me/live/17524/03503/1070.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" SS SELECT2" tvg-logo="" group-title="SPORT", SS SELECT2
+http://myanmar.webhop.me/live/17524/03503/1071.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Sky Football" tvg-logo="" group-title="SPORT", Sky Football
+http://myanmar.webhop.me/live/17524/03503/2093.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Sky MainEvent" tvg-logo="" group-title="SPORT", Sky MainEvent
+http://myanmar.webhop.me/live/17524/03503/2091.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Sky PremierLeague" tvg-logo="" group-title="SPORT", Sky PremierLeague
+http://myanmar.webhop.me/live/17524/03503/2092.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" TNT Sport1" tvg-logo="" group-title="SPORT", TNT Sport1
+http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
+#EXTINF:-1 tvg-ID="" tvg-name=" TNT Sport2" tvg-logo="" group-title="SPORT", TNT Sport2
+http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+#EXTINF:-1 tvg-ID="" tvg-name=" TNT Sport3" tvg-logo="" group-title="SPORT", TNT Sport3
+http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
+#EXTINF:-1 tvg-ID="" tvg-name=" ESPN1" tvg-logo="" group-title="SPORT", ESPN1
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" ESPN2" tvg-logo="" group-title="SPORT", ESPN2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" ESPN3" tvg-logo="" group-title="SPORT", ESPN3
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" AioSport1" tvg-logo="" group-title="SPORT", AioSport1
+https://tv.ayas.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" AioSport2" tvg-logo="" group-title="SPORT", AioSport2
+https://tv.ayas.ir/hls/aiosport2/aiosport2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" PremierSport1" tvg-logo="" group-title="SPORT", PremierSport1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" PremierSport2" tvg-logo="" group-title="SPORT", PremierSport2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" PPTVHD36" tvg-logo="" group-title="SPORT", PPTVHD36
+http://198.16.100.90:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
+#EXTINF:-1 tvg-ID="" tvg-name=" RCTI" tvg-logo="" group-title="SPORT", RCTI
+http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+#EXTINF:-1 tvg-ID="" tvg-name=" TVRI" tvg-logo="" group-title="SPORT", TVRI
+http://198.16.100.90:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&tsum=9a00b24e2d7d7ac6a58ce692c2147e2e
+#EXTINF:-1 tvg-ID="" tvg-name=" MATCH TV" tvg-logo="" group-title="SPORT", MATCH TV
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MATCH FUTBOL3" tvg-logo="" group-title="SPORT", MATCH FUTBOL3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MATCH Premier" tvg-logo="" group-title="SPORT", MATCH Premier
+https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" ITV1" tvg-logo="" group-title="SPORT", ITV1
+http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
+#EXTINF:-1 tvg-ID="" tvg-name=" FOX Sport1" tvg-logo="" group-title="SPORT", FOX Sport1
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" FOX Sport2" tvg-logo="" group-title="SPORT", FOX Sport2
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" FOX Sport3" tvg-logo="" group-title="SPORT", FOX Sport3
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MUTV" tvg-logo="" group-title="SPORT", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" RealMadridTv" tvg-logo="" group-title="SPORT", RealMadridTv
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" FIFA Tv" tvg-logo="" group-title="SPORT", FIFA Tv
+https://d2anxt9uu5yxtz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/c48642e9-8744-4505-b38b-3441bf2cf6bb/3.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" TycSport" tvg-logo="" group-title="SPORT", TycSport
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Bosisport1" tvg-logo="" group-title="SPORT", Bosisport1
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1 tvg-ID="" tvg-name=" Bosisport2" tvg-logo="" group-title="SPORT", Bosisport2
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 tvg-ID="" tvg-name=" TennisChannel" tvg-logo="" group-title="SPORT", TennisChannel
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 tvg-ID="" tvg-name=" GolfChannel" tvg-logo="" group-title="SPORT", GolfChannel
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1 tvg-ID="" tvg-name=" Golf1" tvg-logo="" group-title="SPORT", Golf1
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 tvg-ID="" tvg-name=" TvN Sport" tvg-logo="" group-title="SPORT", TvN Sport
+https://0796317fc8764af68a3a7fa3c9a72bc3.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/f4b816ba-bcb6-4a0f-9389-278990bd1ccd/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" FIGHT" tvg-logo="" group-title="SPORT", FIGHT
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" BBC ONE" tvg-logo="" group-title="SPORT", BBC ONE
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 tvg-ID="" tvg-name=" BBC TWO" tvg-logo="" group-title="SPORT", BBC TWO
+http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1 tvg-ID="" tvg-name=" AXN" tvg-logo="" group-title="MOVIE", AXN
+http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1 tvg-ID="" tvg-name=" Cinemax" tvg-logo="" group-title="MOVIE", Cinemax
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1 tvg-ID="" tvg-name=" HBO Famlly" tvg-logo="" group-title="MOVIE", HBO Famlly
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-ID="" tvg-name=" HBO2" tvg-logo="" group-title="MOVIE", HBO2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MovieSphere" tvg-logo="" group-title="MOVIE", MovieSphere
+https://dxazj2uf8uiwf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/e2828c0c-8de5-499b-83ea-f1ff15219c79/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MovieClub" tvg-logo="" group-title="MOVIE", MovieClub
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/60e1114a-ec0d-4258-bccf-c3a3170807be/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" TvnMovie" tvg-logo="" group-title="MOVIE", TvnMovie
+http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+#EXTINF:-1 tvg-ID="" tvg-name=" XingweiMovie" tvg-logo="" group-title="MOVIE", XingweiMovie
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1 tvg-ID="" tvg-name=" MeiyaMovie" tvg-logo="" group-title="MOVIE", MeiyaMovie
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1 tvg-ID="" tvg-name=" StarVijay" tvg-logo="" group-title="MOVIE", StarVijay
+http://198.16.100.90:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+#EXTINF:-1 tvg-ID="" tvg-name=" ZeeTv" tvg-logo="" group-title="MOVIE", ZeeTv
+http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
+#EXTINF:-1 tvg-ID="" tvg-name=" SONY MOVIE" tvg-logo="" group-title="MOVIE", SONY MOVIE
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" NASATV" tvg-logo="" group-title="THUTA", NASATV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" LoveNature" tvg-logo="" group-title="THUTA", LoveNature
+http://198.16.100.90:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+#EXTINF:-1 tvg-ID="" tvg-name=" Animalplanet" tvg-logo="" group-title="THUTA", Animalplanet
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#EXTINF:-1 tvg-ID="" tvg-name=" Outdoor" tvg-logo="" group-title="THUTA", Outdoor
+http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+#EXTINF:-1 tvg-ID="" tvg-name=" BBC Earth" tvg-logo="" group-title="THUTA", BBC Earth
+https://d14kv1o37h8tfu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lnty50u34issh/3473529d-91ea-454c-a370-3e614ee80b03/1.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" MoonBug" tvg-logo="" group-title="KIDS", MoonBug
+https://d30kp0xfvvs2gr.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/e07ad8a9-5441-489b-bc44-c848af6777c7/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Builder" tvg-logo="" group-title="KIDS", Builder
+https://d5p4yrsj1j0r2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9tvw1yz1s0fnu-ssai-prd/4a1e495d-3dcf-489a-91de-48c7f74a9093/4.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Slugterra" tvg-logo="" group-title="KIDS", Slugterra
+https://d15qoj1rc2gpo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9y6p6tr7b6x8/944f4fb5-7fc4-4d88-9894-70b163729a16/0.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" ZooMoo" tvg-logo="" group-title="KIDS", ZooMoo
+https://did04mu4z77ga.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iboc5f175mel5-ssai-prd/ff72cf24-9a71-46ac-be90-f52aa0b2dfcf/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" HappyKids" tvg-logo="" group-title="KIDS", HappyKids
+https://dil9xdvretp0f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lvyttqbp48klm/a8249690-a1c1-46f2-846b-74329eca4a45/1.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Nickelodeon" tvg-logo="" group-title="KIDS", Nickelodeon
+http://198.16.100.90:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
+#EXTINF:-1 tvg-ID="" tvg-name=" NickJr" tvg-logo="" group-title="KIDS", NickJr
+http://198.16.100.90:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
+#EXTINF:-1 tvg-ID="" tvg-name=" CN Network" tvg-logo="" group-title="KIDS", CN Network
+http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
+#EXTINF:-1 tvg-ID="" tvg-name=" DuckTv" tvg-logo="" group-title="KIDS", DuckTv
+https://dxvpcwoxxgnqg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sakdd2jiy1b8-ssai-prd/d1f7fc7a-9d6d-4ff4-8a93-95b01e3fcf42/1.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" CGTN" tvg-logo="" group-title="NEWS", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" CNA" tvg-logo="" group-title="NEWS", CNA
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" AlJazeera" tvg-logo="" group-title="NEWS", AlJazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" CNN" tvg-logo="" group-title="NEWS", CNN
+https://dhzhj55w8hou6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/dc50f1d1-d98a-4ed3-aa49-36942acc9900/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" SkyNews" tvg-logo="" group-title="NEWS", SkyNews
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
