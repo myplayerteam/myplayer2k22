@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="🇹🇭| Thailand" tvg-logo="https://i.imgur.com/ZyW7eo2.png",Workpoint
+#EXTINF:-1 group-title="🇹🇭| Thailand" tvg-logo="https://www.seekpng.com/png/full/589-5898962_workpoint-entertainment.png",Workpoint
 https://ctrl.laotv.la/live/WorkPoint/index.m3u8
-#EXTINF:-1 group-title="🇹🇭| Thailand" tvg-logo="https://i.imgur.com/VY9OdOu.png",OneHD
+#EXTINF:-1 group-title="🇹🇭| Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",OneHD
 https://ctrl.laotv.la/live/OneHD/index.m3u8
 #EXTINF:-1 group-title="🇹🇭| Thailand" tvg-logo="https://i.imgur.com/uARba6N.png",GMM25
 https://ctrl.laotv.la/live/GMM25/index.m3u8
