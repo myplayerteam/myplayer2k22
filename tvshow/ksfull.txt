@@ -43,8 +43,6 @@ https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
 https://hls.streambtw.com/live/stream_5.m3u8
 #EXTINF:-1 ,BEIN SPORT LIVE 
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 group-title="ASPORTS",ASPORT
-http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1,TRACE Sports
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,PREMIER 1
@@ -130,8 +128,6 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 ,PALSAT SPORTS 1
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",MATCH SPORT
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1,ON K+Plus_23
 https://code.vthanhtivi.pw/getlink/onlive/onsports/86421.m3u8
 #EXTINF:-1,Pink Movies
@@ -752,8 +748,6 @@ http://b4tv.live/b4tv/b4tv/120.m3u8
 #EXTINF:-1 ,PALSAT SPORTS 1
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="MIX SPORTS",MATCH SPORT
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1,ON K+Plus_23
 https://code.vthanhtivi.pw/getlink/onlive/onsports/86421.m3u8
 #EXTINF:-1,On Movie_27
