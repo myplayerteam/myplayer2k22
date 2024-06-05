@@ -157,3 +157,56 @@ https://picture.ammcloud11.xyz/file/awszatlan/0-9/3+(Three)+(2012)+%5BTamil+-+10
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mad Fate" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17913.jpg" group-title="Crime",Mad Fate
+https://picture.ammcloud29.xyz/file/awszatlan/M/Mad.Fate.2023.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Blood Work" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17908.jpg" group-title="Crime",Blood Work
+https://picture.ammcloud20.xyz/file/awszatlan/B/Blood+Work_2002_Blu-Ray%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Maestro in Blue" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17892.jpg" group-title="Crime",Maestro in Blue
+https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/M/Maestro+in+Blue_2022/Maestro+in+Blue_Ep09+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Marked for Death" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17877.jpg" group-title="Crime",Marked for Death
+https://picture.ammcloud27.xyz/file/awszatlan/M/Marked.For.Death.1990.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Third Suspect" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17867.jpg" group-title="Crime",Third Suspect
+https://picture.ammcloud12.xyz/file/awszatlan/A/A+Third+Suspect_2024_720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Everything Under Control" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17852.jpg" group-title="Crime",Everything Under Control
+https://picture.ammcloud16.xyz/file/awszatlan/E/Everything.Under.Control.2023.720p.DSNP.txt
+#EXTINF:-1 tvg-ID="" tvg-name="P Se Pyaar F Se Faraar" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17840.jpg" group-title="Crime",P Se Pyaar F Se Faraar
+https://picture.ammcloud17.xyz/file/awszatlan/P/P.Se.Pyaar.F.Se.Faraar.2019.720p.AMZN.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Oru Nodi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17919.jpg" group-title="Crime",Oru Nodi
+https://picture.ammcloud19.xyz/file/awszatlan/O/Oru+Nodi_2024_Tamil+TRUE+WEB-DL+-+720p-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bound by Honor" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17926.jpg" group-title="Crime",Bound by Honor
+https://picture.ammcloud28.xyz/file/awszatlan/B/Blood.In.Blood.Out.1993.720p.DSNP.WEB-DL.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kiss of the Dragon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17931.jpg" group-title="Crime",Kiss of the Dragon
+https://picture.ammcloud11.xyz/file/awszatlan/K/Kiss+Of+The+Dragon_2001.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Real" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17932.jpg" group-title="Crime",Real
+https://picture.ammcloud12.xyz/file/awszatlan/R/Real_Rieol_17%2B_2017_MM+Sub.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Carbone" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17812.jpg" group-title="Crime",Carbone
+https://picture.ammcloud26.xyz/file/awszatlan/C/Carbone_2017_Blu-Ray%2C1080p5.1CH.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Torino Criminale Blood Revenge" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17799.jpg" group-title="Crime",Torino Criminale Blood Revenge
+https://picture.ammcloud16.xyz/file/awszatlan/T_1/Torino+Criminale+Blood+Revenge_2023iTA.WEBDL.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Precious Cargo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17794.jpg" group-title="Crime",Precious Cargo
+https://picture.ammcloud11.xyz/file/awszatlan/P/Precious+Cargo_2016_Blu-Ray%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Machine Girl" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17791.jpg" group-title="Crime",The Machine Girl
+https://picture.ammcloud26.xyz/file/awszatlan/T_1/The+Machine+Girl+2008+720p+BluRay+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Yellow Dragon's Village" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17790.jpg" group-title="Crime",Yellow Dragon's Village
+https://picture.ammcloud24.xyz/file/awszatlan/Y/Yellow+Dragon%26%2339s+Village+2021+720p+HDTV+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Reasonable Doubt (2014)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17773.jpg" group-title="Crime",Reasonable Doubt (2014)
+https://picture.ammcloud23.xyz/file/awszatlan/R/Reasonable+Doubt_WEB-DL%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kaliyugam Pattanamlo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17764.jpg" group-title="Crime",Kaliyugam Pattanamlo
+https://picture.ammcloud15.xyz/file/awszatlan/K/Kaliyugam+Pattanamlo_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Escape And Trace" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17763.jpg" group-title="Crime",Escape And Trace
+https://picture.ammcloud13.xyz/file/awszatlan/E/Escape+And+Trace+2024+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rope" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17761.jpg" group-title="Crime",Rope
+https://picture.ammcloud30.xyz/file/awszatlan/R/Rope.1948.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Vallavan Vaguthathada" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17755.jpg" group-title="Crime",Vallavan Vaguthathada
+https://picture.ammcloud20.xyz/file/awszatlan/V/Vallavan+Vaguthadhada_Tamil+TRUE+WEB-DL+-+720p+-+AVC+-+UNTOUCHED+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Connection" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17741.jpg" group-title="Crime",Connection
+https://picture.ammcloud2.xyz/file/awszatlantwe/zatlantwe/C/Connection_2024/Connection+2024+Ep02.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Hot Fuzz" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17739.jpg" group-title="Crime",Hot Fuzz
+https://picture.ammcloud22.xyz/file/awszatlan/H/Hot+Fuzz+(2007)+BluRay+720p+H264-+Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Boy Kills World" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17738.jpg" group-title="Crime",Boy Kills World
+https://picture.ammcloud22.xyz/file/awszatlan/B/Boy.Kills.World.2023.720P.AWS.txt
