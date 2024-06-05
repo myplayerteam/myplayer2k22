@@ -23,3 +23,32 @@ https://picture.ammcloud11.xyz/file/awszatlan/A/Au.Revoir.Les.Enfants.1987.720p.
 https://picture.ammcloud20.xyz/file/awszatlan/R/Railroad.Tigers.2016.720p.AMZN.WEB-DL..txt
 #EXTINF:-1 tvg-ID="" tvg-name="Torpedo: U-235" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17148.jpg" group-title="WAR",Torpedo: U-235
 https://picture.ammcloud14.xyz/file/awszatlan/T_1/Torpedo.2019.720p.WEBRip+(CM).txt
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hart 2: Die Harter" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17946.jpg" group-title="ACTION",Die Hart 2: Die Harter
+https://picture.ammcloud15.xyz/file/awszatlan/D/Die+Hart+2+-+Die+Harter_2024_WEB-DL%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Manners" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17944.jpg" group-title="ACTION",Bad Manners
+https://picture.ammcloud10.xyz/file/awszatlan/B/Bad+Manners_2023_Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="A Touch of Zen" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17933.jpg" group-title="ACTION",A Touch of Zen
+https://picture.ammcloud13.xyz/file/awszatlan/A/A+Touch+of+Zen_1971_Criterion_720p+BluRay+CM+.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Real" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17932.jpg" group-title="ACTION",Real
+https://picture.ammcloud12.xyz/file/awszatlan/R/Real_Rieol_17%2B_2017_MM+Sub.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kiss of the Dragon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17931.jpg" group-title="ACTION",Kiss of the Dragon
+https://picture.ammcloud11.xyz/file/awszatlan/K/Kiss+Of+The+Dragon_2001.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Great Wall" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17930.jpg" group-title="ACTION",The Great Wall
+https://picture.ammcloud30.xyz/file/awszatlan/T_1/The+Great+Wall_2016_MM+Sub.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Last 2015" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17929.jpg" group-title="ACTION",Last 2015
+https://picture.ammcloud6.xyz/file/awszatlantwe/zatlantwe/L/Last_2015/LAST+2015+Ep16.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Hard to Kill" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17928.jpg" group-title="ACTION",Hard to Kill
+https://picture.ammcloud27.xyz/file/awszatlan/H/Hard.To.Kill.1990.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bound by Honor" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17926.jpg" group-title="ACTION",Bound by Honor
+https://picture.ammcloud28.xyz/file/awszatlan/B/Blood.In.Blood.Out.1993.720p.DSNP.WEB-DL.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Above the Law" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17920.jpg" group-title="ACTION",Above the Law
+https://picture.ammcloud21.xyz/file/awszatlan/A/Above.The.Law.1988.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mutant Chronicles" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17915.jpg" group-title="ACTION",Mutant Chronicles
+https://picture.ammcloud11.xyz/file/awszatlan/M/Mutant.Chronicles.2008.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Humen Escort Group" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17914.jpg" group-title="ACTION",Humen Escort Group
+https://picture.ammcloud10.xyz/file/awszatlan/H/Humen+Escort+Group_2020_720p.txt
