@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="The Shamrock Spitfire" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17776.jpg" group-title="WAR",The Shamrock Spitfire
+https://picture.ammcloud29.xyz/file/awszatlan/T_1/The.Shamrock.Spitfire.2024.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Civil War" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17730.jpg" group-title="WAR",Civil War
+https://picture.ammcloud25.xyz/file/awszatlan/C/Civil.war.2024.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Northern Limit Line" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17648.jpg" group-title="WAR",Northern Limit Line
+https://picture.ammcloud16.xyz/file/awszatlan/N/Northern+Limit+Line+(Yeonpyeong+Haejeon)+%5B2015%5D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Red Scorpion" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17622.jpg" group-title="WAR",Red Scorpion
+https://picture.ammcloud25.xyz/file/awszatlan/R/Red.Scorpion.1988.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Irena's Vow" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17581.jpg" group-title="WAR",Irena's Vow
+https://picture.ammcloud25.xyz/file/awszatlan/I/Irena%26%2339s+Vow+(2023)+WEB-DL%2C720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Battle Over Britain" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17580.jpg" group-title="WAR",Battle Over Britain
+https://picture.ammcloud23.xyz/file/awszatlan/B/Battle+Over+Britain+(2023)+Blu-Ray%2C720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Threads" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17558.jpg" group-title="WAR",Threads
+https://picture.ammcloud21.xyz/file/awszatlan/T_1/Threads+-+Thriller+1984+Eng+Rus+Multi+Subs+720p+(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Arctic Convoy" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17506.jpg" group-title="WAR",The Arctic Convoy
+https://picture.ammcloud10.xyz/file/awszatlan/T_1/The+Arctic+Convoy+2023+-+720p+Bluray+%5BRMC%5D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Ministry of Ungentlemanly Warfare" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17388.jpg" group-title="WAR",The Ministry of Ungentlemanly Warfare
+https://picture.ammcloud16.xyz/file/awszatlan/T_1/the.ministry.of.ungentlemanly.warfare.2024.720p+%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Au Revoir les Enfants" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17282.jpg" group-title="WAR",Au Revoir les Enfants
+https://picture.ammcloud11.xyz/file/awszatlan/A/Au.Revoir.Les.Enfants.1987.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Railroad Tigers" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17194.jpg" group-title="WAR",Railroad Tigers
+https://picture.ammcloud20.xyz/file/awszatlan/R/Railroad.Tigers.2016.720p.AMZN.WEB-DL..txt
+#EXTINF:-1 tvg-ID="" tvg-name="Torpedo: U-235" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17148.jpg" group-title="WAR",Torpedo: U-235
+https://picture.ammcloud14.xyz/file/awszatlan/T_1/Torpedo.2019.720p.WEBRip+(CM).txt
