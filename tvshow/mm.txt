@@ -106,3 +106,54 @@ https://picture.ammcloud20.xyz/file/awszatlan/V/Vallavan+Vaguthadhada_Tamil+TRUE
 https://picture.ammcloud10.xyz/file/awszatlan/W/White+Rose+2024+-+720p+Tamil+Web-DL.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Radhe" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17732.jpg" group-title="Bollwood",Radhe
 https://picture.ammcloud29.xyz/file/awszatlan/R/Radhe+2021+-+720p+Hindi+Web-DL.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Crew" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17724.jpg" group-title="Bollwood",Crew
+https://picture.ammcloud19.xyz/file/awszatlan/C/Crew_Hindi+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Tatsama Tadbhava" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17723.jpg" group-title="Bollwood",Tatsama Tadbhava
+https://picture.ammcloud17.xyz/file/awszatlan/T_1/Tatsama+Tadbhava+(2024)+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Garuda Purana" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17718.jpg" group-title="Bollwood",Garuda Purana
+https://picture.ammcloud28.xyz/file/awszatlan/G/Garuda+Purana+(2023)+Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bunraku" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17717.jpg" group-title="Bollwood",Bunraku
+https://picture.ammcloud26.xyz/file/awszatlan/B/Bunraku+(2010)+Blu-Ray%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Blackia 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17716.jpg" group-title="Bollwood",Blackia 2
+https://picture.ammcloud24.xyz/file/awszatlan/B/Blackia+2+(2024)+Punjabi+CHTV+WEB-DL+720p+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shakhahaari" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17707.jpg" group-title="Bollwood",Shakhahaari
+https://picture.ammcloud14.xyz/file/awszatlan/S/Shakhahaari_Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Maidaan" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17672.jpg" group-title="Bollwood",Maidaan
+https://picture.ammcloud13.xyz/file/awszatlan/M/Maidaan+2024+WebRip+720p+WEB+DL.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Sarkar 3" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17649.jpg" group-title="Bollwood",Sarkar 3
+https://picture.ammcloud17.xyz/file/awszatlan/S/SARKAR+3_720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Pattas" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17645.jpg" group-title="Bollwood",Pattas
+https://picture.ammcloud12.xyz/file/awszatlan/P/Pattas_2020_720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Sharathulu Varthisthai" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17584.jpg" group-title="Bollwood",Sharathulu Varthisthai
+https://picture.ammcloud10.xyz/file/awszatlan/S/Sharathulu+Varthisthai+(2024)+Telugu+TRUE+WEB-DL+-+720p+-AVC+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Action (2019)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17575.jpg" group-title="Bollwood",Action (2019)
+https://picture.ammcloud20.xyz/file/awszatlan/A/Action+(2019)+WEB-DL+720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Vidya Vasula Aham" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17566.jpg" group-title="Bollwood",Vidya Vasula Aham
+https://picture.ammcloud16.xyz/file/awszatlan/V/Vidhya+Vasula+Aham+(2024)+Telugu+TRUE+WEB-DL+-+720p+-AVC+-+UNTOUCHED+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bastar The Naxal Story" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17563.jpg" group-title="Bollwood",Bastar The Naxal Story
+https://picture.ammcloud27.xyz/file/awszatlan/B/Bastar.The.Naxal.Story.2024.720p.ZEE5.WEB-DL.YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Hot Spot" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17562.jpg" group-title="Bollwood",Hot Spot
+https://picture.ammcloud25.xyz/file/awszatlan/H/Hot+Spot+(2024)+Tamil+HQ+HDRip+-+720p+-+x264+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kade Dade Diyan Kade Pote Diyan" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17559.jpg" group-title="Bollwood",Kade Dade Diyan Kade Pote Diyan
+https://picture.ammcloud23.xyz/file/awszatlan/K/Kade.Dade.Diyan.Kade.Pote.Diyan.2023.720p.WebRip.YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Krishnamma" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17530.jpg" group-title="Bollwood",Krishnamma
+https://picture.ammcloud18.xyz/file/awszatlan/K/Krishnamma+(2024)+Telugu+TRUE+WEB-DL+-+720p+-+AVC+-YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Zara Hatke Zara Bachke" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17523.jpg" group-title="Bollwood",Zara Hatke Zara Bachke
+https://picture.ammcloud30.xyz/file/awszatlan/Z/Zara+Hatke+Zara+Bachke+(2023)+Hindi+TRUE+WEB-DL+-+1080p+-+AVC+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Yodha" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17501.jpg" group-title="Bollwood",Yodha
+https://picture.ammcloud22.xyz/file/awszatlan/Y/Yodha2024_720p_aws.txt
+#EXTINF:-1 tvg-ID="" tvg-name="S.I.T Special Investigation Team" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17396.jpg" group-title="Bollwood",S.I.T Special Investigation Team
+https://picture.ammcloud23.xyz/file/awszatlan/S/S.I.T+(2024)+TRUE+WEB-DL+-+720p-+AVC+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Romeo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17392.jpg" group-title="Bollwood",Romeo
+https://picture.ammcloud29.xyz/file/awszatlan/R/Romeo+(2024)+Tamil+TRUE+WEB-DL+-+720p+-AVC+-+Yk(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Gadera" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17391.jpg" group-title="Bollwood",Gadera
+https://picture.ammcloud27.xyz/file/awszatlan/G/Gadera+(2024)+Hindi++TRUE+WEB-DL+-+720p-+AVC+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="8 A.M. Metro" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17377.jpg" group-title="Bollwood",8 A.M. Metro
+https://picture.ammcloud24.xyz/file/awszatlan/0-9/8+A.M.+Metro+(2023)+Hindi%C2%A0TRUE+WEB-DL+-+720p-+AVC+-+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shaandaar" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17376.jpg" group-title="Bollwood",Shaandaar
+https://picture.ammcloud22.xyz/file/awszatlan/S/Shaandaar+2015+BluRay+720p+Hindi+YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="3" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17369.jpg" group-title="Bollwood",3
+https://picture.ammcloud11.xyz/file/awszatlan/0-9/3+(Three)+(2012)+%5BTamil+-+1080p+HD+AVC+-+UNTOUCHED+-+YK(CM).txt
+
+
+
