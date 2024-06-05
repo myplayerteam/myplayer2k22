@@ -52,3 +52,57 @@ https://picture.ammcloud21.xyz/file/awszatlan/A/Above.The.Law.1988.720p.BluRay.t
 https://picture.ammcloud11.xyz/file/awszatlan/M/Mutant.Chronicles.2008.720p.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Humen Escort Group" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17914.jpg" group-title="ACTION",Humen Escort Group
 https://picture.ammcloud10.xyz/file/awszatlan/H/Humen+Escort+Group_2020_720p.txt
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Moonamghattam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17945.jpg" group-title="Bollwood",Moonamghattam
+https://picture.ammcloud13.xyz/file/awszatlan/M/Moonamghattam_2024_Malayalam+HQ+HDRip+-+720p+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Manners" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17944.jpg" group-title="Bollwood",Bad Manners
+https://picture.ammcloud10.xyz/file/awszatlan/B/Bad+Manners_2023_Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Anveshi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17939.jpg" group-title="Bollwood",Anveshi
+https://picture.ammcloud21.xyz/file/awszatlan/A/Anveshi_2023_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Oru Nodi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17919.jpg" group-title="Bollwood",Oru Nodi
+https://picture.ammcloud19.xyz/file/awszatlan/O/Oru+Nodi_2024_Tamil+TRUE+WEB-DL+-+720p-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Aa Okkati Adakku" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17912.jpg" group-title="Bollwood",Aa Okkati Adakku
+https://picture.ammcloud27.xyz/file/awszatlan/A/Aa+Okkati+Adakku_2024_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Udeekan Teriyan" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17910.jpg" group-title="Bollwood",Udeekan Teriyan
+https://picture.ammcloud23.xyz/file/awszatlan/U/Udeekan.Teriyan.2023.720p.AMZN.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="House of Lies" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17903.jpg" group-title="Bollwood",House of Lies
+https://picture.ammcloud12.xyz/file/awszatlan/H/House+Of+Lies_2024_Hindi+TRUE+WEB-DL+-+720p+-+AVC+-+UNTOUCHED+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="O2 (2024)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17902.jpg" group-title="Bollwood",O2 (2024)
+https://picture.ammcloud10.xyz/file/awszatlan/O/O2_2024_Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Sriranga Neethulu" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17869.jpg" group-title="Bollwood",Sriranga Neethulu
+https://picture.ammcloud16.xyz/file/awszatlan/S/Sriranga+Neethulu_2024_Telugu+TRUE+WEB-DL+-+1080p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Arranged Love" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17868.jpg" group-title="Bollwood",Arranged Love
+https://picture.ammcloud14.xyz/file/awszatlan/A/Arranged.Love.2023.720p.WEBRip.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Gaddi Jaandi Ae Chalaangaan Maardi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17863.jpg" group-title="Bollwood",Gaddi Jaandi Ae Chalaangaan Maardi
+https://picture.ammcloud10.xyz/file/awszatlan/G/Gaddi+Jaandi+Ae+Chalaangaan+Maardi+720p+WEBDL+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="1921" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17861.jpg" group-title="Bollwood",1921
+https://picture.ammcloud29.xyz/file/awszatlan/0-9/1921_2018.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Archir Gallery" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17859.jpg" group-title="Bollwood",Archir Gallery
+https://picture.ammcloud25.xyz/file/awszatlan/A/Archier+Gallery_2023720p+ZEE5+WEB-DL+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Majbooriyan" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17858.jpg" group-title="Bollwood",Majbooriyan
+https://picture.ammcloud23.xyz/file/awszatlan/M/Majbooriyan.2023.720p.SM.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="P Se Pyaar F Se Faraar" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17840.jpg" group-title="Bollwood",P Se Pyaar F Se Faraar
+https://picture.ammcloud17.xyz/file/awszatlan/P/P.Se.Pyaar.F.Se.Faraar.2019.720p.AMZN.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Oru Yamandan Premakadha" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17830.jpg" group-title="Bollwood",Oru Yamandan Premakadha
+https://picture.ammcloud20.xyz/file/awszatlan/O/Oru.Yamandan.Premakadha.2019.720p.CBR.AMZN.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mix Up" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17785.jpg" group-title="Bollwood",Mix Up
+https://picture.ammcloud18.xyz/file/awszatlan/S/ShaadiXchange+-+Mix+Up+2024+WebRip+720p+YK+Edit.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Sarfarosh" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17781.jpg" group-title="Bollwood",Sarfarosh
+https://picture.ammcloud14.xyz/file/awszatlan/S/Sarfarosh+1999+BluRay+720p+Hindi+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kaliyugam Pattanamlo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17764.jpg" group-title="Bollwood",Kaliyugam Pattanamlo
+https://picture.ammcloud15.xyz/file/awszatlan/K/Kaliyugam+Pattanamlo_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Paune 9" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17757.jpg" group-title="Bollwood",Paune 9
+https://picture.ammcloud24.xyz/file/awszatlan/P/Paune.9.2024.720p.TUBI.WEB-DL.AAC.2.0.H264-Telly.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Prasanna Vadanam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17756.jpg" group-title="Bollwood",Prasanna Vadanam
+https://picture.ammcloud22.xyz/file/awszatlan/P/Prasanna+Vadanam_Telugu+TRUE+WEB-DL+-+720p+-+AVC%C2%A0-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Vallavan Vaguthathada" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17755.jpg" group-title="Bollwood",Vallavan Vaguthathada
+https://picture.ammcloud20.xyz/file/awszatlan/V/Vallavan+Vaguthadhada_Tamil+TRUE+WEB-DL+-+720p+-+AVC+-+UNTOUCHED+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="White Rose" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17733.jpg" group-title="Bollwood",White Rose
+https://picture.ammcloud10.xyz/file/awszatlan/W/White+Rose+2024+-+720p+Tamil+Web-DL.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Radhe" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17732.jpg" group-title="Bollwood",Radhe
+https://picture.ammcloud29.xyz/file/awszatlan/R/Radhe+2021+-+720p+Hindi+Web-DL.txt
