@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="The Ministry of Ungentlemanly Warfare" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17978.jpg" group-title="WAR",The Ministry of Ungentlemanly Warfare
+https://picture.ammcloud13.xyz/file/awszatlan/T_1/The+Ministry+Of+Ungentlemanly+Warfare_2024_AWS+720P.txt
 #EXTINF:-1 tvg-ID="" tvg-name="The Shamrock Spitfire" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17776.jpg" group-title="WAR",The Shamrock Spitfire
 https://picture.ammcloud29.xyz/file/awszatlan/T_1/The.Shamrock.Spitfire.2024.720p.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Civil War" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17730.jpg" group-title="WAR",Civil War
@@ -23,6 +25,26 @@ https://picture.ammcloud11.xyz/file/awszatlan/A/Au.Revoir.Les.Enfants.1987.720p.
 https://picture.ammcloud20.xyz/file/awszatlan/R/Railroad.Tigers.2016.720p.AMZN.WEB-DL..txt
 #EXTINF:-1 tvg-ID="" tvg-name="Torpedo: U-235" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17148.jpg" group-title="WAR",Torpedo: U-235
 https://picture.ammcloud14.xyz/file/awszatlan/T_1/Torpedo.2019.720p.WEBRip+(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Downfall (2004)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17146.jpg" group-title="WAR",Downfall (2004)
+https://picture.ammcloud20.xyz/file/awszatlan/D/Downfall+%5B2004%5D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Valiant" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17025.jpg" group-title="WAR",Valiant
+https://picture.ammcloud11.xyz/file/awszatlan/V/Valiant.2005.720p.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="9th Company" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17024.jpg" group-title="WAR",9th Company
+https://picture.ammcloud30.xyz/file/awszatlan/0-9/9th.Company.2005.720p.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Land of Bad (4k Eng Sutitles)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16912.jpg" group-title="WAR",Land of Bad (4k Eng Sutitles)
+https://picture.ammcloud15.xyz/file/awszatlan/L/land.of.bad.2024.2160p.web.h265-shaggyrobustpythonofapotheosis.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Coast Guard" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16773.jpg" group-title="WAR",The Coast Guard
+https://picture.ammcloud16.xyz/file/awszatlan/T_1/The.Coast.Guard.2002.720p.BluRay.DD%2B5.1.+%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Twice Born" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16756.jpg" group-title="WAR",Twice Born
+https://picture.ammcloud15.xyz/file/awszatlan/T_1/Twice.Born.2012.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Lion of the Desert" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16718.jpg" group-title="WAR",Lion of the Desert
+https://picture.ammcloud27.xyz/file/awszatlan/L/Lion.Of.The.Desert.1980.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Big Red One" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16521.jpg" group-title="WAR",The Big Red One
+https://picture.ammcloud13.xyz/file/awszatlan/T_1/The+Big+Red+One+-+1980+720p+%5BWC%5D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mongol: The Rise of Genghis Khan" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16463.jpg" group-title="WAR",Mongol: The Rise of Genghis Khan
+https://picture.ammcloud16.xyz/file/awszatlan/M/Mongol.2007.720p.BluRay+%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bardejov" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16406.jpg" group-title="WAR",Bardejov
+https://picture.ammcloud14.xyz/file/awszatlan/B/Bardejov.2024.720p.WEBRip.(CM).txt
 
 
 
