@@ -1,7 +1,367 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="US: UFC" tvg-name="US: UFC" tvg-logo="https://www.satlogo.com/hires/uu/ufc_network_us.png" group-title="UFC",US: UFC
+#EXTINF:-1 tvg-id="US: UFC" tvg-name="US: UFC" tvg-logo="https://www.satlogo.com/hires/uu/ufc_network_us.png" group-title="Ufc",US: UFC
 http://dns.hibrido.club:8080/sourceuxusaX2/bRsCaNup9Cb3/10889
+
+#EXTINF:-1 tvg-ID="" tvg-name="AyM Sports FHD (i)" tvg-logo="" group-title="Sport",AyM Sports FHD (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158797
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Arizona (i)" tvg-logo="" group-title="Sport",Bally Sports Arizona (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158810
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Detroit (i)" tvg-logo="" group-title="Sport",Bally Sports Detroit (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158809
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Florida (i)" tvg-logo="" group-title="Sport",Bally Sports Florida (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158808
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Great Lakes (i)" tvg-logo="" group-title="Sport",Bally Sports Great Lakes (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158814
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Indiana (i)" tvg-logo="" group-title="Sport",Bally Sports Indiana (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158812
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Kansas City (i)" tvg-logo="" group-title="Sport",Bally Sports Kansas City (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158811
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Midwest (i)" tvg-logo="" group-title="Sport",Bally Sports Midwest (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158807
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports New Orleans (i)" tvg-logo="" group-title="Sport",Bally Sports New Orleans (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158816
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports North (i)" tvg-logo="" group-title="Sport",Bally Sports North (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158806
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Ohio (i)" tvg-logo="" group-title="Sport",Bally Sports Ohio (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158805
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Oklahoma (i)" tvg-logo="" group-title="Sport",Bally Sports Oklahoma (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158815
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports San Diego (i)" tvg-logo="" group-title="Sport",Bally Sports San Diego (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158804
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports SoCal (i)" tvg-logo="" group-title="Sport",Bally Sports SoCal (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158813
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports South (i)" tvg-logo="" group-title="Sport",Bally Sports South (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158801
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Southeast (i)" tvg-logo="" group-title="Sport",Bally Sports Southeast (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158803
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Southwest (i)" tvg-logo="" group-title="Sport",Bally Sports Southwest (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158802
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Sun (i)" tvg-logo="" group-title="Sport",Bally Sports Sun (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158800
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports West (i)" tvg-logo="" group-title="Sport",Bally Sports West (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158799
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports US (i)" tvg-logo="" group-title="Bein sport",BeIN Sports US (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158818
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 Mexico HD (i)" tvg-logo="" group-title="Es-pn",ES-PN 2 Mexico HD (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158827
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 3 HD MX Encoder (i)" tvg-logo="" group-title="Es-pn",ES-PN 3 HD MX Encoder (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158828
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 4 FHD (i)" tvg-logo="" group-title="Es-pn",ES-PN 4 FHD (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158829
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN DEPORTES HD US (i)" tvg-logo="" group-title="Es-pn",ES-PN DEPORTES HD US (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158831
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN EXTRA MX (i)" tvg-logo="" group-title="Es-pn",ES-PN EXTRA MX (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158830
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN MX HD (i)" tvg-logo="" group-title="Es-pn",ES-PN MX HD (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158826
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN Premium HD (AR) (i)" tvg-logo="" group-title="Es-pn",ES-PN Premium HD (AR) (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158832
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier 1 FHD (MX)(R)" tvg-logo="" group-title="Premier",Golden Premier 1 FHD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159231
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier 2 FHD (MX)(R)" tvg-logo="" group-title="Premier",Golden Premier 2 FHD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/129515
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier HD (MX)(R)" tvg-logo="" group-title="Premier",Golden Premier HD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159230
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier HD MX (i)" tvg-logo="" group-title="Premier",Golden Premier HD MX (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158784
+#EXTINF:-1 tvg-ID="" tvg-name="Golden premier SD (MX)(R)" tvg-logo="" group-title="Premier",Golden premier SD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159229
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Network HD (US)(i) op2" tvg-logo="" group-title="Ufc",UFC Network HD (US)(i) op2
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158853
+#EXTINF:-1 tvg-ID="" tvg-name="Uni-versal Premiere (MX)(R)" tvg-logo="" group-title="Premier",Uni-versal Premiere (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159271
+#EXTINF:-1 tvg-ID="" tvg-name="E-Sports (R)" tvg-logo="" group-title="Sport",E-Sports (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/167066
+#EXTINF:-1 tvg-ID="" tvg-name="C.laro Sports (i)" tvg-logo="" group-title="Sport",C.laro Sports (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/167183
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/127365
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN News | US (R)" tvg-logo="" group-title="Es-pn",ES-PN News | US (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/154502
+#EXTINF:-1 tvg-ID="" tvg-name="NVC SPORTS (US)(i)" tvg-logo="" group-title="Sport",NVC SPORTS (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161163
+#EXTINF:-1 tvg-ID="" tvg-name="TE Y C Sports US (US)(i)" tvg-logo="" group-title="Sport",TE Y C Sports US (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161173
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Man (US)(i)" tvg-logo="" group-title="Sport",Sport Man (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161175
+#EXTINF:-1 tvg-ID="" tvg-name="ROOT SPORTS HD (US)(i)" tvg-logo="" group-title="Sport",ROOT SPORTS HD (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161176
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T SPORTS NET (US)(i)" tvg-logo="" group-title="Sport",AT&T SPORTS NET (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161177
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T Sportsnet Pittsburgh (US)(i)" tvg-logo="" group-title="Sport",AT&T Sportsnet Pittsburgh (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161178
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T Sportsnet Rocky Mountain (US)(i)" tvg-logo="" group-title="Sport",AT&T Sportsnet Rocky Mountain (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161179
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T SPORTS NET 2 (US)(i)" tvg-logo="" group-title="Sport",AT&T SPORTS NET 2 (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161180
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Network HD (US)(i)" tvg-logo="" group-title="Ufc",UFC Network HD (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161182
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN DEPORTES HD (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN DEPORTES HD (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161184
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN US (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN US (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161185
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN2 US (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN2 US (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161186
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN-U (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN-U (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161187
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN News (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN News (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161188
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T SportsNet 2 West. (US)(i)" tvg-logo="" group-title="Sport",AT&T SportsNet 2 West. (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161189
+#EXTINF:-1 tvg-ID="" tvg-name="AT & T Sportsnet Pittsburgh (US)(i)" tvg-logo="" group-title="Sport",AT & T Sportsnet Pittsburgh (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161190
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T Sports US (US)(i)" tvg-logo="" group-title="Sport",AT&T Sports US (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161191
+#EXTINF:-1 tvg-ID="" tvg-name="Root Sports Northwest US (US)(i)" tvg-logo="" group-title="Sport",Root Sports Northwest US (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161193
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN U (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN U (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161267
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN News (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN News (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161268
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTNET LA Dodgers (US)(i)" tvg-logo="" group-title="Sport",SPORTNET LA Dodgers (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161270
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN SEC (US)(i) op2" tvg-logo="" group-title="Es-pn",ES-PN SEC (US)(i) op2
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161271
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Man (US)(i) op2" tvg-logo="" group-title="Sport",Sport Man (US)(i) op2
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161274
+#EXTINF:-1 tvg-ID="" tvg-name="NVC Sports Network (US)(i)" tvg-logo="" group-title="Sport",NVC Sports Network (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161277
+#EXTINF:-1 tvg-ID="" tvg-name="NVC Sports California (US)(i)" tvg-logo="" group-title="Sport",NVC Sports California (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161280
+#EXTINF:-1 tvg-ID="" tvg-name="NVC Sports Philadelphia (US)(i)" tvg-logo="" group-title="Sport",NVC Sports Philadelphia (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161282
+#EXTINF:-1 tvg-ID="" tvg-name="NVC Sports Bay Area (US)(i)" tvg-logo="" group-title="Sport",NVC Sports Bay Area (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161283
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 US" tvg-logo="" group-title="Es-pn",ES-PN 2 US
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161284
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN SEC (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN SEC (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161285
+#EXTINF:-1 tvg-ID="" tvg-name="Sportsnet 360 (CA)(i)" tvg-logo="" group-title="Sport",Sportsnet 360 (CA)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161292
+#EXTINF:-1 tvg-ID="" tvg-name="Sportsnet One (CA)(i)" tvg-logo="" group-title="Sport",Sportsnet One (CA)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161293
+#EXTINF:-1 tvg-ID="" tvg-name="Sportsnet Pacific (CA)(i)" tvg-logo="" group-title="Sport",Sportsnet Pacific (CA)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161294
+#EXTINF:-1 tvg-ID="" tvg-name="SportsNet West (CA)(i)" tvg-logo="" group-title="Sport",SportsNet West (CA)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161295
+#EXTINF:-1 tvg-ID="" tvg-name="Spectrum Sportsnet (US)(i)" tvg-logo="" group-title="Sport",Spectrum Sportsnet (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161296
+#EXTINF:-1 tvg-ID="" tvg-name="AT&T Sportsnet Southwest HD (US)(i)" tvg-logo="" group-title="Sport",AT&T Sportsnet Southwest HD (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161297
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTNET LA Lakers (US)(i)" tvg-logo="" group-title="Sport",SPORTNET LA Lakers (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161298
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN ACC Network (US)(i)" tvg-logo="" group-title="Es-pn",ES-PN ACC Network (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161302
+#EXTINF:-1 tvg-ID="" tvg-name="NVC Sports Chicago (US)(i)" tvg-logo="" group-title="Sport",NVC Sports Chicago (US)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161303
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/164148
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN  + (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN  + (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/164149
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN  U (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN  U (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/164150
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Man (US)(r)" tvg-logo="" group-title="Sport",Sport Man (US)(r)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165100
+#EXTINF:-1 tvg-ID="" tvg-name="Marquee Sports Network (i)" tvg-logo="" group-title="Sport",Marquee Sports Network (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165510
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Wisconsin (i)" tvg-logo="" group-title="Sport",Bally Sports Wisconsin (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158798
+#EXTINF:-1 tvg-ID="" tvg-name="Eu-sport 1 (R)" tvg-logo="" group-title="Sport",Eu-sport 1 (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161494
+#EXTINF:-1 tvg-ID="" tvg-name="Eu-sport 2 (R)" tvg-logo="" group-title="Sport",Eu-sport 2 (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161495
+#EXTINF:-1 tvg-ID="" tvg-name="Eu-sport 1 op2 (R)" tvg-logo="" group-title="Sport",Eu-sport 1 op2 (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161573
+#EXTINF:-1 tvg-ID="" tvg-name="Eu-sport 2 op2 (R)" tvg-logo="" group-title="Sport",Eu-sport 2 op2 (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/161574
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 3 MX HD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN 3 MX HD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/155896
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 3 FHD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN 3 FHD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/155897
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN (R)" tvg-logo="" group-title="Es-pn",ES-PN (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/155902
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN HD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN HD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/155904
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 (CL)(i)" tvg-logo="" group-title="Es-pn",ES-PN 2 (CL)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158889
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN (AR)(i)" tvg-logo="" group-title="Es-pn",ES-PN (AR)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158891
+#EXTINF:-1 tvg-ID="" tvg-name="AyM Sports HD (MX)(R)" tvg-logo="" group-title="Sport",AyM Sports HD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159278
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Wisconsin (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Wisconsin (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159280
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Indiana (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Indiana (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159281
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Arizona (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Arizona (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159282
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Florida (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Florida (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159283
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Midwest (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Midwest (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159284
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Ohio (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Ohio (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159285
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Southeast (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Southeast (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159286
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Southwest (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Southwest (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159287
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports South (US)(R)" tvg-logo="" group-title="Sport",Bally Sports South (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159288
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Sun (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Sun (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159289
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports West (US)(R)" tvg-logo="" group-title="Sport",Bally Sports West (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159290
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports SoCal (US)(R)" tvg-logo="" group-title="Sport",Bally Sports SoCal (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159291
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports San Diego (US)(R)" tvg-logo="" group-title="Sport",Bally Sports San Diego (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159292
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports New Orleans (US)(R)" tvg-logo="" group-title="Sport",Bally Sports New Orleans (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159295
+#EXTINF:-1 tvg-ID="" tvg-name="Bally Sports Kansas City (US)(R)" tvg-logo="" group-title="Sport",Bally Sports Kansas City (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159296
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports USA HD (US)(R)" tvg-logo="" group-title="Bein sport",Bein Sports USA HD (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159299
+#EXTINF:-1 tvg-ID="" tvg-name="Bein sports Ñ * (ES)(R)" tvg-logo="" group-title="Bein sport",Bein sports Ñ * (ES)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159300
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Ñ HD (ES)(R)" tvg-logo="" group-title="Bein sport",Bein Sports Ñ HD (ES)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159301
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS LA LIGA (ES)(R)" tvg-logo="" group-title="Bein sport",BEIN SPORTS LA LIGA (ES)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159302
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS XTRA en español (ES)(R)" tvg-logo="" group-title="Bein sport",beIN SPORTS XTRA en español (ES)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159304
+#EXTINF:-1 tvg-ID="" tvg-name="Claro Sports SD (MX)(R)" tvg-logo="" group-title="Sport",Claro Sports SD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159305
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN SD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN SD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159317
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN FHD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN FHD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159318
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 SD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 SD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159319
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 MX HD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 MX HD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159320
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 MX FHD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 MX FHD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159321
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 3 MX SD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN 3 MX SD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159322
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN Plus HD (MX)(R)" tvg-logo="" group-title="Es-pn",ES-PN Plus HD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159323
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN Deportes SD (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN Deportes SD (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159324
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN Deportes HD (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN Deportes HD (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159325
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN DEPORTES HD FHD (US)(R)" tvg-logo="" group-title="Es-pn",ES-PN DEPORTES HD FHD (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159326
+#EXTINF:-1 tvg-ID="" tvg-name="UFC TV HD (US)(R)" tvg-logo="" group-title="Ufc",UFC TV HD (US)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159346
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sport SD (MX)(R)" tvg-logo="" group-title="Sport",T-N Sport SD (MX)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/160046
+#EXTINF:-1 tvg-ID="" tvg-name="Tenete Sports (AR)(i) op3" tvg-logo="" group-title="Sport",Tenete Sports (AR)(i) op3
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166562
+#EXTINF:-1 tvg-ID="" tvg-name="TE Y C Sports (AR)(i) op3" tvg-logo="" group-title="Sport",TE Y C Sports (AR)(i) op3
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166563
+#EXTINF:-1 tvg-ID="" tvg-name="UFC | PROXIMAMENTE | 01" tvg-logo="" group-title="Ufc",UFC | PROXIMAMENTE | 01
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/122041
+#EXTINF:-1 tvg-ID="" tvg-name="UFC | PROXIMAMENTE | 02" tvg-logo="" group-title="Ufc",UFC | PROXIMAMENTE | 02
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/122042
+#EXTINF:-1 tvg-ID="" tvg-name="UFC | PROXIMAMENTE | 03" tvg-logo="" group-title="Ufc",UFC | PROXIMAMENTE | 03
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/123396
+#EXTINF:-1 tvg-ID="" tvg-name="UFC | PROXIMAMENTe | 04" tvg-logo="" group-title="Ufc",UFC | PROXIMAMENTe | 04
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/123397
+#EXTINF:-1 tvg-ID="" tvg-name="UFC | PROXIMAMENTE | 05" tvg-logo="" group-title="Ufc",UFC | PROXIMAMENTE | 05
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/123398
+#EXTINF:-1 tvg-ID="" tvg-name="UFC | PROXIMAMENTE | 06" tvg-logo="" group-title="Ufc",UFC | PROXIMAMENTE | 06
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/128116
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN AR (R)" tvg-logo="" group-title="Es-pn",ES-PN AR (R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/155905
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN *SD (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN *SD (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162356
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 1 (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 1 (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162357
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 1 * (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 1 * (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162358
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162359
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 3 Arg (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 3 Arg (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162360
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 4 (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 4 (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162361
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 1 HD (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 1 HD (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162362
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 HD (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 HD (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162363
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN EXTRA (AR)(R)" tvg-logo="" group-title="Es-pn",ES-PN EXTRA (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162364
+#EXTINF:-1 tvg-ID="" tvg-name="TE Y C Sports Argentina (AR)(R)" tvg-logo="" group-title="Sport",TE Y C Sports Argentina (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162376
+#EXTINF:-1 tvg-ID="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="" group-title="Sport",TE Y C Sports (AR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162377
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sports (AR)(i)" tvg-logo="" group-title="Sport",T-N Sports (AR)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166463
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sports (AR)(i) op2" tvg-logo="" group-title="Sport",T-N Sports (AR)(i) op2
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166464
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sports (AR)(i) op4" tvg-logo="" group-title="Sport",T-N Sports (AR)(i) op4
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166465
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 (CO)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 (CO)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162412
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN (CO)(R)" tvg-logo="" group-title="Es-pn",ES-PN (CO)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162414
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 4 (CH)(R)" tvg-logo="" group-title="Es-pn",ES-PN 4 (CH)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162428
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 3 (CH)(R)" tvg-logo="" group-title="Es-pn",ES-PN 3 (CH)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162429
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sports HD (CL)(R)" tvg-logo="" group-title="Sport",T-N Sports HD (CL)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162436
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sports 2 (CL)(i)" tvg-logo="" group-title="Sport",T-N Sports 2 (CL)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166466
+#EXTINF:-1 tvg-ID="" tvg-name="T-N Sports 3 (CL)(i)" tvg-logo="" group-title="Sport",T-N Sports 3 (CL)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/166467
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sport (SV)(i)" tvg-logo="" group-title="Sport",Tigo Sport (SV)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165222
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sport op2 (SV)(i)" tvg-logo="" group-title="Sport",Tigo Sport op2 (SV)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165223
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sport HD + (SV)(i)" tvg-logo="" group-title="Sport",Tigo Sport HD + (SV)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165224
+#EXTINF:-1 tvg-ID="" tvg-name="TIG SPORTS (CR)(R)" tvg-logo="" group-title="Sport",TIG SPORTS (CR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162221
+#EXTINF:-1 tvg-ID="" tvg-name="Tig Sport (CR)(R)" tvg-logo="" group-title="Sport",Tig Sport (CR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162228
+#EXTINF:-1 tvg-ID="" tvg-name="TIGO SPORTS (CR)(R)" tvg-logo="" group-title="Sport",TIGO SPORTS (CR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162532
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sport (CR)(R)" tvg-logo="" group-title="Sport",Tigo Sport (CR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/162539
+#EXTINF:-1 tvg-ID="" tvg-name="Tig Sport (CR)(i)" tvg-logo="" group-title="Sport",Tig Sport (CR)(i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165881
+#EXTINF:-1 tvg-ID="" tvg-name="Tig Sport (CR)(i) op2" tvg-logo="" group-title="Sport",Tig Sport (CR)(i) op2
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165882
+#EXTINF:-1 tvg-ID="" tvg-name="Tig Sport (CR)(i) op3" tvg-logo="" group-title="Sport",Tig Sport (CR)(i) op3
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165883
+#EXTINF:-1 tvg-ID="" tvg-name="Tig Sport (CR)(i) op4" tvg-logo="" group-title="Sport",Tig Sport (CR)(i) op4
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165884
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports (GT)(R)" tvg-logo="" group-title="Sport",Tigo Sports (GT)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/165622
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports(HN)(R)" tvg-logo="" group-title="Sport",Tigo Sports(HN)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158491
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports(HN)(R)." tvg-logo="" group-title="Sport",Tigo Sports(HN)(R).
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158501
+#EXTINF:-1 tvg-ID="" tvg-name="TIGO SPORTS HD (HN) (i)" tvg-logo="" group-title="Sport",TIGO SPORTS HD (HN) (i)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159453
+#EXTINF:-1 tvg-ID="" tvg-name="ES-PN 2 HD(BR)(R)" tvg-logo="" group-title="Es-pn",ES-PN 2 HD(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158438
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes(BR)(R)" tvg-logo="" group-title="Premier",Premiere Clubes(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158452
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2(BR)(R)" tvg-logo="" group-title="Premier",Premiere 2(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158472
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3(BR)(R)" tvg-logo="" group-title="Premier",Premiere 3(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158473
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5(BR)(R)" tvg-logo="" group-title="Premier",Premiere 5(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158474
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6(BR)(R)" tvg-logo="" group-title="Premier",Premiere 6(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158475
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7(BR)(R)" tvg-logo="" group-title="Premier",Premiere 7(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158476
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 8(BR)(R)" tvg-logo="" group-title="Premier",Premiere 8(BR)(R)
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/158477
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Hindi;Sports",DD Sports
