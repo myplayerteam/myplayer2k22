@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="US: UFC" tvg-name="US: UFC" tvg-logo="https://www.satlogo.com/hires/uu/ufc_network_us.png" group-title="UFC",US: UFC
+http://dns.hibrido.club:8080/sourceuxusaX2/bRsCaNup9Cb3/10889
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Hindi;Sports",DD Sports
 https://tplay.dinesh29.com.np/live/tataplay-universal/dd-sports/index.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Star Sports 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="English;Sports;HD",Star Sports 1 HD
