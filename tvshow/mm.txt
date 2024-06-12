@@ -269,3 +269,58 @@ https://picture.ammcloud24.xyz/file/awszatlan/H/Hit+Man_2023_WEB-DL%2C720p.txt
 https://picture.ammcloud20.xyz/file/awszatlan/C/Catwoman+2004+BluRay+720p.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Thadam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18065.jpg" group-title="Bollywood",Thadam
 https://picture.ammcloud22.xyz/file/awszatlan/T_1/Thadam_2019_TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Lincoln" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/9709.jpg" group-title="Oscar Movies",Lincoln
+https://picture.ammcloud10.xyz/file/awszatlan/L/Lincoln%20(2012)_720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Help" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/9655.jpg" group-title="Oscar Movies",The Help
+https://picture.ammcloud18.xyz/file/awszatlan/T/The.Help.2011.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Little Women" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/9086.jpg" group-title="Oscar Movies",Little Women
+https://picture.ammcloud11.xyz/file/awszatlan/L/Little%20Women%202019%20WEB-DL%20720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Avatar: The Way of Water" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8912.jpg" group-title="Oscar Movies",Avatar: The Way of Water
+https://picture.ammcloud12.xyzfile/awssssszatlan/zatlan/A/Avatar.The.Way.of.Water.2022.1080p.WEB-DL[CM].txt
+#EXTINF:-1 tvg-ID="" tvg-name="Outrage Coda" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8633.jpg" group-title="Oscar Movies",Outrage Coda
+https://picture.ammcloud10.xyz/file/awssssssszatlan/zatlan/O/Outrage%20Coda%20[2017]%20(MM%20Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Everything Everywhere All at Once" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8632.jpg" group-title="Oscar Movies",Everything Everywhere All at Once
+https://picture.ammcloud29.xyz/file/awssssssszatlan/zatlan/E/Everything.Everywhere.All.At.Once.2022.720p.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Beginners" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8629.jpg" group-title="Oscar Movies",Beginners
+https://picture.ammcloud24.xyz/file/awssssssszatlan/zatlan/B/Beginners.2010.bluray720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Brave" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8530.jpg" group-title="Oscar Movies",Brave
+https://picture.ammcloud15.xyz/file/awssssssszatlan/zatlan/B/Brave%20(2012)%20BluRay%20720p%20AAC%205.1-Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Women Talking" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8347.jpg" group-title="Oscar Movies",Women Talking
+https://picture.ammcloud18.xyz/file/awssssssszatlan/zatlan/W/Women.Talking.2022.AMZN.WEB-DL.720P(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Whale" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8309.jpg" group-title="Oscar Movies",The Whale
+https://picture.ammcloud27.xyz/file/awssssssszatlan/zatlan/T/The%20Whale%20(2022)%20720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="A Star Is Born" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8120.jpg" group-title="Oscar Movies",A Star Is Born
+https://picture.ammcloud21.xyz/file/awssssssszatlan/zatlan/A/A%20Star%20Is%20Born%20[2018]%20(MM%20Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Feast" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8088.jpg" group-title="Oscar Movies",Feast
+https://picture.ammcloud18.xyz/file/awssssssszatlan/zatlan/F/Feast.2005.BluRay720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Black Panther Wakanda Forever" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7879.jpg" group-title="Oscar Movies",Black Panther Wakanda Forever
+https://picture.ammcloud15.xyz/file/awszatlan/B/Black.Panther.Wakanda.Forever.2022.1080p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Three Billboards Outside Ebbing, Missouri" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7648.jpg" group-title="Oscar Movies",Three Billboards Outside Ebbing, Missouri
+https://picture.ammcloud11.xyz/file/awszatlan/T/Three+Billboards+Outside+Ebbing%2C+Missouri+(2017).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Frozen" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7481.jpg" group-title="Oscar Movies",Frozen
+https://picture.ammcloud28.xyz/file/awszatlan/F/Frozen.2010.BluRay1080p5.1CH(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Boy: the mole the fox and the Horse" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7336.jpg" group-title="Oscar Movies",The Boy: the mole the fox and the Horse
+https://picture.ammcloud19.xyz/file/awszatlan/T/The.Boy.the.Mole.the.Fox.and.the.Horse.2022.1080p.WEBRip(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rango" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/6593.jpg" group-title="Oscar Movies",Rango
+https://picture.ammcloud11.xyz/file/awszatlan/R/Rango%20(2011)%20SFS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man: Into the Spider-Verse" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/6339.jpg" group-title="Oscar Movies",Spider-Man: Into the Spider-Verse
+https://picture.ammcloud17.xyz/file/awszatlan/S/Spider-Man+-+Into+The+Spider-Verse+%5B2018%5D+%7B1080P+Blu-ray+5.1+CH%7D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="All Quiet on the Western Front" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/6329.jpg" group-title="Oscar Movies",All Quiet on the Western Front
+https://picture.ammcloud15.xyz/file/awszatlan/A/All.Quiet.on.the.Western.Front.2022.1080p.NF.WEB-DL+(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="12 Years a Slave" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5751.jpg" group-title="Oscar Movies",12 Years a Slave
+https://picture.ammcloud27.xyz/file/awszatlan/0-9/12+Years+A+Slave+%5B2013%5D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Life of Pi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5368.jpg" group-title="Oscar Movies",Life of Pi
+https://picture.ammcloud17.xyz/file/awszatlan/m/5001-6000/5368-7.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Ma Rainey's Black Bottom" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5230.jpg" group-title="Oscar Movies",Ma Rainey's Black Bottom
+https://picture.ammcloud25.xyz/file/awszatlan/m/5001-6000/5230-1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Top Gun: Mavarick" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5210.jpg" group-title="Oscar Movies",Top Gun: Mavarick
+https://picture.ammcloud30.xyz/file/awszatlan/m/5001-6000/5210-1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Tenet" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5115.jpg" group-title="Oscar Movies",Tenet
+https://picture.ammcloud23.xyz/file/awszatlan/m/5001-6000/5115-1.txt
