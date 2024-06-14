@@ -49,35 +49,88 @@ https://picture.ammcloud14.xyz/file/awszatlan/B/Bardejov.2024.720p.WEBRip.(CM).t
 https://picture.ammcloud25.xyz/file/awszatlan/A/Apocalypse.Now.1979.Final.Cut.COMPLETE.V2.UHD.Blu-ray.720p-Naung.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Battle of the Warriors" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18040.jpg" group-title="WAR",Battle of the Warriors
 https://picture.ammcloud16.xyz/file/awszatlan/B/Battle.Of.The.Warriors.2006.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mastergame" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18078.jpg" group-title="WAR",Mastergame
+https://picture.ammcloud14.xyz/file/awszatlan/M/Mastergame_2023_WEB-Rip%2C720p.txt
 
 
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Die Hart 2: Die Harter" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17946.jpg" group-title="ACTION",Die Hart 2: Die Harter
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hart 2: Die Harter" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17946.jpg" group-title="Action",Die Hart 2: Die Harter
 https://picture.ammcloud15.xyz/file/awszatlan/D/Die+Hart+2+-+Die+Harter_2024_WEB-DL%2C720p.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Bad Manners" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17944.jpg" group-title="ACTION",Bad Manners
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Manners" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17944.jpg" group-title="Action",Bad Manners
 https://picture.ammcloud10.xyz/file/awszatlan/B/Bad+Manners_2023_Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
-#EXTINF:-1 tvg-ID="" tvg-name="A Touch of Zen" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17933.jpg" group-title="ACTION",A Touch of Zen
+#EXTINF:-1 tvg-ID="" tvg-name="A Touch of Zen" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17933.jpg" group-title="Action",A Touch of Zen
 https://picture.ammcloud13.xyz/file/awszatlan/A/A+Touch+of+Zen_1971_Criterion_720p+BluRay+CM+.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Real" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17932.jpg" group-title="ACTION",Real
+#EXTINF:-1 tvg-ID="" tvg-name="Real" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17932.jpg" group-title="Action",Real
 https://picture.ammcloud12.xyz/file/awszatlan/R/Real_Rieol_17%2B_2017_MM+Sub.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Kiss of the Dragon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17931.jpg" group-title="ACTION",Kiss of the Dragon
+#EXTINF:-1 tvg-ID="" tvg-name="Kiss of the Dragon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17931.jpg" group-title="Action",Kiss of the Dragon
 https://picture.ammcloud11.xyz/file/awszatlan/K/Kiss+Of+The+Dragon_2001.txt
-#EXTINF:-1 tvg-ID="" tvg-name="The Great Wall" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17930.jpg" group-title="ACTION",The Great Wall
+#EXTINF:-1 tvg-ID="" tvg-name="The Great Wall" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17930.jpg" group-title="Action",The Great Wall
 https://picture.ammcloud30.xyz/file/awszatlan/T_1/The+Great+Wall_2016_MM+Sub.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Last 2015" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17929.jpg" group-title="ACTION",Last 2015
+#EXTINF:-1 tvg-ID="" tvg-name="Last 2015" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17929.jpg" group-title="Action",Last 2015
 https://picture.ammcloud6.xyz/file/awszatlantwe/zatlantwe/L/Last_2015/LAST+2015+Ep16.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Hard to Kill" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17928.jpg" group-title="ACTION",Hard to Kill
+#EXTINF:-1 tvg-ID="" tvg-name="Hard to Kill" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17928.jpg" group-title="Action",Hard to Kill
 https://picture.ammcloud27.xyz/file/awszatlan/H/Hard.To.Kill.1990.720p.BluRay.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Bound by Honor" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17926.jpg" group-title="ACTION",Bound by Honor
+#EXTINF:-1 tvg-ID="" tvg-name="Bound by Honor" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17926.jpg" group-title="Action",Bound by Honor
 https://picture.ammcloud28.xyz/file/awszatlan/B/Blood.In.Blood.Out.1993.720p.DSNP.WEB-DL.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Above the Law" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17920.jpg" group-title="ACTION",Above the Law
+#EXTINF:-1 tvg-ID="" tvg-name="Above the Law" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17920.jpg" group-title="Action",Above the Law
 https://picture.ammcloud21.xyz/file/awszatlan/A/Above.The.Law.1988.720p.BluRay.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Mutant Chronicles" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17915.jpg" group-title="ACTION",Mutant Chronicles
+#EXTINF:-1 tvg-ID="" tvg-name="Mutant Chronicles" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/17915.jpg" group-title="Action",Mutant Chronicles
 https://picture.ammcloud11.xyz/file/awszatlan/M/Mutant.Chronicles.2008.720p.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Humen Escort Group" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17914.jpg" group-title="ACTION",Humen Escort Group
+#EXTINF:-1 tvg-ID="" tvg-name="Humen Escort Group" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/17914.jpg" group-title="Action",Humen Escort Group
 https://picture.ammcloud10.xyz/file/awszatlan/H/Humen+Escort+Group_2020_720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Yolo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18126.jpg" group-title="Action",Yolo
+https://picture.ammcloud13.xyz/file/awszatlan/Y/Yolo+(2024)+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kill Craft" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18125.jpg" group-title="Action",Kill Craft
+https://picture.ammcloud11.xyz/file/awszatlan/K/Kill+Craft+(2024)+WEB-DL%2C720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kubi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18123.jpg" group-title="Action",Kubi
+https://picture.ammcloud28.xyz/file/awszatlan/K/Kubi+(2023)+WEB-DL%2C720p+(CM)+MW.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Reminiscing Shadows" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18117.jpg" group-title="Action",Reminiscing Shadows
+https://picture.ammcloud18.xyz/file/awszatlan/R/Reminiscing.Shadows.2023.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Taxi (2004)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18114.jpg" group-title="Action",Taxi (2004)
+https://picture.ammcloud12.xyz/file/awszatlan/T_1/Taxi.2004.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Ghost in the Shell" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18111.jpg" group-title="Action",Ghost in the Shell
+https://picture.ammcloud26.xyz/file/awszatlan/G/Ghost.In.The.Shell.1995.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="CIA: Comrade In America" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18108.jpg" group-title="Action",CIA: Comrade In America
+https://picture.ammcloud25.xyz/file/awszatlan/C/CIA:+Comrade+In+America.2017.720p.BluRay.REMUX.YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Jungle Chase" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18096.jpg" group-title="Action",Jungle Chase
+https://picture.ammcloud28.xyz/file/awszatlan/J/Jungle+Chase+2024+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Curbing Violence" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18094.jpg" group-title="Action",Curbing Violence
+https://picture.ammcloud24.xyz/file/awszatlan/C/Curbing+Violence+2024+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18087.jpg" group-title="Action",John Wick
+https://picture.ammcloud13.xyz/file/awszatlan/J/John.Wick.2014.720P.AWS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18086.jpg" group-title="Action",John Wick: Chapter 2
+https://picture.ammcloud10.xyz/file/awszatlan/J/John+Wick+Chapter+2+2017+AWS+720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 3-Parabellum" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18085.jpg" group-title="Action",John Wick: Chapter 3-Parabellum
+https://picture.ammcloud28.xyz/file/awszatlan/J/John+Wick+-+Chapter+3+-+Parabellum_2019_AWS+720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 4" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18084.jpg" group-title="Action",John Wick: Chapter 4
+https://picture.ammcloud25.xyz/file/awszatlan/J/John.Wick.Chapter.4.2023+AWS+720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Mission" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18079.jpg" group-title="Action",The Mission
+https://picture.ammcloud16.xyz/file/awszatlan/T_1/The.Mission.1986.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Human Lost" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18072.jpg" group-title="Action",Human Lost
+https://picture.ammcloud24.xyz/file/awszatlan/H/Human+Lost_2019_BDMux+720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Thadam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18065.jpg" group-title="Action",Thadam
+https://picture.ammcloud22.xyz/file/awszatlan/T_1/Thadam_2019_TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Catwoman" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18063.jpg" group-title="Action",Catwoman
+https://picture.ammcloud20.xyz/file/awszatlan/C/Catwoman+2004+BluRay+720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Life After Fighting" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18059.jpg" group-title="Action",Life After Fighting
+https://picture.ammcloud17.xyz/file/awszatlan/L/Life+After+Fighting_2024_WEB-DL%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fighter (2023)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18052.jpg" group-title="Action",Fighter (2023)
+https://picture.ammcloud30.xyz/file/awszatlan/F/Fighter_2023_Kannada+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="E-Sarn Zombie" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18043.jpg" group-title="Action",E-Sarn Zombie
+https://picture.ammcloud18.xyz/file/awszatlan/E/E-Sarn+Zombie+2024+NF+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Battle of the Warriors" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18040.jpg" group-title="Action",Battle of the Warriors
+https://picture.ammcloud16.xyz/file/awszatlan/B/Battle.Of.The.Warriors.2006.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Bachelor" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18035.jpg" group-title="Action",Mr. Bachelor
+https://picture.ammcloud10.xyz/file/awszatlan/M/Mr.+Bachelor_2023_Kannada+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Under Paris" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18030.jpg" group-title="Action",Under Paris
+https://picture.ammcloud29.xyz/file/awszatlan/U/Under+Paris_2024_NF+WEB-DL%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Operation Scorpio" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18023.jpg" group-title="Action",Operation Scorpio
+https://picture.ammcloud17.xyz/file/awszatlan/O/Operation+Scorpio+AKA++Scorpion+King+1992+720p+WEB-DL+CM.txt
+
+
+
 
 
 
@@ -195,6 +248,12 @@ https://picture.ammcloud11.xyz/file/awszatlan/G/Ground%C2%A0(2024_Telugu%C2%A0TR
 https://picture.ammcloud28.xyz/file/awszatlan/O/Oru+Kadha+Sollattaa+Sir_2024_Tamil+HQ+HDRip+-+720p+-+x264+-+YK.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Thadam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18065.jpg" group-title="Bollywood",Thadam
 https://picture.ammcloud22.xyz/file/awszatlan/T_1/Thadam_2019_TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Tenant" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18113.jpg" group-title="Bollywood",Tenant
+https://picture.ammcloud10.xyz/file/awszatlan/T_1/Tenant_2024_Telugu%C2%A0TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="CIA: Comrade In America" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18108.jpg" group-title="Bollywood",CIA: Comrade In America
+https://picture.ammcloud25.xyz/file/awszatlan/C/CIA:+Comrade+In+America.2017.720p.BluRay.REMUX.YK(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mission Mangal" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18075.jpg" group-title="Bollywood",Mission Mangal
+https://picture.ammcloud30.xyz/file/awszatlan/M/Mission+Mangal.2019.WEB-DL.720P.PP.txt
 
 
 
@@ -267,8 +326,32 @@ https://picture.ammcloud22.xyz/file/awszatlan/H/Hoax.The.Kidnapping.Of.Sherri.Pa
 https://picture.ammcloud24.xyz/file/awszatlan/H/Hit+Man_2023_WEB-DL%2C720p.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Catwoman" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18063.jpg" group-title="Crime",Catwoman
 https://picture.ammcloud20.xyz/file/awszatlan/C/Catwoman+2004+BluRay+720p.txt
-#EXTINF:-1 tvg-ID="" tvg-name="Thadam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18065.jpg" group-title="Bollywood",Thadam
+#EXTINF:-1 tvg-ID="" tvg-name="Thadam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18065.jpg" group-title="Crime",Thadam
 https://picture.ammcloud22.xyz/file/awszatlan/T_1/Thadam_2019_TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18082.jpg" group-title="Crime",Saw
+https://picture.ammcloud20.xyz/file/awszatlan/S/Saw.2004.720P.AWS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Soundproof" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18104.jpg" group-title="Crime",Soundproof
+https://picture.ammcloud17.xyz/file/awszatlan/S/Soundproof.2023.720p.WEBRip.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18086.jpg" group-title="Crime",John Wick: Chapter 2
+https://picture.ammcloud10.xyz/file/awszatlan/J/John+Wick+Chapter+2+2017+AWS+720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 3-Parabellum" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18085.jpg" group-title="Crime",John Wick: Chapter 3-Parabellum
+https://picture.ammcloud28.xyz/file/awszatlan/J/John+Wick+-+Chapter+3+-+Parabellum_2019_AWS+720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 4" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18084.jpg" group-title="Crime",John Wick: Chapter 4
+https://picture.ammcloud25.xyz/file/awszatlan/J/John.Wick.Chapter.4.2023+AWS+720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Jungle Chase" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18096.jpg" group-title="Crime",Jungle Chase
+https://picture.ammcloud28.xyz/file/awszatlan/J/Jungle+Chase+2024+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Curbing Violence" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18094.jpg" group-title="Crime",Curbing Violence
+https://picture.ammcloud24.xyz/file/awszatlan/C/Curbing+Violence+2024+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Taxi (2004)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18114.jpg" group-title="Crime",Taxi (2004)
+https://picture.ammcloud12.xyz/file/awszatlan/T_1/Taxi.2004.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rub" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18116.jpg" group-title="Crime",Rub
+https://picture.ammcloud16.xyz/file/awszatlan/R/Rub.2023.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Reminiscing Shadows" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18117.jpg" group-title="Crime",Reminiscing Shadows
+https://picture.ammcloud18.xyz/file/awszatlan/R/Reminiscing.Shadows.2023.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Hovering Blade" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18127.jpg" group-title="Crime",Hovering Blade
+https://picture.ammcloud15.xyz/file/awszatlan/H/Hovering+Blade+(2024)+720p+WEB-DL+CM.txt
+
+
 
 
 
