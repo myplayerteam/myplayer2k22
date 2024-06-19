@@ -51,6 +51,10 @@ https://picture.ammcloud25.xyz/file/awszatlan/A/Apocalypse.Now.1979.Final.Cut.CO
 https://picture.ammcloud16.xyz/file/awszatlan/B/Battle.Of.The.Warriors.2006.720p.BluRay.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Mastergame" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18078.jpg" group-title="WAR",Mastergame
 https://picture.ammcloud14.xyz/file/awszatlan/M/Mastergame_2023_WEB-Rip%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Lady Sniper" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18134.jpg" group-title="WAR",Iron Lady Sniper
+https://picture.ammcloud24.xyz/file/awszatlan/I/Iron+Lady+Sniper+2024+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Come and see" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18192.jpg" group-title="WAR",Come and see
+https://picture.ammcloud29.xyz/file/awszatlan/C/Come.And.See.1985.BluRay+720p-Naung.txt
 
 
 
@@ -128,6 +132,20 @@ https://picture.ammcloud10.xyz/file/awszatlan/M/Mr.+Bachelor_2023_Kannada+TRUE+W
 https://picture.ammcloud29.xyz/file/awszatlan/U/Under+Paris_2024_NF+WEB-DL%2C720p.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Operation Scorpio" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18023.jpg" group-title="Action",Operation Scorpio
 https://picture.ammcloud17.xyz/file/awszatlan/O/Operation+Scorpio+AKA++Scorpion+King+1992+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Night Comes for Us" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18146.jpg" group-title="Action",The Night Comes for Us
+https://picture.ammcloud12.xyz/file/awszatlan/T_1/The+Night+Comes+For+Us+_2018.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Superman: Unbound" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18148.jpg" group-title="Action",Superman: Unbound
+https://picture.ammcloud14.xyz/file/awszatlan/S/superman.unbound.2013.720p.bluray.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Captives" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18155.jpg" group-title="Action",The Captives
+https://picture.ammcloud26.xyz/file/awszatlan/T_1/The+Captives_2024_720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Formed Police Unit" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18178.jpg" group-title="Action",Formed Police Unit
+https://picture.ammcloud15.xyz/file/awszatlan/F/Formed+Police+Unit_720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Ultraman: Rising" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18180.jpg" group-title="Action",Ultraman: Rising
+https://picture.ammcloud19.xyz/file/awszatlan/U/Ultraman+Rising_2024_NF+WEB-DL%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Penduko" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18183.jpg" group-title="Action",Penduko
+https://picture.ammcloud21.xyz/file/awszatlan/P/Penduko_2023_NF+WEB-DL%2C720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Teen Titans: Trouble in Tokyo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18190.jpg" group-title="Action",Teen Titans: Trouble in Tokyo
+https://picture.ammcloud25.xyz/file/awszatlan/T_1/Teen.Titans.Trouble.In.Tokyo.2006.+720p.BluRay+.txt
 
 
 
@@ -254,6 +272,16 @@ https://picture.ammcloud10.xyz/file/awszatlan/T_1/Tenant_2024_Telugu%C2%A0TRUE+W
 https://picture.ammcloud25.xyz/file/awszatlan/C/CIA:+Comrade+In+America.2017.720p.BluRay.REMUX.YK(CM).txt
 #EXTINF:-1 tvg-ID="" tvg-name="Mission Mangal" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18075.jpg" group-title="Bollywood",Mission Mangal
 https://picture.ammcloud30.xyz/file/awszatlan/M/Mission+Mangal.2019.WEB-DL.720P.PP.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Parijatha Parvam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18150.jpg" group-title="Bollywood",Parijatha Parvam
+https://picture.ammcloud18.xyz/file/awszatlan/P/Parijatha+Parvam_2024_Telugu+HQ+HDRip+-+720p+-+HEVC+-+x265+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Jananam 1947 Pranayam Thudarunnu" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18168.jpg" group-title="Bollywood",Jananam 1947 Pranayam Thudarunnu
+https://picture.ammcloud21.xyz/file/awszatlan/J/Jananam+1947+Pranayam+Thudarunnu_2024_Malayalam+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Gangs of Godavari" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18170.jpg" group-title="Bollywood",Gangs of Godavari
+https://picture.ammcloud25.xyz/file/awszatlan/G/Gangs.of.Godavari.2024.720p.NF.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Do Aur Do Pyaar" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18175.jpg" group-title="Bollywood",Do Aur Do Pyaar
+https://picture.ammcloud11.xyz/file/awszatlan/D/Do+Aur+Do+Pyaar_2024_Hindi+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Love Me If You Dare" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18184.jpg" group-title="Bollywood",Love Me If You Dare
+https://picture.ammcloud23.xyz/file/awszatlan/L/Love+Me+if+You+Dare_2024_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
 
 
 
@@ -350,6 +378,41 @@ https://picture.ammcloud16.xyz/file/awszatlan/R/Rub.2023.720p.txt
 https://picture.ammcloud18.xyz/file/awszatlan/R/Reminiscing.Shadows.2023.720p.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Hovering Blade" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18127.jpg" group-title="Crime",Hovering Blade
 https://picture.ammcloud15.xyz/file/awszatlan/H/Hovering+Blade+(2024)+720p+WEB-DL+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Night Comes for Us" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18146.jpg" group-title="Crime",The Night Comes for Us
+https://picture.ammcloud12.xyz/file/awszatlan/T_1/The+Night+Comes+For+Us+_2018.txt
+#EXTINF:-1 tvg-ID="" tvg-name="United 93" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18147.jpg" group-title="Crime",United 93
+https://picture.ammcloud13.xyz/file/awszatlan/U/United+93_2006.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Parijatha Pavam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18150.jpg" group-title="Crime",Parijatha Pavam
+https://picture.ammcloud18.xyz/file/awszatlan/P/Parijatha+Parvam_2024_Telugu+HQ+HDRip+-+720p+-+HEVC+-+x265+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw 1 (2004)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18082.jpg" group-title="Crime",Saw 1 (2004)
+https://picture.ammcloud20.xyz/file/awszatlan/S/Saw.2004.720P.AWS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw 2 (2005)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18083.jpg" group-title="Crime",Saw 2 (2005)
+https://picture.ammcloud23.xyz/file/awszatlan/S/Saw.II.Unrated.2005+720P+AWS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw III (Saw 3)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18156.jpg" group-title="Crime",Saw III (Saw 3)
+https://picture.ammcloud28.xyz/file/awszatlan/S/Saw.Iii.Unrated.2006.720P.AWS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw IV (Saw 4)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18157.jpg" group-title="Crime",Saw IV (Saw 4)
+https://picture.ammcloud30.xyz/file/awszatlan/S/Saw.Iv.2007.Unrated.720P.AWS.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw V (Saw 5)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18158.jpg" group-title="Crime",Saw V (Saw 5)
+https://picture.ammcloud11.xyz/file/awszatlan/S/Saw.V.Unrated.2008.720P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw VI 2009 (Saw 6)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/12842.jpg" group-title="Crime",Saw VI 2009 (Saw 6)
+https://picture.ammcloud28.xyz/file/awszatlan/S/Saw+VI+(2009)+DC+720p+BluRay+x264.AAC.5.1-Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw VII 2010 (Saw 7)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12843.jpg" group-title="Crime",Saw VII 2010 (Saw 7)
+https://picture.ammcloud30.xyz/file/awszatlan/S/Saw+-+The+Final+Chapter+(2010)+Unrated+720p+BluRay+x264.AAC.5.1-Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Jigsaw 2017 (Saw 8)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12844.jpg" group-title="Crime",Jigsaw 2017 (Saw 8)
+https://picture.ammcloud11.xyz/file/awszatlan/J/Jigsaw+(2017)+720p+x264.AAC.5.1-Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Saw X" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12885.jpg" group-title="Crime",Saw X
+https://picture.ammcloud26.xyz/file/awszatlan/S/SAW.X.2023.720p.AMZN.WEB-DL.AAC.5.1-Naung.txt
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-1" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18185.jpg" group-title="Crime",Mr. Robot Season-1
+https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season01_2015/Mr.robot.S01Ep10+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18186.jpg" group-title="Crime",Mr. Robot Season-2
+https://picture.ammcloud2.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season02_2016/Mr.Robot.S02Ep12+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-3" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18187.jpg" group-title="Crime",Mr. Robot Season-3
+https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season03_2017/Mr.Robot.S03Ep10+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-4" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18188.jpg" group-title="Crime",Mr. Robot Season-4
+https://picture.ammcloud3.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season04_2019/Mr.Robot.S04Ep13+End.txt
 
 
 
