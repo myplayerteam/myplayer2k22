@@ -5,4 +5,4 @@
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
 (myplayer)TV Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/alltv.txt
 (myplayer)All TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/allfree.txt
-(myplayer)All MOVIES,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/vod.txt
+(myplayer)All MOVIES,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
