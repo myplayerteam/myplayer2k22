@@ -282,6 +282,32 @@ https://picture.ammcloud25.xyz/file/awszatlan/G/Gangs.of.Godavari.2024.720p.NF.W
 https://picture.ammcloud11.xyz/file/awszatlan/D/Do+Aur+Do+Pyaar_2024_Hindi+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Love Me If You Dare" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18184.jpg" group-title="Bollywood",Love Me If You Dare
 https://picture.ammcloud23.xyz/file/awszatlan/L/Love+Me+if+You+Dare_2024_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Gam Gam Ganesha" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18300.jpg" group-title="Bollywood",Gam Gam Ganesha
+https://picture.ammcloud16.xyz/file/awszatlan/G/Gam+Gam+Ganesha_2024_Telugu+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Singappenney" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18303.jpg" group-title="Bollywood",Singappenney
+https://picture.ammcloud22.xyz/file/awszatlan/S/Singappenney(2024_Tamil%C2%A0TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Angrezi Medium" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18306.jpg" group-title="Bollywood",Angrezi Medium
+https://picture.ammcloud27.xyz/file/awszatlan/A/Angrezi+Medium+2020.720p.DSNP%2B.WEB-DL.AAC.2.0.H264-Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="PT Sir" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18307.jpg" group-title="Bollywood",PT Sir
+https://picture.ammcloud29.xyz/file/awszatlan/P/PTSir_2024_Tamil+HQ+HDRip+-+720p+-+x264+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Aranmanai 4" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18319.jpg" group-title="Bollywood",Aranmanai 4
+https://picture.ammcloud20.xyz/file/awszatlan/A/Aranmanai+4_2024_Tamil+HQ+HDRip+-+720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Aazam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18320.jpg" group-title="Bollywood",Aazam
+https://picture.ammcloud22.xyz/file/awszatlan/A/Aazam+2023+WebRip+720p+Hindi+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rasavathi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18332.jpg" group-title="Bollywood",Rasavathi
+https://picture.ammcloud15.xyz/file/awszatlan/R/Rasavathi_2024_Tamil%C2%A0TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Maharaj" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18336.jpg" group-title="Bollywood",Maharaj
+https://picture.ammcloud19.xyz/file/awszatlan/M/Maharaj.2024.720p.NF.WEB-DL.YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kick (2014)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18339.jpg" group-title="Bollywood",Kick (2014)
+https://picture.ammcloud25.xyz/file/awszatlan/K/Kick_2014.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Iru Mugan" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18340.jpg" group-title="Bollywood",Iru Mugan
+https://picture.ammcloud29.xyz/file/awszatlan/I/Iru+Mugan_2016_720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Somante Krithavu" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18344.jpg" group-title="Bollywood",Somante Krithavu
+https://picture.ammcloud28.xyz/file/awszatlan/S/Somante+Krithavu_2023_Malayalam+TRUE+WEB-DL+-+720p-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Thaaram Theertha Koodaram" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18348.jpg" group-title="Bollywood",Thaaram Theertha Koodaram
+https://picture.ammcloud30.xyz/file/awszatlan/T_1/Thaaram+Theertha+Koodaram_2023_Malayalam+HQ+HDRip+-+720p-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="LSD 2: Love, Sex aur Dhokha2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18356.jpg" group-title="Bollywood",LSD 2: Love, Sex aur Dhokha2
+https://picture.ammcloud21.xyz/file/awszatlan/L/LSD+2+Love%2C+Sex+Aur+Dhokha_2024_Hindi+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
 
 
 
