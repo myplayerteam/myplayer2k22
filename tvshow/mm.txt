@@ -428,9 +428,6 @@ https://picture.ammcloud30.xyz/file/awszatlan/S/Saw+-+The+Final+Chapter+(2010)+U
 https://picture.ammcloud11.xyz/file/awszatlan/J/Jigsaw+(2017)+720p+x264.AAC.5.1-Naung.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Saw X" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12885.jpg" group-title="Crime",Saw X
 https://picture.ammcloud26.xyz/file/awszatlan/S/SAW.X.2023.720p.AMZN.WEB-DL.AAC.5.1-Naung.txt
-
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-1" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18185.jpg" group-title="Crime",Mr. Robot Season-1
 https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season01_2015/Mr.robot.S01Ep10+End.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18186.jpg" group-title="Crime",Mr. Robot Season-2
@@ -439,7 +436,44 @@ https://picture.ammcloud2.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season02_2
 https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season03_2017/Mr.Robot.S03Ep10+End.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Mr. Robot Season-4" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18188.jpg" group-title="Crime",Mr. Robot Season-4
 https://picture.ammcloud3.xyz/file/awszatlantwe/zatlantwe/M/Mr.+Robot_Season04_2019/Mr.Robot.S04Ep13+End.txt
-
+#EXTINF:-1 tvg-ID="" tvg-name="Riverdale Season-7" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18216.jpg" group-title="Crime",Riverdale Season-7
+https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/R/Riverdale+Season+7/Riverdale.S07Ep20+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="End of the Rope" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18272.jpg" group-title="Crime",End of the Rope
+https://picture.ammcloud22.xyz/file/awszatlan/E/End.of.the.Rope.2023.720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Our Mother's Secret Affair" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18289.jpg" group-title="Crime",Our Mother's Secret Affair
+https://picture.ammcloud26.xyz/file/awszatlan/O/Our+Mother's+Secret+Affair+2024+720p+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Dead Wrong" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18290.jpg" group-title="Crime",Dead Wrong
+https://picture.ammcloud27.xyz/file/awszatlan/D/Dead+Wrong+2024+720p+Bluray+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Plot" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18296.jpg" group-title="Crime",The Plot
+https://picture.ammcloud16.xyz/file/awszatlan/T_1/The+Plot_2024_WEB-DL+720P+.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Queen of Mystery Season-2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18299.jpg" group-title="Crime",Queen of Mystery Season-2
+https://picture.ammcloud6.xyz/file/awszatlantwe/zatlantwe/Q/Queen+of+mystery+S2_2018/Queen+of+mystery+S2Ep16+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Showdown in Little Tokyo" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18309.jpg" group-title="Crime",Showdown in Little Tokyo
+https://picture.ammcloud12.xyz/file/awszatlan/S/Showdown.In.Little.Tokyo.1991.720p.BluRay..txt
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Season-1 EP13" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18314.jpg" group-title="Crime",Evil Season-1 EP13
+https://picture.ammcloud3.xyz/file/awszatlantwe/zatlantwe/E/Evil_2019/Evil.S01Ep13.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Season-2 EP13" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18315.jpg" group-title="Crime",Evil Season-2 EP13
+https://picture.ammcloud3.xyz/file/awszatlantwe/zatlantwe/E/Evil_Season02_2021/Evil.S02Ep13.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Season-3 EP10" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18316.jpg" group-title="Crime",Evil Season-3 EP10
+https://picture.ammcloud9.xyz/file/awszatlantwe/zatlantwe/E/Evil_Season03_2022/Evil+S03Ep10.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Season-4 EP1" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18317.jpg" group-title="Crime",Evil Season-4 EP1
+https://picture.ammcloud1.xyz/file/awszatlantwe/zatlantwe/E/Evil_Season04_2024/Evil+S04Ep01.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Aazam" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18320.jpg" group-title="Crime",Aazam
+https://picture.ammcloud22.xyz/file/awszatlan/A/Aazam+2023+WebRip+720p+Hindi+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Lost in the Night" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18325.jpg" group-title="Crime",Lost in the Night
+https://picture.ammcloud28.xyz/file/awszatlan/L/Lost.in.the.Night.2023.VOSTFR.720p.WEB-DL.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Presumed Innocent EP03" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18327.jpg" group-title="Crime",Presumed Innocent EP03
+https://awszatlantwe.b-cdn.net/zatlantwe/P/Presumed%20Innocent_2024/Presumed%20Innocent_Ep03.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Batman: Assault on Arkham" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18331.jpg" group-title="Crime",Batman: Assault on Arkham
+https://picture.ammcloud13.xyz/file/awszatlan/B/Batman.Assault.on.Arkham.2014.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kick (2014)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18339.jpg" group-title="Crime",Kick (2014)
+https://picture.ammcloud25.xyz/file/awszatlan/K/Kick_2014.txt
+#EXTINF:-1 tvg-ID="" tvg-name="My Beautiful Bride Ep16End" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18346.jpg" group-title="Crime",My Beautiful Bride Ep16End
+https://picture.ammcloud6.xyz/file/awszatlantwe/zatlantwe/M/My+Beautiful+Bride_2015/My+Beautiful+Bride_Ep16+End.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Outlaws Season-3 Ep05" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18365.jpg" group-title="Crime",The Outlaws Season-3 Ep05
+https://picture.ammcloud5.xyz/file/awszatlantwe/zatlantwe/T/The+Outlaws+S03_2024/The+Outlaws+(2024)+S03Ep05.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Twilight of the Warriors: Walled In" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18369.jpg" group-title="Crime",Twilight of the Warriors: Walled In
+https://mfreetv.vercel.app/movies/T_1/Twilight+of+the+Warriors+Walled+In+(2024)+720p+WEB-DL+CM.txt
 
 
 
