@@ -1054,8 +1054,452 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1008
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299524
 #EXTINF:-1 tvg-ID="" tvg-name="IT: TRSport" tvg-logo="" group-title="Sport",IT: TRSport
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304000
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & pictures" tvg-logo="" group-title="India",IN: & pictures
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16958
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & prive" tvg-logo="" group-title="India",IN: & prive
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49557
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & TV" tvg-logo="" group-title="India",IN: & TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16964
+#EXTINF:-1 tvg-ID="" tvg-name="IN: & Xplor" tvg-logo="" group-title="India",IN: & Xplor
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/196116
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 3 Tamil TV" tvg-logo="" group-title="India",IN: 3 Tamil TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60420
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 1st India" tvg-logo="" group-title="India",IN: 1st India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/159102
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 24 News" tvg-logo="" group-title="India",IN: 24 News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82567
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 5AAB TV" tvg-logo="" group-title="India",IN: 5AAB TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286195
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X Jalwa" tvg-logo="" group-title="India",IN: 9X Jalwa
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45465
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X Jhakaas" tvg-logo="" group-title="India",IN: 9X Jhakaas
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165802
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X Tashan" tvg-logo="" group-title="India",IN: 9X Tashan
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45455
+#EXTINF:-1 tvg-ID="" tvg-name="IN: 9XM" tvg-logo="" group-title="India",IN: 9XM
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45471
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Aaj Tak" tvg-logo="" group-title="India",IN: Aaj Tak
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/12977
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Aastha Kannada" tvg-logo="" group-title="India",IN: Aastha Kannada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/269761
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Aastha TV" tvg-logo="" group-title="India",IN: Aastha TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145647
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ABP Ananda" tvg-logo="" group-title="India",IN: ABP Ananda
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/159103
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ABP News" tvg-logo="" group-title="India",IN: ABP News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16962
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Adithya TV" tvg-logo="" group-title="India",IN: Adithya TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157469
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Akaal Channel" tvg-logo="" group-title="India",IN: Akaal Channel
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165767
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Amrita TV" tvg-logo="" group-title="India",IN: Amrita TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82497
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Anboli" tvg-logo="" group-title="India",IN: Anboli
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299536
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ANIMAL PLANET (TATA PLAY)" tvg-logo="" group-title="India",IN: ANIMAL PLANET (TATA PLAY)
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296266
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet" tvg-logo="" group-title="India",IN: Asianet
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82579
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet Movies" tvg-logo="" group-title="India",IN: Asianet Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157463
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet News" tvg-logo="" group-title="India",IN: Asianet News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/163276
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet News Tamil" tvg-logo="" group-title="India",IN: Asianet News Tamil
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/294789
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet Plus" tvg-logo="" group-title="India",IN: Asianet Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193206
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet Suvarna News" tvg-logo="" group-title="India",IN: Asianet Suvarna News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51844
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Assam Talks" tvg-logo="" group-title="India",IN: Assam Talks
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/162127
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Ayush TV" tvg-logo="" group-title="India",IN: Ayush TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82500
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Bhojpuri" tvg-logo="" group-title="India",IN: B4U Bhojpuri
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/197946
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Hitz" tvg-logo="" group-title="India",IN: B4U Hitz
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286926
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Kadak" tvg-logo="" group-title="India",IN: B4U Kadak
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49556
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Movies" tvg-logo="" group-title="India",IN: B4U Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1369
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Music" tvg-logo="" group-title="India",IN: B4U Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1368
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Plus" tvg-logo="" group-title="India",IN: B4U Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1367
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Balle Balle" tvg-logo="" group-title="India",IN: Balle Balle
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49555
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Bansal News" tvg-logo="" group-title="India",IN: Bansal News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165400
+#EXTINF:-1 tvg-ID="" tvg-name="IN: BBC Toronto" tvg-logo="" group-title="India",IN: BBC Toronto
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49640
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Bhojpuri Cinema" tvg-logo="" group-title="India",IN: Bhojpuri Cinema
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193007
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Big Magic" tvg-logo="" group-title="India",IN: Big Magic
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49548
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Blessing TV" tvg-logo="" group-title="India",IN: Blessing TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299489
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Bollywood CLASSIC" tvg-logo="" group-title="India",IN: Bollywood CLASSIC
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/301649
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Bollywood Prime" tvg-logo="" group-title="India",IN: Bollywood Prime
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/300626
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Boogle Bollywood" tvg-logo="" group-title="India",IN: Boogle Bollywood
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193087
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Brit Asia TV" tvg-logo="" group-title="India",IN: Brit Asia TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/71067
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Cartoon Network" tvg-logo="" group-title="India",IN: Cartoon Network
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82584
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Channel i" tvg-logo="" group-title="India",IN: Channel i
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296496
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Channel WIN" tvg-logo="" group-title="India",IN: Channel WIN
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172318
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Channel Y" tvg-logo="" group-title="India",IN: Channel Y
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49586
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Chutti TV" tvg-logo="" group-title="India",IN: Chutti TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157495
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Cine Voice" tvg-logo="" group-title="India",IN: Cine Voice
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49604
+#EXTINF:-1 tvg-ID="" tvg-name="IN: CNBC Awaaz" tvg-logo="" group-title="India",IN: CNBC Awaaz
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49583
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors" tvg-logo="" group-title="India",IN: Colors
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1366
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Cineplex" tvg-logo="" group-title="India",IN: Colors Cineplex
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/19741
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Cineplex Bollywood" tvg-logo="" group-title="India",IN: Colors Cineplex Bollywood
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49550
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Gujarati" tvg-logo="" group-title="India",IN: Colors Gujarati
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145645
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Kannada" tvg-logo="" group-title="India",IN: Colors Kannada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192203
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Marathi" tvg-logo="" group-title="India",IN: Colors Marathi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82642
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors Rishtey" tvg-logo="" group-title="India",IN: Colors Rishtey
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49547
+#EXTINF:-1 tvg-ID="" tvg-name="IN: CVR News" tvg-logo="" group-title="India",IN: CVR News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/270135
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Dabangg" tvg-logo="" group-title="India",IN: Dabangg
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165800
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Bharati" tvg-logo="" group-title="India",IN: DD Bharati
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193040
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD India" tvg-logo="" group-title="India",IN: DD India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165806
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Malayalam" tvg-logo="" group-title="India",IN: DD Malayalam
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45499
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD National" tvg-logo="" group-title="India",IN: DD National
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192197
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD News" tvg-logo="" group-title="India",IN: DD News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/21668
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Podhigai" tvg-logo="" group-title="India",IN: DD Podhigai
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193047
+#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Punjabi" tvg-logo="" group-title="India",IN: DD Punjabi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/283904
 #EXTINF:-1 tvg-ID="" tvg-name="IN: DD Sports" tvg-logo="" group-title="Sport",IN: DD Sports
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/56153
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Desi Channel" tvg-logo="" group-title="India",IN: Desi Channel
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49601
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Dhoom Music" tvg-logo="" group-title="India",IN: Dhoom Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/69362
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery Channel" tvg-logo="" group-title="India",IN: Discovery Channel
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/295292
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery Kids" tvg-logo="" group-title="India",IN: Discovery Kids
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82683
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery Science" tvg-logo="" group-title="India",IN: Discovery Science
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1363
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery World" tvg-logo="" group-title="India",IN: Discovery World
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/73792
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Disney Channel" tvg-logo="" group-title="India",IN: Disney Channel
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192985
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Eet TV" tvg-logo="" group-title="India",IN: Eet TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51818
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Enterr 10" tvg-logo="" group-title="India",IN: Enterr 10
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193025
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ET Now" tvg-logo="" group-title="India",IN: ET Now
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82513
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ETV Cinema" tvg-logo="" group-title="India",IN: ETV Cinema
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193198
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ETV Plus" tvg-logo="" group-title="India",IN: ETV Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193101
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ETV Telangana" tvg-logo="" group-title="India",IN: ETV Telangana
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/283906
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Fast Way News" tvg-logo="" group-title="India",IN: Fast Way News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267402
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Fateh TV" tvg-logo="" group-title="India",IN: Fateh TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166370
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Filamchi Bhojpuri" tvg-logo="" group-title="India",IN: Filamchi Bhojpuri
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/272573
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Flowers TV" tvg-logo="" group-title="India",IN: Flowers TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193148
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Food Food" tvg-logo="" group-title="India",IN: Food Food
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1362
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gaunda Punjab TV" tvg-logo="" group-title="India",IN: Gaunda Punjab TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296604
+#EXTINF:-1 tvg-ID="" tvg-name="IN: GDNS Ludhiana" tvg-logo="" group-title="India",IN: GDNS Ludhiana
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286949
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini" tvg-logo="" group-title="India",IN: Gemini
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165794
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Comedy" tvg-logo="" group-title="India",IN: Gemini Comedy
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/264710
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Movies" tvg-logo="" group-title="India",IN: Gemini Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297557
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Good News Today" tvg-logo="" group-title="India",IN: Good News Today
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296471
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Goodnews TV" tvg-logo="" group-title="India",IN: Goodnews TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/159106
+#EXTINF:-1 tvg-ID="" tvg-name="IN: GS TV" tvg-logo="" group-title="India",IN: GS TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/196130
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Harvest TV 24x7" tvg-logo="" group-title="India",IN: Harvest TV 24x7
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166372
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Harvest USA" tvg-logo="" group-title="India",IN: Harvest USA
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/198220
+#EXTINF:-1 tvg-ID="" tvg-name="IN: High News" tvg-logo="" group-title="India",IN: High News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299491
+#EXTINF:-1 tvg-ID="" tvg-name="IN: History" tvg-logo="" group-title="India",IN: History
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82604
+#EXTINF:-1 tvg-ID="" tvg-name="IN: HMTV" tvg-logo="" group-title="India",IN: HMTV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193056
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Hulchul TV Canada" tvg-logo="" group-title="India",IN: Hulchul TV Canada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49630
+#EXTINF:-1 tvg-ID="" tvg-name="IN: IBC 24" tvg-logo="" group-title="India",IN: IBC 24
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193013
+#EXTINF:-1 tvg-ID="" tvg-name="IN: IBC Comedy" tvg-logo="" group-title="India",IN: IBC Comedy
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45428
+#EXTINF:-1 tvg-ID="" tvg-name="IN: IBC Tamil TV" tvg-logo="" group-title="India",IN: IBC Tamil TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51823
+#EXTINF:-1 tvg-ID="" tvg-name="IN: India News" tvg-logo="" group-title="India",IN: India News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192968
+#EXTINF:-1 tvg-ID="" tvg-name="IN: India News Punjab" tvg-logo="" group-title="India",IN: India News Punjab
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/295396
+#EXTINF:-1 tvg-ID="" tvg-name="IN: India News Rajasthan" tvg-logo="" group-title="India",IN: India News Rajasthan
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299923
+#EXTINF:-1 tvg-ID="" tvg-name="IN: India News Uttar Pradesh" tvg-logo="" group-title="India",IN: India News Uttar Pradesh
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299845
+#EXTINF:-1 tvg-ID="" tvg-name="IN: India Today" tvg-logo="" group-title="India",IN: India Today
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16970
+#EXTINF:-1 tvg-ID="" tvg-name="IN: India TV" tvg-logo="" group-title="India",IN: India TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49577
+#EXTINF:-1 tvg-ID="" tvg-name="IN: INH 24x7" tvg-logo="" group-title="India",IN: INH 24x7
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193014
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Ion TV" tvg-logo="" group-title="India",IN: Ion TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/198746
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaihind TV" tvg-logo="" group-title="India",IN: Jaihind TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192073
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Janam TV" tvg-logo="" group-title="India",IN: Janam TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/197720
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Janta TV" tvg-logo="" group-title="India",IN: Janta TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60348
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Max" tvg-logo="" group-title="India",IN: Jaya Max
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51824
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Plus" tvg-logo="" group-title="India",IN: Jaya Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193207
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya TV" tvg-logo="" group-title="India",IN: Jaya TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145637
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Jeevan TV" tvg-logo="" group-title="India",IN: Jeevan TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166377
+#EXTINF:-1 tvg-ID="" tvg-name="IN: jhanjar music" tvg-logo="" group-title="India",IN: jhanjar music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82522
+#EXTINF:-1 tvg-ID="" tvg-name="IN: K News India" tvg-logo="" group-title="India",IN: K News India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/275947
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kairali TV" tvg-logo="" group-title="India",IN: Kairali TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51849
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kairali We" tvg-logo="" group-title="India",IN: Kairali We
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299915
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kalaignar Murasu TV" tvg-logo="" group-title="India",IN: Kalaignar Murasu TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286966
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kanshi TV" tvg-logo="" group-title="India",IN: Kanshi TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145661
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kappa TV" tvg-logo="" group-title="India",IN: Kappa TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193109
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kaumudy TV" tvg-logo="" group-title="India",IN: Kaumudy TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82530
+#EXTINF:-1 tvg-ID="" tvg-name="IN: KCL TV" tvg-logo="" group-title="India",IN: KCL TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286959
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Kerala Vision" tvg-logo="" group-title="India",IN: Kerala Vision
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267445
+#EXTINF:-1 tvg-ID="" tvg-name="IN: KTV" tvg-logo="" group-title="India",IN: KTV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/36442
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Living India News" tvg-logo="" group-title="India",IN: Living India News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/159107
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Lok Sabha TV" tvg-logo="" group-title="India",IN: Lok Sabha TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82532
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Madha TV" tvg-logo="" group-title="India",IN: Madha TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193042
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Maha Movie" tvg-logo="" group-title="India",IN: Maha Movie
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82608
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Makkal TV" tvg-logo="" group-title="India",IN: Makkal TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51821
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan Movies" tvg-logo="" group-title="India",IN: Manoranjan Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192200
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan TV" tvg-logo="" group-title="India",IN: Manoranjan TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/295501
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Mastiii" tvg-logo="" group-title="India",IN: Mastiii
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/76958
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Mathrubhumi News" tvg-logo="" group-title="India",IN: Mathrubhumi News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/163277
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Mazhavil Manorama" tvg-logo="" group-title="India",IN: Mazhavil Manorama
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193067
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Media One" tvg-logo="" group-title="India",IN: Media One
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51851
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Mh 1 Music" tvg-logo="" group-title="India",IN: Mh 1 Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/198604
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Moon TV" tvg-logo="" group-title="India",IN: Moon TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297560
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Movies Now" tvg-logo="" group-title="India",IN: Movies Now
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/169118
+#EXTINF:-1 tvg-ID="" tvg-name="IN: MTV Beats" tvg-logo="" group-title="India",IN: MTV Beats
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193068
+#EXTINF:-1 tvg-ID="" tvg-name="IN: MTV India" tvg-logo="" group-title="India",IN: MTV India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193647
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Music India" tvg-logo="" group-title="India",IN: Music India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1358
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Nambikkai TV" tvg-logo="" group-title="India",IN: Nambikkai TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166382
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Namdhari TV" tvg-logo="" group-title="India",IN: Namdhari TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49646
+#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV 24X7" tvg-logo="" group-title="India",IN: NDTV 24X7
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/21664
+#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV India" tvg-logo="" group-title="India",IN: NDTV India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166390
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 7 Tamil" tvg-logo="" group-title="India",IN: News 7 Tamil
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/269685
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Bengali" tvg-logo="" group-title="India",IN: News 18 Bengali
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247526
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Gujarati" tvg-logo="" group-title="India",IN: News 18 Gujarati
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193127
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 India" tvg-logo="" group-title="India",IN: News 18 India
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247511
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Kannada" tvg-logo="" group-title="India",IN: News 18 Kannada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193115
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Kerala" tvg-logo="" group-title="India",IN: News 18 Kerala
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193150
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Punjab" tvg-logo="" group-title="India",IN: News 18 Punjab
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/197949
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Tamil" tvg-logo="" group-title="India",IN: News 18 Tamil
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/283930
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 18 Uttar Pradesh & Uttarakhand" tvg-logo="" group-title="India",IN: News 18 Uttar Pradesh & Uttarakhand
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/283931
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 1st" tvg-logo="" group-title="India",IN: News 1st
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296492
+#EXTINF:-1 tvg-ID="" tvg-name="IN: News 24" tvg-logo="" group-title="India",IN: News 24
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16601
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Nickelodeon" tvg-logo="" group-title="India",IN: Nickelodeon
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286732
+#EXTINF:-1 tvg-ID="" tvg-name="IN: NRB TV" tvg-logo="" group-title="India",IN: NRB TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/281555
+#EXTINF:-1 tvg-ID="" tvg-name="IN: NTV" tvg-logo="" group-title="India",IN: NTV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165796
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Only Music" tvg-logo="" group-title="India",IN: Only Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/264726
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Param Satta" tvg-logo="" group-title="India",IN: Param Satta
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/303994
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Peace TV" tvg-logo="" group-title="India",IN: Peace TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82613
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Pitaara" tvg-logo="" group-title="India",IN: Pitaara
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145652
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Polimer News" tvg-logo="" group-title="India",IN: Polimer News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/163279
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Polimer TV" tvg-logo="" group-title="India",IN: Polimer TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193202
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Pravasi" tvg-logo="" group-title="India",IN: Pravasi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/287012
+#EXTINF:-1 tvg-ID="" tvg-name="IN: PTC Chakde" tvg-logo="" group-title="India",IN: PTC Chakde
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193155
+#EXTINF:-1 tvg-ID="" tvg-name="IN: PTC News" tvg-logo="" group-title="India",IN: PTC News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/295294
+#EXTINF:-1 tvg-ID="" tvg-name="IN: PTC Punjabi" tvg-logo="" group-title="India",IN: PTC Punjabi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82616
+#EXTINF:-1 tvg-ID="" tvg-name="IN: PTC Simran" tvg-logo="" group-title="India",IN: PTC Simran
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/264723
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Public Music" tvg-logo="" group-title="India",IN: Public Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192145
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Pulari TV" tvg-logo="" group-title="India",IN: Pulari TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/287016
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Puthiya Thalaimurai" tvg-logo="" group-title="India",IN: Puthiya Thalaimurai
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193035
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Puthuyugam TV" tvg-logo="" group-title="India",IN: Puthuyugam TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/196101
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Digital Plus" tvg-logo="" group-title="India",IN: Raj Digital Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60418
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Musix Telugu" tvg-logo="" group-title="India",IN: Raj Musix Telugu
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193137
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj News" tvg-logo="" group-title="India",IN: Raj News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/197939
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj TV" tvg-logo="" group-title="India",IN: Raj TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193125
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Real News Kerala" tvg-logo="" group-title="India",IN: Real News Kerala
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/283939
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Relax TV" tvg-logo="" group-title="India",IN: Relax TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/287018
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Reporter" tvg-logo="" group-title="India",IN: Reporter
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51854
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Republic Bharat" tvg-logo="" group-title="India",IN: Republic Bharat
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49582
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Romedy Now" tvg-logo="" group-title="India",IN: Romedy Now
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51876
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Ruposhi Bangla" tvg-logo="" group-title="India",IN: Ruposhi Bangla
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247527
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sada TV" tvg-logo="" group-title="India",IN: Sada TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49625
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sadhna Plus News" tvg-logo="" group-title="India",IN: Sadhna Plus News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166394
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sadhna TV" tvg-logo="" group-title="India",IN: Sadhna TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166392
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Safari" tvg-logo="" group-title="India",IN: Safari
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193123
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sahara Samay" tvg-logo="" group-title="India",IN: Sahara Samay
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247493
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sakshi TV" tvg-logo="" group-title="India",IN: Sakshi TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193164
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Samachar Plus Rajasthan" tvg-logo="" group-title="India",IN: Samachar Plus Rajasthan
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299499
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sangat TV" tvg-logo="" group-title="India",IN: Sangat TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165765
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sangeet Bangla" tvg-logo="" group-title="India",IN: Sangeet Bangla
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165827
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sankara TV" tvg-logo="" group-title="India",IN: Sankara TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166407
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sankhya TV" tvg-logo="" group-title="India",IN: Sankhya TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299378
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sanskar TV" tvg-logo="" group-title="India",IN: Sanskar TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51882
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Santhora TV" tvg-logo="" group-title="India",IN: Santhora TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51833
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sardari TV" tvg-logo="" group-title="India",IN: Sardari TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82554
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sarv Dharam Sangam" tvg-logo="" group-title="India",IN: Sarv Dharam Sangam
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166791
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Satsang TV" tvg-logo="" group-title="India",IN: Satsang TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45463
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Shemaroo TV" tvg-logo="" group-title="India",IN: Shemaroo TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192955
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Shubhsandesh TV" tvg-logo="" group-title="India",IN: Shubhsandesh TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82557
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sikh Channel" tvg-logo="" group-title="India",IN: Sikh Channel
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82556
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sikh Spiritual Centre" tvg-logo="" group-title="India",IN: Sikh Spiritual Centre
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/286225
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sivan TV" tvg-logo="" group-title="India",IN: Sivan TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/51842
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sonic Nickelodeon" tvg-logo="" group-title="India",IN: Sonic Nickelodeon
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192988
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony (Set India)" tvg-logo="" group-title="India",IN: Sony (Set India)
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/281867
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Aath" tvg-logo="" group-title="India",IN: Sony Aath
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/17005
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony BBC Earth" tvg-logo="" group-title="India",IN: Sony BBC Earth
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192995
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Marathi" tvg-logo="" group-title="India",IN: Sony Marathi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193097
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max" tvg-logo="" group-title="India",IN: Sony Max
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/303614
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max 2" tvg-logo="" group-title="India",IN: Sony Max 2
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/4862
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max India +1" tvg-logo="" group-title="India",IN: Sony Max India +1
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1359
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Pal" tvg-logo="" group-title="India",IN: Sony Pal
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193645
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Pix" tvg-logo="" group-title="India",IN: Sony Pix
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49539
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony SAB" tvg-logo="" group-title="India",IN: Sony SAB
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1073
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="" group-title="Sport",IN: Sony Sports Ten 1
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16622
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="" group-title="Sport",IN: Sony Sports Ten 2
@@ -1064,6 +1508,32 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16621
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/56191
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Sports Ten 5" tvg-logo="" group-title="Sport",IN: Sony Sports Ten 5
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/301072
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony TV Asia" tvg-logo="" group-title="India",IN: Sony TV Asia
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/4867
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Wah" tvg-logo="" group-title="India",IN: Sony Wah
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165801
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Yay!" tvg-logo="" group-title="India",IN: Sony Yay!
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1355
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sooriyan Tamil TV" tvg-logo="" group-title="India",IN: Sooriyan Tamil TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304017
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Bharat" tvg-logo="" group-title="India",IN: Star Bharat
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/284583
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold" tvg-logo="" group-title="India",IN: Star Gold
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1070
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold 2" tvg-logo="" group-title="India",IN: Star Gold 2
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold Select" tvg-logo="" group-title="India",IN: Star Gold Select
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297547
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Jalsha" tvg-logo="" group-title="India",IN: Star Jalsha
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/12979
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Maa Movies" tvg-logo="" group-title="India",IN: Star Maa Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82624
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Movies" tvg-logo="" group-title="India",IN: Star Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/11511
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Movies Select" tvg-logo="" group-title="India",IN: Star Movies Select
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267542
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Plus" tvg-logo="" group-title="India",IN: Star Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16091
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 1" tvg-logo="" group-title="Sport",IN: Star Sports 1
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/3630
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 2" tvg-logo="" group-title="Sport",IN: Star Sports 2
@@ -1074,6 +1544,148 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/62584
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82628
 #EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports Select 2" tvg-logo="" group-title="Sport",IN: Star Sports Select 2
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16619
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Suvarna" tvg-logo="" group-title="India",IN: Star Suvarna
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193147
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Vijay" tvg-logo="" group-title="India",IN: Star Vijay
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/19744
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Steelbird Music" tvg-logo="" group-title="India",IN: Steelbird Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49650
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Subhavaartha TV" tvg-logo="" group-title="India",IN: Subhavaartha TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166397
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun Life" tvg-logo="" group-title="India",IN: Sun Life
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267819
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun Music" tvg-logo="" group-title="India",IN: Sun Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157496
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun News" tvg-logo="" group-title="India",IN: Sun News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/295303
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun TV" tvg-logo="" group-title="India",IN: Sun TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/76969
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Surya" tvg-logo="" group-title="India",IN: Surya
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193144
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Surya Comedy" tvg-logo="" group-title="India",IN: Surya Comedy
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299842
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Surya Movies" tvg-logo="" group-title="India",IN: Surya Movies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193145
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Surya Music" tvg-logo="" group-title="India",IN: Surya Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299843
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SVBC" tvg-logo="" group-title="India",IN: SVBC
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166383
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Swamiji TV" tvg-logo="" group-title="India",IN: Swamiji TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267416
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Tamil Vision" tvg-logo="" group-title="India",IN: Tamil Vision
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60423
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Ten Cricket" tvg-logo="" group-title="India",IN: Ten Cricket
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/302356
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Thanthi TV" tvg-logo="" group-title="India",IN: Thanthi TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45437
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Times Now" tvg-logo="" group-title="India",IN: Times Now
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/76961
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TLC" tvg-logo="" group-title="India",IN: TLC
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/301647
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Travelxp" tvg-logo="" group-title="India",IN: Travelxp
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82636
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TV 5 Kannada" tvg-logo="" group-title="India",IN: TV 5 Kannada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193065
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TV 9 Gujarati" tvg-logo="" group-title="India",IN: TV 9 Gujarati
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193152
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TV 9 Kannada" tvg-logo="" group-title="India",IN: TV 9 Kannada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193060
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TV 9 Marathi" tvg-logo="" group-title="India",IN: TV 9 Marathi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193016
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TV 9 Telugu" tvg-logo="" group-title="India",IN: TV 9 Telugu
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/163256
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Utsav Bharat" tvg-logo="" group-title="India",IN: Utsav Bharat
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16614
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Utsav Gold" tvg-logo="" group-title="India",IN: Utsav Gold
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82623
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Utsav Plus" tvg-logo="" group-title="India",IN: Utsav Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60347
+#EXTINF:-1 tvg-ID="" tvg-name="IN: V6 News" tvg-logo="" group-title="India",IN: V6 News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192185
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Vasanth TV" tvg-logo="" group-title="India",IN: Vasanth TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82569
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Vasantham TV" tvg-logo="" group-title="India",IN: Vasantham TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299474
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Verbum TV" tvg-logo="" group-title="India",IN: Verbum TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299529
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Victers TV" tvg-logo="" group-title="India",IN: Victers TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299493
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Vision Punjab Music" tvg-logo="" group-title="India",IN: Vision Punjab Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/196092
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Vision Punjab TV" tvg-logo="" group-title="India",IN: Vision Punjab TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/196089
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Vyas Higher Education Channel" tvg-logo="" group-title="India",IN: Vyas Higher Education Channel
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166395
+#EXTINF:-1 tvg-ID="" tvg-name="IN: We" tvg-logo="" group-title="India",IN: We
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193159
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Willow" tvg-logo="" group-title="India",IN: Willow
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165776
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Wow Cinema One" tvg-logo="" group-title="India",IN: Wow Cinema One
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/197945
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee 24 Ghanta" tvg-logo="" group-title="India",IN: Zee 24 Ghanta
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193187
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee 24 Kalak" tvg-logo="" group-title="India",IN: Zee 24 Kalak
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45484
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Action" tvg-logo="" group-title="India",IN: Zee Action
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1353
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Aflam" tvg-logo="" group-title="India",IN: Zee Aflam
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/22067
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Alwan" tvg-logo="" group-title="India",IN: Zee Alwan
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304493
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Anmol Cinema" tvg-logo="" group-title="India",IN: Zee Anmol Cinema
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/19467
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Bangla" tvg-logo="" group-title="India",IN: Zee Bangla
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145632
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="" group-title="India",IN: Zee Bangla Cinema
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/21658
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Biskope" tvg-logo="" group-title="India",IN: Zee Biskope
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193009
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Bollywood" tvg-logo="" group-title="India",IN: Zee Bollywood
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1351
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Business" tvg-logo="" group-title="India",IN: Zee Business
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16984
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Café" tvg-logo="" group-title="India",IN: Zee Café
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49561
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Cinema Asia" tvg-logo="" group-title="India",IN: Zee Cinema Asia
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1350
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Classic" tvg-logo="" group-title="India",IN: Zee Classic
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/21578
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Hindustan" tvg-logo="" group-title="India",IN: Zee Hindustan
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145633
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Kannada" tvg-logo="" group-title="India",IN: Zee Kannada
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145631
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Magic" tvg-logo="" group-title="India",IN: Zee Magic
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/281920
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Marathi" tvg-logo="" group-title="India",IN: Zee Marathi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82646
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Music Co" tvg-logo="" group-title="India",IN: Zee Music Co
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267131
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee News" tvg-logo="" group-title="India",IN: Zee News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/5047
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Picchar" tvg-logo="" group-title="India",IN: Zee Picchar
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192201
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Punjab Haryana Himachal" tvg-logo="" group-title="India",IN: Zee Punjab Haryana Himachal
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299924
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Punjabi" tvg-logo="" group-title="India",IN: Zee Punjabi
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/145630
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE Rajasthan News" tvg-logo="" group-title="India",IN: ZEE Rajasthan News
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299922
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Salaam" tvg-logo="" group-title="India",IN: Zee Salaam
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16981
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Talkies" tvg-logo="" group-title="India",IN: Zee Talkies
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16957
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Tamil" tvg-logo="" group-title="India",IN: Zee Tamil
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/45505
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Telugu" tvg-logo="" group-title="India",IN: Zee Telugu
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/21561
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee TV" tvg-logo="" group-title="India",IN: Zee TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1348
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee World" tvg-logo="" group-title="India",IN: Zee World
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172264
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zing" tvg-logo="" group-title="India",IN: Zing
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1347
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zoom" tvg-logo="" group-title="India",IN: Zoom
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192069
 #EXTINF:-1 tvg-ID="" tvg-name="PK: A Sports" tvg-logo="" group-title="Sport",PK: A Sports
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/295025
 #EXTINF:-1 tvg-ID="" tvg-name="PK: PTV Sports" tvg-logo="" group-title="Sport",PK: PTV Sports
@@ -1560,10 +2172,22 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/67719
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/67717
 #EXTINF:-1 tvg-ID="" tvg-name="BIH: Arena Sport 5" tvg-logo="" group-title="Sport",BIH: Arena Sport 5
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/67720
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV 6" tvg-logo="" group-title="Vietnam",VN: VTV 6
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172023
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV 7" tvg-logo="" group-title="Vietnam",VN: VTV 7
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172010
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV 8" tvg-logo="" group-title="Vietnam",VN: VTV 8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172039
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV 9" tvg-logo="" group-title="Vietnam",VN: VTV 9
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172013
 #EXTINF:-1 tvg-ID="" tvg-name="VE: Fox Sports 2" tvg-logo="" group-title="Sport",VE: Fox Sports 2
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299931
 #EXTINF:-1 tvg-ID="" tvg-name="VE: Fox Sports 3" tvg-logo="" group-title="Sport",VE: Fox Sports 3
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/299930
+#EXTINF:-1 tvg-ID="" tvg-name="TH: True Premiere Football 1" tvg-logo="" group-title="Thailand: True",TH: True Premiere Football 1
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/162591
+#EXTINF:-1 tvg-ID="" tvg-name="TH: True Premiere Football 2" tvg-logo="" group-title="Thailand: True",TH: True Premiere Football 2
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/162592
 #EXTINF:-1 tvg-ID="" tvg-name="TH: True Sport 3" tvg-logo="" group-title="Sport",TH: True Sport 3
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/301871
 #EXTINF:-1 tvg-ID="" tvg-name="TH: True Sport 4" tvg-logo="" group-title="Sport",TH: True Sport 4
@@ -2032,6 +2656,8 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/269430
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296800
 #EXTINF:-1 tvg-ID="" tvg-name="OM: Oman TV Sport" tvg-logo="" group-title="Sport",OM: Oman TV Sport
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/121099
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Siyatha TV" tvg-logo="" group-title="India",IN: Siyatha TV
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/166117
 #EXTINF:-1 tvg-ID="" tvg-name="LV: TV 3 Sport" tvg-logo="" group-title="Sport",LV: TV 3 Sport
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/296866
 #EXTINF:-1 tvg-ID="" tvg-name="LV: TV 3 Sport 2" tvg-logo="" group-title="Sport",LV: TV 3 Sport 2
