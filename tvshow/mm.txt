@@ -308,6 +308,18 @@ https://picture.ammcloud28.xyz/file/awszatlan/S/Somante+Krithavu_2023_Malayalam+
 https://picture.ammcloud30.xyz/file/awszatlan/T_1/Thaaram+Theertha+Koodaram_2023_Malayalam+HQ+HDRip+-+720p-+YK.txt
 #EXTINF:-1 tvg-ID="" tvg-name="LSD 2: Love, Sex aur Dhokha2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18356.jpg" group-title="Bollywood",LSD 2: Love, Sex aur Dhokha2
 https://picture.ammcloud21.xyz/file/awszatlan/L/LSD+2+Love%2C+Sex+Aur+Dhokha_2024_Hindi+TRUE+WEB-DL+-+720p+-+AVC+-+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Just Pass" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18606.jpg" group-title="Bollywood",Just Pass
+https://picture.ammcloud18.xyz/file/awszatlan/J/Just+Pass_2024_Kannada+TRUE+WEB-DL720p_AVC_YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Market Mahalakshmi" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18610.jpg" group-title="Bollywood",Market Mahalakshmi
+https://picture.ammcloud26.xyz/file/awszatlan/M/Market+Mahalakshmi_2024_Telugu+TRUE+WEB-DL_720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Dhanussh" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/18617.jpg" group-title="Bollywood",Dhanussh
+https://picture.ammcloud11.xyz/file/awszatlan/D/Dhanussh_2024_Tamil+HQ+HDRip_720p_+x264+YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Malayalee from India" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18653.jpg" group-title="Bollywood",Malayalee from India
+https://picture.ammcloud16.xyz/file/awszatlan/M/Malayalee+From+India+(2024)+TRUE+WEB_DL_720p-+AVC_YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Srikanth" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18661.jpg" group-title="Bollywood",Srikanth
+https://picture.ammcloud11.xyz/file/awszatlan/S/Srikanth_2024_Hindi+TRUE+WEB_DL_720p_AVC_YK.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Haraa" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/18662.jpg" group-title="Bollywood",Haraa
+https://picture.ammcloud13.xyz/file/awszatlan/H/Haraa_2024_Tamil+TRUE+WEB_DL_720p+.txt
 
 
 
@@ -530,3 +542,186 @@ https://picture.ammcloud25.xyz/file/awszatlan/m/5001-6000/5230-1.txt
 https://picture.ammcloud30.xyz/file/awszatlan/m/5001-6000/5210-1.txt
 #EXTINF:-1 tvg-ID="" tvg-name="Tenet" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5115.jpg" group-title="Oscar Movies",Tenet
 https://picture.ammcloud23.xyz/file/awszatlan/m/5001-6000/5115-1.txt
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Rush Hours" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/4202.jpg" group-title="Jackie Chan",Rush Hours
+https://picture.ammcloud16.xyz/file/awszatlan/R/Rush.Hour.1998.1080p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rush Hours 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/4203.jpg" group-title="Jackie Chan",Rush Hours 2
+https://picture.ammcloud17.xyz/file/awszatlan/R/Rush.Hour.2.2001.1080p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rush Hours 3" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/4204.jpg" group-title="Jackie Chan",Rush Hours 3
+https://picture.ammcloud18.xyz/file/awszatlan/R/Rush.Hour.3.2007.1080p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Vanguard" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/490.jpg" group-title="Jackie Chan",Vanguard
+https://picture.ammcloud30.xyz/file/awszatlan/V/Vanguard.2020.1080P.WebDL[CM].txt
+#EXTINF:-1 tvg-ID="" tvg-name="Around the World in 80 Days" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/561.jpg" group-title="Jackie Chan",Around the World in 80 Days
+https://picture.ammcloud27.xyz/file/awszatlan/A/Around+the+world+In+80+days+(2004)_BR1080P.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Dragons Forever" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1174.jpg" group-title="Jackie Chan",Dragons Forever
+https://picture.ammcloud22.xyz/file/awszatlan/D/Dragons+Forever+(1998)+RM4K.1080p+BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Police Story 4: First Strike" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1247.jpg" group-title="Jackie Chan",Police Story 4: First Strike
+https://picture.ammcloud10.xyz/file/awszatlan/J/%20Jackie.Chans.First.Strike.1996.DUBBED.1080p.BluRay%20%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="New Police Story" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1248.jpg" group-title="Jackie Chan",New Police Story
+https://picture.ammcloud14.xyz/file/awszatlan/N/New.Police.Story.2004.CHINESE.1080p.BluRay%20%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Police Story 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1249.jpg" group-title="Jackie Chan",Police Story 2
+https://picture.ammcloud18.xyz/file/awszatlan/P/Police.Story.2.1988.REMASTERED.CHINESE.1080p.BluRay%20%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Police Story 3: Super Cop" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1250.jpg" group-title="Jackie Chan",Police Story 3: Super Cop
+https://picture.ammcloud19.xyz/file/awszatlan/P/Police.Story.3.Super.Cop.1992.CHINESE.1080p.BluRay%20%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Police Story" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1251.jpg" group-title="Jackie Chan",Police Story
+https://picture.ammcloud17.xyz/file/awszatlan/P/police.story.1985.remastered.1080p.bluray%20%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Police Story: Loockdown" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1252.jpg" group-title="Jackie Chan",Police Story: Loockdown
+https://picture.ammcloud20.xyz/file/awszatlan/P/Police.Story.Lockdown.2013.1080p.BluRay%20%7BCM%7D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="New Fist of Fury" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1313.jpg" group-title="Jackie Chan",New Fist of Fury
+https://picture.ammcloud13.xyz/file/awszatlan/N/New.Fist.Of.Fury(1976).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Drunken Master" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/2785.jpg" group-title="Jackie Chan",Drunken Master
+https://picture.ammcloud26.xyz/file/awszatlan/D/Drunken%20Master%201978%20720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Good Night Beijing" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/2874.jpg" group-title="Jackie Chan",Good Night Beijing
+https://picture.ammcloud29.xyz/file/awszatlan/G/Good%20Night%20Beijing%202021%20WEB-DL%201080p.CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Karate Kid (2010)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/3029.jpg" group-title="Jackie Chan",The Karate Kid (2010)
+https://picture.ammcloud21.xyz/file/awszatlan/T/The%20Karate%20Kid%20(2010)%20%5bAction%5d%20%5bJaden%20Smith%5d%20%5bUSA%5d%20%5b6.3%5d.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Armour of God" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/3280.jpg" group-title="Jackie Chan",Armour of God
+https://picture.ammcloud29.xyz/file/awszatlan/A/Armour.Of.God.I(1986)%201080p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Heart of Dragon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/3282.jpg" group-title="Jackie Chan",Heart of Dragon
+https://picture.ammcloud12.xyz/file/awszatlan/H/Heart.Of.The.Dragon(1985).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Robin-B-Hood" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/video_thumb/3283.jpg" group-title="Jackie Chan",Robin-B-Hood
+https://picture.ammcloud14.xyz/file/awszatlan/R/Rob.B.Hood(2006).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Winners & Sinners" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/3346.jpg" group-title="Jackie Chan",Winners & Sinners
+https://picture.ammcloud15.xyz/file/awszatlan/W/Winners.and.Sinners.1983.CHINESE.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Accidental Spy" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/3645.jpg" group-title="Jackie Chan",The Accidental Spy
+https://picture.ammcloud11.xyz/file/awszatlan/T/The%20Accidental%20Spy.2001.1080p.Blu-ray.AAC.5.1.AVC-Nyein.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Twins Effect" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/4462.jpg" group-title="Jackie Chan",The Twins Effect
+https://picture.ammcloud11.xyz/file/awszatlan/1/4in5/4462q1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shanghai Knights" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5188.jpg" group-title="Jackie Chan",Shanghai Knights
+https://picture.ammcloud30.xyz/file/awszatlan/m/5001-6000/5188-7.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Project A: Part II (1987)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5190.jpg" group-title="Jackie Chan",Project A: Part II (1987)
+https://picture.ammcloud13.xyz/file/awszatlan/m/5001-6000/5190-7.txt
+#EXTINF:-1 tvg-ID="" tvg-name="My Lucky Stars" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5191.jpg" group-title="Jackie Chan",My Lucky Stars
+https://picture.ammcloud15.xyz/file/awszatlan/m/5001-6000/5191-1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Protector" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/5687.jpg" group-title="Jackie Chan",The Protector
+https://picture.ammcloud22.xyz/file/awszatlan/m/5001-6000/5687-1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Young Master" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/6864.jpg" group-title="Jackie Chan",The Young Master
+https://picture.ammcloud21.xyz/file/awszatlan/T/The%20Young%20Master%20(1980)%20720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Yoga" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7876.jpg" group-title="Jackie Chan",Kung Fu Yoga
+https://picture.ammcloud29.xyz/file/awszatlan/K/Kung%20Fu%20Yoga%202017%20CHINESE%201080p%20WEBRip%201.5%20GB%20-%20iExTV.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Tuxedo (2002)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/8156.jpg" group-title="Jackie Chan",The Tuxedo (2002)
+https://picture.ammcloud16.xyz/file/awszatlan/T_1/The+Tuxedo.2002.1080p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Foreigner" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/9425.jpg" group-title="Jackie Chan",The Foreigner
+https://picture.ammcloud21.xyz/file/awszatlan/T/The+Foreigner+%5B2017%5D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Myth" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/9458.jpg" group-title="Jackie Chan",The Myth
+https://picture.ammcloud20.xyz/file/awszatlan/T/The%20Myth%20[2005]%20(MM%20Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Ride On" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10065.jpg" group-title="Jackie Chan",Ride On
+https://picture.ammcloud11.xyz/file/awszatlan/R/Ride.On.2023.1080p.WEB-DL%5BCM%5D.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Bleeding Steel" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10237.jpg" group-title="Jackie Chan",Bleeding Steel
+https://picture.ammcloud20.xyz/file/awszatlan/B/Bleeding.Steel.2017%20HD.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Founding of a Republic" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10823.jpg" group-title="Jackie Chan",The Founding of a Republic
+https://picture.ammcloud20.xyz/file/awszatlan/T/The%20Founding%20of%20a%20Republic%20(2009).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Blade" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10916.jpg" group-title="Jackie Chan",Dragon Blade
+https://picture.ammcloud24.xyz/file/awszatlan/T/Tian.Jiang.Xiong.Shi.2015.720p.BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Hidden Strike" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/11144.jpg" group-title="Jackie Chan",Hidden Strike
+https://picture.ammcloud10.xyz/file/awszatlan/H/Hidden%20Strike.%202023.WEBRip720P(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Skiptrace" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/11254.jpg" group-title="Jackie Chan",Skiptrace
+https://picture.ammcloud13.xyz/file/awszatlan/S/Skiptrace+(Jue+Di+Tao+Wang)+%5B2016%5D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Snake in the Eagle's Shadow" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12750.jpg" group-title="Jackie Chan",Snake in the Eagle's Shadow
+https://picture.ammcloud12.xyz/file/awszatlan/S/Snake.In.The.Eagle%26%2339s.Shadow.1978.720p(CM).BluRay.x264.AAC.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shaolin Wooden Men" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12775.jpg" group-title="Jackie Chan",Shaolin Wooden Men
+https://picture.ammcloud18.xyz/file/awszatlan/S/Shaolin.Wooden.Men.1976.720p(CM).BluRay.x264.AAC.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fearless Hyena" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12815.jpg" group-title="Jackie Chan",Fearless Hyena
+https://picture.ammcloud22.xyz/file/awszatlan/T/The.Fearless.Hyena.1979.720p(CM).BluRay.x264.AAC.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Snake and Crane Arts of Shaolin" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12847.jpg" group-title="Jackie Chan",Snake and Crane Arts of Shaolin
+https://picture.ammcloud17.xyz/file/awszatlan/S/Snake.And.Crane.Arts.Of.Shaolin.1978.720p(CM).BluRay.x264.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Fist" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12912.jpg" group-title="Jackie Chan",Dragon Fist
+https://picture.ammcloud23.xyz/file/awszatlan/D/Dragon.Fist.1979.720p(CM).BluRay.x264.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Spiritual Kung Fu" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12966.jpg" group-title="Jackie Chan",Spiritual Kung Fu
+https://picture.ammcloud23.xyz/file/awszatlan/S/Spiritual.Kung.Fu.1978.720p(CM).BluRay.x264.AAC5.1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Big Brawl" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/12985.jpg" group-title="Jackie Chan",The Big Brawl
+https://picture.ammcloud23.xyz/file/awszatlan/B/Battle.Creek.Brawl.1980.REMASTERED.720p(CM).BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Lord" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13028.jpg" group-title="Jackie Chan",Dragon Lord
+https://picture.ammcloud20.xyz/file/awszatlan/D/Dragon.Lord.1982.720p(CM).BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Forbidden" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13029.jpg" group-title="Jackie Chan",The Forbidden
+https://picture.ammcloud22.xyz/file/awszatlan/T_1/The.Forbidden.Kingdom.2008.720p.BluRay.DD5.1.x264-Naung.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fearless Hyena 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13054.jpg" group-title="Jackie Chan",Fearless Hyena 2
+https://picture.ammcloud18.xyz/file/awszatlan/F/Fearless.Hyena.2.1983.720p(CM).BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Project A" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13086.jpg" group-title="Jackie Chan",Project A
+https://picture.ammcloud29.xyz/file/awszatlan/P/Project+A+(1983).720p.(CM).BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Wheels on Meals" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13154.jpg" group-title="Jackie Chan",Wheels on Meals
+https://picture.ammcloud20.xyz/file/awszatlan/W/Wheels+on+Meals+(1984).720p(CM).BluRay.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Legend of Drunken Master" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13191.jpg" group-title="Jackie Chan",The Legend of Drunken Master
+https://picture.ammcloud15.xyz/file/awszatlan/D/Drunken.Master.II.1994.Bluray.720p(CM).AC3.2Audio.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Island of Fire" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13881.jpg" group-title="Jackie Chan",Island of Fire
+https://picture.ammcloud15.xyz/file/awszatlan/T_1/The.Prisoner.1990.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Miracles: Mr. Canton Godfather" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13911.jpg" group-title="Jackie Chan",Miracles: Mr. Canton Godfather
+https://picture.ammcloud22.xyz/file/awszatlan/M/Miracles.Mr.Canton.and.Lady.Rose.720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Twin Dragons" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13921.jpg" group-title="Jackie Chan",Twin Dragons
+https://picture.ammcloud21.xyz/file/awszatlan/T_1/Twin.Dragons.1992.720p..Bluray.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Operation Condor" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/13933.jpg" group-title="Jackie Chan",Operation Condor
+https://picture.ammcloud11.xyz/file/awszatlan/O/Operation.Condor.1991.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Supercop 2" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14071.jpg" group-title="Jackie Chan",Supercop 2
+https://picture.ammcloud10.xyz/file/awszatlan/S/Supercop+2.(1993).480p.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Nice Guy" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14370.jpg" group-title="Jackie Chan",Mr. Nice Guy
+https://picture.ammcloud29.xyz/file/awszatlan/M/Mr..Nice.Guy.1997.720p.WEBRip.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="City Hunter (1993)" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14415.jpg" group-title="Jackie Chan",City Hunter (1993)
+https://picture.ammcloud16.xyz/file/awszatlan/C/City.Hunter.1993.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Rumble in the Bronx" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14498.jpg" group-title="Jackie Chan",Rumble in the Bronx
+https://picture.ammcloud25.xyz/file/awszatlan/R/Rumble.In.The.Bronx.1995.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Gorgeous" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14515.jpg" group-title="Jackie Chan",Gorgeous
+https://picture.ammcloud20.xyz/file/awszatlan/G/Gorgeous.1999.720p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Thunderbolt" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14558.jpg" group-title="Jackie Chan",Thunderbolt
+https://picture.ammcloud23.xyz/file/awszatlan/T_1/Thunderbolt.1995.720p.Bluray.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shanghai Noon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/15019.jpg" group-title="Jackie Chan",Shanghai Noon
+https://picture.ammcloud18.xyz/file/awszatlan/S/Shanghai.Noon.2000.1080p.BluRay.(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Medallion" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/15720.jpg" group-title="Jackie Chan",The Medallion
+https://picture.ammcloud15.xyz/file/awszatlan/T_1/The+Medallion+2003+BluRay+720p(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shinjuku Incident" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/15763.jpg" group-title="Jackie Chan",Shinjuku Incident
+https://picture.ammcloud27.xyz/file/awszatlan/S/Shinjuku+Incident+%5B2009%5D+(MM+Sub).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Little Big Soldier" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/15949.jpg" group-title="Jackie Chan",Little Big Soldier
+https://picture.ammcloud14.xyz/file/awszatlan/L/Little+Big+Soldier+2010+720p+BluRay+(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Robin-B-Hood" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/15987.jpg" group-title="Jackie Chan",Robin-B-Hood
+https://picture.ammcloud14.xyz/file/awszatlan/R/Rob-B-Hood++720p+(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="Chinese Zodiac" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/15999.jpg" group-title="Jackie Chan",Chinese Zodiac
+https://picture.ammcloud25.xyz/file/awszatlan/C/Chinese+Zodiac+720p+(CM).txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Knight of Shadows: Between Yin and Yang" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/16582.jpg" group-title="Jackie Chan",The Knight of Shadows: Between Yin and Yang
+https://picture.ammcloud22.xyz/file/awszatlan/T_1/The+Knight+Of+Shadows+-+Between+Yin+And+Yang+%5B2019%5D+(MM+Sub)_2.txt
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="The King of Comedy" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/1903.jpg" group-title="Stephen Chow",The King of Comedy
+https://picture.ammcloud21.xyz/file/awszatlan/T/The%20King%20of%20Comedy%20(1982)%201080p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Back To School" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/2677.jpg" group-title="Stephen Chow",Fight Back To School
+https://picture.ammcloud10.xyz/file/awszatlan/F/Fight%20Back%20to%20School%20(2021)_1080p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Hustle" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/6429.jpg" group-title="Stephen Chow",Kung Fu Hustle
+https://picture.ammcloud12.xyz/file/awszatlan/K/Kung+Fu+Hustle+2004+Blu-ray+1080p+x264+DD+5.1-HighCode.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The God of Cookery" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7123.jpg" group-title="Stephen Chow",The God of Cookery
+https://picture.ammcloud24.xyz/file/awszatlan/T/The%20God%20of%20Cookery%20(1996)%20720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fist of Fury: Soul" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/7693.jpg" group-title="Stephen Chow",Fist of Fury: Soul
+https://picture.ammcloud30.xyz/file/awszatlan/F/Fist+of+Fury_+Soul+(2021)+WEB-DL+1080p+CM.txt
+#EXTINF:-1 tvg-ID="" tvg-name="King of Beggars" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10082.jpg" group-title="Stephen Chow",King of Beggars
+https://picture.ammcloud15.xyz/file/awszatlan/K/King.of.Beggars.1992.720p.x264.AC3.2AUDIO-WAF.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fist of Fury 1991 II" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10083.jpg" group-title="Stephen Chow",Fist of Fury 1991 II
+https://picture.ammcloud17.xyz/file/awszatlan/F/Fist%20of%20Fury%20(II)1991.%20720p.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fist of Fury 1991" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10085.jpg" group-title="Stephen Chow",Fist of Fury 1991
+https://picture.ammcloud20.xyz/file/awszatlan/F/Fist.of.Fury.1991.BD.720P.x265.10bit.DD5.1-FFansBD..txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Lucky Guy" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10142.jpg" group-title="Stephen Chow",The Lucky Guy
+https://picture.ammcloud16.xyz/file/awszatlan/T/The%20Lucky%20Guy%201990%20Bluray%20720p%20.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Look Out Officer!" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10144.jpg" group-title="Stephen Chow",Look Out Officer!
+https://picture.ammcloud27.xyz/file/awszatlan/L/Look.Out.Officer.1990.720p.HKG.Blu-ray.txt
+#EXTINF:-1 tvg-ID="" tvg-name="From Beijing with Love" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10146.jpg" group-title="Stephen Chow",From Beijing with Love
+https://picture.ammcloud30.xyz/file/awszatlan/F/From.Beijing.with.Love.1994.BluRay.720p.DD5.1.2Audio.x264-MTeam.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Faithfully Yours" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10148.jpg" group-title="Stephen Chow",Faithfully Yours
+https://picture.ammcloud13.xyz/file/awszatlan/F/Faithfully.Yours.1988.720p.BluRay.REMUX.AVC.TrueHD5.1-KMX.txt
+#EXTINF:-1 tvg-ID="" tvg-name="A Chinese Odyssey Part Two: Cinderella" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10149.jpg" group-title="Stephen Chow",A Chinese Odyssey Part Two: Cinderella
+https://picture.ammcloud15.xyz/file/awszatlan/A/A%20Chinese%20Odyssey%20Part%20Two%20Cinderella%201995%20720p%20BluRay%20REMUX%20AVC%20DTS-HD%20MA%206.1%20-%20KRaLiMaRKo.txt
+#EXTINF:-1 tvg-ID="" tvg-name="A Chinese Odyssey Part One: Pandora's Box" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10151.jpg" group-title="Stephen Chow",A Chinese Odyssey Part One: Pandora's Box
+https://picture.ammcloud17.xyz/file/awszatlan/A/A%20Chinese%20Odyssey%20Part%20One%20Pandora%20Box%201995%20720p%20BluRay%20REMUX%20AVC%20DTS-HD%20MA%206.1%20-%20KRaLiMaRKo.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Back to School 3" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10154.jpg" group-title="Stephen Chow",Fight Back to School 3
+https://picture.ammcloud19.xyz/file/awszatlan/F/Fight%20Back%20To%20School%20III%201993%20BluRay%20REMUX%20720p%20AVC%20TrueHD%205.1.txt
+#EXTINF:-1 tvg-ID="" tvg-name="The Tricky Master" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10157.jpg" group-title="Stephen Chow",The Tricky Master
+https://picture.ammcloud21.xyz/file/awszatlan/T/The.Tricky.Master.1999.720p.BluRay.DD.5.1.x264-WMD.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Legend of the Dragon" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10159.jpg" group-title="Stephen Chow",Legend of the Dragon
+https://picture.ammcloud23.xyz/file/awszatlan/L/Legend.of.the.Dragon.1991.720p.Blu-ray.REMUX.AVC.TrueHD.7.1-DIY.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Justic My Foot!" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/10160.jpg" group-title="Stephen Chow",Justic My Foot!
+https://picture.ammcloud25.xyz/file/awszatlan/J/Justice.My.Foot.1992.CHINESE.720p.BluRay.x264.DTS-FGT.txt
+#EXTINF:-1 tvg-ID="" tvg-name="Shaolin Soccer" tvg-logo="https://picture.awsitsolution.xyz/aws/uploads/poster_image/14435.jpg" group-title="Stephen Chow",Shaolin Soccer
+https://picture.ammcloud12.xyz/file/awszatlan/S/Shaolin.Soccer.2001.1080p.BluRay.x265.HEVC.10bit.AAC.5.1-BTS.txt
+
