@@ -114,12 +114,25 @@ http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="Flo (FLSP) 1: FloSports 24/7" tvg-logo="" group-title="Sport",Flo (FLSP) 1: FloSports 24/7
 http://live.lordstreams.co:8080/832396166/1982148236/642282
-#EXTINF:-1 tvg-ID="" tvg-name="MLB Houston Astros" tvg-logo="" group-title="Astro",MLB Houston Astros
-http://live.lordstreams.co:8080/832396166/1982148236/390408
+#EXTINF:-1 tvg-ID="" tvg-name="MLS Los Angeles Football Club (HD)" tvg-logo="" group-title="Football",MLS Los Angeles Football Club (HD)
+http://live.lordstreams.co:8080/832396166/1982148236/647807
+#EXTINF:-1 tvg-ID="" tvg-name="MLS New York City Football Club (HD)" tvg-logo="" group-title="Football",MLS New York City Football Club (HD)
+http://live.lordstreams.co:8080/832396166/1982148236/647811
 #EXTINF:-1 tvg-ID="" tvg-name="MLS Sporting Kansas City (HD)" tvg-logo="" group-title="Sport",MLS Sporting Kansas City (HD)
 http://live.lordstreams.co:8080/832396166/1982148236/647819
+#EXTINF:-1 tvg-ID="" tvg-name="NCAAF-E 01: Sun Belt Football Media Day 07/24 10:30 ET" tvg-logo="" group-title="Football",NCAAF-E 01: Sun Belt Football Media Day 07/24 10:30 ET
+http://live.lordstreams.co:8080/832396166/1982148236/655286
+#EXTINF:-1 tvg-ID="" tvg-name="NCAAF-E 02: Sun Belt Football Media Day Podium Feed 07/24 11:00 ET" tvg-logo="" group-title="Football",NCAAF-E 02: Sun Belt Football Media Day Podium Feed 07/24 11:00 ET
+http://live.lordstreams.co:8080/832396166/1982148236/655287
+#EXTINF:-1 tvg-ID="" tvg-name="NCAAF-E 03: Southland Football Opening Drive 07/24 11:00 ET" tvg-logo="" group-title="Football",NCAAF-E 03: Southland Football Opening Drive 07/24 11:00 ET
+http://live.lordstreams.co:8080/832396166/1982148236/655288
+#EXTINF:-1 tvg-ID="" tvg-name="NCAAF-E 04: NEC Football Media Day 07/24 11:00 ET" tvg-logo="" group-title="Football",NCAAF-E 04: NEC Football Media Day 07/24 11:00 ET
+http://live.lordstreams.co:8080/832396166/1982148236/655289
+#EXTINF:-1 tvg-ID="" tvg-name="NCAAF-E 05: Sun Belt Football Media Day 07/24 14:30 ET" tvg-logo="" group-title="Football",NCAAF-E 05: Sun Belt Football Media Day 07/24 14:30 ET
+http://live.lordstreams.co:8080/832396166/1982148236/655290
 #EXTINF:-1 tvg-ID="" tvg-name="US CBS Sports Golazo Network (PC)" tvg-logo="" group-title="Sport",US CBS Sports Golazo Network (PC)
 http://live.lordstreams.co:8080/832396166/1982148236/660925
 #EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports (PC)" tvg-logo="" group-title="Sport",US NBC Sports (PC)
@@ -490,37 +503,35 @@ http://live.lordstreams.co:8080/832396166/1982148236/663292
 http://live.lordstreams.co:8080/832396166/1982148236/663151
 #EXTINF:-1 tvg-ID="" tvg-name="USA Barstool Sports" tvg-logo="" group-title="Sport",USA Barstool Sports
 http://live.lordstreams.co:8080/832396166/1982148236/602132
-#EXTINF:-1 tvg-ID="" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="Bein",USA beIN La Liga SD
-http://live.lordstreams.co:8080/832396166/1982148236/97524
-#EXTINF:-1 tvg-ID="" tvg-name="USA beIN Sports (SHD)" tvg-logo="" group-title="Sport",USA beIN Sports (SHD)
+#EXTINF:-1 tvg-ID="" tvg-name="USA beIN Sports (SHD)" tvg-logo="" group-title="Bein sport",USA beIN Sports (SHD)
 http://live.lordstreams.co:8080/832396166/1982148236/3706
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 4" tvg-logo="" group-title="Sport",USA BeIN Sports 4
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 4" tvg-logo="" group-title="Bein sport",USA BeIN Sports 4
 http://live.lordstreams.co:8080/832396166/1982148236/5313
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 5" tvg-logo="" group-title="Sport",USA BeIN Sports 5
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 5" tvg-logo="" group-title="Bein sport",USA BeIN Sports 5
 http://live.lordstreams.co:8080/832396166/1982148236/5312
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 6" tvg-logo="" group-title="Sport",USA BeIN Sports 6
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 6" tvg-logo="" group-title="Bein sport",USA BeIN Sports 6
 http://live.lordstreams.co:8080/832396166/1982148236/5311
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 7" tvg-logo="" group-title="Sport",USA BeIN Sports 7
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 7" tvg-logo="" group-title="Bein sport",USA BeIN Sports 7
 http://live.lordstreams.co:8080/832396166/1982148236/5310
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 8" tvg-logo="" group-title="Sport",USA BeIN Sports 8
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports 8" tvg-logo="" group-title="Bein sport",USA BeIN Sports 8
 http://live.lordstreams.co:8080/832396166/1982148236/5309
-#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports en Espanol UHD" tvg-logo="" group-title="Sport",USA Bein Sports en Espanol UHD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports en Espanol UHD" tvg-logo="" group-title="Bein sport",USA Bein Sports en Espanol UHD
 http://live.lordstreams.co:8080/832396166/1982148236/3613
-#EXTINF:-1 tvg-ID="" tvg-name="USA beIN SPORTS enEspanol (SHD)" tvg-logo="" group-title="Sport",USA beIN SPORTS enEspanol (SHD)
+#EXTINF:-1 tvg-ID="" tvg-name="USA beIN SPORTS enEspanol (SHD)" tvg-logo="" group-title="Bein sport",USA beIN SPORTS enEspanol (SHD)
 http://live.lordstreams.co:8080/832396166/1982148236/3707
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports La Liga" tvg-logo="" group-title="Sport",USA BeIN Sports La Liga
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports La Liga" tvg-logo="" group-title="Bein sport",USA BeIN Sports La Liga
 http://live.lordstreams.co:8080/832396166/1982148236/5314
-#EXTINF:-1 tvg-ID="" tvg-name="USA beIN SPORTS La Liga" tvg-logo="" group-title="Sport",USA beIN SPORTS La Liga
+#EXTINF:-1 tvg-ID="" tvg-name="USA beIN SPORTS La Liga" tvg-logo="" group-title="Bein sport",USA beIN SPORTS La Liga
 http://live.lordstreams.co:8080/832396166/1982148236/90427
-#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports LaLiga" tvg-logo="" group-title="Sport",USA BeIN Sports LaLiga
+#EXTINF:-1 tvg-ID="" tvg-name="USA BeIN Sports LaLiga" tvg-logo="" group-title="Bein sport",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/832396166/1982148236/5308
-#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports N Espanol SD" tvg-logo="" group-title="Sport",USA Bein Sports N Espanol SD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports N Espanol SD" tvg-logo="" group-title="Bein sport",USA Bein Sports N Espanol SD
 http://live.lordstreams.co:8080/832396166/1982148236/21586
-#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports UHD" tvg-logo="" group-title="Sport",USA Bein Sports UHD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports UHD" tvg-logo="" group-title="Bein sport",USA Bein Sports UHD
 http://live.lordstreams.co:8080/832396166/1982148236/3612
-#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports USA SD" tvg-logo="" group-title="Sport",USA Bein Sports USA SD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports USA SD" tvg-logo="" group-title="Bein sport",USA Bein Sports USA SD
 http://live.lordstreams.co:8080/832396166/1982148236/21585
-#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports Xtra" tvg-logo="" group-title="Sport",USA Bein Sports Xtra
+#EXTINF:-1 tvg-ID="" tvg-name="USA Bein Sports Xtra" tvg-logo="" group-title="Bein sport",USA Bein Sports Xtra
 http://live.lordstreams.co:8080/832396166/1982148236/434356
 #EXTINF:-1 tvg-ID="" tvg-name="USA BEK Sports News" tvg-logo="" group-title="Sport",USA BEK Sports News
 http://live.lordstreams.co:8080/832396166/1982148236/573472
@@ -596,43 +607,43 @@ http://live.lordstreams.co:8080/832396166/1982148236/97533
 http://live.lordstreams.co:8080/832396166/1982148236/383474
 #EXTINF:-1 tvg-ID="" tvg-name="USA FNTSY Sports Network SD" tvg-logo="" group-title="Sport",USA FNTSY Sports Network SD
 http://live.lordstreams.co:8080/832396166/1982148236/401210
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 (SHD)" tvg-logo="" group-title="Sport",USA Fox Sports 1 (SHD)
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 (SHD)" tvg-logo="" group-title="Fox sport",USA Fox Sports 1 (SHD)
 http://live.lordstreams.co:8080/832396166/1982148236/2501
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 LHD" tvg-logo="" group-title="Sport",USA Fox Sports 1 LHD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 LHD" tvg-logo="" group-title="Fox sport",USA Fox Sports 1 LHD
 http://live.lordstreams.co:8080/832396166/1982148236/3732
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 SD" tvg-logo="" group-title="Sport",USA Fox Sports 1 SD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 SD" tvg-logo="" group-title="Fox sport",USA Fox Sports 1 SD
 http://live.lordstreams.co:8080/832396166/1982148236/21592
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 UHD" tvg-logo="" group-title="Sport",USA Fox Sports 1 UHD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 1 UHD" tvg-logo="" group-title="Fox sport",USA Fox Sports 1 UHD
 http://live.lordstreams.co:8080/832396166/1982148236/3645
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2" tvg-logo="" group-title="Sport",USA Fox Sports 2
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2" tvg-logo="" group-title="Fox sport",USA Fox Sports 2
 http://live.lordstreams.co:8080/832396166/1982148236/2500
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2 (SHD)" tvg-logo="" group-title="Sport",USA Fox Sports 2 (SHD)
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2 (SHD)" tvg-logo="" group-title="Fox sport",USA Fox Sports 2 (SHD)
 http://live.lordstreams.co:8080/832396166/1982148236/3733
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2 SD" tvg-logo="" group-title="Sport",USA Fox Sports 2 SD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2 SD" tvg-logo="" group-title="Fox sport",USA Fox Sports 2 SD
 http://live.lordstreams.co:8080/832396166/1982148236/21593
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2 UHD" tvg-logo="" group-title="Sport",USA Fox Sports 2 UHD
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports 2 UHD" tvg-logo="" group-title="Fox sport",USA Fox Sports 2 UHD
 http://live.lordstreams.co:8080/832396166/1982148236/3646
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Arizona" tvg-logo="" group-title="Sport",USA Fox Sports Arizona
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Arizona" tvg-logo="" group-title="Fox sport",USA Fox Sports Arizona
 http://live.lordstreams.co:8080/832396166/1982148236/2530
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Netbase" tvg-logo="" group-title="Sport",USA Fox Sports Netbase
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Netbase" tvg-logo="" group-title="Fox sport",USA Fox Sports Netbase
 http://live.lordstreams.co:8080/832396166/1982148236/2522
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Ohio" tvg-logo="" group-title="Sport",USA Fox Sports Ohio
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Ohio" tvg-logo="" group-title="Fox sport",USA Fox Sports Ohio
 http://live.lordstreams.co:8080/832396166/1982148236/2518
-#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Ohio LHD" tvg-logo="" group-title="Sport",USA FOX Sports Ohio LHD
+#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Ohio LHD" tvg-logo="" group-title="Fox sport",USA FOX Sports Ohio LHD
 http://live.lordstreams.co:8080/832396166/1982148236/3782
-#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Prime Ticket" tvg-logo="" group-title="Sport",USA FOX Sports Prime Ticket
+#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Prime Ticket" tvg-logo="" group-title="Fox sport",USA FOX Sports Prime Ticket
 http://live.lordstreams.co:8080/832396166/1982148236/2515
-#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Southwest" tvg-logo="" group-title="Sport",USA FOX Sports Southwest
+#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Southwest" tvg-logo="" group-title="Fox sport",USA FOX Sports Southwest
 http://live.lordstreams.co:8080/832396166/1982148236/2511
-#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Sun (South Florida)" tvg-logo="" group-title="Sport",USA Fox Sports Sun (South Florida)
+#EXTINF:-1 tvg-ID="" tvg-name="USA Fox Sports Sun (South Florida)" tvg-logo="" group-title="Fox sport",USA Fox Sports Sun (South Florida)
 http://live.lordstreams.co:8080/832396166/1982148236/2509
-#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Tennessee" tvg-logo="" group-title="Sport",USA FOX Sports Tennessee
+#EXTINF:-1 tvg-ID="" tvg-name="USA FOX Sports Tennessee" tvg-logo="" group-title="Fox sport",USA FOX Sports Tennessee
 http://live.lordstreams.co:8080/832396166/1982148236/2508
 #EXTINF:-1 tvg-ID="" tvg-name="USA Fubo Sports Network" tvg-logo="" group-title="Sport",USA Fubo Sports Network
 http://live.lordstreams.co:8080/832396166/1982148236/50908
 #EXTINF:-1 tvg-ID="" tvg-name="USA Latin ESPN_Deportes" tvg-logo="" group-title="Espn",USA Latin ESPN_Deportes
 http://live.lordstreams.co:8080/832396166/1982148236/40648
-#EXTINF:-1 tvg-ID="" tvg-name="USA Latin Fox Sports Deportes" tvg-logo="" group-title="Sport",USA Latin Fox Sports Deportes
+#EXTINF:-1 tvg-ID="" tvg-name="USA Latin Fox Sports Deportes" tvg-logo="" group-title="Fox sport",USA Latin Fox Sports Deportes
 http://live.lordstreams.co:8080/832396166/1982148236/40647
 #EXTINF:-1 tvg-ID="" tvg-name="USA Marquee Sports Network" tvg-logo="" group-title="Sport",USA Marquee Sports Network
 http://live.lordstreams.co:8080/832396166/1982148236/55178
@@ -692,10 +703,6 @@ http://live.lordstreams.co:8080/832396166/1982148236/663901
 http://live.lordstreams.co:8080/832396166/1982148236/4490
 #EXTINF:-1 tvg-ID="" tvg-name="USA PX Sports SD" tvg-logo="" group-title="Sport",USA PX Sports SD
 http://live.lordstreams.co:8080/832396166/1982148236/401192
-#EXTINF:-1 tvg-ID="" tvg-name="USA Real MLB 12: Astros VS Athletics (Athletics Feed ) @ 15:37" tvg-logo="" group-title="Astro",USA Real MLB 12: Astros VS Athletics (Athletics Feed ) @ 15:37
-http://live.lordstreams.co:8080/832396166/1982148236/177049
-#EXTINF:-1 tvg-ID="" tvg-name="USA Real MLB 13: Astros VS Athletics (MLBN Feed ) @ 15:37" tvg-logo="" group-title="Astro",USA Real MLB 13: Astros VS Athletics (MLBN Feed ) @ 15:37
-http://live.lordstreams.co:8080/832396166/1982148236/177050
 #EXTINF:-1 tvg-ID="" tvg-name="USA Real MLB 21: Mets VS Yankees (ESPN Feed ) @ 19:05" tvg-logo="" group-title="Espn",USA Real MLB 21: Mets VS Yankees (ESPN Feed ) @ 19:05
 http://live.lordstreams.co:8080/832396166/1982148236/177058
 #EXTINF:-1 tvg-ID="" tvg-name="USA Root Sports NorthWest" tvg-logo="" group-title="Sport",USA Root Sports NorthWest
@@ -744,13 +751,13 @@ http://live.lordstreams.co:8080/832396166/1982148236/61769
 http://live.lordstreams.co:8080/832396166/1982148236/680526
 #EXTINF:-1 tvg-ID="" tvg-name="CA (FR) TVA SPORTS" tvg-logo="" group-title="Sport",CA (FR) TVA SPORTS
 http://live.lordstreams.co:8080/832396166/1982148236/92658
-#EXTINF:-1 tvg-ID="" tvg-name="CA BEIN SPORTS" tvg-logo="" group-title="Sport",CA BEIN SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="CA BEIN SPORTS" tvg-logo="" group-title="Bein sport",CA BEIN SPORTS
 http://live.lordstreams.co:8080/832396166/1982148236/3153
-#EXTINF:-1 tvg-ID="" tvg-name="CA Bein Sports HD" tvg-logo="" group-title="Sport",CA Bein Sports HD
+#EXTINF:-1 tvg-ID="" tvg-name="CA Bein Sports HD" tvg-logo="" group-title="Bein sport",CA Bein Sports HD
 http://live.lordstreams.co:8080/832396166/1982148236/88062
 #EXTINF:-1 tvg-ID="" tvg-name="CA Fight Network" tvg-logo="" group-title="Fight",CA Fight Network
 http://live.lordstreams.co:8080/832396166/1982148236/3105
-#EXTINF:-1 tvg-ID="" tvg-name="CA Fox Sports Racing" tvg-logo="" group-title="Sport",CA Fox Sports Racing
+#EXTINF:-1 tvg-ID="" tvg-name="CA Fox Sports Racing" tvg-logo="" group-title="Fox sport",CA Fox Sports Racing
 http://live.lordstreams.co:8080/832396166/1982148236/3053
 #EXTINF:-1 tvg-ID="" tvg-name="CA SPORTSMAN (B)" tvg-logo="" group-title="Sport",CA SPORTSMAN (B)
 http://live.lordstreams.co:8080/832396166/1982148236/93136
@@ -892,7 +899,7 @@ http://live.lordstreams.co:8080/832396166/1982148236/2326
 http://live.lordstreams.co:8080/832396166/1982148236/2335
 #EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 3 HD" tvg-logo="" group-title="Sport",UK BT Sports 3 HD
 http://live.lordstreams.co:8080/832396166/1982148236/2325
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4 ESPN HD" tvg-logo="" group-title="Sport",UK BT Sports 4 ESPN HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4 ESPN HD" tvg-logo="" group-title="Espn",UK BT Sports 4 ESPN HD
 http://live.lordstreams.co:8080/832396166/1982148236/2334
 #EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 5 Extra 1" tvg-logo="" group-title="Sport",UK BT Sports 5 Extra 1
 http://live.lordstreams.co:8080/832396166/1982148236/2332
@@ -918,45 +925,45 @@ http://live.lordstreams.co:8080/832396166/1982148236/2276
 http://live.lordstreams.co:8080/832396166/1982148236/89089
 #EXTINF:-1 tvg-ID="" tvg-name="UK PREMIER SPORTS 2" tvg-logo="" group-title="Sport",UK PREMIER SPORTS 2
 http://live.lordstreams.co:8080/832396166/1982148236/89090
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sport Racing HD" tvg-logo="" group-title="Sport",UK Sky Sport Racing HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sport Racing HD" tvg-logo="" group-title="Sky sport",UK Sky Sport Racing HD
 http://live.lordstreams.co:8080/832396166/1982148236/2226
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Action" tvg-logo="" group-title="Sport",UK Sky Sports Action
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Action" tvg-logo="" group-title="Sky sport",UK Sky Sports Action
 http://live.lordstreams.co:8080/832396166/1982148236/2195
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Action HD" tvg-logo="" group-title="Sport",UK Sky Sports Action HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Action HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Action HD
 http://live.lordstreams.co:8080/832396166/1982148236/2194
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Arena HD" tvg-logo="" group-title="Sport",UK Sky Sports Arena HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Arena HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Arena HD
 http://live.lordstreams.co:8080/832396166/1982148236/2193
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Cricket" tvg-logo="" group-title="Sport",UK Sky Sports Cricket
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Cricket" tvg-logo="" group-title="Sky sport",UK Sky Sports Cricket
 http://live.lordstreams.co:8080/832396166/1982148236/2192
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Cricket HD" tvg-logo="" group-title="Sport",UK Sky Sports Cricket HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Cricket HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Cricket HD
 http://live.lordstreams.co:8080/832396166/1982148236/2191
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports F1" tvg-logo="" group-title="Sport",UK Sky Sports F1
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports F1" tvg-logo="" group-title="Sky sport",UK Sky Sports F1
 http://live.lordstreams.co:8080/832396166/1982148236/2190
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports F1 HD" tvg-logo="" group-title="Sport",UK Sky Sports F1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports F1 HD" tvg-logo="" group-title="Sky sport",UK Sky Sports F1 HD
 http://live.lordstreams.co:8080/832396166/1982148236/2189
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Football" tvg-logo="" group-title="Sport",UK Sky Sports Football
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Football" tvg-logo="" group-title="Sky sport",UK Sky Sports Football
 http://live.lordstreams.co:8080/832396166/1982148236/30822
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Football HD" tvg-logo="" group-title="Sport",UK Sky Sports Football HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Football HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Football HD
 http://live.lordstreams.co:8080/832396166/1982148236/2188
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Golf" tvg-logo="" group-title="Sport",UK Sky Sports Golf
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Golf" tvg-logo="" group-title="Sky sport",UK Sky Sports Golf
 http://live.lordstreams.co:8080/832396166/1982148236/2187
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Golf HD" tvg-logo="" group-title="Sport",UK Sky Sports Golf HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Golf HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Golf HD
 http://live.lordstreams.co:8080/832396166/1982148236/2186
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Main Events" tvg-logo="" group-title="Sport",UK Sky Sports Main Events
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Main Events" tvg-logo="" group-title="Sky sport",UK Sky Sports Main Events
 http://live.lordstreams.co:8080/832396166/1982148236/2185
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Main Events HD" tvg-logo="" group-title="Sport",UK Sky Sports Main Events HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Main Events HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Main Events HD
 http://live.lordstreams.co:8080/832396166/1982148236/2184
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports MIX" tvg-logo="" group-title="Sport",UK Sky Sports MIX
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports MIX" tvg-logo="" group-title="Sky sport",UK Sky Sports MIX
 http://live.lordstreams.co:8080/832396166/1982148236/2180
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports News" tvg-logo="" group-title="Sport",UK Sky Sports News
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports News" tvg-logo="" group-title="Sky sport",UK Sky Sports News
 http://live.lordstreams.co:8080/832396166/1982148236/2183
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports News HD" tvg-logo="" group-title="Sport",UK Sky Sports News HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports News HD" tvg-logo="" group-title="Sky sport",UK Sky Sports News HD
 http://live.lordstreams.co:8080/832396166/1982148236/2179
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Premier League" tvg-logo="" group-title="Sport",UK Sky Sports Premier League
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Premier League" tvg-logo="" group-title="Sky sport",UK Sky Sports Premier League
 http://live.lordstreams.co:8080/832396166/1982148236/2182
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Premier League HD" tvg-logo="" group-title="Sport",UK Sky Sports Premier League HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Premier League HD" tvg-logo="" group-title="Sky sport",UK Sky Sports Premier League HD
 http://live.lordstreams.co:8080/832396166/1982148236/2181
-#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Racing" tvg-logo="" group-title="Sport",UK Sky Sports Racing
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Racing" tvg-logo="" group-title="Sky sport",UK Sky Sports Racing
 http://live.lordstreams.co:8080/832396166/1982148236/102182
 #EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4" tvg-logo="" group-title="Sport",UK BT Sports 4
 http://live.lordstreams.co:8080/832396166/1982148236/675021
@@ -970,9 +977,9 @@ http://live.lordstreams.co:8080/832396166/1982148236/558864
 http://live.lordstreams.co:8080/832396166/1982148236/558865
 #EXTINF:-1 tvg-ID="" tvg-name="Latin CO ESPN 3" tvg-logo="" group-title="Espn",Latin CO ESPN 3
 http://live.lordstreams.co:8080/832396166/1982148236/558866
-#EXTINF:-1 tvg-ID="" tvg-name="Latin CO FOX SPORTS" tvg-logo="" group-title="Sport",Latin CO FOX SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="Latin CO FOX SPORTS" tvg-logo="" group-title="Fox sport",Latin CO FOX SPORTS
 http://live.lordstreams.co:8080/832396166/1982148236/558868
-#EXTINF:-1 tvg-ID="" tvg-name="Latin CO FOX SPORTS 2" tvg-logo="" group-title="Sport",Latin CO FOX SPORTS 2
+#EXTINF:-1 tvg-ID="" tvg-name="Latin CO FOX SPORTS 2" tvg-logo="" group-title="Fox sport",Latin CO FOX SPORTS 2
 http://live.lordstreams.co:8080/832396166/1982148236/558869
 #EXTINF:-1 tvg-ID="" tvg-name="COL (Claro) Claro Sports" tvg-logo="" group-title="Sport",COL (Claro) Claro Sports
 http://live.lordstreams.co:8080/832396166/1982148236/680926
@@ -1052,9 +1059,9 @@ http://live.lordstreams.co:8080/832396166/1982148236/755
 http://live.lordstreams.co:8080/832396166/1982148236/756
 #EXTINF:-1 tvg-ID="" tvg-name="BR SPORTV 1" tvg-logo="" group-title="Sport",BR SPORTV 1
 http://live.lordstreams.co:8080/832396166/1982148236/757
-#EXTINF:-1 tvg-ID="" tvg-name="BR FOX SPORTS" tvg-logo="" group-title="Sport",BR FOX SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="BR FOX SPORTS" tvg-logo="" group-title="Fox sport",BR FOX SPORTS
 http://live.lordstreams.co:8080/832396166/1982148236/778
-#EXTINF:-1 tvg-ID="" tvg-name="BR FOX SPORTS 2" tvg-logo="" group-title="Sport",BR FOX SPORTS 2
+#EXTINF:-1 tvg-ID="" tvg-name="BR FOX SPORTS 2" tvg-logo="" group-title="Fox sport",BR FOX SPORTS 2
 http://live.lordstreams.co:8080/832396166/1982148236/779
 #EXTINF:-1 tvg-ID="" tvg-name="BR ESPN BRAZIL" tvg-logo="" group-title="Espn",BR ESPN BRAZIL
 http://live.lordstreams.co:8080/832396166/1982148236/784
@@ -1064,39 +1071,39 @@ http://live.lordstreams.co:8080/832396166/1982148236/785
 http://live.lordstreams.co:8080/832396166/1982148236/794
 #EXTINF:-1 tvg-ID="" tvg-name="BR ESPN" tvg-logo="" group-title="Espn",BR ESPN
 http://live.lordstreams.co:8080/832396166/1982148236/803
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 502 NRL" tvg-logo="" group-title="Sport",AU Fox Sports 502 NRL
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 502 NRL" tvg-logo="" group-title="Fox sport",AU Fox Sports 502 NRL
 http://live.lordstreams.co:8080/832396166/1982148236/144729
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 504 NRL" tvg-logo="" group-title="Sport",AU Fox Sports 504 NRL
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 504 NRL" tvg-logo="" group-title="Fox sport",AU Fox Sports 504 NRL
 http://live.lordstreams.co:8080/832396166/1982148236/144730
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports News" tvg-logo="" group-title="Sport",AU Fox Sports News
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports News" tvg-logo="" group-title="Fox sport",AU Fox Sports News
 http://live.lordstreams.co:8080/832396166/1982148236/144731
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 1 FHD (Kayo)" tvg-logo="" group-title="Sport",AU Fox Sports Feed 1 FHD (Kayo)
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 1 FHD (Kayo)" tvg-logo="" group-title="Fox sport",AU Fox Sports Feed 1 FHD (Kayo)
 http://live.lordstreams.co:8080/832396166/1982148236/383395
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 2 FHD (Kayo)" tvg-logo="" group-title="Sport",AU Fox Sports Feed 2 FHD (Kayo)
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 2 FHD (Kayo)" tvg-logo="" group-title="Fox sport",AU Fox Sports Feed 2 FHD (Kayo)
 http://live.lordstreams.co:8080/832396166/1982148236/383396
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 3 FHD (Kayo)" tvg-logo="" group-title="Sport",AU Fox Sports Feed 3 FHD (Kayo)
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 3 FHD (Kayo)" tvg-logo="" group-title="Fox sport",AU Fox Sports Feed 3 FHD (Kayo)
 http://live.lordstreams.co:8080/832396166/1982148236/383397
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 4 FHD (Kayo)" tvg-logo="" group-title="Sport",AU Fox Sports Feed 4 FHD (Kayo)
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 4 FHD (Kayo)" tvg-logo="" group-title="Fox sport",AU Fox Sports Feed 4 FHD (Kayo)
 http://live.lordstreams.co:8080/832396166/1982148236/383398
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 5 FHD (Kayo)" tvg-logo="" group-title="Sport",AU Fox Sports Feed 5 FHD (Kayo)
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports Feed 5 FHD (Kayo)" tvg-logo="" group-title="Fox sport",AU Fox Sports Feed 5 FHD (Kayo)
 http://live.lordstreams.co:8080/832396166/1982148236/383399
-#EXTINF:-1 tvg-ID="" tvg-name="AU beIN Sports 1" tvg-logo="" group-title="Sport",AU beIN Sports 1
+#EXTINF:-1 tvg-ID="" tvg-name="AU beIN Sports 1" tvg-logo="" group-title="Bein sport",AU beIN Sports 1
 http://live.lordstreams.co:8080/832396166/1982148236/21616
-#EXTINF:-1 tvg-ID="" tvg-name="AU beIN Sports 2" tvg-logo="" group-title="Sport",AU beIN Sports 2
+#EXTINF:-1 tvg-ID="" tvg-name="AU beIN Sports 2" tvg-logo="" group-title="Bein sport",AU beIN Sports 2
 http://live.lordstreams.co:8080/832396166/1982148236/21617
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 501 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 501 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 501 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 501 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21618
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 502 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 502 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 502 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 502 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21619
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 503 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 503 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 503 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 503 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21620
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 504 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 504 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 504 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 504 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21621
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 505 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 505 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 505 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 505 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21622
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 506 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 506 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 506 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 506 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21623
-#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 507 FHD" tvg-logo="" group-title="Sport",AU Fox Sports 507 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="AU Fox Sports 507 FHD" tvg-logo="" group-title="Fox sport",AU Fox Sports 507 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/21624
 #EXTINF:-1 tvg-ID="" tvg-name="AR ESPN 2" tvg-logo="" group-title="Espn",AR ESPN 2
 http://live.lordstreams.co:8080/832396166/1982148236/1636
@@ -1122,124 +1129,46 @@ http://live.lordstreams.co:8080/832396166/1982148236/4494
 http://live.lordstreams.co:8080/832396166/1982148236/546796
 #EXTINF:-1 tvg-ID="" tvg-name="PH One Sports Plus" tvg-logo="" group-title="Sport",PH One Sports Plus
 http://live.lordstreams.co:8080/832396166/1982148236/651753
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports News" tvg-logo="" group-title="Sport",beIN Sports News
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports News" tvg-logo="" group-title="Bein sport",beIN Sports News
 http://live.lordstreams.co:8080/832396166/1982148236/659425
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports Global" tvg-logo="" group-title="Sport",beIN Sports Global
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports Global" tvg-logo="" group-title="Bein sport",beIN Sports Global
 http://live.lordstreams.co:8080/832396166/1982148236/659426
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 2 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659428
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 3 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659429
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 4 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 4 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659430
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 5 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 5 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659431
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 6 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 6 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659432
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 7 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 7 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659433
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 8 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 8 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 8 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 8 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659434
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 9 FHD" tvg-logo="" group-title="Sport",beIN SPORTS 9 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 9 FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 9 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659435
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 English FHD" tvg-logo="" group-title="Sport",beIN SPORTS 1 English FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 English FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 1 English FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659436
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 English FHD" tvg-logo="" group-title="Sport",beIN SPORTS 2 English FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 English FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 2 English FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659437
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS NBA FHD" tvg-logo="" group-title="Sport",beIN SPORTS NBA FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS NBA FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS NBA FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659438
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 French FHD" tvg-logo="" group-title="Sport",beIN SPORTS 1 French FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 French FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 1 French FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659439
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 French FHD" tvg-logo="" group-title="Sport",beIN SPORTS 2 French FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 French FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 2 French FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659440
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 French FHD" tvg-logo="" group-title="Sport",beIN SPORTS 3 French FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 French FHD" tvg-logo="" group-title="Bein sport",beIN SPORTS 3 French FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659441
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport EXTRA 1 FHD" tvg-logo="" group-title="Sport",beIN Sport EXTRA 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport EXTRA 1 FHD" tvg-logo="" group-title="Bein sport",beIN Sport EXTRA 1 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659442
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport EXTRA 2 FHD" tvg-logo="" group-title="Sport",beIN Sport EXTRA 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport EXTRA 2 FHD" tvg-logo="" group-title="Bein sport",beIN Sport EXTRA 2 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659443
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport EXTRA 3 FHD" tvg-logo="" group-title="Sport",beIN Sport EXTRA 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport EXTRA 3 FHD" tvg-logo="" group-title="Bein sport",beIN Sport EXTRA 3 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/659444
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies Premiere 1 HD" tvg-logo="" group-title="Bein",BeIN Movies Premiere 1 HD
-http://live.lordstreams.co:8080/832396166/1982148236/659448
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2 Action HD" tvg-logo="" group-title="Bein",BeIN Movies 2 Action HD
-http://live.lordstreams.co:8080/832396166/1982148236/659449
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3 Drama HD" tvg-logo="" group-title="Bein",BeIN Movies 3 Drama HD
-http://live.lordstreams.co:8080/832396166/1982148236/659450
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4 Family HD" tvg-logo="" group-title="Bein",BeIN Movies 4 Family HD
-http://live.lordstreams.co:8080/832396166/1982148236/659451
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Series HD 1" tvg-logo="" group-title="Bein",BeIN Series HD 1
-http://live.lordstreams.co:8080/832396166/1982148236/659452
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Series HD 2" tvg-logo="" group-title="Bein",BeIN Series HD 2
-http://live.lordstreams.co:8080/832396166/1982148236/659453
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN BBC Earth HD" tvg-logo="" group-title="Bein",BeIN BBC Earth HD
-http://live.lordstreams.co:8080/832396166/1982148236/659454
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Drama 1 HD" tvg-logo="" group-title="Bein",BeIN Drama 1 HD
-http://live.lordstreams.co:8080/832396166/1982148236/659456
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Food Network HD" tvg-logo="" group-title="Bein",BeIN Food Network HD
-http://live.lordstreams.co:8080/832396166/1982148236/659459
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fox Action Movies HD" tvg-logo="" group-title="Bein",BeIN Fox Action Movies HD
-http://live.lordstreams.co:8080/832396166/1982148236/659460
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fox Life HD" tvg-logo="" group-title="Bein",BeIN Fox Life HD
-http://live.lordstreams.co:8080/832396166/1982148236/659461
-#EXTINF:-1 tvg-ID="" tvg-name="beIN FX" tvg-logo="" group-title="Bein",beIN FX
-http://live.lordstreams.co:8080/832396166/1982148236/659462
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN National Geographic FHD" tvg-logo="" group-title="Bein",BeIN National Geographic FHD
-http://live.lordstreams.co:8080/832396166/1982148236/659463
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN National Geographic Wild FHD" tvg-logo="" group-title="Bein",BeIN National Geographic Wild FHD
-http://live.lordstreams.co:8080/832396166/1982148236/659464
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN OutDoor HD" tvg-logo="" group-title="Bein",BeIN OutDoor HD
-http://live.lordstreams.co:8080/832396166/1982148236/659465
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN AMC HD" tvg-logo="" group-title="Bein",BeIN AMC HD
-http://live.lordstreams.co:8080/832396166/1982148236/659466
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Animal Planet HD" tvg-logo="" group-title="Bein",BeIN Animal Planet HD
-http://live.lordstreams.co:8080/832396166/1982148236/659467
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Baraim HD" tvg-logo="" group-title="Bein",Bein Baraim HD
-http://live.lordstreams.co:8080/832396166/1982148236/659468
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Bejunior HD" tvg-logo="" group-title="Bein",Bein Bejunior HD
-http://live.lordstreams.co:8080/832396166/1982148236/659469
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Boomerang HD" tvg-logo="" group-title="Bein",Bein Boomerang HD
-http://live.lordstreams.co:8080/832396166/1982148236/659470
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Cartoon Network HD" tvg-logo="" group-title="Bein",Bein Cartoon Network HD
-http://live.lordstreams.co:8080/832396166/1982148236/659471
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Discovery Family" tvg-logo="" group-title="Bein",Bein Discovery Family
-http://live.lordstreams.co:8080/832396166/1982148236/659472
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Dream Works" tvg-logo="" group-title="Bein",beIN Dream Works
-http://live.lordstreams.co:8080/832396166/1982148236/659473
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat HD" tvg-logo="" group-title="Bein",BeIN Fatafeat HD
-http://live.lordstreams.co:8080/832396166/1982148236/659474
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fine Living HD" tvg-logo="" group-title="Bein",BeIN Fine Living HD
-http://live.lordstreams.co:8080/832396166/1982148236/659475
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fox Movies HD" tvg-logo="" group-title="Bein",BeIN Fox Movies HD
-http://live.lordstreams.co:8080/832396166/1982148236/659476
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Gourmet HD" tvg-logo="" group-title="Bein",BeIN Gourmet HD
-http://live.lordstreams.co:8080/832396166/1982148236/659477
-#EXTINF:-1 tvg-ID="" tvg-name="beIN HG HD" tvg-logo="" group-title="Bein",beIN HG HD
-http://live.lordstreams.co:8080/832396166/1982148236/659478
-#EXTINF:-1 tvg-ID="" tvg-name="Bein HG TV" tvg-logo="" group-title="Bein",Bein HG TV
-http://live.lordstreams.co:8080/832396166/1982148236/659479
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Jeem HD" tvg-logo="" group-title="Bein",Bein Jeem HD
-http://live.lordstreams.co:8080/832396166/1982148236/659480
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Travel HD" tvg-logo="" group-title="Bein",BeIN Travel HD
-http://live.lordstreams.co:8080/832396166/1982148236/659481
-#EXTINF:-1 tvg-ID="" tvg-name="beIN NBA" tvg-logo="" group-title="Bein",beIN NBA
-http://live.lordstreams.co:8080/832396166/1982148236/659482
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Ginx eSports" tvg-logo="" group-title="Sport",OSN Ginx eSports
 http://live.lordstreams.co:8080/832396166/1982148236/659509
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Baby HD" tvg-logo="" group-title="Bein",Bein Baby HD
-http://live.lordstreams.co:8080/832396166/1982148236/659641
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Baraim HD" tvg-logo="" group-title="Bein",Bein Baraim HD
-http://live.lordstreams.co:8080/832396166/1982148236/659642
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Bejunior HD" tvg-logo="" group-title="Bein",Bein Bejunior HD
-http://live.lordstreams.co:8080/832396166/1982148236/659643
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Boomerang HD" tvg-logo="" group-title="Bein",Bein Boomerang HD
-http://live.lordstreams.co:8080/832396166/1982148236/659644
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Cartoon Network HD" tvg-logo="" group-title="Bein",Bein Cartoon Network HD
-http://live.lordstreams.co:8080/832396166/1982148236/659645
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Dream Work HD" tvg-logo="" group-title="Bein",Bein Dream Work HD
-http://live.lordstreams.co:8080/832396166/1982148236/659646
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Jeem HD" tvg-logo="" group-title="Bein",Bein Jeem HD
-http://live.lordstreams.co:8080/832396166/1982148236/659647
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT- Abu Dhabi Sports 1 HD" tvg-logo="" group-title="Sport",SPORT- Abu Dhabi Sports 1 HD
 http://live.lordstreams.co:8080/832396166/1982148236/659696
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT- Abu Dhabi Sports  2 HD" tvg-logo="" group-title="Sport",SPORT- Abu Dhabi Sports  2 HD
@@ -1282,16 +1211,10 @@ http://live.lordstreams.co:8080/832396166/1982148236/659719
 http://live.lordstreams.co:8080/832396166/1982148236/659720
 #EXTINF:-1 tvg-ID="" tvg-name="Sport:ALL Sports" tvg-logo="" group-title="Sport",Sport:ALL Sports
 http://live.lordstreams.co:8080/832396166/1982148236/659721
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Fatafeat HD" tvg-logo="" group-title="Bein",beIN Fatafeat HD
-http://live.lordstreams.co:8080/832396166/1982148236/659841
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT- Libya Sport 2 TV" tvg-logo="" group-title="Sport",SPORT- Libya Sport 2 TV
 http://live.lordstreams.co:8080/832396166/1982148236/660258
 #EXTINF:-1 tvg-ID="" tvg-name="SU- Neelain Sport" tvg-logo="" group-title="Sport",SU- Neelain Sport
 http://live.lordstreams.co:8080/832396166/1982148236/660266
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 Being Mary Jane" tvg-logo="" group-title="Bein",24/7 Being Mary Jane
-http://live.lordstreams.co:8080/832396166/1982148236/30674
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 Catastrophe" tvg-logo="" group-title="Astro",24/7 Catastrophe
-http://live.lordstreams.co:8080/832396166/1982148236/30713
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 The Good Fight" tvg-logo="" group-title="Fight",24/7 The Good Fight
 http://live.lordstreams.co:8080/832396166/1982148236/40575
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 Sports Night" tvg-logo="" group-title="Sport",24/7 Sports Night
@@ -1302,8 +1225,6 @@ http://live.lordstreams.co:8080/832396166/1982148236/76339
 http://live.lordstreams.co:8080/832396166/1982148236/331035
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 The Ultimate Fighter" tvg-logo="" group-title="Fight",24/7 The Ultimate Fighter
 http://live.lordstreams.co:8080/832396166/1982148236/331090
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 How To Survive Being Single" tvg-logo="" group-title="Bein",24/7 How To Survive Being Single
-http://live.lordstreams.co:8080/832396166/1982148236/331777
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 The Great Christmas Light Fight" tvg-logo="" group-title="Fight",24/7 The Great Christmas Light Fight
 http://live.lordstreams.co:8080/832396166/1982148236/331949
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 Vegas Chef Prizefight" tvg-logo="" group-title="Fight",24/7 Vegas Chef Prizefight
@@ -1312,10 +1233,6 @@ http://live.lordstreams.co:8080/832396166/1982148236/331994
 http://live.lordstreams.co:8080/832396166/1982148236/331995
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 UFC Replay" tvg-logo="" group-title="Ufc",24/7 UFC Replay
 http://live.lordstreams.co:8080/832396166/1982148236/447223
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 Being Erica" tvg-logo="" group-title="Bein",24/7 Being Erica
-http://live.lordstreams.co:8080/832396166/1982148236/511264
-#EXTINF:-1 tvg-ID="" tvg-name="24/7 The Astronaut Wives Club" tvg-logo="" group-title="Astro",24/7 The Astronaut Wives Club
-http://live.lordstreams.co:8080/832396166/1982148236/511906
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 Fight of the Living Dead Experiment 88" tvg-logo="" group-title="Fight",24/7 Fight of the Living Dead Experiment 88
 http://live.lordstreams.co:8080/832396166/1982148236/513539
 #EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ Cinema HD" tvg-logo="" group-title="Canal+",FR CANAL+ Cinema HD
@@ -1328,7 +1245,7 @@ http://live.lordstreams.co:8080/832396166/1982148236/599591
 http://live.lordstreams.co:8080/832396166/1982148236/599592
 #EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ Series HD" tvg-logo="" group-title="Canal+",FR CANAL+ Series HD
 http://live.lordstreams.co:8080/832396166/1982148236/599593
-#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ Sport HD" tvg-logo="" group-title="Sport",FR CANAL+ Sport HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR CANAL+ Sport HD" tvg-logo="" group-title="Canal+",FR CANAL+ Sport HD
 http://live.lordstreams.co:8080/832396166/1982148236/599594
 #EXTINF:-1 tvg-ID="" tvg-name="FR RMC Sport 1 HD" tvg-logo="" group-title="Sport",FR RMC Sport 1 HD
 http://live.lordstreams.co:8080/832396166/1982148236/599595
@@ -1340,33 +1257,33 @@ http://live.lordstreams.co:8080/832396166/1982148236/599597
 http://live.lordstreams.co:8080/832396166/1982148236/599598
 #EXTINF:-1 tvg-ID="" tvg-name="FR RMC Sport HD" tvg-logo="" group-title="Sport",FR RMC Sport HD
 http://live.lordstreams.co:8080/832396166/1982148236/599599
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS 1 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS 1 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS 1 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607902
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS 2 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS 2 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS 2 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607903
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS 3 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS 3 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS 3 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607904
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 4 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 4 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 4 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607905
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 5 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 5 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 5 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607906
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 6 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 6 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 6 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 6 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607907
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 7 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 7 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 7 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 7 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607908
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 8 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 8 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 8 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 8 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607909
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 9 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 9 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 9 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 9 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607910
-#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 10 HD" tvg-logo="" group-title="Sport",FR beIN SPORTS MAX 10 HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR beIN SPORTS MAX 10 HD" tvg-logo="" group-title="Bein sport",FR beIN SPORTS MAX 10 HD
 http://live.lordstreams.co:8080/832396166/1982148236/607911
-#EXTINF:-1 tvg-ID="" tvg-name="DE | DAZN SPORT 1" tvg-logo="" group-title="Sport",DE | DAZN SPORT 1
+#EXTINF:-1 tvg-ID="" tvg-name="DE | DAZN SPORT 1" tvg-logo="" group-title="Dazn",DE | DAZN SPORT 1
 http://live.lordstreams.co:8080/832396166/1982148236/434604
-#EXTINF:-1 tvg-ID="" tvg-name="DE | DAZN SPORT 2" tvg-logo="" group-title="Sport",DE | DAZN SPORT 2
+#EXTINF:-1 tvg-ID="" tvg-name="DE | DAZN SPORT 2" tvg-logo="" group-title="Dazn",DE | DAZN SPORT 2
 http://live.lordstreams.co:8080/832396166/1982148236/434605
-#EXTINF:-1 tvg-ID="" tvg-name="Latin CL Fox Sports" tvg-logo="" group-title="Sport",Latin CL Fox Sports
+#EXTINF:-1 tvg-ID="" tvg-name="Latin CL Fox Sports" tvg-logo="" group-title="Fox sport",Latin CL Fox Sports
 http://live.lordstreams.co:8080/832396166/1982148236/119574
-#EXTINF:-1 tvg-ID="" tvg-name="Latin CL Fox Sports" tvg-logo="" group-title="Sport",Latin CL Fox Sports
+#EXTINF:-1 tvg-ID="" tvg-name="Latin CL Fox Sports" tvg-logo="" group-title="Fox sport",Latin CL Fox Sports
 http://live.lordstreams.co:8080/832396166/1982148236/119585
 #EXTINF:-1 tvg-ID="" tvg-name="CL DIRECTV SPORTS" tvg-logo="" group-title="Sport",CL DIRECTV SPORTS
 http://live.lordstreams.co:8080/832396166/1982148236/560371
@@ -1388,30 +1305,22 @@ http://live.lordstreams.co:8080/832396166/1982148236/560382
 http://live.lordstreams.co:8080/832396166/1982148236/560383
 #EXTINF:-1 tvg-ID="" tvg-name="CL TNT SPORTS 3" tvg-logo="" group-title="Sport",CL TNT SPORTS 3
 http://live.lordstreams.co:8080/832396166/1982148236/560384
-#EXTINF:-1 tvg-ID="" tvg-name="Astro Arena 2" tvg-logo="" group-title="Astro",Astro Arena 2
-http://live.lordstreams.co:8080/832396166/1982148236/587715
-#EXTINF:-1 tvg-ID="" tvg-name="Astro Arena HD" tvg-logo="" group-title="Astro",Astro Arena HD
-http://live.lordstreams.co:8080/832396166/1982148236/587716
-#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport HD" tvg-logo="" group-title="Astro",Astro SuperSport HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport HD" tvg-logo="" group-title="Astro supersport",Astro SuperSport HD
 http://live.lordstreams.co:8080/832396166/1982148236/587717
-#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 2 HD" tvg-logo="" group-title="Astro",Astro SuperSport 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 2 HD" tvg-logo="" group-title="Astro supersport",Astro SuperSport 2 HD
 http://live.lordstreams.co:8080/832396166/1982148236/587718
-#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 3 HD" tvg-logo="" group-title="Astro",Astro SuperSport 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 3 HD" tvg-logo="" group-title="Astro supersport",Astro SuperSport 3 HD
 http://live.lordstreams.co:8080/832396166/1982148236/587719
-#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 4 HD" tvg-logo="" group-title="Astro",Astro SuperSport 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 4 HD" tvg-logo="" group-title="Astro supersport",Astro SuperSport 4 HD
 http://live.lordstreams.co:8080/832396166/1982148236/587720
-#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 5 HD" tvg-logo="" group-title="Astro",Astro SuperSport 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro SuperSport 5 HD" tvg-logo="" group-title="Astro supersport",Astro SuperSport 5 HD
 http://live.lordstreams.co:8080/832396166/1982148236/587721
-#EXTINF:-1 tvg-ID="" tvg-name="Astro Cricket HD" tvg-logo="" group-title="Astro",Astro Cricket HD
-http://live.lordstreams.co:8080/832396166/1982148236/587722
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports MAX HD" tvg-logo="" group-title="Sport",beIN Sports MAX HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports MAX HD" tvg-logo="" group-title="Bein sport",beIN Sports MAX HD
 http://live.lordstreams.co:8080/832396166/1982148236/587723
-#EXTINF:-1 tvg-ID="" tvg-name="Astro: beIN Sports MAX HD" tvg-logo="" group-title="Astro",Astro: beIN Sports MAX HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro: beIN Sports MAX HD" tvg-logo="" group-title="Bein sport",Astro: beIN Sports MAX HD
 http://live.lordstreams.co:8080/832396166/1982148236/587724
-#EXTINF:-1 tvg-ID="" tvg-name="Astro: beIN Sports HD" tvg-logo="" group-title="Astro",Astro: beIN Sports HD
+#EXTINF:-1 tvg-ID="" tvg-name="Astro: beIN Sports HD" tvg-logo="" group-title="Bein sport",Astro: beIN Sports HD
 http://live.lordstreams.co:8080/832396166/1982148236/587725
-#EXTINF:-1 tvg-ID="" tvg-name="Astro: RUGBY PASS TV" tvg-logo="" group-title="Astro",Astro: RUGBY PASS TV
-http://live.lordstreams.co:8080/832396166/1982148236/587727
 #EXTINF:-1 tvg-ID="" tvg-name="[ESPN+] 001 [NJCAA Football Water Polo] Little League Softball 07/24 10:00 ET" tvg-logo="" group-title="Espn",[ESPN+] 001 [NJCAA Football Water Polo] Little League Softball 07/24 10:00 ET
 http://live.lordstreams.co:8080/832396166/1982148236/631406
 #EXTINF:-1 tvg-ID="" tvg-name="[ESPN+] 002 [NJCAA Football Water Polo] Little League Softball 07/24 10:00 ET" tvg-logo="" group-title="Espn",[ESPN+] 002 [NJCAA Football Water Polo] Little League Softball 07/24 10:00 ET
@@ -2038,5 +1947,3 @@ http://live.lordstreams.co:8080/832396166/1982148236/631716
 http://live.lordstreams.co:8080/832396166/1982148236/631717
 #EXTINF:-1 tvg-ID="" tvg-name=" ESPN+ 313" tvg-logo="" group-title="Espn", ESPN+ 313
 http://live.lordstreams.co:8080/832396166/1982148236/631718
-
-
