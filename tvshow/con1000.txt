@@ -114,7 +114,6 @@ http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="Flo (FLSP) 1: FloSports 24/7" tvg-logo="" group-title="Sport",Flo (FLSP) 1: FloSports 24/7
 http://live.lordstreams.co:8080/832396166/1982148236/642282
 #EXTINF:-1 tvg-ID="" tvg-name="MLS Los Angeles Football Club (HD)" tvg-logo="" group-title="Football",MLS Los Angeles Football Club (HD)
@@ -887,29 +886,29 @@ http://live.lordstreams.co:8080/832396166/1982148236/3179
 http://live.lordstreams.co:8080/832396166/1982148236/59869
 #EXTINF:-1 tvg-ID="" tvg-name="CA Euro World Sport (R)" tvg-logo="" group-title="Sport",CA Euro World Sport (R)
 http://live.lordstreams.co:8080/832396166/1982148236/647743
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 1 FHD" tvg-logo="" group-title="Sport",UK BT Sports 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 1 FHD" tvg-logo="" group-title="Bt sport",UK BT Sports 1 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/2337
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 9 Extra 5" tvg-logo="" group-title="Sport",UK BT Sports 9 Extra 5
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 9 Extra 5" tvg-logo="" group-title="Bt sport",UK BT Sports 9 Extra 5
 http://live.lordstreams.co:8080/832396166/1982148236/2327
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 2 FHD" tvg-logo="" group-title="Sport",UK BT Sports 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 2 FHD" tvg-logo="" group-title="Bt sport",UK BT Sports 2 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/2336
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 2 HD" tvg-logo="" group-title="Sport",UK BT Sports 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 2 HD" tvg-logo="" group-title="Bt sport",UK BT Sports 2 HD
 http://live.lordstreams.co:8080/832396166/1982148236/2326
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 3 FHD" tvg-logo="" group-title="Sport",UK BT Sports 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 3 FHD" tvg-logo="" group-title="Bt sport",UK BT Sports 3 FHD
 http://live.lordstreams.co:8080/832396166/1982148236/2335
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 3 HD" tvg-logo="" group-title="Sport",UK BT Sports 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 3 HD" tvg-logo="" group-title="Bt sport",UK BT Sports 3 HD
 http://live.lordstreams.co:8080/832396166/1982148236/2325
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4 ESPN HD" tvg-logo="" group-title="Espn",UK BT Sports 4 ESPN HD
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4 ESPN HD" tvg-logo="" group-title="Bt sport",UK BT Sports 4 ESPN HD
 http://live.lordstreams.co:8080/832396166/1982148236/2334
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 5 Extra 1" tvg-logo="" group-title="Sport",UK BT Sports 5 Extra 1
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 5 Extra 1" tvg-logo="" group-title="Bt sport",UK BT Sports 5 Extra 1
 http://live.lordstreams.co:8080/832396166/1982148236/2332
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 6 Extra 2" tvg-logo="" group-title="Sport",UK BT Sports 6 Extra 2
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 6 Extra 2" tvg-logo="" group-title="Bt sport",UK BT Sports 6 Extra 2
 http://live.lordstreams.co:8080/832396166/1982148236/2331
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 7 Extra 3" tvg-logo="" group-title="Sport",UK BT Sports 7 Extra 3
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 7 Extra 3" tvg-logo="" group-title="Bt sport",UK BT Sports 7 Extra 3
 http://live.lordstreams.co:8080/832396166/1982148236/2330
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 10 Extra 6" tvg-logo="" group-title="Sport",UK BT Sports 10 Extra 6
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 10 Extra 6" tvg-logo="" group-title="Bt sport",UK BT Sports 10 Extra 6
 http://live.lordstreams.co:8080/832396166/1982148236/2329
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 8 Extra 4" tvg-logo="" group-title="Sport",UK BT Sports 8 Extra 4
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 8 Extra 4" tvg-logo="" group-title="Bt sport",UK BT Sports 8 Extra 4
 http://live.lordstreams.co:8080/832396166/1982148236/2333
 #EXTINF:-1 tvg-ID="" tvg-name="UK Eir Sport 1" tvg-logo="" group-title="Sport",UK Eir Sport 1
 http://live.lordstreams.co:8080/832396166/1982148236/2289
@@ -921,6 +920,10 @@ http://live.lordstreams.co:8080/832396166/1982148236/2286
 http://live.lordstreams.co:8080/832396166/1982148236/2285
 #EXTINF:-1 tvg-ID="" tvg-name="UK FreeSports" tvg-logo="" group-title="Sport",UK FreeSports
 http://live.lordstreams.co:8080/832396166/1982148236/2276
+#EXTINF:-1 tvg-ID="" tvg-name="UK LFC TV" tvg-logo="" group-title="Lfc tv",UK LFC TV
+http://live.lordstreams.co:8080/832396166/1982148236/2259
+#EXTINF:-1 tvg-ID="" tvg-name="UK MUTV" tvg-logo="" group-title="Mutv",UK MUTV
+http://live.lordstreams.co:8080/832396166/1982148236/2242
 #EXTINF:-1 tvg-ID="" tvg-name="UK PREMIER  SPORTS 1" tvg-logo="" group-title="Sport",UK PREMIER  SPORTS 1
 http://live.lordstreams.co:8080/832396166/1982148236/89089
 #EXTINF:-1 tvg-ID="" tvg-name="UK PREMIER SPORTS 2" tvg-logo="" group-title="Sport",UK PREMIER SPORTS 2
@@ -965,7 +968,7 @@ http://live.lordstreams.co:8080/832396166/1982148236/2182
 http://live.lordstreams.co:8080/832396166/1982148236/2181
 #EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Racing" tvg-logo="" group-title="Sky sport",UK Sky Sports Racing
 http://live.lordstreams.co:8080/832396166/1982148236/102182
-#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4" tvg-logo="" group-title="Sport",UK BT Sports 4
+#EXTINF:-1 tvg-ID="" tvg-name="UK BT Sports 4" tvg-logo="" group-title="Bt sport",UK BT Sports 4
 http://live.lordstreams.co:8080/832396166/1982148236/675021
 #EXTINF:-1 tvg-ID="" tvg-name="Latin CO Claro Sports" tvg-logo="" group-title="Sport",Latin CO Claro Sports
 http://live.lordstreams.co:8080/832396166/1982148236/558858
