@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF Sport+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/8abdd4d3253d178909b231d0c9913dbe.png" group-title="Austria",AT: ORF Sport+
+http://gamsgo.cyou:8080/live/17032/cebaebad/2098.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" group-title="Austria",AT: Sky Sport Austria 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/2130.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9fdbe61de418c860d0f51acab33cd3d5.png" group-title="Austria",AT: Sky Sport Austria 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/192010.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bf0ec45566171fc1fe07e3bb7fda848f.png" group-title="Austria",AT: Sky Sport Austria 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/192374.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/1411fab83c8bffe7da7727a3d589afa8.png" group-title="Austria",AT: Sky Sport Austria 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/295541.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/65617951bce92e5e47beed8db2dad8a7.png" group-title="Austria",AT: Sky Sport Austria 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/295542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 1 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/7f5b3c7d416347c99faa81978be4f6c0.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 1 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303886.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 2 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/ecf5080c09dbd61bc9b0c096607f07db.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 2 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303887.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 3 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a5cdf0c88805ddf3687247da7849b9c9.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 3 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303888.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 4 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/20dd195ecfe6a9c6bba5e32bad574e92.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 4 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303889.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 5 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/682062fbc1d34bd2a20c05074f9f3db1.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 5 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303890.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 6 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/c8fc36b0e1c443ec534c343dbbabd14b.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 6 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303891.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 7 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/82bf1a67f3904b986977af05f9912a5a.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 7 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303892.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 8 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/7f7ae69889db8a839830dad314aaa42e.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 8 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303893.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 9 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a905a25433888c1ee4d89748cb9aa650.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 9 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303894.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 10 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0779e2fadc50fe7970e5293d2615dfa1.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 10 [vip]
+http://gamsgo.cyou:8080/live/17032/cebaebad/303895.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Amazon Prime Sport [nur Live Stteaming]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany ➾ Sports",DE: Amazon Prime Sport [nur Live Stteaming]
+http://gamsgo.cyou:8080/live/17032/cebaebad/301247.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Amazon Prime Video 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Amazon Prime Video 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/300237.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Amazon Prime Video 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Amazon Prime Video 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/300238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Auto Motor Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/26c21b6834a1d642acc99d1a3c689bcc.png" group-title="Germany ➾ Sports",DE: Auto Motor Sport
+http://gamsgo.cyou:8080/live/17032/cebaebad/2385.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="Germany ➾ Sports",DE: DAZN 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/48355.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="Germany ➾ Sports",DE: DAZN 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/2387.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN Fast+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8b363413c33f920c25c328377c0fbc57.jpg" group-title="Germany ➾ Sports",DE: DAZN Fast+
+http://gamsgo.cyou:8080/live/17032/cebaebad/304355.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Edge Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/40da4317502840a4f3a4529ed977ae5c.png" group-title="Germany ➾ Sports",DE: Edge Sport
+http://gamsgo.cyou:8080/live/17032/cebaebad/281610.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ESports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/802a470fd937909055188df041e923ac.png" group-title="Germany ➾ Sports",DE: ESports 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/14357.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5cfaf6528fef14945280363aaf81efcf.png" group-title="Germany ➾ Sports",DE: Eurosport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/412.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="Germany ➾ Sports",DE: Eurosport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/2082.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/290686.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/290687.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/281748.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/290688.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/290689.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/290690.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/281749.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/290691.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 9
+http://gamsgo.cyou:8080/live/17032/cebaebad/290692.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 10
+http://gamsgo.cyou:8080/live/17032/cebaebad/295566.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 11
+http://gamsgo.cyou:8080/live/17032/cebaebad/295567.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 12" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 12
+http://gamsgo.cyou:8080/live/17032/cebaebad/295568.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 13" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 13
+http://gamsgo.cyou:8080/live/17032/cebaebad/295569.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 14" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 14
+http://gamsgo.cyou:8080/live/17032/cebaebad/295570.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 15" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 15
+http://gamsgo.cyou:8080/live/17032/cebaebad/295571.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 16" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 16
+http://gamsgo.cyou:8080/live/17032/cebaebad/295572.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 17" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 17
+http://gamsgo.cyou:8080/live/17032/cebaebad/295573.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 18" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 18
+http://gamsgo.cyou:8080/live/17032/cebaebad/297337.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 19" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 19
+http://gamsgo.cyou:8080/live/17032/cebaebad/297338.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 20" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 20
+http://gamsgo.cyou:8080/live/17032/cebaebad/297325.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: More Than Sports TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/016045094be24bd6d2e3399ac00f5af7.png" group-title="Germany",DE: More Than Sports TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/282268.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/298029.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/298032.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/298033.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/298034.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/298035.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/298036.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 9" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 9
+http://gamsgo.cyou:8080/live/17032/cebaebad/298037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Servus MotorSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/b9e14c17fa60a7c361b1204b0f187e7a.png" group-title="Germany ➾ Sports",DE: Servus MotorSport
+http://gamsgo.cyou:8080/live/17032/cebaebad/298710.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f12f66e0590ba09cdb4312c7512849d0.png" group-title="Germany ➾ Sports",DE: Sky Sport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/202100.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/307d0602af9cdc138a2353d8d565641c.png" group-title="Germany ➾ Sports",DE: Sky Sport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/8215.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9a130d66800619cfa11f847581c4bffd.png" group-title="Germany ➾ Sports",DE: Sky Sport 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/72238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/53419dd61d60da397ce1e27e595f182f.png" group-title="Germany ➾ Sports",DE: Sky Sport 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/32708.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0dc1530132538daaba4c0b1eebb9496a.png" group-title="Germany ➾ Sports",DE: Sky Sport 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/13497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/892d5cf9e4c70d2b8f04b5f018e81087.png" group-title="Germany ➾ Sports",DE: Sky Sport 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/31445.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e73c2b075a96c9d4defa94146c2b0af.png" group-title="Germany ➾ Sports",DE: Sky Sport 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/2133.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cee921aeeee33ebdf358a846f72e1ccd.png" group-title="Germany ➾ Sports",DE: Sky Sport 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/4489.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d450d5930c05ad70194a972760ece466.png" group-title="Germany ➾ Sports",DE: Sky Sport 9
+http://gamsgo.cyou:8080/live/17032/cebaebad/147341.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4aac20e5ec5f70c87c5c5b73eac32af0.png" group-title="Germany ➾ Sports",DE: Sky Sport 10
+http://gamsgo.cyou:8080/live/17032/cebaebad/147342.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga
+http://gamsgo.cyou:8080/live/17032/cebaebad/2431.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e60a04aa4ee71c8b070173d5810b491d.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/298592.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/fb2eaf329b2b21db2465a65b6561f37a.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/4493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a7de132a1213bb481524dd15b684e0b3.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/2135.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c685e1115586d117d8bd52211fb175ec.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/3513.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ae1ff23f60068f326deb088d3751a607.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/2136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b600abfaf8bbe572f199a04457b67a0a.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/12638.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/acbb2d746d6270db2b1f28711ecc3cb6.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/2433.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7e32f4dbf139eeda0ca4bef4c31a303c.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/2434.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/210f77aa7e453d5335c8a4c6b341e4c9.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 9
+http://gamsgo.cyou:8080/live/17032/cebaebad/10051.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/db1d07a63257ba1ba7ff36c393016fd8.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 10
+http://gamsgo.cyou:8080/live/17032/cebaebad/2432.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png" group-title="Germany ➾ Motor Sports",DE: Sky Sport F1
+http://gamsgo.cyou:8080/live/17032/cebaebad/174563.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4563870d73aeb6a4e7dc80094393537e.png" group-title="Germany ➾ Sports",DE: Sky Sport Golf
+http://gamsgo.cyou:8080/live/17032/cebaebad/298379.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Mix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/0e674889b5fc48b293e9c0a3491c3b73.svg" group-title="Germany ➾ Sports",DE: Sky Sport Mix
+http://gamsgo.cyou:8080/live/17032/cebaebad/298380.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/273bc324c4c9c7d675c01d6b55aa82d6.png" group-title="Germany ➾ News",DE: Sky Sport News
+http://gamsgo.cyou:8080/live/17032/cebaebad/1658.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Premiere League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg" group-title="Germany ➾ Football",DE: Sky Sport Premiere League
+http://gamsgo.cyou:8080/live/17032/cebaebad/298381.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/4dfe7d4fa4bd2e6449d6026f1ce2cce8.png" group-title="Germany ➾ Sports",DE: Sky Sport Tennis
+http://gamsgo.cyou:8080/live/17032/cebaebad/297552.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Top Event" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/0a8470c6518d1db43bd79721963fdc6f.png" group-title="Germany ➾ Sports",DE: Sky Sport Top Event
+http://gamsgo.cyou:8080/live/17032/cebaebad/297551.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/684c9691eda27cf039529faea97ccfc7.png" group-title="Germany ➾ Sports",DE: Sport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/290571.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sport 1+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e596e3f7884740a7da86354ba7c965b9.png" group-title="Germany ➾ Sports",DE: Sport 1+
+http://gamsgo.cyou:8080/live/17032/cebaebad/2100.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sportdigital Fussball" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3902b1a334082146f28bbd26c2272a85.png" group-title="Germany ➾ Football",DE: Sportdigital Fussball
+http://gamsgo.cyou:8080/live/17032/cebaebad/3509.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: ACI Sport TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="Italy ➾ Sports",IT: ACI Sport TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/298813.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="Italy ➾ Sports",IT: DAZN 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/79220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="Italy ➾ Sports",IT: DAZN 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/39497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="Italy ➾ Sports",IT: Eurosport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/995.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 1 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy",IT: EuroSport 1 TimVision
+http://gamsgo.cyou:8080/live/17032/cebaebad/304887.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="Italy ➾ Sports",IT: Eurosport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/1040.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 3 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports",IT: EuroSport 3 TimVision
+http://gamsgo.cyou:8080/live/17032/cebaebad/304888.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 4 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports",IT: EuroSport 4 TimVision
+http://gamsgo.cyou:8080/live/17032/cebaebad/304889.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 5 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports",IT: EuroSport 5 TimVision
+http://gamsgo.cyou:8080/live/17032/cebaebad/304890.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 6 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports",IT: EuroSport 6 TimVision
+http://gamsgo.cyou:8080/live/17032/cebaebad/304891.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Rai Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" group-title="Italy ➾ Sports",IT: Rai Sport
+http://gamsgo.cyou:8080/live/17032/cebaebad/1042.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RTV Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/21392a7fea3217a159aff86d98651770.png" group-title="Italy ➾ Sports",IT: RTV Sport
+http://gamsgo.cyou:8080/live/17032/cebaebad/174221.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy",IT: Sky Sport
+http://gamsgo.cyou:8080/live/17032/cebaebad/9542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="Italy ➾ Sports",IT: Sky Sport 24
+http://gamsgo.cyou:8080/live/17032/cebaebad/2535.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ead553af854c718ab5dd049c915379b1.png" group-title="Italy ➾ Music",IT: Sky Sport Arena
+http://gamsgo.cyou:8080/live/17032/cebaebad/2541.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Calcio" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="Italy ➾ Sports",IT: Sky Sport Calcio
+http://gamsgo.cyou:8080/live/17032/cebaebad/84505.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="Italy ➾ Sports",IT: Sky Sport F1
+http://gamsgo.cyou:8080/live/17032/cebaebad/2542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="Italy ➾ Sports",IT: Sky Sport Golf
+http://gamsgo.cyou:8080/live/17032/cebaebad/147371.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/88d17c77b3415cf758005d5c5aa20fa5.png" group-title="Italy ➾ Sports",IT: Sky Sport Max
+http://gamsgo.cyou:8080/live/17032/cebaebad/304195.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Moto GP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="Italy ➾ Sports",IT: Sky Sport Moto GP
+http://gamsgo.cyou:8080/live/17032/cebaebad/9880.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="Italy ➾ Sports",IT: Sky Sport NBA
+http://gamsgo.cyou:8080/live/17032/cebaebad/1047.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Serie A" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf338efcc816a54a527c44294c1b44c1.png" group-title="Italy ➾ Sports",IT: Sky Sport Serie A
+http://gamsgo.cyou:8080/live/17032/cebaebad/2546.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a927d7f92a83a11a455602f67606407b.png" group-title="Italy ➾ Sports",IT: Sky Sport Tennis
+http://gamsgo.cyou:8080/live/17032/cebaebad/304258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Uno" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b74c3e05bb91e8b110f53c1916902b0e.png" group-title="Italy ➾ Sports",IT: Sky Sport Uno
+http://gamsgo.cyou:8080/live/17032/cebaebad/278706.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sportitalia Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/36efad06b3949a5a8ec2debd35c9293c.png" group-title="Italy ➾ Sports",IT: Sportitalia Plus
+http://gamsgo.cyou:8080/live/17032/cebaebad/1008.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sportitalia SoloCalcio" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f3f5615d6ff3e1e22c6b0bb292833ddd.svg" group-title="Italy ➾ Sports",IT: Sportitalia SoloCalcio
+http://gamsgo.cyou:8080/live/17032/cebaebad/299524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: TRSport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy",IT: TRSport
+http://gamsgo.cyou:8080/live/17032/cebaebad/304000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Zona Dazn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="Italy ➾ Sports",IT: Zona Dazn
+http://gamsgo.cyou:8080/live/17032/cebaebad/304198.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/1499.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/1503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/1506.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/1509.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/1512.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/1515.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal ➾ Sports",PT: Eurosport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/1517.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal ➾ Sports",PT: Eurosport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/1518.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/304868.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/304869.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/304870.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/304871.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/304872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/304873.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 9
+http://gamsgo.cyou:8080/live/17032/cebaebad/304874.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal ➾ Sports",PT: SPORT TV +
+http://gamsgo.cyou:8080/live/17032/cebaebad/1481.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal ➾ Sports",PT: SPORT TV 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/1483.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal ➾ Sports",PT: SPORT TV 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/1486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal ➾ Sports",PT: SPORT TV 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/1489.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal ➾ Sports",PT: SPORT TV 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/1492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal ➾ Sports",PT: SPORT TV 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/1495.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal ➾ Sports",PT: SPORT TV 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/281487.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="Portugal ➾ Sports",PT: SPORT TV NBA
+http://gamsgo.cyou:8080/live/17032/cebaebad/2051.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal ➾ Sports",PT: Sporting TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1519.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: W-Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/2dddb7bb0a996822ef9e914e36d97dbe.svg" group-title="Portugal ➾ Sports",PT: W-Sport
+http://gamsgo.cyou:8080/live/17032/cebaebad/303824.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN Sports n" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png" group-title="Spain ➾ Football",ES: beIN Sports n
+http://gamsgo.cyou:8080/live/17032/cebaebad/281493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN Sports Xtra ñ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/2d8762c6a218c51208e89ee224a23cd5.png" group-title="Spain ➾ Sports",ES: beIN Sports Xtra ñ
+http://gamsgo.cyou:8080/live/17032/cebaebad/304681.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain ➾ Football",ES: DAZN 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/64711.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/64712.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="Spain ➾ Football",ES: DAZN 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/269912.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/269911.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png" group-title="Spain ➾ Sports",ES: DAZN F1
+http://gamsgo.cyou:8080/live/17032/cebaebad/1672.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN LaLiga
+http://gamsgo.cyou:8080/live/17032/cebaebad/297787.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN LaLiga 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/298745.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png" group-title="Spain ➾ Sports",ES: ESPN 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/281480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ESPN Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e79116fd84fbb5bb76c050ae09684729.png" group-title="Spain ➾ Sports",ES: ESPN Deportes
+http://gamsgo.cyou:8080/live/17032/cebaebad/281417.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Esport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f776a81abf0db9643bdbc1d785285578.jpg" group-title="Spain ➾ Sports",ES: Esport 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/7445.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Spain ➾ Sports",ES: Eurosport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/1160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png" group-title="Spain ➾ Sports",ES: Eurosport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/1159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Eurosport 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/1157.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Eurosport 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/304867.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Eurosport 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/304875.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99879c9e81db62ac9c15709cb2ce0bd4.png" group-title="Spain ➾ Sports",ES: FOX SPORTS 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/89723.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a91f57154339bcdd6ae38a27f1e20a48.png" group-title="Spain ➾ Sports",ES: FOX SPORTS 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/89722.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Blue Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e3a6ebd017afb3fc7373b14067d6c51.png" group-title="Switzerland ➾ Sports",CH: Blue Sport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/2815.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Blue Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="Switzerland ➾ Sports",CH: Blue Sport 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/6187.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/528ebfe5d69b38dae835afd3628a4956.png" group-title="Switzerland ➾ Sports",CH: Eurosport 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/151719.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/9da1168f90f62c51581db76c46519503.png" group-title="Switzerland ➾ Sports",CH: MySports 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/280169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/67d636b0a5f449fd413c51ba188b3fb3.png" group-title="Switzerland ➾ Sports",CH: MySports 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/35843.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3e40e700bbc67d8977b90681588e669a.png" group-title="Switzerland ➾ Sports",CH: MySports 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/70853.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/154688010fd429c30997af27ef4a7e92.png" group-title="Switzerland ➾ Sports",CH: MySports 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/23838.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2afd899876b86dfd5216bc85ab0e2a6.png" group-title="Switzerland ➾ Sports",CH: MySports 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/90859.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/060db78d6cef8728f844991cf695c6cb.png" group-title="Switzerland ➾ Sports",CH: MySports 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/148193.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7e4698387844e469175e8214d75dd5a9.png" group-title="Switzerland ➾ Sports",CH: MySports 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/148191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/236003a9f4f2078c02e5578884caaaef.png" group-title="Switzerland ➾ Sports",CH: MySports 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/148198.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/57635904fa763c7237e69c8f8490e286.png" group-title="Switzerland ➾ Sports",CH: MySports 9
+http://gamsgo.cyou:8080/live/17032/cebaebad/152345.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: V Sport Live 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/5e23feca6c940eaf37b220fa1b72c6ad.svg" group-title="Switzerland ➾ Sports",CH: V Sport Live 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/297923.m3u8
