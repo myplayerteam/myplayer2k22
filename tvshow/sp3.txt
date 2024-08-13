@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="AT: ORF Sport+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/8abdd4d3253d178909b231d0c9913dbe.png" group-title="Austria",AT: ORF Sport+
-http://gamsgo.cyou:8080/live/17032/cebaebad/2098.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" group-title="Austria",AT: Sky Sport Austria 1
-http://gamsgo.cyou:8080/live/17032/cebaebad/2130.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9fdbe61de418c860d0f51acab33cd3d5.png" group-title="Austria",AT: Sky Sport Austria 2
-http://gamsgo.cyou:8080/live/17032/cebaebad/192010.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bf0ec45566171fc1fe07e3bb7fda848f.png" group-title="Austria",AT: Sky Sport Austria 3
-http://gamsgo.cyou:8080/live/17032/cebaebad/192374.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/1411fab83c8bffe7da7727a3d589afa8.png" group-title="Austria",AT: Sky Sport Austria 4
-http://gamsgo.cyou:8080/live/17032/cebaebad/295541.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AT: Sky Sport Austria 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/65617951bce92e5e47beed8db2dad8a7.png" group-title="Austria",AT: Sky Sport Austria 5
-http://gamsgo.cyou:8080/live/17032/cebaebad/295542.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 1 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/7f5b3c7d416347c99faa81978be4f6c0.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 1 [vip]
 http://gamsgo.cyou:8080/live/17032/cebaebad/303886.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Bundesliga 2 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/ecf5080c09dbd61bc9b0c096607f07db.png" group-title="Germany ➾ Football",DE: Sky Sport Bundesliga 2 [vip]
@@ -33,12 +21,10 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/303894.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/303895.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Amazon Prime Sport [nur Live Stteaming]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany ➾ Sports",DE: Amazon Prime Sport [nur Live Stteaming]
 http://gamsgo.cyou:8080/live/17032/cebaebad/301247.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Amazon Prime Video 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Amazon Prime Video 1
-http://gamsgo.cyou:8080/live/17032/cebaebad/300237.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Amazon Prime Video 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: Amazon Prime Video 2
-http://gamsgo.cyou:8080/live/17032/cebaebad/300238.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Auto Motor Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/26c21b6834a1d642acc99d1a3c689bcc.png" group-title="Germany ➾ Sports",DE: Auto Motor Sport
 http://gamsgo.cyou:8080/live/17032/cebaebad/2385.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Bayerisches Fernsehen Nord" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf1edfe7641ddf3cfd6682d35d296afb.png" group-title="Germany ➾ Football",DE: Bayerisches Fernsehen Nord
+http://gamsgo.cyou:8080/live/17032/cebaebad/18454.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="Germany ➾ Sports",DE: DAZN 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/48355.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="Germany ➾ Sports",DE: DAZN 2
@@ -93,24 +79,14 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/297337.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/297338.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Magenta Sport 20" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="Germany ➾ Sports",DE: Magenta Sport 20
 http://gamsgo.cyou:8080/live/17032/cebaebad/297325.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: More Than Sports TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/016045094be24bd6d2e3399ac00f5af7.png" group-title="Germany",DE: More Than Sports TV
-http://gamsgo.cyou:8080/live/17032/cebaebad/282268.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 1
-http://gamsgo.cyou:8080/live/17032/cebaebad/298029.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 4
-http://gamsgo.cyou:8080/live/17032/cebaebad/298032.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 5
-http://gamsgo.cyou:8080/live/17032/cebaebad/298033.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 6
-http://gamsgo.cyou:8080/live/17032/cebaebad/298034.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 7
-http://gamsgo.cyou:8080/live/17032/cebaebad/298035.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 8
-http://gamsgo.cyou:8080/live/17032/cebaebad/298036.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL+ Sport Event 9" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Germany",DE: RTL+ Sport Event 9
-http://gamsgo.cyou:8080/live/17032/cebaebad/298037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Motorvision TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3f98e508f67551522d9913026f160399.png" group-title="Germany ➾ Motor Sports",DE: Motorvision TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/4480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ORF1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/d1d9377e7f9604d15092ccce0ccccc3a.png" group-title="Germany ➾ Sports",DE: ORF1
+http://gamsgo.cyou:8080/live/17032/cebaebad/299704.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Servus MotorSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/b9e14c17fa60a7c361b1204b0f187e7a.png" group-title="Germany ➾ Sports",DE: Servus MotorSport
 http://gamsgo.cyou:8080/live/17032/cebaebad/298710.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Servus TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8f8047b5124841d96727070e48b31f75.png" group-title="Germany ➾ Motor Sports",DE: Servus TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/2073.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f12f66e0590ba09cdb4312c7512849d0.png" group-title="Germany ➾ Sports",DE: Sky Sport 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/202100.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/307d0602af9cdc138a2353d8d565641c.png" group-title="Germany ➾ Sports",DE: Sky Sport 2
@@ -159,8 +135,6 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/174563.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/298379.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Mix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/0e674889b5fc48b293e9c0a3491c3b73.svg" group-title="Germany ➾ Sports",DE: Sky Sport Mix
 http://gamsgo.cyou:8080/live/17032/cebaebad/298380.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/273bc324c4c9c7d675c01d6b55aa82d6.png" group-title="Germany ➾ News",DE: Sky Sport News
-http://gamsgo.cyou:8080/live/17032/cebaebad/1658.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Premiere League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg" group-title="Germany ➾ Football",DE: Sky Sport Premiere League
 http://gamsgo.cyou:8080/live/17032/cebaebad/298381.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/4dfe7d4fa4bd2e6449d6026f1ce2cce8.png" group-title="Germany ➾ Sports",DE: Sky Sport Tennis
@@ -175,14 +149,14 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/2100.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/3509.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: ACI Sport TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="Italy ➾ Sports",IT: ACI Sport TV
 http://gamsgo.cyou:8080/live/17032/cebaebad/298813.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Bike" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/694e22fd374b5c45094824abf80013ef.png" group-title="Italy ➾ Sports",IT: Bike
+http://gamsgo.cyou:8080/live/17032/cebaebad/22709.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="Italy ➾ Sports",IT: DAZN 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/79220.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="Italy ➾ Sports",IT: DAZN 2
 http://gamsgo.cyou:8080/live/17032/cebaebad/39497.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="Italy ➾ Sports",IT: Eurosport 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/995.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 1 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy",IT: EuroSport 1 TimVision
-http://gamsgo.cyou:8080/live/17032/cebaebad/304887.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="Italy ➾ Sports",IT: Eurosport 2
 http://gamsgo.cyou:8080/live/17032/cebaebad/1040.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 3 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports",IT: EuroSport 3 TimVision
@@ -193,16 +167,16 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/304889.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/304890.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: EuroSport 6 TimVision" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy ➾ Sports",IT: EuroSport 6 TimVision
 http://gamsgo.cyou:8080/live/17032/cebaebad/304891.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Inter TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1a6dc82ecd83521d041ad308113de84b.png" group-title="Italy ➾ Sports",IT: Inter TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1041.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Milan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/749b778553c8182b181816a5576a80b0.png" group-title="Italy ➾ Sports",IT: Milan TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/304043.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Rai Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" group-title="Italy ➾ Sports",IT: Rai Sport
 http://gamsgo.cyou:8080/live/17032/cebaebad/1042.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: RTV Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/21392a7fea3217a159aff86d98651770.png" group-title="Italy ➾ Sports",IT: RTV Sport
 http://gamsgo.cyou:8080/live/17032/cebaebad/174221.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy",IT: Sky Sport
-http://gamsgo.cyou:8080/live/17032/cebaebad/9542.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="Italy ➾ Sports",IT: Sky Sport 24
 http://gamsgo.cyou:8080/live/17032/cebaebad/2535.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ead553af854c718ab5dd049c915379b1.png" group-title="Italy ➾ Music",IT: Sky Sport Arena
-http://gamsgo.cyou:8080/live/17032/cebaebad/2541.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport Calcio" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="Italy ➾ Sports",IT: Sky Sport Calcio
 http://gamsgo.cyou:8080/live/17032/cebaebad/84505.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="Italy ➾ Sports",IT: Sky Sport F1
@@ -225,10 +199,18 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/278706.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/1008.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Sportitalia SoloCalcio" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f3f5615d6ff3e1e22c6b0bb292833ddd.svg" group-title="Italy ➾ Sports",IT: Sportitalia SoloCalcio
 http://gamsgo.cyou:8080/live/17032/cebaebad/299524.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IT: TRSport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italy",IT: TRSport
-http://gamsgo.cyou:8080/live/17032/cebaebad/304000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Super Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="Italy ➾ Sports",IT: Super Tennis
+http://gamsgo.cyou:8080/live/17032/cebaebad/285535.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Tennis Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c28c7e4580a3271cced9e317d3fa4733.png" group-title="Italy ➾ Sports",IT: Tennis Channel
+http://gamsgo.cyou:8080/live/17032/cebaebad/1052.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: TGCom 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/256493b71391b5d91a9d6cee70f99b64.png" group-title="Italy ➾ Sports",IT: TGCom 24
+http://gamsgo.cyou:8080/live/17032/cebaebad/1007.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IT: Zona Dazn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="Italy ➾ Sports",IT: Zona Dazn
 http://gamsgo.cyou:8080/live/17032/cebaebad/304198.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Benfica TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal ➾ Football",PT: Benfica TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Canal 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal ➾ Sports",PT: Canal 11
+http://gamsgo.cyou:8080/live/17032/cebaebad/1480.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/1499.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 2
@@ -259,6 +241,10 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/304872.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/304873.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal ➾ Sports",PT: Eurosport 9
 http://gamsgo.cyou:8080/live/17032/cebaebad/304874.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Fuel TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="Portugal ➾ Sports",PT: Fuel TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1521.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Motorvision TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="Portugal ➾ Motor Sports",PT: Motorvision TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/4012.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal ➾ Sports",PT: SPORT TV +
 http://gamsgo.cyou:8080/live/17032/cebaebad/1481.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal ➾ Sports",PT: SPORT TV 1
@@ -279,10 +265,18 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/2051.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/1519.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: W-Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/2dddb7bb0a996822ef9e914e36d97dbe.svg" group-title="Portugal ➾ Sports",PT: W-Sport
 http://gamsgo.cyou:8080/live/17032/cebaebad/303824.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Barca TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/4a76c3c227ae1e7510710ca0ec92aa28.png" group-title="Spain ➾ Football",ES: Barca TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1170.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: beIN Sports n" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png" group-title="Spain ➾ Football",ES: beIN Sports n
 http://gamsgo.cyou:8080/live/17032/cebaebad/281493.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: beIN Sports Xtra ñ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/2d8762c6a218c51208e89ee224a23cd5.png" group-title="Spain ➾ Sports",ES: beIN Sports Xtra ñ
 http://gamsgo.cyou:8080/live/17032/cebaebad/304681.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Bon Dia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/2a14111c81a43932b7fe7395d9ab7f0c.png" group-title="Spain ➾ Sports",ES: Bon Dia TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/165148.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Sur Andalucia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5fe5bee1e29982d08b1a30f9f35938bb.png" group-title="Spain ➾ Sports",ES: Canal Sur Andalucia
+http://gamsgo.cyou:8080/live/17032/cebaebad/2191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: D Kiss" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38f1f41731d2311fa61c09c5bc0f4f7d.png" group-title="Spain ➾ Sports",ES: D Kiss
+http://gamsgo.cyou:8080/live/17032/cebaebad/9356.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain ➾ Football",ES: DAZN 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/64711.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2
@@ -303,24 +297,82 @@ http://gamsgo.cyou:8080/live/17032/cebaebad/281480.m3u8
 http://gamsgo.cyou:8080/live/17032/cebaebad/281417.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Esport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f776a81abf0db9643bdbc1d785285578.jpg" group-title="Spain ➾ Sports",ES: Esport 3
 http://gamsgo.cyou:8080/live/17032/cebaebad/7445.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ETB 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/09521cc6c09dbd9d7613d5490d43b164.png" group-title="Spain ➾ Sports",ES: ETB 1
+http://gamsgo.cyou:8080/live/17032/cebaebad/165969.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: ETB 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0c148cdb4e0470d55c8ed9a162e21fd4.png" group-title="Spain ➾ Sports",ES: ETB 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/165970.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Spain ➾ Sports",ES: Eurosport 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/1160.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png" group-title="Spain ➾ Sports",ES: Eurosport 2
 http://gamsgo.cyou:8080/live/17032/cebaebad/1159.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Eurosport 3
-http://gamsgo.cyou:8080/live/17032/cebaebad/1157.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Eurosport 4
-http://gamsgo.cyou:8080/live/17032/cebaebad/304867.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Eurosport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Eurosport 5
-http://gamsgo.cyou:8080/live/17032/cebaebad/304875.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99879c9e81db62ac9c15709cb2ce0bd4.png" group-title="Spain ➾ Sports",ES: FOX SPORTS 2
 http://gamsgo.cyou:8080/live/17032/cebaebad/89723.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a91f57154339bcdd6ae38a27f1e20a48.png" group-title="Spain ➾ Sports",ES: FOX SPORTS 3
 http://gamsgo.cyou:8080/live/17032/cebaebad/89722.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Gol TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/240583152302314c8009856d2a09d5a4.png" group-title="Spain ➾ Sports",ES: Gol TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: LaLiga TV Bar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="Spain ➾ Football",ES: LaLiga TV Bar
+http://gamsgo.cyou:8080/live/17032/cebaebad/197711.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: LaLiga TV Hypermotion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion
+http://gamsgo.cyou:8080/live/17032/cebaebad/300830.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: LaLiga TV Hypermotion 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/300831.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: LaLiga TV Hypermotion 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/74600f9d2e3f5255b425f5b19f1bac1a.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/300832.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M+ Ellas Vamos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/a1553b016036a31395e52950e49ecc98.png" group-title="Spain ➾ Sports",ES: M+ Ellas Vamos
+http://gamsgo.cyou:8080/live/17032/cebaebad/297242.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M+ LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Spain ➾ Football",ES: M+ LaLiga
+http://gamsgo.cyou:8080/live/17032/cebaebad/302296.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOTO ADV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/d71dc0f171cb56cbd1c66e5773cc808d.jpg" group-title="Spain ➾ Sports",ES: MOTO ADV
+http://gamsgo.cyou:8080/live/17032/cebaebad/302291.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title="Spain ➾ Sports",ES: Movistar Deportes
+http://gamsgo.cyou:8080/live/17032/cebaebad/227121.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/9f8190c4b60edf69835d868edcf79467.png" group-title="Spain ➾ Sports",ES: Movistar Deportes 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/285690.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png" group-title="Spain ➾ Sports",ES: Movistar Deportes 6
+http://gamsgo.cyou:8080/live/17032/cebaebad/198066.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png" group-title="Spain ➾ Sports",ES: Movistar Golf
+http://gamsgo.cyou:8080/live/17032/cebaebad/1142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: Movistar LaLiga
+http://gamsgo.cyou:8080/live/17032/cebaebad/1141.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/5311.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar LaLiga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/281772.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar LaLiga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 4
+http://gamsgo.cyou:8080/live/17032/cebaebad/269466.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar LaLiga 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar LaLiga 7
+http://gamsgo.cyou:8080/live/17032/cebaebad/194527.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Liga De Campeones" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones
+http://gamsgo.cyou:8080/live/17032/cebaebad/2800.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Liga De Campeones 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/058dabf82e072bd3c9b5a2d603e2663e.png" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 2
+http://gamsgo.cyou:8080/live/17032/cebaebad/81096.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Liga De Campeones 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/944d8f3affc4901d79cc5addcfbc5b86.png" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 3
+http://gamsgo.cyou:8080/live/17032/cebaebad/298805.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Liga De Campeones 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/fb5581c15168c69f0660a6be9b302ea9.png" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 5
+http://gamsgo.cyou:8080/live/17032/cebaebad/298807.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Liga De Campeones 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/315d617ba9268669a8578865fde1cc9a.png" group-title="Spain ➾ Football",ES: Movistar Liga De Campeones 8
+http://gamsgo.cyou:8080/live/17032/cebaebad/301581.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png" group-title="Spain ➾ Football",ES: Multideporte
+http://gamsgo.cyou:8080/live/17032/cebaebad/8110.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Olympic Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5ae6212575293e1f29b9c5301bb6204c.png" group-title="Spain ➾ Sports",ES: Olympic Channel
+http://gamsgo.cyou:8080/live/17032/cebaebad/11138.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Onetoro" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ Sports",ES: Onetoro
+http://gamsgo.cyou:8080/live/17032/cebaebad/303884.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Real Madrid TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/cfb4cf2213b836f2ca4595db71e35496.png" group-title="Spain ➾ Football",ES: Real Madrid TV
+http://gamsgo.cyou:8080/live/17032/cebaebad/1136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Real Madrid TV 480" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/73579e6630ae02dc4c7316ee65e09a50.png" group-title="Spain ➾ Football",ES: Real Madrid TV 480
+http://gamsgo.cyou:8080/live/17032/cebaebad/302299.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Toros" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f759ede38ff362a172ae68212c1cfbee.png" group-title="Spain ➾ Sports",ES: Toros
+http://gamsgo.cyou:8080/live/17032/cebaebad/1132.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CH: Blue Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e3a6ebd017afb3fc7373b14067d6c51.png" group-title="Switzerland ➾ Sports",CH: Blue Sport 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/2815.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CH: Blue Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="Switzerland ➾ Sports",CH: Blue Sport 2
 http://gamsgo.cyou:8080/live/17032/cebaebad/6187.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Blue Zoom D" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/450e5190888f692e5fb4a7ee86400be8.png" group-title="Switzerland ➾ Sports",CH: Blue Zoom D
+http://gamsgo.cyou:8080/live/17032/cebaebad/52435.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Blue Zoom F" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/9697b27299a92bdd3828d7766affa8c2.jpeg" group-title="Switzerland ➾ Sports",CH: Blue Zoom F
+http://gamsgo.cyou:8080/live/17032/cebaebad/33171.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CH: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/528ebfe5d69b38dae835afd3628a4956.png" group-title="Switzerland ➾ Sports",CH: Eurosport 1
 http://gamsgo.cyou:8080/live/17032/cebaebad/151719.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CH: MySports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/9da1168f90f62c51581db76c46519503.png" group-title="Switzerland ➾ Sports",CH: MySports 1
