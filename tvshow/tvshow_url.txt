@@ -3,16 +3,12 @@
 (myplayer)MM Subtitle,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Sport Channels2,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)All MOVIES,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
-
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
-
 (myplayer)Sport Server1,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sp1.txt
 (myplayer)Sport Server2,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sp2.txt
 (myplayer)Sport Server3,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sp3.txt
 (myplayer)Sport Server4,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sp4.txt
 (myplayer)Sport Server5,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
-
 (myplayer)TV Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/alltv.txt
 (myplayer)All TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/allfree.txt
-
