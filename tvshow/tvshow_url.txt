@@ -2,7 +2,7 @@
 (myplayer)Ba Zaw MyanmarTV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)MM Subtitle,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Sport Channels2,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
-(myplayer)All MOVIES,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
+(myplayer)All MOVIES,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/all_mov.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
 (myplayer)Sport Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/blank.txt
 (myplayer)Sport Server1,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sp1.txt
