@@ -202,3 +202,105 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sony Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SONY SPORT",Sony Sports 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AMAZON ESPORTES 1" tvg-logo="" group-title="Sport",AMAZON ESPORTES 1
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1067
+#EXTINF:-1 tvg-ID="" tvg-name="AMAZON ESPORTES 2" tvg-logo="" group-title="Sport",AMAZON ESPORTES 2
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1010
+#EXTINF:-1 tvg-ID="" tvg-name="AMAZON ESPORTES 3" tvg-logo="" group-title="Sport",AMAZON ESPORTES 3
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1158
+#EXTINF:-1 tvg-ID="" tvg-name="AMAZON ESPORTES 4" tvg-logo="" group-title="Sport",AMAZON ESPORTES 4
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1159
+#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS 4K" tvg-logo="" group-title="Sport",BAND SPORTS 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/120
+#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="Sport",BAND SPORTS HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/121
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="Bein sport",BEIN SPORTS 1
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/901
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="Bein sport",BEIN SPORTS 2
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/902
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="Bein sport",BEIN SPORTS 3
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/903
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="Bein sport",BEIN SPORTS 4
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/904
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="Bein sport",BEIN SPORTS 5
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/905
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="Bein sport",BEIN SPORTS 6
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/906
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="Bein sport",BEIN SPORTS 7
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/907
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1" tvg-logo="" group-title="Dazn",DAZN 1
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/206
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Dazn",DAZN 1 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/821
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 2" tvg-logo="" group-title="Dazn",DAZN 2
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/205
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Dazn",DAZN 2 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/822
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="Dazn",DAZN 3 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/823
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="Dazn",DAZN 4 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/824
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN  4K" tvg-logo="" group-title="Espn",ESPN  4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/130
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN  HD" tvg-logo="" group-title="Espn",ESPN  HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/131
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 4K" tvg-logo="" group-title="Espn",ESPN 2 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/129
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Espn",ESPN 2 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/135
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 4K" tvg-logo="" group-title="Espn",ESPN 3 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/127
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="Espn",ESPN 3 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/126
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 4K" tvg-logo="" group-title="Espn",ESPN 4 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/142
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="Espn",ESPN 4 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/143
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 HDR" tvg-logo="" group-title="Espn",ESPN 4 HDR
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/899
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 6 4K" tvg-logo="" group-title="Espn",ESPN 6 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/133
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 6 HD" tvg-logo="" group-title="Espn",ESPN 6 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/134
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 5 4K" tvg-logo="" group-title="Espn",ESPN 5 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/139
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 5 HD" tvg-logo="" group-title="Espn",ESPN 5 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/140
+#EXTINF:-1 tvg-ID="" tvg-name="NSPORTS 1 HD" tvg-logo="" group-title="Sport",NSPORTS 1 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1068
+#EXTINF:-1 tvg-ID="" tvg-name="NSPORTS 2 HD" tvg-logo="" group-title="Sport",NSPORTS 2 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1069
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 1 4K" tvg-logo="" group-title="Sport",SPORTV 1 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/183
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 1 HDR" tvg-logo="" group-title="Sport",SPORTV 1 HDR
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/178
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 4K" tvg-logo="" group-title="Sport",SPORTV 2 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/172
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 4K" tvg-logo="" group-title="Sport",SPORTV 3 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/175
+#EXTINF:-1 tvg-ID="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="Ufc",UFC FIGHT PASS
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1121
+#EXTINF:-1 tvg-ID="" tvg-name="UFC PPV" tvg-logo="" group-title="Ufc",UFC PPV
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1122
+#EXTINF:-1 tvg-ID="" tvg-name="STREET FIGHTER" tvg-logo="" group-title="Fight",STREET FIGHTER
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/727
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 1 HDR+" tvg-logo="" group-title="Sport",SPORTV 1 HDR+
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/993
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 HDR+" tvg-logo="" group-title="Espn",ESPN 3 HDR+
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/995
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 6 HDR+" tvg-logo="" group-title="Espn",ESPN 6 HDR+
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1005
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 4 HDR+" tvg-logo="" group-title="Espn",ESPN 4 HDR+
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1007
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 5 HDR+" tvg-logo="" group-title="Espn",ESPN 5 HDR+
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1008
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HDR+" tvg-logo="" group-title="Sport",SPORTV 2 HDR+
+http://main.xplus2-main.xyz:2082/Tourobox1-fBajz9U9I5/DOD9l2ZzdQ/1016
+
