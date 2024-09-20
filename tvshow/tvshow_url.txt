@@ -1,5 +1,6 @@
 (myplayer)All MOVIES,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/all_mov.txt
 (myplayer)MaxCon1000,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/con1000.txt
 (myplayer)Sport Server1,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sport.txt
+(myplayer)Sport Server2,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/sp2.txt
 (myplayer)TV Channels,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/alltv.txt
 (myplayer)All TV,https://raw.githubusercontent.com/myplayerteam/myplayer2k22/main/tvshow/allfree.txt
