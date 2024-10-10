@@ -3,3 +3,4 @@
 (myplayer)MaxCon1000,https://ftp.myplayer.info/tvshow/con300.txt
 (myplayer)Sport Server1,https://ftp.myplayer.info/tvshow/sp1.txt
 (myplayer)Sport Server2,https://ftp.myplayer.info/tvshow/sp2.txt
+(myplayer)Sport Server3,https://ftp.myplayer.info/tvshow/con3sp.txt
